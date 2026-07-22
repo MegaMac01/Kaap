@@ -56,7 +56,7 @@ export function OnboardingForm() {
     setSending(false);
   };
 
-  const oauthSignIn = async (provider: "google" | "apple") => {
+  const oauthSignIn = async (provider: "google") => {
     persistProfile();
     setAuthStatus(await signInWithProvider(provider));
   };
@@ -186,22 +186,13 @@ export function OnboardingForm() {
             </button>
           </div>
 
-          <div className="flex gap-[10px]">
-            <button
-              type="button"
-              onClick={() => oauthSignIn("google")}
-              className="flex-1 cursor-pointer rounded-[12px] border border-forest/20 bg-card p-[11px] text-[13.5px] font-semibold"
-            >
-              Google
-            </button>
-            <button
-              type="button"
-              onClick={() => oauthSignIn("apple")}
-              className="flex-1 cursor-pointer rounded-[12px] border border-forest/20 bg-card p-[11px] text-[13.5px] font-semibold"
-            >
-              Apple
-            </button>
-          </div>
+          <button
+            type="button"
+            onClick={() => oauthSignIn("google")}
+            className="w-full cursor-pointer rounded-[12px] border border-forest/20 bg-card p-[11px] text-[13.5px] font-semibold"
+          >
+            Google
+          </button>
 
           {authStatus && (
             <p

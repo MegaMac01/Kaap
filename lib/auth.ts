@@ -47,7 +47,7 @@ export async function deleteAccount(): Promise<AuthResult> {
 }
 
 /** OAuth sign-in. Requires the provider to be enabled in Supabase Auth settings. */
-export async function signInWithProvider(provider: "google" | "apple"): Promise<AuthResult> {
+export async function signInWithProvider(provider: "google"): Promise<AuthResult> {
   const sb = getBrowserSupabase();
   if (!sb) return NOT_CONFIGURED;
   const { error } = await sb.auth.signInWithOAuth({
