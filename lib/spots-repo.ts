@@ -62,7 +62,7 @@ export async function getSpots(): Promise<Spot[]> {
     .select("*")
     .order("sort_order", { ascending: true });
   if (error || !data?.length) {
-    console.warn("[kaap] Supabase spots fetch failed or empty — using seed data.", error?.message);
+    console.warn("[kaap] Supabase spots fetch failed or empty, using seed data.", error?.message);
     return SPOTS;
   }
   return (data as SpotRow[]).map(rowToSpot);

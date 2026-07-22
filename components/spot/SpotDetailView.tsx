@@ -51,7 +51,7 @@ export function SpotDetailView({ spot, similar }: { spot: Spot; similar: Spot[] 
         <ArrowLeft size={15} /> Back
       </Link>
 
-      {/* Gallery — TODO: real photos (SPEC §7); grid stays, tiles become <Image> */}
+      {/* Gallery: TODO real photos (SPEC §7); grid stays, tiles become <Image> */}
       <div className="grid h-[clamp(220px,38vw,380px)] grid-cols-[2fr_1fr] gap-[10px]">
         <StripedThumb
           category={spot.category}
@@ -192,7 +192,7 @@ export function SpotDetailView({ spot, similar }: { spot: Spot; similar: Spot[] 
               <span className="text-[12px] text-muted2">{bandWord(spot.priceBand)}</span>
             </div>
             <div className="mb-4 text-[13.5px] text-ink-mid">
-              {spot.priceBand === 0 ? "Free — go anytime" : spot.priceEstimate}
+              {spot.priceBand === 0 ? "Free, go anytime" : spot.priceEstimate}
             </div>
 
             <a
@@ -225,7 +225,7 @@ export function SpotDetailView({ spot, similar }: { spot: Spot; similar: Spot[] 
             <div className="mt-4 flex flex-col gap-[9px] border-t border-forest/10 pt-[14px] text-[13px] text-ink-soft2">
               <div className="flex gap-[9px]">
                 <Clock size={15} className="flex-none text-muted2" aria-hidden />
-                <span>{now ? todayHoursLabel(spot.hours, now) : "—"}</span>
+                <span>{now ? todayHoursLabel(spot.hours, now) : "–"}</span>
               </div>
               {spot.address && (
                 <div className="flex gap-[9px]">

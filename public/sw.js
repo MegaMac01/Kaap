@@ -1,5 +1,5 @@
 /*
- * Kaap service worker — offline reads per SPEC §7: cache the app shell,
+ * Kaap service worker, offline reads per SPEC §7: cache the app shell,
  * static assets and the last-viewed pages.
  */
 const VERSION = "kaap-v1";

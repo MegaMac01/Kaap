@@ -3,8 +3,8 @@ import { DAY_KEYS } from "@/lib/types";
 
 /**
  * Opening-hours logic (SPEC §6.3).
- * "Open now" is always computed against the venue timezone — Africa/Johannesburg
- * (SAST, UTC+2) — never the device clock, so it's correct for users abroad.
+ * "Open now" is always computed against the venue timezone, Africa/Johannesburg
+ * (SAST, UTC+2), never the device clock, so it's correct for users abroad.
  */
 
 export const VENUE_TZ = "Africa/Johannesburg";

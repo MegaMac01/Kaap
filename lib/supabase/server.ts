@@ -21,7 +21,7 @@ export async function getServerSupabase(): Promise<SupabaseClient | null> {
             cookieStore.set(name, value, options)
           );
         } catch {
-          // Called from a Server Component — safe to ignore, the middleware
+          // Called from a Server Component, safe to ignore: the middleware
           // refreshes sessions.
         }
       },

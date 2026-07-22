@@ -35,7 +35,7 @@ export default function PrivacyPage() {
         Privacy &amp; your data
       </h1>
       <p className="mb-7 text-[14px] text-muted">
-        The short, honest version — written to comply with POPIA (South Africa&rsquo;s
+        The short, honest version, written to comply with POPIA (South Africa&rsquo;s
         Protection of Personal Information Act).
       </p>
       <div className="flex flex-col gap-6">

@@ -13,7 +13,7 @@ const MAILPIT = process.env.MAILPIT_URL ?? "http://127.0.0.1:54324";
 
 let failures = 0;
 function check(label: string, ok: boolean, detail = "") {
-  console.log(`${ok ? "PASS" : "FAIL"}  ${label}${detail ? ` — ${detail}` : ""}`);
+  console.log(`${ok ? "PASS" : "FAIL"}  ${label}${detail ? ` (${detail})` : ""}`);
   if (!ok) failures++;
 }
 
@@ -53,7 +53,7 @@ async function main() {
   await a.from("saves").insert({ user_id: uidA, spot_id: "truth" });
   const { error: upsertErr } = await a.from("saves").upsert(
     [
-      { user_id: uidA, spot_id: "truth" }, // duplicate — must be ignored
+      { user_id: uidA, spot_id: "truth" }, // duplicate, must be ignored
       { user_id: uidA, spot_id: "lionshead" },
     ],
     { onConflict: "user_id,spot_id", ignoreDuplicates: true }
@@ -73,7 +73,7 @@ async function main() {
   const { data: savesA2 } = await a.from("saves").select("spot_id");
   check("unsave deletes row", !delErr && savesA2?.length === 1);
 
-  // 4. RLS isolation — user B sees nothing of A's, can't write as A
+  // 4. RLS isolation: user B sees nothing of A's, can't write as A
   const b = createClient(URL_, ANON);
   const { data: signB } = await b.auth.signUp({
     email: `sipho.${stamp}@example.com`,

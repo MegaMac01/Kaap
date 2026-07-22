@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export const metadata = { title: "Not found" };
 
-/** Branded 404 — both for unmatched URLs and notFound() (e.g. unknown spot ids). */
+/** Branded 404, for both unmatched URLs and notFound() (e.g. unknown spot ids). */
 export default function NotFound() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center px-7 text-center">

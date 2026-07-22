@@ -3,7 +3,7 @@ import type { CSSProperties, ReactNode } from "react";
 
 /**
  * Category-striped photo placeholder from the design handoff.
- * TODO: replace with real hosted images once photos exist (SPEC §7) — this
+ * TODO: replace with real hosted images once photos exist (SPEC §7); this
  * component is the single swap point.
  */
 export function StripedThumb({

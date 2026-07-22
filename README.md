@@ -1,7 +1,7 @@
-# Kaap — Cape Town Activity Guide
+# Kaap: Cape Town Activity Guide
 
-Mobile-first PWA for discovering things to do in Cape Town — restaurants, bars,
-outdoor activities, classes, arts, family outings and lowkey local gems — with
+Mobile-first PWA for discovering things to do in Cape Town: restaurants, bars,
+outdoor activities, classes, arts, family outings and lowkey local gems, with
 Rand prices, live opening hours (SAST) and saveable lists.
 
 Built from the design handoff in `plans/design_handoff_cape_town_guide`
@@ -16,7 +16,7 @@ npm install
 npm run dev        # http://localhost:3000
 ```
 
-No configuration needed — without Supabase credentials the app serves the
+No configuration needed: without Supabase credentials the app serves the
 bundled curated seed data (23 spots). Other scripts:
 
 ```bash
@@ -46,7 +46,7 @@ database is live (the seed upserts). Spot detail pages show a real MapLibre map
 3. Copy `.env.example` to `.env.local` and fill in
    `NEXT_PUBLIC_SUPABASE_URL` + `NEXT_PUBLIC_SUPABASE_ANON_KEY`
    (Project Settings → API).
-4. Restart the dev server — spots now come from Postgres
+4. Restart the dev server, spots now come from Postgres
    (`lib/spots-repo.ts` logs a warning and falls back to seed data if the
    fetch fails).
 
@@ -64,26 +64,26 @@ Any Node host works; Vercel is the zero-config path:
 
 ## Where things live
 
-- `lib/data/spots.ts` — canonical curated data (spots, areas, categories,
+- `lib/data/spots.ts`: canonical curated data (spots, areas, categories,
   collections, palettes). `seed.sql` is generated from it, so edit here.
-- `lib/hours.ts` — structured weekly hours + open-now, always computed in
+- `lib/hours.ts`: structured weekly hours + open-now, always computed in
   `Africa/Johannesburg` (SPEC §6.3). Tested in `lib/hours.test.ts`.
-- `lib/filters.ts` — AND-combining filter/sort/search rules.
-- `lib/store.tsx` — guest-mode profile + saved spots (localStorage).
-- `components/discover|spot|saved|profile|onboarding` — one folder per screen.
-- `app/(main)` — app screens behind the shared header; `app/onboarding` is
+- `lib/filters.ts`: AND-combining filter/sort/search rules.
+- `lib/store.tsx`: guest-mode profile + saved spots (localStorage).
+- `components/discover|spot|saved|profile|onboarding`: one folder per screen.
+- `app/(main)`: app screens behind the shared header; `app/onboarding` is
   standalone.
-- `public/sw.js` — service worker (registered in production builds only).
+- `public/sw.js`: service worker (registered in production builds only).
 
 ## Deliberate MVP placeholders (marked TODO in code)
 
-- **Photos** — striped category-coloured blocks (`components/ui/StripedThumb.tsx`
+- **Photos**: striped category-coloured blocks (`components/ui/StripedThumb.tsx`
   is the single swap point for real images).
-- **Reviews** — sample content; provider ratings then first-party reviews come
+- **Reviews**: sample content; provider ratings then first-party reviews come
   in P2/P3 (SPEC §6.4).
-- **Auth** — Google/Apple buttons just start a guest session; real OAuth +
+- **Auth**: Google/Apple buttons just start a guest session; real OAuth +
   saved-list sync is P2 (SPEC §5.1).
-- **Distance** — real haversine distance, but only when the user grants
+- **Distance**: real haversine distance, but only when the user grants
   location during onboarding; spot coords are approximate pending Places API
   enrichment (SPEC §7).
-- **App icons** — generated brand-dot placeholders in `public/icons/`.
+- **App icons**: generated brand-dot placeholders in `public/icons/`.

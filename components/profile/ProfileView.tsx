@@ -71,7 +71,7 @@ export function ProfileView() {
           <div className="mt-1 text-[13.5px] text-muted">
             {user?.email
               ? `Signed in as ${user.email}`
-              : "Guest — your lists stay on this device until you sign in"}
+              : "Guest, your lists stay on this device until you sign in"}
           </div>
         </div>
       </div>

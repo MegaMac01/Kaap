@@ -7,7 +7,7 @@ let client: SupabaseClient | null | undefined;
 
 /**
  * Browser Supabase client (cookie-based session, shared with the server).
- * Null when env vars aren't set — the app then runs in guest-only mode.
+ * Null when env vars aren't set: the app then runs in guest-only mode.
  */
 export function getBrowserSupabase(): SupabaseClient | null {
   if (client === undefined) {

@@ -2,10 +2,10 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Kaap — Cape Town Activity Guide",
+    name: "Kaap: Cape Town Activity Guide",
     short_name: "Kaap",
     description:
-      "Everything worth doing in the Cape — mapped, priced and ready when you are.",
+      "Everything worth doing in the Cape, mapped, priced and ready when you are.",
     start_url: "/",
     display: "standalone",
     background_color: "#efe8d8",

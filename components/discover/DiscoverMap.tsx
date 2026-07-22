@@ -12,7 +12,7 @@ import "maplibre-gl/dist/maplibre-gl.css";
  * Real browse map (replaces the stylized prototype panel): MapLibre GL with
  * OpenFreeMap tiles. Area markers keep the tap-to-filter behaviour from the
  * design. Spots render as a clustered GeoJSON layer (not one DOM Marker per
- * spot) — past a few dozen pins in one suburb, unclustered markers just pile
+ * spot); past a few dozen pins in one suburb, unclustered markers just pile
  * into an unreadable blob, and hundreds of DOM markers is the wrong tool
  * anyway; the clustered circle/point layers scale to thousands.
  */
@@ -100,7 +100,7 @@ export function DiscoverMap({
       });
       // Note: `compact: true` styles the control but doesn't start it
       // collapsed, and `customAttribution` only adds to (not replaces) the
-      // credit baked into the OpenFreeMap style — so this stays on-screen;
+      // credit baked into the OpenFreeMap style, so this stays on-screen;
       // restyled in globals.css to read as intentional chrome, not a default.
       map.addControl(new gl.AttributionControl({ compact: true }));
       map.addControl(new gl.NavigationControl({ showCompass: false }), "top-right");

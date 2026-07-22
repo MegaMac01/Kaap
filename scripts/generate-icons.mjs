@@ -1,6 +1,6 @@
 /**
- * Generates placeholder app icons — the Kaap terracotta dot on the deep-green
- * brand field. No image deps — writes PNGs (and an ICO-wrapped PNG favicon)
+ * Generates placeholder app icons: the Kaap terracotta dot on the deep-green
+ * brand field. No image deps, writes PNGs (and an ICO-wrapped PNG favicon)
  * directly. TODO: replace with real designed app icons.
  *
  * Outputs: public/icons/icon-{192,512}.png, app/apple-icon.png, app/favicon.ico

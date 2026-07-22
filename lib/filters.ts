@@ -50,7 +50,7 @@ export function matchesQuery(spot: Spot, query: string): boolean {
 }
 
 export interface FilterContext {
-  /** Current time; null while unmounted/SSR — the openNow filter is then skipped. */
+  /** Current time; null while unmounted/SSR, the openNow filter is then skipped. */
   now: Date | null;
   /** User location (from onboarding geolocation); enables distance + Nearest. */
   origin: LatLng | null;

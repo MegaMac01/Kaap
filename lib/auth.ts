@@ -9,7 +9,7 @@ export interface AuthResult {
 
 const NOT_CONFIGURED: AuthResult = {
   ok: false,
-  message: "Sign-in isn't set up yet — you can keep exploring as a guest.",
+  message: "Sign-in isn't set up yet: you can keep exploring as a guest.",
 };
 
 /**

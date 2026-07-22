@@ -33,6 +33,9 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
+# Operator tokens pasted during setup (see SECRETS.local.md itself)
+SECRETS.local.md
+
 # Local Claude Code tool-permission state (machine/session-specific)
 .claude/
 
@@ -42,3 +45,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.vercel
+.env*

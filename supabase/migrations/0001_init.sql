@@ -1,4 +1,4 @@
--- Kaap schema — Phase 1 (SPEC §6).
+-- Kaap schema: Phase 1 (SPEC §6).
 -- Apply in the Supabase SQL editor (or `supabase db push`), then run seed.sql.
 
 create type category as enum ('eat', 'bars', 'outdoor', 'classes', 'chill', 'arts', 'family');

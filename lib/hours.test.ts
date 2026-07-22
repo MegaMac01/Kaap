@@ -2,7 +2,7 @@ import { describe, expect, it } from "vitest";
 import { formatIntervals, isOpenAt, todayHoursLabel, todayKey, zonedTime } from "@/lib/hours";
 import { DAY_KEYS, type WeeklyHours } from "@/lib/types";
 
-// SAST is UTC+2 year-round (no DST) — instants below are constructed in UTC.
+// SAST is UTC+2 year-round (no DST); instants below are constructed in UTC.
 // 2026-07-08 is a Wednesday.
 
 const wk = (open: string, close: string, closedDays: number[] = []): WeeklyHours => {
@@ -27,7 +27,7 @@ describe("zonedTime / todayKey", () => {
   });
 });
 
-describe("isOpenAt — anchored to Africa/Johannesburg", () => {
+describe("isOpenAt, anchored to Africa/Johannesburg", () => {
   it("is open mid-morning SAST", () => {
     // 08:00 UTC = 10:00 SAST Wed
     expect(isOpenAt(cafe, at("2026-07-08T08:00:00Z"))).toBe(true);

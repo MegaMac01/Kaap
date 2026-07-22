@@ -1,4 +1,4 @@
--- Kaap Phase 2 — accounts (SPEC §5.1, §6.2): profiles + synced saves.
+-- Kaap Phase 2: accounts (SPEC §5.1, §6.2), profiles + synced saves.
 
 create table public.profiles (
   id         uuid primary key references auth.users (id) on delete cascade,

@@ -4,7 +4,7 @@
  */
 export function OpenBadge({ open, className = "" }: { open: boolean | null; className?: string }) {
   if (open === null) {
-    return <span className={`text-[12.5px] font-semibold text-muted2 ${className}`}>—</span>;
+    return <span className={`text-[12.5px] font-semibold text-muted2 ${className}`}>–</span>;
   }
   return (
     <span

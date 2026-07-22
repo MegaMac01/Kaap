@@ -2,14 +2,14 @@
  * Google Places (New) enrichment for the curated spots (SPEC §7, §9).
  *
  * Two modes:
- *   npm run places:match    — find each spot's Google place_id (writes
+ *   npm run places:match    : find each spot's Google place_id (writes
  *                             lib/data/places-match.json; review it by hand!)
- *   npm run places:refresh  — pull live hours/rating/contact/coords for every
+ *   npm run places:refresh  : pull live hours/rating/contact/coords for every
  *                             matched place into lib/data/enrichment.json,
  *                             which lib/data/spots.ts overlays onto the seed.
  *
  * Needs PLACES_API_KEY in .env.local. Curated fields (blurb, price bands,
- * tags, categories) are never touched — only facts a provider knows better.
+ * tags, categories) are never touched, only facts a provider knows better.
  * Google policy: cache max 30 days (place_id exempt), attribute ratings.
  */
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
@@ -98,7 +98,7 @@ function toWeeklyHours(periods: { open: GooglePeriodPoint; close?: GooglePeriodP
     if (!p.close) continue;
     const open = hm(p.open);
     // Midnight on the next day is "24:00" (end of day); a later next-day time
-    // stays as-is — isOpenAt treats close < open as spanning midnight.
+    // stays as-is: isOpenAt treats close < open as spanning midnight.
     const close =
       p.close.day !== p.open.day && p.close.hour === 0 && p.close.minute === 0
         ? "24:00"
@@ -150,7 +150,7 @@ async function placeDetails(placeId: string): Promise<GooglePlace> {
 }
 
 async function runMatch() {
-  // An explicit null entry means "no Google entity, keep curated" — never retry.
+  // An explicit null entry means "no Google entity, keep curated": never retry.
   const existing: Record<string, MatchEntry | null> = existsSync(MATCH_FILE)
     ? JSON.parse(readFileSync(MATCH_FILE, "utf8"))
     : {};
@@ -174,7 +174,7 @@ async function runMatch() {
       address: hit.formattedAddress ?? "",
     };
     existing[spot.id] = entry;
-    console.log(`✓ ${spot.id}: ${entry.googleName} — ${entry.address}`);
+    console.log(`✓ ${spot.id}: ${entry.googleName} (${entry.address})`);
     await sleep(150);
   }
   writeFileSync(MATCH_FILE, JSON.stringify(existing, null, 2) + "\n", "utf8");
@@ -184,7 +184,7 @@ async function runMatch() {
 
 async function runRefresh() {
   if (!existsSync(MATCH_FILE)) {
-    console.error("No places-match.json — run `npm run places:match` first.");
+    console.error("No places-match.json: run `npm run places:match` first.");
     process.exit(1);
   }
   const matches: Record<string, MatchEntry | null> = JSON.parse(
@@ -201,7 +201,7 @@ async function runRefresh() {
     }
     const p = await placeDetails(match.placeId);
     if (p.businessStatus && p.businessStatus !== "OPERATIONAL") {
-      console.warn(`! ${spot.id}: businessStatus=${p.businessStatus} — review this spot`);
+      console.warn(`! ${spot.id}: businessStatus=${p.businessStatus}, review this spot`);
     }
     const periods = p.regularOpeningHours?.periods;
     out[spot.id] = {

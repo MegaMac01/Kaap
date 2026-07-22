@@ -49,7 +49,7 @@ interface SeedSpot {
 }
 
 /**
- * Bulk-discovered spots (scripts/discover-places.ts — SPEC §9 provider
+ * Bulk-discovered spots (scripts/discover-places.ts, SPEC §9 provider
  * enrichment, scaled up via Nearby Search sweeps). Same shape as the curated
  * seed minus `hours`, which real facts fill in via the enrichment overlay
  * below; OPEN_24H is a placeholder for the rare miss.
@@ -105,7 +105,7 @@ const seed: SeedSpot[] = [
     phone: "+27 21 423 4413",
     tags: ["romantic", "garden", "dinner"],
     blurb:
-      "A candle-lit Victorian house with a fairy-lit garden — the go-to for a special, slightly bohemian dinner.",
+      "A candle-lit Victorian house with a fairy-lit garden: the go-to for a special, slightly bohemian dinner.",
   },
   {
     id: "superette",
@@ -156,7 +156,7 @@ const seed: SeedSpot[] = [
     phone: "+27 21 433 2334",
     tags: ["coffee", "laptop-friendly", "breakfast"],
     blurb:
-      "Reliable neighbourhood roaster — plug in, order a flat white and a bacon-and-egg roll, and settle in.",
+      "Reliable neighbourhood roaster: plug in, order a flat white and a bacon-and-egg roll, and settle in.",
   },
   {
     id: "ontherocks",
@@ -209,7 +209,7 @@ const seed: SeedSpot[] = [
     phone: "+27 21 422 3040",
     tags: ["cocktails", "brandy", "date night"],
     blurb:
-      "Cape brandy bar with inventive cocktails and a warm, low-lit room — a proper grown-up night out.",
+      "Cape brandy bar with inventive cocktails and a warm, low-lit room: a proper grown-up night out.",
   },
   {
     id: "sundowners",
@@ -330,7 +330,7 @@ const seed: SeedSpot[] = [
     phone: null,
     tags: ["walk", "ocean", "sunset run"],
     blurb:
-      "A 3km paved seafront promenade — walk, run, skate or just watch the waves crash and the sun go down.",
+      "A 3km paved seafront promenade: walk, run, skate or just watch the waves crash and the sun go down.",
   },
   {
     id: "bloubergbeach",
@@ -506,7 +506,7 @@ const seed: SeedSpot[] = [
     phone: null,
     tags: ["heritage", "colourful", "walk"],
     blurb:
-      "Cobbled streets of vivid painted houses on the slopes above the city — Cape Malay heritage and the most photogenic block in town.",
+      "Cobbled streets of vivid painted houses on the slopes above the city: Cape Malay heritage and the most photogenic block in town.",
   },
 
   // ---- Family ----
@@ -525,7 +525,7 @@ const seed: SeedSpot[] = [
     phone: "+27 21 418 3823",
     tags: ["kids", "rainy day", "sharks"],
     blurb:
-      "Where the Atlantic meets the Indian Ocean, indoors — a kelp forest, a predator tank and a kids’ play zone.",
+      "Where the Atlantic meets the Indian Ocean, indoors: a kelp forest, a predator tank and a kids’ play zone.",
   },
   {
     id: "constantiapicnic",
@@ -582,7 +582,7 @@ interface Enrichment {
 const ENRICHMENT = enrichmentJson as Record<string, Enrichment>;
 
 /**
- * discovered.json entries lack curated hours/copy — OPEN_24H is a stopgap the
+ * discovered.json entries lack curated hours/copy: OPEN_24H is a stopgap the
  * enrichment overlay below immediately replaces for anything Google has real
  * hours for; the auto-generated blurb (scripts/discover-places.ts) stays
  * until someone curates it by hand.
@@ -606,7 +606,7 @@ export const SPOTS: Spot[] = allSeed.map((s) => {
     hours: e?.hours ?? s.hours,
     website: e?.website ?? null,
     bookingUrl: null, // TODO: real booking links (SPEC §12 Q3)
-    photos: [], // TODO: real hosted images (SPEC §7) — striped placeholder until then
+    photos: [], // TODO: real hosted images (SPEC §7); striped placeholder until then
     isDiscovered: DISCOVERED_IDS.has(s.id),
     updatedAt: e?.checkedAt ?? SEED_UPDATED_AT,
     googlePlaceId: e?.placeId ?? null,
@@ -714,7 +714,7 @@ export const CATEGORY_PALETTES: Record<string, [string, string]> = {
   free: ["#7d8452", "#5c623a"],
 };
 
-// TODO: replace with real first-party/provider reviews (SPEC §6.4 — provider
+// TODO: replace with real first-party/provider reviews (SPEC §6.4, provider
 // ratings in P1–2, first-party from P3). Sample content from the design handoff.
 export const SAMPLE_REVIEWS = [
   {
@@ -722,7 +722,7 @@ export const SAMPLE_REVIEWS = [
     initials: "LM",
     rating: 5,
     when: "2 weeks ago",
-    text: "Honestly one of the best afternoons we’ve had in ages. Went on a friend’s tip and it did not disappoint — will be back.",
+    text: "Honestly one of the best afternoons we’ve had in ages. Went on a friend’s tip and it did not disappoint. Will be back.",
   },
   {
     name: "James van der Walt",

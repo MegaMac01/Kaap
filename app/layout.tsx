@@ -20,19 +20,19 @@ const instrument = Instrument_Serif({
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: "Kaap — everything worth doing in the Cape",
+    default: "Kaap: everything worth doing in the Cape",
     template: "%s · Kaap",
   },
   description:
-    "Discover the best of Cape Town — restaurants, bars, outdoor adventures, classes, arts and lowkey local gems, with honest Rand prices and live opening hours.",
+    "Discover the best of Cape Town: restaurants, bars, outdoor adventures, classes, arts and lowkey local gems, with honest Rand prices and live opening hours.",
   applicationName: "Kaap",
   appleWebApp: { capable: true, statusBarStyle: "default", title: "Kaap" },
   openGraph: {
     type: "website",
     siteName: "Kaap",
-    title: "Kaap — everything worth doing in the Cape",
+    title: "Kaap: everything worth doing in the Cape",
     description:
-      "Cape Town's restaurants, bars, outdoor adventures, classes, arts and lowkey local gems — mapped, priced and ready when you are.",
+      "Cape Town's restaurants, bars, outdoor adventures, classes, arts and lowkey local gems, mapped, priced and ready when you are.",
   },
 };
 

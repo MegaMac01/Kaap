@@ -20,7 +20,7 @@ export async function generateMetadata({
   const { id } = await params;
   const spot = await getSpot(id);
   if (!spot) return { title: "Spot" };
-  const description = `${categoryLabel(spot.category)} in ${areaName(spot.area)} — ${spot.blurb}`;
+  const description = `${categoryLabel(spot.category)} in ${areaName(spot.area)}: ${spot.blurb}`;
   return {
     title: spot.name,
     description,

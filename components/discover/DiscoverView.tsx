@@ -22,7 +22,7 @@ import { useKaap } from "@/lib/store";
 import { useNow } from "@/lib/use-now";
 import type { AreaId, CategoryFilter, SortKey, Spot } from "@/lib/types";
 
-// Past ~50 spots the list needs paging (SPEC §7) — render a page at a time
+// Past ~50 spots the list needs paging (SPEC §7): render a page at a time
 // and grow it on demand instead of mounting every card up front.
 const PAGE_SIZE = 24;
 
@@ -41,7 +41,7 @@ export function DiscoverView({ spots }: { spots: Spot[] }) {
   );
   const counts = useMemo(() => categoryCounts(spots, filters), [spots, filters]);
 
-  // Any change to filters/search starts back at page one — adjusted during
+  // Any change to filters/search starts back at page one, adjusted during
   // render (React's recommended pattern) rather than in an effect, so there's
   // no extra commit before the reset takes effect.
   const [prevFilters, setPrevFilters] = useState(filters);

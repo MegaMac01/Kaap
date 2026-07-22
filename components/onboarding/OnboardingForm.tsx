@@ -19,7 +19,7 @@ export function OnboardingForm() {
   const [email, setEmail] = useState("");
   const [authStatus, setAuthStatus] = useState<AuthResult | null>(
     searchParams.get("auth_error")
-      ? { ok: false, message: "That sign-in link didn't work — request a fresh one below." }
+      ? { ok: false, message: "That sign-in link didn't work: request a fresh one below." }
       : null
   );
   const [sending, setSending] = useState(false);
@@ -30,7 +30,7 @@ export function OnboardingForm() {
   const locate = () => {
     if (!("geolocation" in navigator)) return;
     // POPIA (SPEC §11): location is requested just-in-time, used only to sort
-    // by distance, and kept on-device — never sent to a server.
+    // by distance, and kept on-device, never sent to a server.
     navigator.geolocation.getCurrentPosition(
       (pos) => {
         setCoords({ lat: pos.coords.latitude, lng: pos.coords.longitude });
@@ -63,7 +63,7 @@ export function OnboardingForm() {
 
   return (
     <div className="flex min-h-screen items-stretch">
-      {/* Decorative panel — desktop only (≥900px) */}
+      {/* Decorative panel: desktop only (≥900px) */}
       <div
         className="relative hidden flex-[1.1] overflow-hidden min-[900px]:block"
         style={{
@@ -78,7 +78,7 @@ export function OnboardingForm() {
             doing in the Cape.
           </div>
           <div className="mt-[14px] max-w-[360px] text-[15px] opacity-85">
-            From the famous spots to the lowkey ones locals keep quiet — mapped, priced and ready
+            From the famous spots to the lowkey ones locals keep quiet, mapped, priced and ready
             when you are.
           </div>
           {/* TODO: real hero photo (SPEC §7) */}

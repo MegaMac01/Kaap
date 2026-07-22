@@ -21,7 +21,7 @@ export interface AuthUser {
 }
 
 interface StoreState {
-  /** False until localStorage has been read — gate redirects/hearts on this. */
+  /** False until localStorage has been read: gate redirects/hearts on this. */
   hydrated: boolean;
   profile: Profile | null;
   savedIds: string[];
@@ -60,7 +60,7 @@ function writeJson(key: string, value: unknown) {
   try {
     window.localStorage.setItem(key, JSON.stringify(value));
   } catch {
-    // Storage unavailable (private mode etc.) — saves just won't persist.
+    // Storage unavailable (private mode etc.): saves just won't persist.
   }
 }
 
@@ -133,12 +133,12 @@ async function syncAccount(user: AuthUser) {
   const profile: Profile = {
     name: row?.name ?? localProfile?.name ?? "",
     interests: row?.interests ?? localProfile?.interests ?? [],
-    // Location consent stays on-device (POPIA, SPEC §11) — never synced.
+    // Location consent stays on-device (POPIA, SPEC §11), never synced.
     located: localProfile?.located ?? false,
     coords: localProfile?.coords ?? null,
   };
 
-  removeKey(SAVED_KEY); // migrated — the account is now the source of truth
+  removeKey(SAVED_KEY); // migrated: the account is now the source of truth
   writeJson(PROFILE_KEY, profile);
 
   setState({

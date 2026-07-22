@@ -3,9 +3,9 @@
  * enrichment", scaled up): tile an area with search circles across activity-
  * relevant venue types, dedupe, auto-categorise, and stage the results.
  *
- *   npm run places:discover <area>          — sweep, write candidates JSON,
+ *   npm run places:discover <area>          : sweep, write candidates JSON,
  *                                             print a category summary
- *   npm run places:discover <area> import   — merge candidates into
+ *   npm run places:discover <area> import   : merge candidates into
  *                                             lib/data/discovered.json and
  *                                             places-match.json (then run
  *                                             places:refresh + seed:sql)
@@ -50,7 +50,7 @@ interface Circle {
   radius: number;
 }
 
-/** Search tiles per area. Overlapping circles beat one big one — Nearby
+/** Search tiles per area. Overlapping circles beat one big one: Nearby
  *  Search returns max 20 places per call, so density needs tiling. */
 const AREA_TILES: Partial<Record<AreaId, Circle[]>> = {
   blouberg: [
@@ -175,7 +175,7 @@ async function searchNearby(types: string[], circle: Circle): Promise<GoogleNear
 async function runDiscover(area: AreaId) {
   const tiles = AREA_TILES[area];
   if (!tiles) {
-    console.error(`No search tiles configured for area "${area}" — add them to AREA_TILES.`);
+    console.error(`No search tiles configured for area "${area}", add them to AREA_TILES.`);
     process.exit(1);
   }
 
@@ -189,7 +189,7 @@ async function runDiscover(area: AreaId) {
         calls++;
       } catch (err) {
         // One bad/renamed type (Google's type list shifts) shouldn't sink the
-        // whole sweep — log it and keep going with the rest.
+        // whole sweep: log it and keep going with the rest.
         console.warn(`  ! ${group.category} @ ${tile.lat},${tile.lng}: ${(err as Error).message}`);
         continue;
       }
@@ -306,7 +306,7 @@ function toSpot(c: Candidate, area: AreaId, taken: Set<string>): DiscoveredSpot 
   };
 }
 
-/** Mirrors enrich-places.ts's MatchEntry shape — kept local to avoid a cross-script import. */
+/** Mirrors enrich-places.ts's MatchEntry shape, kept local to avoid a cross-script import. */
 interface MatchEntry {
   placeId: string;
   googleName: string;
@@ -374,7 +374,7 @@ function qualityFilter(candidates: Candidate[]): { kept: Candidate[]; excluded: 
 
 async function runImport(area: AreaId) {
   if (!existsSync(candidatesFile(area))) {
-    console.error(`No candidates for "${area}" — run npm run places:discover ${area} first.`);
+    console.error(`No candidates for "${area}": run npm run places:discover ${area} first.`);
     process.exit(1);
   }
   const rawCandidates: Candidate[] = JSON.parse(readFileSync(candidatesFile(area), "utf8"));

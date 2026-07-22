@@ -32,7 +32,7 @@ export function Header() {
             value={query}
             onChange={(e) => {
               setQuery(e.target.value);
-              // Search drives the Discover list — jump there if elsewhere.
+              // Search drives the Discover list, jump there if elsewhere.
               if (pathname !== "/") router.push("/");
             }}
             placeholder="Search spots, areas, vibes…"
