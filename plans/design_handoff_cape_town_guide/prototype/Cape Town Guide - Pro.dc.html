@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Hanken+Grotesk:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body { background: #efe8d8; }
+  ::-webkit-scrollbar { height: 8px; width: 8px; }
+  ::-webkit-scrollbar-thumb { background: rgba(44,74,59,0.22); border-radius: 20px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  a { color: #cf6a3f; text-decoration: none; }
+  a:hover { color: #b0512a; }
+  .cctp-hrail { scrollbar-width: thin; }
+</style>
+</helmet>
+<div style="min-height:100vh; background:#efe8d8; color:#23281f; font-family:'Hanken Grotesk',system-ui,sans-serif;">
+
+  <!-- ============ ONBOARDING ============ -->
+  <sc-if value="{{ showOnboard }}" hint-placeholder-val="{{ true }}">
+    <div style="min-height:100vh; display:flex; align-items:stretch;">
+      <div style="flex:1.1; position:relative; display:none; background-image:repeating-linear-gradient(135deg,#3f7d5c 0 14px,#2c5a41 14px 28px); overflow:hidden;" class="cctp-onboard-art">
+        <div style="position:absolute; inset:0; background:linear-gradient(180deg,rgba(23,40,31,0.1),rgba(23,40,31,0.55));"></div>
+        <div style="position:absolute; left:44px; bottom:44px; right:44px; color:#f3ecdc;">
+          <div style="font-family:'Instrument Serif',serif; font-size:52px; line-height:1.0; font-style:italic;">Everything worth<br>doing in the Cape.</div>
+          <div style="font-size:15px; opacity:0.85; margin-top:14px; max-width:360px;">From the famous spots to the lowkey ones locals keep quiet — mapped, priced and ready when you are.</div>
+          <div style="font-family:ui-monospace,monospace; font-size:11px; opacity:0.6; margin-top:22px;">photo: Table Mountain from Bloubergstrand</div>
+        </div>
+      </div>
+      <div style="flex:1; display:flex; align-items:center; justify-content:center; padding:40px 28px;">
+        <div style="width:100%; max-width:420px;">
+          <div style="display:flex; align-items:baseline; gap:9px; margin-bottom:28px;">
+            <span style="width:11px; height:11px; border-radius:50%; background:#cf6a3f; display:inline-block;"></span>
+            <span style="font-family:'Instrument Serif',serif; font-size:26px;">Kaap</span>
+            <span style="font-size:11px; letter-spacing:2px; text-transform:uppercase; color:#7a7565; font-weight:600;">Cape Town</span>
+          </div>
+          <h1 style="font-family:'Instrument Serif',serif; font-weight:400; font-size:34px; line-height:1.05; margin:0 0 6px;">Let's set you up</h1>
+          <p style="font-size:14.5px; color:#7a7565; margin:0 0 24px;">Two quick things and we'll tune the map to you. Free, takes a second.</p>
+
+          <label style="display:block; font-size:12px; font-weight:700; text-transform:uppercase; letter-spacing:0.6px; color:#9a9483; margin-bottom:7px;">Your name</label>
+          <input value="{{ obName }}" onInput="{{ onObName }}" placeholder="e.g. Thandi" style="width:100%; padding:13px 15px; border:1px solid rgba(44,74,59,0.2); border-radius:12px; background:#fffdf6; font-family:inherit; font-size:15px; outline:none; margin-bottom:22px;" />
+
+          <label style="display:block; font-size:12px; font-weight:700; text-transform:uppercase; letter-spacing:0.6px; color:#9a9483; margin-bottom:9px;">What are you into?</label>
+          <div style="display:flex; flex-wrap:wrap; gap:8px; margin-bottom:24px;">
+            <sc-for list="{{ interestChips }}" as="chip" hint-placeholder-count="8">
+              <button onClick="{{ chip.onClick }}" style="{{ chip.style }}">{{ chip.label }}</button>
+            </sc-for>
+          </div>
+
+          <button onClick="{{ obLocate }}" style="width:100%; display:flex; align-items:center; justify-content:center; gap:8px; padding:12px; border:1px dashed rgba(44,74,59,0.3); border-radius:12px; background:#fffdf6; font-family:inherit; font-size:14px; font-weight:600; color:#2c4a3b; cursor:pointer; margin-bottom:12px;">
+            <span>◎</span> {{ obLocateLabel }}
+          </button>
+
+          <button onClick="{{ obStart }}" style="width:100%; padding:14px; border:none; border-radius:12px; background:#2c4a3b; color:#fff; font-family:inherit; font-size:15px; font-weight:700; cursor:pointer; margin-bottom:14px;">Start exploring →</button>
+
+          <div style="display:flex; align-items:center; gap:8px; margin:6px 0 14px;">
+            <div style="flex:1; height:1px; background:rgba(44,74,59,0.15);"></div>
+            <span style="font-size:12px; color:#9a9483;">or continue with</span>
+            <div style="flex:1; height:1px; background:rgba(44,74,59,0.15);"></div>
+          </div>
+          <div style="display:flex; gap:10px;">
+            <button onClick="{{ obStart }}" style="flex:1; padding:11px; border:1px solid rgba(44,74,59,0.2); border-radius:12px; background:#fffdf6; font-family:inherit; font-size:13.5px; font-weight:600; cursor:pointer;">Google</button>
+            <button onClick="{{ obStart }}" style="flex:1; padding:11px; border:1px solid rgba(44,74,59,0.2); border-radius:12px; background:#fffdf6; font-family:inherit; font-size:13.5px; font-weight:600; cursor:pointer;">Apple</button>
+          </div>
+          <p style="font-size:11.5px; color:#a49d8b; margin:18px 0 0; line-height:1.5;">By continuing you agree to our Terms & Privacy Policy. We follow POPIA — your location is only used to sort spots and never shared.</p>
+        </div>
+      </div>
+    </div>
+  </sc-if>
+
+  <!-- ============ APP CHROME ============ -->
+  <sc-if value="{{ showApp }}" hint-placeholder-val="{{ false }}">
+  <div>
+    <header style="position:sticky; top:0; z-index:30; background:rgba(239,232,216,0.92); backdrop-filter:blur(10px); border-bottom:1px solid rgba(44,74,59,0.12);">
+      <div style="max-width:1200px; margin:0 auto; padding:13px 22px; display:flex; align-items:center; gap:16px; flex-wrap:wrap;">
+        <div style="display:flex; align-items:baseline; gap:9px; margin-right:auto; cursor:pointer;" onClick="{{ goDiscover }}">
+          <span style="width:11px; height:11px; border-radius:50%; background:#cf6a3f; display:inline-block; transform:translateY(1px);"></span>
+          <span style="font-family:'Instrument Serif',serif; font-size:25px; line-height:1;">Kaap</span>
+        </div>
+        <div style="display:flex; align-items:center; background:#fffdf6; border:1px solid rgba(44,74,59,0.15); border-radius:999px; padding:8px 14px; gap:8px; min-width:180px; flex:1; max-width:360px;">
+          <span style="color:#9a9483; font-size:14px;">⌕</span>
+          <input value="{{ query }}" onInput="{{ onSearch }}" placeholder="Search spots, areas, vibes…" style="border:none; outline:none; background:transparent; font-family:inherit; font-size:14px; width:100%; color:#23281f;" />
+        </div>
+        <nav style="display:flex; gap:5px; align-items:center;">
+          <button onClick="{{ goDiscover }}" style="{{ navDiscoverStyle }}">Discover</button>
+          <button onClick="{{ goSaved }}" style="{{ navSavedStyle }}">Saved <span style="{{ savedBadgeStyle }}">{{ favCount }}</span></button>
+          <button onClick="{{ goProfile }}" title="Profile" style="{{ avatarStyle }}">{{ initials }}</button>
+        </nav>
+      </div>
+    </header>
+
+    <!-- ============ DISCOVER ============ -->
+    <sc-if value="{{ showDiscover }}" hint-placeholder-val="{{ true }}">
+      <main style="max-width:1200px; margin:0 auto; padding:22px 22px 60px;">
+        <div style="margin:2px 2px 18px;">
+          <h1 style="font-family:'Instrument Serif',serif; font-weight:400; font-size:clamp(26px,4vw,40px); line-height:1.02; margin:0;">{{ greeting }}</h1>
+          <p style="font-size:14.5px; color:#7a7565; margin:6px 0 0;">{{ subGreeting }}</p>
+        </div>
+
+        <!-- Collections rail -->
+        <div style="display:flex; align-items:baseline; justify-content:space-between; margin:4px 2px 10px;">
+          <h2 style="font-size:14px; font-weight:700; text-transform:uppercase; letter-spacing:0.7px; color:#5c6b5c; margin:0;">Curated collections</h2>
+        </div>
+        <div class="cctp-hrail" style="display:flex; gap:12px; overflow-x:auto; padding-bottom:12px; margin-bottom:18px;">
+          <sc-for list="{{ collections }}" as="col" hint-placeholder-count="6">
+            <button onClick="{{ col.onClick }}" style="{{ col.style }}">
+              <span style="{{ col.iconStyle }}">{{ col.icon }}</span>
+              <span style="font-size:15px; font-weight:700; line-height:1.15;">{{ col.label }}</span>
+              <span style="font-size:12px; opacity:0.75; line-height:1.3;">{{ col.desc }}</span>
+              <span style="font-size:11.5px; font-weight:600; margin-top:auto; opacity:0.8;">{{ col.countLabel }}</span>
+            </button>
+          </sc-for>
+        </div>
+
+        <div style="display:flex; gap:26px; align-items:flex-start; flex-wrap:wrap;">
+          <!-- Map -->
+          <div style="flex:0 1 380px; min-width:290px; position:sticky; top:84px;">
+            <div style="background:#dce7e0; border:1px solid rgba(44,74,59,0.15); border-radius:20px; overflow:hidden; box-shadow:0 12px 30px -18px rgba(44,74,59,0.5);">
+              <div style="position:relative; width:100%; aspect-ratio:4/5; background:linear-gradient(180deg,#c7ddd8,#b2cfc8);">
+                <div style="position:absolute; inset:0; clip-path:polygon(34% 2%,80% 4%,90% 22%,82% 40%,74% 60%,64% 80%,52% 97%,44% 84%,42% 62%,30% 46%,20% 26%,24% 10%); background:linear-gradient(160deg,#e9dfc6,#e0d3b3);"></div>
+                <div style="position:absolute; left:38%; top:40%; width:24%; height:9%; background:#8ca596; border-radius:5px; box-shadow:0 4px 8px -4px rgba(0,0,0,0.4);"></div>
+                <div style="position:absolute; left:38%; top:52%; font-size:9px; color:#3c5648; font-weight:700;">Table Mtn</div>
+                <div style="position:absolute; left:10px; bottom:10px; font-family:'Instrument Serif',serif; font-size:19px; color:#6a8377; font-style:italic;">Atlantic</div>
+                <div style="position:absolute; right:12px; bottom:26px; font-family:'Instrument Serif',serif; font-size:15px; color:#6a8377; font-style:italic;">False Bay</div>
+                <sc-for list="{{ areas }}" as="area" hint-placeholder-count="10">
+                  <button onClick="{{ area.onClick }}" title="{{ area.name }}" style="{{ area.wrapStyle }}">
+                    <span style="{{ area.dotStyle }}"></span>
+                    <span style="{{ area.labelStyle }}">{{ area.name }}</span>
+                  </button>
+                </sc-for>
+              </div>
+              <div style="padding:11px 13px; display:flex; align-items:center; justify-content:space-between; gap:10px;">
+                <span style="font-size:12.5px; color:#5c6b5c;">{{ areaHint }}</span>
+                <button onClick="{{ clearFilters }}" style="{{ clearBtnStyle }}">Reset</button>
+              </div>
+            </div>
+          </div>
+
+          <!-- List column -->
+          <div style="flex:1 1 460px; min-width:300px;">
+            <!-- Filter / sort bar -->
+            <div style="display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin-bottom:14px;">
+              <button onClick="{{ toggleOpenNow }}" style="{{ openNowBtnStyle }}"><span style="font-size:9px;">●</span> Open now</button>
+              <button onClick="{{ toggleFree }}" style="{{ freeBtnStyle }}">Free only</button>
+              <div style="width:1px; height:22px; background:rgba(44,74,59,0.15); margin:0 2px;"></div>
+              <sc-for list="{{ sortOptions }}" as="opt" hint-placeholder-count="4">
+                <button onClick="{{ opt.onClick }}" style="{{ opt.style }}">{{ opt.label }}</button>
+              </sc-for>
+            </div>
+
+            <!-- Category chips -->
+            <div class="cctp-hrail" style="display:flex; gap:8px; overflow-x:auto; padding-bottom:10px; margin-bottom:6px;">
+              <sc-for list="{{ categories }}" as="cat" hint-placeholder-count="8">
+                <button onClick="{{ cat.onClick }}" style="{{ cat.style }}">{{ cat.label }}<span style="{{ cat.countStyle }}">{{ cat.count }}</span></button>
+              </sc-for>
+            </div>
+
+            <div style="display:flex; align-items:baseline; justify-content:space-between; margin:12px 2px 14px;">
+              <h2 style="font-family:'Instrument Serif',serif; font-weight:400; font-size:clamp(22px,3vw,30px); margin:0; line-height:1.05;">{{ listTitle }}</h2>
+              <span style="font-size:13px; color:#7a7565; white-space:nowrap;">{{ resultCount }}</span>
+            </div>
+
+            <div style="display:flex; flex-direction:column; gap:14px;">
+              <sc-for list="{{ spots }}" as="spot" hint-placeholder-count="5">
+                <div onClick="{{ spot.onOpen }}" style="display:flex; gap:14px; background:#fffdf6; border:1px solid rgba(44,74,59,0.12); border-radius:16px; padding:12px; cursor:pointer; box-shadow:0 8px 22px -18px rgba(44,74,59,0.6);" style-hover="box-shadow:0 16px 30px -18px rgba(44,74,59,0.55);">
+                  <div style="{{ spot.thumbStyle }}">
+                    <span style="font-family:ui-monospace,monospace; font-size:9px; color:rgba(255,255,255,0.85); padding:5px; text-align:center; line-height:1.3;">{{ spot.thumbLabel }}</span>
+                  </div>
+                  <div style="flex:1; min-width:0; display:flex; flex-direction:column; gap:5px;">
+                    <div style="display:flex; align-items:center; gap:7px; flex-wrap:wrap;">
+                      <span style="font-size:11px; font-weight:700; letter-spacing:0.5px; text-transform:uppercase; color:#cf6a3f;">{{ spot.catLabel }}</span>
+                      <span style="font-size:11px; color:#a49d8b;">·</span>
+                      <span style="font-size:11.5px; color:#7a7565;">{{ spot.areaLabel }}</span>
+                    </div>
+                    <div style="font-size:17px; font-weight:700; line-height:1.15;">{{ spot.name }}</div>
+                    <div style="font-size:13px; color:#6a6555; line-height:1.35; overflow:hidden; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical;">{{ spot.blurb }}</div>
+                    <div style="display:flex; align-items:center; gap:12px; margin-top:3px; flex-wrap:wrap;">
+                      <span style="display:inline-flex; align-items:center; gap:4px; font-size:12.5px; font-weight:600;"><span style="color:#e0a53f;">★</span>{{ spot.ratingText }} <span style="color:#a49d8b; font-weight:400;">({{ spot.reviewCount }})</span></span>
+                      <span style="{{ spot.openStyle }}">{{ spot.openLabel }}</span>
+                      <span style="font-size:12.5px; color:#7a7565;">{{ spot.distText }}</span>
+                    </div>
+                  </div>
+                  <div style="display:flex; flex-direction:column; align-items:flex-end; justify-content:space-between; gap:8px;">
+                    <button onClick="{{ spot.onFav }}" title="Save" style="{{ spot.favStyle }}">♥</button>
+                    <div style="text-align:right;">
+                      <div style="font-size:15px; font-weight:800; color:#2c4a3b;">{{ spot.priceMain }}</div>
+                      <div style="font-size:11px; color:#9a9483;">{{ spot.priceSub }}</div>
+                    </div>
+                  </div>
+                </div>
+              </sc-for>
+            </div>
+
+            <sc-if value="{{ isEmpty }}" hint-placeholder-val="{{ false }}">
+              <div style="text-align:center; padding:50px 20px; color:#7a7565;">
+                <div style="font-family:'Instrument Serif',serif; font-size:22px; margin-bottom:6px;">Nothing matches</div>
+                <div style="font-size:14px; margin-bottom:16px;">Try loosening a filter or picking another area.</div>
+                <button onClick="{{ clearFilters }}" style="background:#2c4a3b; color:#fff; border:none; border-radius:999px; padding:10px 20px; font-family:inherit; font-size:13.5px; font-weight:600; cursor:pointer;">Clear filters</button>
+              </div>
+            </sc-if>
+          </div>
+        </div>
+      </main>
+    </sc-if>
+
+    <!-- ============ DETAIL ============ -->
+    <sc-if value="{{ showDetail }}" hint-placeholder-val="{{ false }}">
+      <main style="max-width:1000px; margin:0 auto; padding:16px 22px 80px;">
+        <button onClick="{{ goBack }}" style="display:inline-flex; align-items:center; gap:6px; background:none; border:none; color:#2c4a3b; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer; padding:8px 0; margin-bottom:6px;">← Back</button>
+
+        <!-- Gallery -->
+        <div style="display:grid; grid-template-columns:2fr 1fr; gap:10px; height:clamp(220px,38vw,380px);">
+          <div style="{{ heroMainStyle }}">
+            <span style="font-family:ui-monospace,monospace; font-size:12px; color:rgba(255,255,255,0.9); background:rgba(0,0,0,0.28); padding:5px 10px; border-radius:6px;">{{ heroMainLabel }}</span>
+          </div>
+          <div style="display:grid; grid-template-rows:1fr 1fr; gap:10px;">
+            <sc-for list="{{ heroThumbs }}" as="ph" hint-placeholder-count="2">
+              <div style="{{ ph.style }}"><span style="font-family:ui-monospace,monospace; font-size:9px; color:rgba(255,255,255,0.8);">{{ ph.label }}</span></div>
+            </sc-for>
+          </div>
+        </div>
+
+        <div style="display:flex; gap:30px; align-items:flex-start; margin-top:22px; flex-wrap:wrap;">
+          <div style="flex:1 1 440px; min-width:280px;">
+            <div style="font-size:12px; font-weight:700; letter-spacing:0.7px; text-transform:uppercase; color:#cf6a3f; margin-bottom:6px;">{{ detailCat }} · {{ detailArea }}</div>
+            <h1 style="font-family:'Instrument Serif',serif; font-weight:400; font-size:clamp(30px,5vw,46px); line-height:1.02; margin:0 0 12px;">{{ detailName }}</h1>
+            <div style="display:flex; gap:16px; align-items:center; flex-wrap:wrap; font-size:13.5px; color:#6a6555; margin-bottom:22px;">
+              <span style="font-weight:700; color:#23281f;"><span style="color:#e0a53f;">★</span> {{ detailRating }} <span style="color:#9a9483; font-weight:400;">· {{ detailReviewCount }} reviews</span></span>
+              <span style="{{ detailOpenStyle }}">{{ detailOpenLabel }}</span>
+              <span>{{ detailDist }} away</span>
+            </div>
+
+            <p style="font-size:16px; line-height:1.65; color:#3c4238; margin:0 0 24px; max-width:620px;">{{ detailBlurb }}</p>
+
+            <!-- Good for tags -->
+            <div style="display:flex; flex-wrap:wrap; gap:8px; margin-bottom:28px;">
+              <sc-for list="{{ detailTagChips }}" as="t" hint-placeholder-count="3">
+                <span style="font-size:12.5px; font-weight:600; color:#2c4a3b; background:rgba(44,74,59,0.08); padding:6px 13px; border-radius:999px;">{{ t.label }}</span>
+              </sc-for>
+            </div>
+
+            <!-- Weekly hours -->
+            <h3 style="font-size:14px; font-weight:700; text-transform:uppercase; letter-spacing:0.6px; color:#5c6b5c; margin:0 0 10px;">Opening hours</h3>
+            <div style="background:#fffdf6; border:1px solid rgba(44,74,59,0.12); border-radius:14px; overflow:hidden; margin-bottom:28px; max-width:380px;">
+              <sc-for list="{{ weekRows }}" as="row" hint-placeholder-count="7">
+                <div style="{{ row.style }}">
+                  <span style="font-weight:{{ row.weight }};">{{ row.day }}</span>
+                  <span style="color:{{ row.color }}; white-space:nowrap;">{{ row.time }}</span>
+                </div>
+              </sc-for>
+            </div>
+
+            <!-- Reviews -->
+            <div style="display:flex; align-items:center; justify-content:space-between; margin:0 0 14px;">
+              <h3 style="font-size:14px; font-weight:700; text-transform:uppercase; letter-spacing:0.6px; color:#5c6b5c; margin:0;">Reviews</h3>
+              <button style="font-family:inherit; font-size:13px; font-weight:600; color:#cf6a3f; background:none; border:1px solid rgba(207,106,63,0.4); border-radius:999px; padding:6px 14px; cursor:pointer;">Write a review</button>
+            </div>
+            <div style="display:flex; flex-direction:column; gap:16px;">
+              <sc-for list="{{ reviews }}" as="rv" hint-placeholder-count="3">
+                <div style="display:flex; gap:12px;">
+                  <div style="{{ rv.avatarStyle }}">{{ rv.initials }}</div>
+                  <div style="flex:1;">
+                    <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+                      <span style="font-weight:700; font-size:14px;">{{ rv.name }}</span>
+                      <span style="font-size:12px; color:#e0a53f;">{{ rv.stars }}</span>
+                      <span style="font-size:12px; color:#a49d8b;">· {{ rv.when }}</span>
+                    </div>
+                    <p style="font-size:14px; line-height:1.55; color:#4a4f43; margin:5px 0 0;">{{ rv.text }}</p>
+                  </div>
+                </div>
+              </sc-for>
+            </div>
+          </div>
+
+          <!-- Sticky action card -->
+          <div style="flex:0 1 300px; min-width:250px; position:sticky; top:84px;">
+            <div style="background:#fffdf6; border:1px solid rgba(44,74,59,0.14); border-radius:18px; padding:20px; box-shadow:0 14px 34px -22px rgba(44,74,59,0.6);">
+              <div style="display:flex; align-items:baseline; justify-content:space-between; margin-bottom:4px;">
+                <span style="font-size:26px; font-weight:800; color:#2c4a3b;">{{ detailPriceMain }}</span>
+                <span style="font-size:12px; color:#9a9483;">{{ detailBandLabel }}</span>
+              </div>
+              <div style="font-size:13.5px; color:#6a6555; margin-bottom:16px;">{{ detailPriceSub }}</div>
+              <a href="{{ detailBookLink }}" target="_blank" style="display:block; text-align:center; background:#cf6a3f; color:#fff; border-radius:12px; padding:13px; font-size:14.5px; font-weight:700; margin-bottom:10px;">{{ detailBookLabel }}</a>
+              <a href="{{ detailMapLink }}" target="_blank" style="display:block; text-align:center; background:#2c4a3b; color:#fff; border-radius:12px; padding:13px; font-size:14.5px; font-weight:700; margin-bottom:10px;">Get directions ↗</a>
+              <button onClick="{{ detailFav }}" style="{{ detailFavStyle }}">{{ detailFavLabel }}</button>
+              <div style="border-top:1px solid rgba(44,74,59,0.1); margin-top:16px; padding-top:14px; display:flex; flex-direction:column; gap:9px; font-size:13px; color:#4a4f43;">
+                <div style="display:flex; gap:9px;"><span style="color:#9a9483;">◷</span><span>{{ detailTodayHours }}</span></div>
+                <div style="display:flex; gap:9px;"><span style="color:#9a9483;">⚲</span><span>{{ detailAddress }}</span></div>
+                <div style="display:flex; gap:9px;"><span style="color:#9a9483;">☎</span><a href="tel:{{ detailPhone }}">{{ detailPhone }}</a></div>
+                <div style="display:flex; gap:9px;"><span style="color:#9a9483;">⇱</span><a href="{{ detailWebsite }}" target="_blank">Website</a></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Similar -->
+        <h3 style="font-size:14px; font-weight:700; text-transform:uppercase; letter-spacing:0.6px; color:#5c6b5c; margin:36px 0 14px;">More like this</h3>
+        <div class="cctp-hrail" style="display:flex; gap:14px; overflow-x:auto; padding-bottom:10px;">
+          <sc-for list="{{ similar }}" as="sp" hint-placeholder-count="3">
+            <div onClick="{{ sp.onOpen }}" style="flex:0 0 240px; background:#fffdf6; border:1px solid rgba(44,74,59,0.12); border-radius:16px; overflow:hidden; cursor:pointer;">
+              <div style="{{ sp.wideThumbStyle }}"><span style="font-family:ui-monospace,monospace; font-size:9px; color:rgba(255,255,255,0.85);">{{ sp.thumbLabel }}</span></div>
+              <div style="padding:12px;">
+                <div style="font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:0.5px; color:#cf6a3f; margin-bottom:3px;">{{ sp.areaLabel }}</div>
+                <div style="font-size:15px; font-weight:700; line-height:1.15; margin-bottom:5px;">{{ sp.name }}</div>
+                <div style="display:flex; gap:10px; font-size:12.5px; color:#6a6555;"><span><span style="color:#e0a53f;">★</span> {{ sp.ratingText }}</span><span style="font-weight:700; color:#2c4a3b;">{{ sp.priceMain }}</span></div>
+              </div>
+            </div>
+          </sc-for>
+        </div>
+      </main>
+    </sc-if>
+
+    <!-- ============ SAVED ============ -->
+    <sc-if value="{{ showSaved }}" hint-placeholder-val="{{ false }}">
+      <main style="max-width:960px; margin:0 auto; padding:22px 22px 60px;">
+        <h1 style="font-family:'Instrument Serif',serif; font-weight:400; font-size:clamp(26px,4vw,38px); margin:6px 0 4px;">Your lists</h1>
+        <p style="font-size:14px; color:#7a7565; margin:0 0 20px;">{{ savedSubtitle }}</p>
+
+        <div style="display:flex; gap:8px; margin-bottom:22px; flex-wrap:wrap;">
+          <sc-for list="{{ savedTabs }}" as="tab" hint-placeholder-count="3">
+            <button onClick="{{ tab.onClick }}" style="{{ tab.style }}">{{ tab.label }} <span style="{{ tab.countStyle }}">{{ tab.count }}</span></button>
+          </sc-for>
+        </div>
+
+        <div style="display:flex; flex-direction:column; gap:14px;">
+          <sc-for list="{{ savedSpots }}" as="spot" hint-placeholder-count="3">
+            <div onClick="{{ spot.onOpen }}" style="display:flex; gap:14px; background:#fffdf6; border:1px solid rgba(44,74,59,0.12); border-radius:16px; padding:12px; cursor:pointer;">
+              <div style="{{ spot.thumbStyle }}"><span style="font-family:ui-monospace,monospace; font-size:9px; color:rgba(255,255,255,0.85); padding:5px; text-align:center;">{{ spot.thumbLabel }}</span></div>
+              <div style="flex:1; min-width:0; display:flex; flex-direction:column; gap:5px;">
+                <div style="font-size:11px; font-weight:700; letter-spacing:0.5px; text-transform:uppercase; color:#cf6a3f;">{{ spot.catLabel }} · <span style="color:#7a7565; letter-spacing:0;">{{ spot.areaLabel }}</span></div>
+                <div style="font-size:17px; font-weight:700;">{{ spot.name }}</div>
+                <div style="display:flex; gap:12px; font-size:12.5px; color:#6a6555; flex-wrap:wrap;"><span><span style="color:#e0a53f;">★</span> {{ spot.ratingText }}</span><span style="{{ spot.openStyle }}">{{ spot.openLabel }}</span><span style="font-weight:700; color:#2c4a3b;">{{ spot.priceMain }}</span></div>
+              </div>
+              <button onClick="{{ spot.onFav }}" style="{{ spot.favStyle }}">♥</button>
+            </div>
+          </sc-for>
+        </div>
+        <sc-if value="{{ noSaved }}" hint-placeholder-val="{{ true }}">
+          <div style="text-align:center; padding:60px 20px; color:#7a7565;">
+            <div style="font-family:'Instrument Serif',serif; font-size:24px; margin-bottom:8px;">No saved spots yet</div>
+            <div style="font-size:14px; margin-bottom:18px;">Tap the ♥ on any spot to build your list.</div>
+            <button onClick="{{ goDiscover }}" style="background:#2c4a3b; color:#fff; border:none; border-radius:999px; padding:11px 22px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">Explore Cape Town</button>
+          </div>
+        </sc-if>
+      </main>
+    </sc-if>
+
+    <!-- ============ PROFILE ============ -->
+    <sc-if value="{{ showProfile }}" hint-placeholder-val="{{ false }}">
+      <main style="max-width:640px; margin:0 auto; padding:26px 22px 60px;">
+        <div style="display:flex; align-items:center; gap:16px; margin-bottom:26px;">
+          <div style="width:64px; height:64px; border-radius:50%; background:#2c4a3b; color:#fff; display:flex; align-items:center; justify-content:center; font-size:24px; font-weight:700; font-family:'Instrument Serif',serif;">{{ initials }}</div>
+          <div>
+            <div style="font-family:'Instrument Serif',serif; font-size:28px; line-height:1;">{{ profileName }}</div>
+            <div style="font-size:13.5px; color:#7a7565; margin-top:4px;">Cape Town explorer · joined 2026</div>
+          </div>
+        </div>
+
+        <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:12px; margin-bottom:26px;">
+          <sc-for list="{{ profileStats }}" as="st" hint-placeholder-count="3">
+            <div style="background:#fffdf6; border:1px solid rgba(44,74,59,0.12); border-radius:14px; padding:16px; text-align:center;">
+              <div style="font-size:26px; font-weight:800; color:#2c4a3b;">{{ st.value }}</div>
+              <div style="font-size:12px; color:#7a7565; margin-top:2px;">{{ st.label }}</div>
+            </div>
+          </sc-for>
+        </div>
+
+        <h3 style="font-size:13px; font-weight:700; text-transform:uppercase; letter-spacing:0.6px; color:#9a9483; margin:0 0 10px;">Your interests</h3>
+        <div style="display:flex; flex-wrap:wrap; gap:8px; margin-bottom:26px;">
+          <sc-for list="{{ profileInterests }}" as="i" hint-placeholder-count="4">
+            <span style="font-size:13px; font-weight:600; color:#2c4a3b; background:rgba(44,74,59,0.08); padding:7px 14px; border-radius:999px;">{{ i.label }}</span>
+          </sc-for>
+          <sc-if value="{{ noInterests }}" hint-placeholder-val="{{ false }}">
+            <span style="font-size:13px; color:#9a9483;">None picked yet</span>
+          </sc-if>
+        </div>
+
+        <div style="background:#fffdf6; border:1px solid rgba(44,74,59,0.12); border-radius:16px; overflow:hidden;">
+          <sc-for list="{{ settingsRows }}" as="row" hint-placeholder-count="5">
+            <div style="display:flex; align-items:center; justify-content:space-between; padding:15px 18px; border-bottom:1px solid rgba(44,74,59,0.08); cursor:pointer;">
+              <div style="display:flex; align-items:center; gap:12px;">
+                <span style="color:#9a9483; width:18px; text-align:center;">{{ row.icon }}</span>
+                <span style="font-size:14.5px; font-weight:500;">{{ row.label }}</span>
+              </div>
+              <span style="color:#c2bba9;">›</span>
+            </div>
+          </sc-for>
+        </div>
+
+        <button onClick="{{ signOut }}" style="width:100%; margin-top:18px; padding:13px; background:none; border:1px solid rgba(181,87,63,0.4); color:#b5573f; border-radius:12px; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer;">Sign out</button>
+      </main>
+    </sc-if>
+  </div>
+  </sc-if>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{&quot;width&quot;:1200,&quot;height&quot;:920}}">
+class Component extends DCLogic {
+  state = {
+    screen: 'onboard', obName: '', interests: {}, located: false,
+    name: '', area: null, cat: null, query: '', fav: {},
+    sort: 'rec', openNow: false, freeOnly: false, collection: null,
+    selected: null, savedTab: 'all',
+  };
+
+  interestsData = [
+    { key:'eat', label:'Food & Coffee' }, { key:'bars', label:'Nightlife' },
+    { key:'outdoor', label:'Outdoors' }, { key:'arts', label:'Arts & Culture' },
+    { key:'classes', label:'Learning' }, { key:'chill', label:'Lowkey' },
+    { key:'family', label:'Family' }, { key:'free', label:'Free stuff' },
+  ];
+
+  areasData = [
+    { id:'waterfront', name:'V&A Waterfront', x:53, y:13 }, { id:'bokaap', name:'Bo-Kaap', x:41, y:24 },
+    { id:'citybowl', name:'City Bowl', x:54, y:27 }, { id:'seapoint', name:'Sea Point', x:29, y:22 },
+    { id:'campsbay', name:'Camps Bay', x:22, y:41 }, { id:'tablemtn', name:'Table Mtn', x:50, y:46, hideLabel:true },
+    { id:'woodstock', name:'Woodstock', x:69, y:25 }, { id:'obs', name:'Observatory', x:76, y:35 },
+    { id:'south', name:'Southern Subs', x:68, y:57 }, { id:'constantia', name:'Constantia', x:55, y:69 },
+    { id:'houtbay', name:'Hout Bay', x:29, y:63 }, { id:'muizenberg', name:'Muizenberg', x:74, y:85 },
+  ];
+
+  catsData = [
+    { key:'eat', label:'Restaurants & Cafés' }, { key:'bars', label:'Bars & Nightlife' },
+    { key:'outdoor', label:'Outdoors' }, { key:'classes', label:'Classes' },
+    { key:'chill', label:'Chill Spots' }, { key:'arts', label:'Arts & Culture' },
+    { key:'family', label:'Family' }, { key:'free', label:'Free' },
+  ];
+
+  collectionsData = [
+    { key:'lowkey', label:'Lowkey gems', desc:'Local favourites, low fuss', icon:'✦', ids:['obscafe','kalkfish','signalhill','bootlegger','superette','seapointprom'] },
+    { key:'firstdate', label:'First-date spots', desc:'Easy charm, good light', icon:'♥', ids:['kloof','causeeffect','sundowners','pottery','lionshead'] },
+    { key:'free', label:'Free this weekend', desc:'Big days out, zero cost', icon:'◎', ids:null },
+    { key:'rainy', label:'Rainy-day ideas', desc:'Great indoors', icon:'☂', ids:['zeitz','aquarium','truth','pottery','capemalay','obscafe'] },
+    { key:'sunset', label:'Sunset sessions', desc:'Golden-hour magic', icon:'☼', ids:['lionshead','sundowners','signalhill','seapointprom','campsbeach'] },
+    { key:'family', label:'Family day out', desc:'Kid-approved', icon:'✿', ids:['aquarium','boulders','constantiapicnic','campsbeach','biscuitmill'] },
+  ];
+
+  reviewPool = [
+    { name:'Lerato M.', initials:'LM', rating:5, when:'2 weeks ago', text:'Honestly one of the best afternoons we\u2019ve had in ages. Went on a friend\u2019s tip and it did not disappoint — will be back.' },
+    { name:'James van der Walt', initials:'JV', rating:4, when:'1 month ago', text:'Solid all round. Gets busy on weekends so go early. Prices are fair for what you get.' },
+    { name:'Aisha K.', initials:'AK', rating:5, when:'3 days ago', text:'Took visiting family here and everyone loved it. Staff were lovely and it\u2019s exactly as described.' },
+    { name:'Sipho D.', initials:'SD', rating:4, when:'2 months ago', text:'A proper Cape Town experience. Bring cash and comfortable shoes. Views were unreal.' },
+    { name:'Nadia P.', initials:'NP', rating:5, when:'5 weeks ago', text:'My new favourite. Quiet on a weekday morning which is exactly what I wanted.' },
+  ];
+
+  spotsData = [
+    { id:'truth', name:'Truth Coffee Roasting', cat:'eat', area:'citybowl', band:2, est:'R55–90 pp', rating:4.7, rc:1840, dh:'07:00 – 18:00', cd:[6], addr:'36 Buitenkant St, City Centre', phone:'+27 21 200 0440', tags:['coffee','industrial','work-friendly'], blurb:'Cathedral-like steampunk roastery pulling some of the best espresso in the city. Come for the coffee, stay for the theatre.' },
+    { id:'kloof', name:'Kloof Street House', cat:'eat', area:'citybowl', band:3, est:'R180–320 pp', rating:4.6, rc:2210, dh:'12:00 – 23:00', cd:[], addr:'30 Kloof St, Gardens', phone:'+27 21 423 4413', tags:['romantic','garden','dinner'], blurb:'A candle-lit Victorian house with a fairy-lit garden — the go-to for a special, slightly bohemian dinner.' },
+    { id:'superette', name:'Superette', cat:'eat', area:'woodstock', band:1, est:'R60–110 pp', rating:4.5, rc:640, dh:'08:00 – 15:30', cd:[6], addr:'66 Albert Rd, Woodstock', phone:'+27 21 802 5525', tags:['brunch','light lunch','local'], blurb:'Bright corner café inside the Woodstock arts precinct with seasonal salads, sandwiches and excellent baking.' },
+    { id:'kalkfish', name:'Kalk Bay Harbour Fish & Chips', cat:'eat', area:'muizenberg', band:1, est:'R70–120 pp', rating:4.3, rc:980, dh:'11:00 – 19:00', cd:[], addr:'Kalk Bay Harbour, Main Rd', phone:'+27 21 788 1120', tags:['seafood','casual','harbour'], blurb:'Fresh line-fish and chips eaten off the harbour wall while the seals beg. Peak lowkey Cape Town.' },
+    { id:'bootlegger', name:'Bootlegger Coffee Co.', cat:'eat', area:'seapoint', band:1, est:'R45–85 pp', rating:4.4, rc:1120, dh:'06:30 – 18:00', cd:[], addr:'80 Regent Rd, Sea Point', phone:'+27 21 433 2334', tags:['coffee','laptop-friendly','breakfast'], blurb:'Reliable neighbourhood roaster — plug in, order a flat white and a bacon-and-egg roll, and settle in.' },
+
+    { id:'yourstruly', name:'Yours Truly', cat:'bars', area:'citybowl', band:2, est:'R60–120 pp', rating:4.3, rc:760, dh:'10:00 – 23:59', cd:[], addr:'73 Kloof St, Gardens', phone:'+27 21 426 2035', tags:['lively','craft beer','young crowd'], blurb:'Buzzy Kloof Street bar-café with a rooftop, craft beers on tap and a permanently good-time crowd.' },
+    { id:'causeeffect', name:'Cause|Effect Cocktail Bar', cat:'bars', area:'waterfront', band:2, est:'R90–150 pp', rating:4.5, rc:540, dh:'12:00 – 23:59', cd:[], addr:'Shortmarket St, City Centre', phone:'+27 21 422 3040', tags:['cocktails','brandy','date night'], blurb:'Cape brandy bar with inventive cocktails and a warm, low-lit room — a proper grown-up night out.' },
+    { id:'sundowners', name:'Camps Bay Sundowner Deck', cat:'bars', area:'campsbay', band:3, est:'R120–220 pp', rating:4.6, rc:1980, dh:'11:00 – 23:00', cd:[], addr:'Victoria Rd, Camps Bay', phone:'+27 21 438 0000', tags:['sunset','sea views','glamorous'], blurb:'Cocktail in hand, feet toward the Twelve Apostles, sun melting into the Atlantic. The classic Cape Town sundowner.' },
+
+    { id:'tablemtn', name:'Table Mountain (Platteklip / Cableway)', cat:'outdoor', area:'tablemtn', band:0, est:'Free hike · R395 cable return', rating:4.9, rc:12400, dh:'08:00 – 18:00', cd:[], addr:'Tafelberg Rd, Table Mountain', phone:'+27 21 424 8181', tags:['hiking','views','iconic'], blurb:'Hike Platteklip Gorge or ride the rotating cable car to the top of the city\u2019s flat-topped icon. Endless views both ways.' },
+    { id:'lionshead', name:'Lion\u2019s Head Sunset Hike', cat:'outdoor', area:'citybowl', band:0, est:'Free', rating:4.8, rc:5600, dh:'00:00 – 23:59', cd:[], addr:'Signal Hill Rd trailhead', phone:'—', tags:['hiking','sunset','360° views'], blurb:'A spiralling 45–60 min climb to a 360° summit. Locals do it on full-moon nights with headlamps.' },
+    { id:'campsbeach', name:'Camps Bay Beach', cat:'outdoor', area:'campsbay', band:0, est:'Free', rating:4.7, rc:8900, dh:'00:00 – 23:59', cd:[], addr:'Victoria Rd, Camps Bay', phone:'—', tags:['beach','palm-lined','people-watching'], blurb:'Wide white sand under the mountains, lined with palms and cafés. Cold Atlantic water, unbeatable backdrop.' },
+    { id:'boulders', name:'Boulders Beach Penguins', cat:'outdoor', area:'muizenberg', band:1, est:'R95 entry', rating:4.7, rc:7300, dh:'08:00 – 17:00', cd:[], addr:'Kleintuin Rd, Simon\u2019s Town', phone:'+27 21 786 2329', tags:['penguins','family','boardwalk'], blurb:'A boardwalk through a colony of wild African penguins on a sheltered, boulder-strewn beach in Simon\u2019s Town.' },
+    { id:'seapointprom', name:'Sea Point Promenade', cat:'outdoor', area:'seapoint', band:0, est:'Free', rating:4.6, rc:4100, dh:'00:00 – 23:59', cd:[], addr:'Beach Rd, Sea Point', phone:'—', tags:['walk','ocean','sunset run'], blurb:'A 3km paved seafront promenade — walk, run, skate or just watch the waves crash and the sun go down.' },
+
+    { id:'surf', name:'Muizenberg Surf Lesson', cat:'classes', area:'muizenberg', band:2, est:'R450 · 2h group', rating:4.7, rc:430, dh:'08:00 – 16:00', cd:[], addr:'Surfer\u2019s Corner, Beach Rd', phone:'+27 21 788 9366', tags:['learn to surf','beginner','wetsuit incl.'], blurb:'Gentle beach-break and warm-ish water make Muizenberg the friendliest place in the country to catch a first wave.' },
+    { id:'pottery', name:'Woodstock Pottery Class', cat:'classes', area:'woodstock', band:2, est:'R550 · 2.5h', rating:4.6, rc:210, dh:'10:00 – 16:30', cd:[0,1], addr:'Albert Rd, Woodstock', phone:'+27 21 447 1000', tags:['hands-on','date idea','wheel throwing'], blurb:'Get your hands muddy at the wheel in a light-filled studio. Leave your piece to be fired and collect it later.' },
+    { id:'capemalay', name:'Cape Malay Cooking Class (Bo-Kaap)', cat:'classes', area:'bokaap', band:3, est:'R750 · half day', rating:4.8, rc:320, dh:'10:00 – 14:00', cd:[6], addr:'Wale St, Bo-Kaap', phone:'+27 21 422 0113', tags:['cooking','culture','you eat it'], blurb:'Roll roti and cook a fragrant curry in a family home in the Bo-Kaap, then sit down and eat the feast you made.' },
+
+    { id:'signalhill', name:'Signal Hill Sunset', cat:'chill', area:'citybowl', band:0, est:'Free', rating:4.7, rc:3200, dh:'00:00 – 23:59', cd:[], addr:'Signal Hill Rd', phone:'—', tags:['picnic','sunset','low effort'], blurb:'Drive right up, spread a blanket, crack something cold and watch the sun drop behind the sea. Zero effort, huge payoff.' },
+    { id:'obscafe', name:'A Hidden Obs Book Café', cat:'chill', area:'obs', band:1, est:'R40–80 pp', rating:4.4, rc:290, dh:'09:00 – 16:00', cd:[0], addr:'Lower Main Rd, Observatory', phone:'+27 21 447 5590', tags:['quiet','books','slow morning'], blurb:'Mismatched armchairs, second-hand books and bottomless filter coffee in bohemian Observatory. Bring a notebook.' },
+
+    { id:'zeitz', name:'Zeitz MOCAA', cat:'arts', area:'waterfront', band:2, est:'R240 entry', rating:4.6, rc:2600, dh:'10:00 – 18:00', cd:[1], addr:'Silo District, V&A Waterfront', phone:'+27 87 350 4777', tags:['contemporary art','architecture','Africa'], blurb:'Africa\u2019s largest contemporary art museum, carved out of a historic grain silo. Worth it for the building alone.' },
+    { id:'biscuitmill', name:'Old Biscuit Mill Market', cat:'arts', area:'woodstock', band:1, est:'R50–150 pp', rating:4.5, rc:5400, dh:'09:00 – 14:00', cd:[0,1,2,3,4,6], addr:'373–375 Albert Rd, Woodstock', phone:'+27 21 447 8194', tags:['food market','saturday','crafts'], blurb:'A Saturday-morning maze of food stalls, makers and design shops. Go early and go hungry.' },
+    { id:'bokaapwalk', name:'Bo-Kaap Streets & Photos', cat:'arts', area:'bokaap', band:0, est:'Free', rating:4.7, rc:6100, dh:'00:00 – 23:59', cd:[], addr:'Chiappini & Wale St, Bo-Kaap', phone:'—', tags:['heritage','colourful','walk'], blurb:'Cobbled streets of vivid painted houses on the slopes above the city — Cape Malay heritage and the most photogenic block in town.' },
+
+    { id:'aquarium', name:'Two Oceans Aquarium', cat:'family', area:'waterfront', band:2, est:'R255 adult · R120 kids', rating:4.6, rc:4700, dh:'09:30 – 18:00', cd:[], addr:'Dock Rd, V&A Waterfront', phone:'+27 21 418 3823', tags:['kids','rainy day','sharks'], blurb:'Where the Atlantic meets the Indian Ocean, indoors — a kelp forest, a predator tank and a kids\u2019 play zone.' },
+    { id:'constantiapicnic', name:'Constantia Wine Farm Picnic', cat:'family', area:'constantia', band:3, est:'R350 pp picnic', rating:4.5, rc:1300, dh:'11:00 – 16:00', cd:[], addr:'Constantia Main Rd', phone:'+27 21 794 5188', tags:['picnic','wine','lawns for kids'], blurb:'Sprawling vineyard lawns where grown-ups taste and kids run wild. Pre-book a picnic basket and claim a tree.' },
+  ];
+
+  dayNames = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
+  todayIdx(){ const d = new Date().getDay(); return d === 0 ? 6 : d - 1; }
+  parseHM(t){ const [h,m] = t.split(':').map(Number); return h*60+m; }
+  isOpenNow(sp){
+    if ((sp.cd||[]).includes(this.todayIdx())) return false;
+    const [o,c] = sp.dh.split(' – ');
+    const now = new Date(); const cur = now.getHours()*60 + now.getMinutes();
+    return cur >= this.parseHM(o) && cur <= this.parseHM(c);
+  }
+
+  band = (n) => n === 0 ? 'Free' : n === 1 ? 'R' : n === 2 ? 'RR' : 'RRR';
+  bandWord = (n) => n === 0 ? 'No cost' : n === 1 ? 'Budget' : n === 2 ? 'Mid-range' : 'Splurge';
+
+  palettes = {
+    eat:['#cf6a3f','#a94f28'], bars:['#7a4b6b','#59314d'], outdoor:['#3f7d5c','#2c5a41'],
+    classes:['#c58a3d','#9c6a26'], chill:['#5c7a8c','#3f5a69'], arts:['#a2593f','#7d3f2c'],
+    family:['#5b8f7a','#3f6b58'], free:['#7d8452','#5c623a'],
+  };
+  thumbStyleFor = (cat, w='92px', h='92px', angle=135) => {
+    const [a,b] = this.palettes[cat] || ['#8a8570','#63604f'];
+    return { flex:'0 0 auto', width:w, height:h, borderRadius:'12px', display:'flex', alignItems:'center', justifyContent:'center', overflow:'hidden',
+      backgroundImage:`repeating-linear-gradient(${angle}deg, ${a} 0 9px, ${b} 9px 18px)` };
+  };
+
+  catLabelFor = (k) => (this.catsData.find(c => c.key === k) || {}).label || k;
+  areaNameFor = (id) => (this.areasData.find(a => a.id === id) || {}).name || id;
+
+  select(id){ this.setState({ selected:id, screen:'detail' }); if(typeof window!=='undefined') window.scrollTo(0,0); }
+  toggleFav(id){ this.setState(s => { const f={...s.fav}; if(f[id]) delete f[id]; else f[id]=true; return { fav:f }; }); }
+  hash(str){ let h=0; for(let i=0;i<str.length;i++) h=(h*31+str.charCodeAt(i))>>>0; return h; }
+
+  decorate(sp){
+    const s = this.state; const open = this.isOpenNow(sp);
+    return {
+      id: sp.id, name: sp.name, blurb: sp.blurb,
+      catLabel: this.catLabelFor(sp.cat), areaLabel: this.areaNameFor(sp.area),
+      ratingText: sp.rating.toFixed(1), reviewCount: sp.rc >= 1000 ? (sp.rc/1000).toFixed(1)+'k' : String(sp.rc),
+      distText: sp.dist == null ? '' : (sp.dist < 1 ? Math.round(sp.dist*1000)+' m' : sp.dist.toFixed(1)+' km'),
+      priceMain: this.band(sp.band), priceSub: sp.band === 0 ? 'free' : sp.est,
+      thumbStyle: this.thumbStyleFor(sp.cat),
+      wideThumbStyle: this.thumbStyleFor(sp.cat, '100%', '120px', 120),
+      thumbLabel: 'photo: '+sp.name.split('(')[0].trim(),
+      openLabel: open ? 'Open now' : 'Closed',
+      openStyle: { display:'inline-flex', alignItems:'center', gap:'5px', fontSize:'12.5px', fontWeight:600, color: open ? '#2f7d52' : '#b5573f' },
+      favStyle: { width:'34px', height:'34px', borderRadius:'50%', border:'none', cursor:'pointer', fontSize:'16px', lineHeight:'1', flex:'0 0 auto',
+        background: s.fav[sp.id] ? '#cf6a3f' : 'rgba(44,74,59,0.08)', color: s.fav[sp.id] ? '#fff' : '#a49d8b', transition:'all .15s ease' },
+      onOpen: () => this.select(sp.id),
+      onFav: (e) => { e.stopPropagation(); this.toggleFav(sp.id); },
+    };
+  }
+
+  // deterministic pseudo-distance per spot (design placeholder for real geolocation)
+  distFor(sp){ return (this.hash(sp.id) % 280) / 10 + 0.4; }
+
+  renderVals(){
+    const s = this.state;
+    const q = s.query.trim().toLowerCase();
+    const withDist = this.spotsData.map(sp => ({ ...sp, dist: this.distFor(sp) }));
+
+    const matchQ = (sp) => !q || (sp.name+' '+this.areaNameFor(sp.area)+' '+sp.tags.join(' ')+' '+this.catLabelFor(sp.cat)).toLowerCase().includes(q);
+
+    // collection id set
+    let collectionIds = null;
+    if (s.collection){
+      const col = this.collectionsData.find(c => c.key === s.collection);
+      collectionIds = col.ids === null ? withDist.filter(x=>x.band===0).map(x=>x.id) : col.ids;
+    }
+
+    let list = withDist.filter(sp => {
+      if (collectionIds && !collectionIds.includes(sp.id)) return false;
+      if (s.cat === 'free') { if (sp.band !== 0) return false; }
+      else if (s.cat && sp.cat !== s.cat) return false;
+      if (s.area && sp.area !== s.area) return false;
+      if (s.freeOnly && sp.band !== 0) return false;
+      if (s.openNow && !this.isOpenNow(sp)) return false;
+      if (!matchQ(sp)) return false;
+      return true;
+    });
+
+    if (s.sort === 'near') list.sort((a,b)=>a.dist-b.dist);
+    else if (s.sort === 'rating') list.sort((a,b)=>b.rating-a.rating);
+    else if (s.sort === 'price') list.sort((a,b)=>a.band-b.band);
+
+    const spots = list.map(sp => this.decorate(sp));
+
+    // saved
+    const savedAll = withDist.filter(sp => s.fav[sp.id]);
+    let savedShown = savedAll;
+    if (s.savedTab === 'open') savedShown = savedAll.filter(sp => this.isOpenNow(sp));
+    else if (s.savedTab === 'free') savedShown = savedAll.filter(sp => sp.band === 0);
+    const savedSpots = savedShown.map(sp => this.decorate(sp));
+    const favCount = savedAll.length;
+
+    // category counts (respect area + search, ignore cat)
+    const pre = withDist.filter(sp => (!s.area || sp.area===s.area) && matchQ(sp) && (!collectionIds || collectionIds.includes(sp.id)));
+    const categories = this.catsData.map(c => {
+      const count = c.key==='free' ? pre.filter(x=>x.band===0).length : pre.filter(x=>x.cat===c.key).length;
+      const active = s.cat === c.key;
+      return { key:c.key, label:c.label, count,
+        style:{ flex:'0 0 auto', whiteSpace:'nowrap', display:'inline-flex', alignItems:'center', gap:'7px', cursor:'pointer', fontFamily:'inherit', fontSize:'13px', fontWeight:600, padding:'8px 14px', borderRadius:'999px', border: active?'1px solid #2c4a3b':'1px solid rgba(44,74,59,0.18)', background: active?'#2c4a3b':'#fffdf6', color: active?'#fff':'#3c4238' },
+        countStyle:{ fontSize:'11px', fontWeight:700, padding:'1px 6px', borderRadius:'999px', background: active?'rgba(255,255,255,0.22)':'rgba(44,74,59,0.09)', color: active?'#fff':'#7a7565' },
+        onClick: () => this.setState(st => ({ cat: st.cat===c.key?null:c.key })) };
+    });
+
+    // areas
+    const areas = this.areasData.map(a => {
+      const active = s.area === a.id;
+      return { id:a.id, name:a.name,
+        wrapStyle:{ position:'absolute', left:a.x+'%', top:a.y+'%', transform:'translate(-50%,-50%)', display:'flex', flexDirection:'column', alignItems:'center', gap:'2px', background:'none', border:'none', padding:'2px', cursor:'pointer', zIndex: active?5:2 },
+        dotStyle:{ width: active?'15px':'11px', height: active?'15px':'11px', borderRadius:'50%', background: active?'#cf6a3f':'#2c4a3b', border:'2px solid #fffdf6', boxShadow: active?'0 0 0 4px rgba(207,106,63,0.3)':'0 1px 3px rgba(0,0,0,0.3)', transition:'all .15s ease' },
+        labelStyle:{ fontSize:'9.5px', fontWeight:700, color: active?'#a94f28':'#3c5648', textShadow:'0 1px 2px rgba(255,255,255,0.7)', display: a.hideLabel?'none':'block' },
+        onClick: () => this.setState(st => ({ area: st.area===a.id?null:a.id })) };
+    });
+
+    // collections
+    const collections = this.collectionsData.map(c => {
+      const active = s.collection === c.key;
+      const count = c.ids === null ? withDist.filter(x=>x.band===0).length : c.ids.length;
+      const [pa] = this.palettes[c.key === 'free' ? 'free' : (c.key==='lowkey'?'chill':c.key==='firstdate'?'bars':c.key==='rainy'?'arts':c.key==='sunset'?'eat':'family')];
+      return { key:c.key, label:c.label, desc:c.desc, icon:c.icon, countLabel:count+' spots',
+        style:{ flex:'0 0 210px', display:'flex', flexDirection:'column', gap:'6px', textAlign:'left', cursor:'pointer', fontFamily:'inherit', padding:'16px', minHeight:'128px', borderRadius:'16px', border: active?'2px solid #2c4a3b':'1px solid rgba(44,74,59,0.14)', background: active?'#2c4a3b':'#fffdf6', color: active?'#fff':'#23281f' },
+        iconStyle:{ width:'34px', height:'34px', borderRadius:'10px', display:'flex', alignItems:'center', justifyContent:'center', fontSize:'17px', marginBottom:'2px', background: active?'rgba(255,255,255,0.16)':pa, color:'#fff' },
+        onClick: () => this.setState(st => ({ collection: st.collection===c.key?null:c.key, cat:null, area:null })) };
+    });
+
+    // sort options
+    const sorts = [ ['rec','Recommended'], ['near','Nearest'], ['rating','Top rated'], ['price','Price'] ];
+    const sortOptions = sorts.map(([k,l]) => {
+      const active = s.sort === k;
+      return { key:k, label:l,
+        style:{ cursor:'pointer', fontFamily:'inherit', fontSize:'13px', fontWeight:600, padding:'7px 13px', borderRadius:'999px', border:'none', background: active?'rgba(44,74,59,0.12)':'transparent', color: active?'#23281f':'#7a7565' },
+        onClick: () => this.setState({ sort:k }) };
+    });
+
+    const filterBtn = (on) => ({ cursor:'pointer', fontFamily:'inherit', fontSize:'13px', fontWeight:600, padding:'8px 14px', borderRadius:'999px', display:'inline-flex', alignItems:'center', gap:'6px', border: on?'1px solid #2f7d52':'1px solid rgba(44,74,59,0.18)', background: on?'#e6f0e6':'#fffdf6', color: on?'#2f7d52':'#3c4238' });
+
+    // detail
+    const selRaw = withDist.find(x => x.id === s.selected);
+    let detail = {};
+    if (selRaw){
+      const d = this.decorate(selRaw); const open = this.isOpenNow(selRaw);
+      const angles = [135, 45, 100];
+      const heroThumbs = [1,2].map(i => ({ style: this.thumbStyleFor(selRaw.cat, '100%', '100%', angles[i]) , label:'photo '+(i+1) , ...{} }));
+      const heroThumbsFixed = heroThumbs.map(t => ({ style:{ ...t.style, display:'flex', alignItems:'center', justifyContent:'center' }, label:t.label }));
+      const week = this.dayNames.map((d2,i) => {
+        const closed = (selRaw.cd||[]).includes(i); const isToday = i === this.todayIdx();
+        return { day:d2, time: closed ? 'Closed' : selRaw.dh, today:isToday,
+          style:{ display:'flex', justifyContent:'space-between', padding:'10px 15px', fontSize:'13.5px', borderBottom: i<6?'1px solid rgba(44,74,59,0.08)':'none', background: isToday?'rgba(207,106,63,0.08)':'transparent' },
+          weight: isToday?700:500, color: closed?'#b5573f':'#4a4f43' };
+      });
+      const rev = this.reviewPool.slice(0,3).map((r,i) => ({ ...r, initials:r.initials, stars:'★★★★★'.slice(0, r.rating), when:r.when,
+        avatarStyle:{ flex:'0 0 auto', width:'40px', height:'40px', borderRadius:'50%', display:'flex', alignItems:'center', justifyContent:'center', fontSize:'14px', fontWeight:700, background:['#2c4a3b','#cf6a3f','#7a4b6b'][i%3], color:'#fff' } }));
+      const sim = withDist.filter(x => x.cat===selRaw.cat && x.id!==selRaw.id).slice(0,4).map(x=>this.decorate(x));
+      const closedToday = (selRaw.cd||[]).includes(this.todayIdx());
+      detail = {
+        detailName: selRaw.name, detailBlurb: selRaw.blurb, detailCat: d.catLabel, detailArea: d.areaLabel,
+        detailRating: d.ratingText, detailReviewCount: selRaw.rc >= 1000 ? (selRaw.rc/1000).toFixed(1)+'k' : String(selRaw.rc),
+        detailDist: d.distText, detailOpenLabel: d.openLabel, detailOpenStyle: d.openStyle,
+        detailPriceMain: this.band(selRaw.band), detailBandLabel: this.bandWord(selRaw.band),
+        detailPriceSub: selRaw.band===0 ? 'Free — go anytime' : selRaw.est,
+        detailTagChips: selRaw.tags.map(t=>({label:t})),
+        detailAddress: selRaw.addr, detailPhone: selRaw.phone, detailWebsite: 'https://www.google.com/search?q='+encodeURIComponent(selRaw.name+' Cape Town'),
+        detailTodayHours: closedToday ? 'Closed today' : 'Today · '+selRaw.dh,
+        heroMainStyle: { ...this.thumbStyleFor(selRaw.cat,'100%','100%',135), borderRadius:'18px', alignItems:'flex-end', justifyContent:'flex-start', padding:'14px' },
+        heroMainLabel: 'photo: '+selRaw.name.split('(')[0].trim(),
+        heroThumbs: heroThumbsFixed.map(t=>({ style:{...t.style, borderRadius:'14px'}, label:t.label })),
+        weekRows: week, reviews: rev, similar: sim,
+        detailBookLink: 'https://www.google.com/search?q='+encodeURIComponent('book '+selRaw.name+' Cape Town'),
+        detailBookLabel: selRaw.cat==='eat'||selRaw.cat==='bars' ? 'Reserve a table' : selRaw.cat==='classes' ? 'Book a spot' : selRaw.band===0 ? 'How to get there' : 'Book tickets',
+        detailFav: () => this.toggleFav(selRaw.id),
+        detailFavLabel: s.fav[selRaw.id] ? '♥ Saved to your list' : '♡ Save',
+        detailFavStyle: { width:'100%', cursor:'pointer', fontFamily:'inherit', fontSize:'14px', fontWeight:700, padding:'12px', borderRadius:'12px', border:'1.5px solid rgba(44,74,59,0.2)', background: s.fav[selRaw.id]?'rgba(207,106,63,0.12)':'#fffdf6', color:'#2c4a3b' },
+        detailMapLink: 'https://www.google.com/maps/search/'+encodeURIComponent(selRaw.name+' Cape Town'),
+      };
+    }
+
+    // onboarding chips
+    const interestChips = this.interestsData.map(i => {
+      const on = s.interests[i.key];
+      return { key:i.key, label:i.label,
+        style:{ cursor:'pointer', fontFamily:'inherit', fontSize:'13.5px', fontWeight:600, padding:'9px 15px', borderRadius:'999px', border: on?'1px solid #2c4a3b':'1px solid rgba(44,74,59,0.2)', background: on?'#2c4a3b':'#fffdf6', color: on?'#fff':'#3c4238' },
+        onClick: () => this.setState(st => { const it={...st.interests}; if(it[i.key]) delete it[i.key]; else it[i.key]=true; return {interests:it}; }) };
+    });
+
+    // profile
+    const profileInterests = this.interestsData.filter(i=>s.interests[i.key]).map(i=>({label:i.label}));
+    const profileStats = [ {value:favCount, label:'Saved'}, {value:'0', label:'Visited'}, {value:'0', label:'Reviews'} ];
+    const settingsRows = [
+      {icon:'⚙', label:'Account & sign-in'}, {icon:'◎', label:'Location & distance units'},
+      {icon:'♥', label:'Manage your lists'}, {icon:'⚑', label:'Privacy (POPIA) & data'}, {icon:'ⓘ', label:'About Kaap'},
+    ];
+
+    // saved tabs
+    const savedTabsDef = [ ['all','All'], ['open','Open now'], ['free','Free'] ];
+    const savedTabs = savedTabsDef.map(([k,l]) => {
+      const active = s.savedTab===k;
+      const cnt = k==='all'?savedAll.length : k==='open'?savedAll.filter(sp=>this.isOpenNow(sp)).length : savedAll.filter(sp=>sp.band===0).length;
+      return { key:k, label:l, count:cnt,
+        style:{ cursor:'pointer', fontFamily:'inherit', fontSize:'13.5px', fontWeight:600, padding:'8px 15px', borderRadius:'999px', border:'none', display:'inline-flex', alignItems:'center', gap:'7px', background: active?'#2c4a3b':'#fffdf6', color: active?'#fff':'#3c4238' },
+        countStyle:{ fontSize:'11px', fontWeight:700, padding:'1px 6px', borderRadius:'999px', background: active?'rgba(255,255,255,0.22)':'rgba(44,74,59,0.09)', color: active?'#fff':'#7a7565' },
+        onClick: () => this.setState({ savedTab:k }) };
+    });
+
+    const name = s.name || 'there';
+    const initials = (s.name || 'You').trim().split(/\s+/).map(w=>w[0]).slice(0,2).join('').toUpperCase() || 'Y';
+    const hr = new Date().getHours();
+    const tod = hr<12?'morning':hr<18?'afternoon':'evening';
+
+    const navBase = { cursor:'pointer', fontFamily:'inherit', fontSize:'14px', fontWeight:600, padding:'8px 14px', borderRadius:'999px', border:'none', display:'inline-flex', alignItems:'center', gap:'7px' };
+
+    return {
+      showOnboard: s.screen==='onboard', showApp: s.screen!=='onboard',
+      showDiscover: s.screen==='discover', showDetail: s.screen==='detail', showSaved: s.screen==='saved', showProfile: s.screen==='profile',
+      // onboarding
+      obName: s.obName, onObName: (e)=>this.setState({obName:e.target.value}),
+      interestChips, obLocate: ()=>this.setState({located:true}),
+      obLocateLabel: s.located ? '✓ Using your location' : 'Use my current location',
+      obStart: ()=>this.setState({ screen:'discover', name:s.obName.trim() }),
+      // discover
+      greeting: 'Good '+tod+(s.name?', '+s.name.split(' ')[0]:'')+'.',
+      subGreeting: 'Here\u2019s what\u2019s good around Cape Town right now.',
+      collections, spots, areas, categories, sortOptions,
+      openNowBtnStyle: filterBtn(s.openNow), freeBtnStyle: filterBtn(s.freeOnly),
+      toggleOpenNow: ()=>this.setState(st=>({openNow:!st.openNow})),
+      toggleFree: ()=>this.setState(st=>({freeOnly:!st.freeOnly})),
+      areaHint: s.area ? this.areaNameFor(s.area)+' selected' : 'Tap an area to filter · '+this.spotsData.length+' spots',
+      listTitle: s.collection ? this.collectionsData.find(c=>c.key===s.collection).label : (s.area ? this.areaNameFor(s.area) : (s.cat ? (s.cat==='free'?'Free things to do':this.catLabelFor(s.cat)) : 'Everything to do')),
+      resultCount: spots.length + (spots.length===1?' spot':' spots'),
+      isEmpty: spots.length===0,
+      clearFilters: ()=>this.setState({ area:null, cat:null, query:'', collection:null, openNow:false, freeOnly:false }),
+      clearBtnStyle:{ cursor:'pointer', fontFamily:'inherit', fontSize:'12px', fontWeight:600, color:'#cf6a3f', background:'none', border:'1px solid rgba(207,106,63,0.4)', borderRadius:'999px', padding:'5px 12px' },
+      // saved
+      savedSpots, savedTabs, noSaved: favCount===0,
+      savedSubtitle: favCount ? favCount+(favCount===1?' spot':' spots')+' saved' : 'Tap the heart on any spot to build your list.',
+      // profile
+      profileName: s.name || 'Guest', profileInterests, noInterests: profileInterests.length===0,
+      profileStats, settingsRows, signOut: ()=>this.setState({ screen:'onboard', name:'', fav:{}, interests:{}, obName:'', located:false, collection:null }),
+      // chrome
+      favCount, initials, query:s.query, onSearch:(e)=>this.setState({query:e.target.value}),
+      goDiscover:()=>this.setState({screen:'discover', selected:null}),
+      goSaved:()=>this.setState({screen:'saved'}), goProfile:()=>this.setState({screen:'profile'}),
+      goBack:()=>this.setState({screen:'discover', selected:null}),
+      navDiscoverStyle:{ ...navBase, background: (s.screen==='discover'||s.screen==='detail')?'#2c4a3b':'transparent', color:(s.screen==='discover'||s.screen==='detail')?'#fff':'#3c4238' },
+      navSavedStyle:{ ...navBase, background: s.screen==='saved'?'#2c4a3b':'transparent', color: s.screen==='saved'?'#fff':'#3c4238' },
+      savedBadgeStyle:{ fontSize:'11px', fontWeight:700, minWidth:'18px', textAlign:'center', padding:'1px 6px', borderRadius:'999px', background: s.screen==='saved'?'rgba(255,255,255,0.22)':'#cf6a3f', color:'#fff' },
+      avatarStyle:{ width:'38px', height:'38px', borderRadius:'50%', border: s.screen==='profile'?'2px solid #cf6a3f':'2px solid transparent', cursor:'pointer', fontFamily:'inherit', fontSize:'13px', fontWeight:700, background:'#2c4a3b', color:'#fff', marginLeft:'2px' },
+      ...detail,
+    };
+  }
+
+  componentDidMount(){
+    const st = document.createElement('style');
+    st.textContent = '@media (min-width:900px){ .cctp-onboard-art{ display:block !important; } }';
+    document.head.appendChild(st);
+  }
+}
+</script>
+</body>
+</html>

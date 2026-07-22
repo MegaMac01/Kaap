@@ -1,0 +1,2317 @@
+[
+  {
+    "id": "ons-huisie-restaurant",
+    "name": "Ons Huisie Restaurant",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7995838,
+      "lng": 18.4589335
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 8602,
+    "address": "Stadler Rd, Bloubergstrand, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Fish, seafood and classic local dishes in a historic beachside house with views of Robben Island."
+  },
+  {
+    "id": "damhuis-restaurant",
+    "name": "Damhuis Restaurant",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7286375,
+      "lng": 18.4398431
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 6320,
+    "address": "32 Beach Rd, Melkbosstrand, Cape Town, 7437",
+    "phone": null,
+    "tags": [
+      "breakfast restaurant",
+      "historical landmark",
+      "historical place"
+    ],
+    "blurb": "Restaurant in Melkbosstrand."
+  },
+  {
+    "id": "jerrys-burger-bar-blouberg",
+    "name": "Jerry's Burger Bar Blouberg",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8228541,
+      "lng": 18.4777435
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 5726,
+    "address": "1st Floor, Portico Building, 1 Athens Rd, Bloubergstrand, Cape Town, 7439",
+    "phone": null,
+    "tags": [
+      "hamburger restaurant",
+      "american restaurant",
+      "restaurant"
+    ],
+    "blurb": "Hamburger Restaurant in Bloubergstrand."
+  },
+  {
+    "id": "seat-restaurant",
+    "name": "Seat Restaurant",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7919811,
+      "lng": 18.4572139
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 2444,
+    "address": "Big Bay Blvd, Big Bay, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "family restaurant"
+    ],
+    "blurb": "Restaurant in Big Bay."
+  },
+  {
+    "id": "petiscos",
+    "name": "Petiscos",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8183484,
+      "lng": 18.4965461
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 2260,
+    "address": "Parklands Main Road, Cavalier Centre, Parklands, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "portuguese restaurant",
+      "restaurant"
+    ],
+    "blurb": "Portuguese Restaurant in Parklands."
+  },
+  {
+    "id": "cape-town-fish-market-bloubergstrand",
+    "name": "Cape Town Fish Market Bloubergstrand",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7883084,
+      "lng": 18.4573467
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 2129,
+    "address": "Shop 42, Seaside Village, Cnr Otto Du Plessis Rd &, Cormorant Ave, Big Bay, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "seafood restaurant",
+      "sushi restaurant",
+      "family restaurant"
+    ],
+    "blurb": "Airy, modern seafood restaurant serving sushi & fresh fish, as well as grilled dishes."
+  },
+  {
+    "id": "ou-meul-melkbosstrand",
+    "name": "Ou Meul Melkbosstrand",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7356177,
+      "lng": 18.4561807
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 1439,
+    "address": "r27 W Coast Rd, Melkbosstrand, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Restaurant in Melkbosstrand."
+  },
+  {
+    "id": "portalia-pizzeria-deli",
+    "name": "Portalia Pizzeria & Deli",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.818977,
+      "lng": 18.5031486
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 940,
+    "address": "Hadjidakis Centre Cnr Raats Dr. &, Janssens Avenue, Table View, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "pizza restaurant",
+      "restaurant"
+    ],
+    "blurb": "Pizza Restaurant in Table View."
+  },
+  {
+    "id": "romans-pizza-milnerton",
+    "name": "Roman's Pizza Milnerton",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8622959,
+      "lng": 18.5031888
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 822,
+    "address": "Shop 33, The Paddocks Shopping Centre Cnr Grand National Boulevard &, Racecourse Rd, Milnerton, Cape Town, 7435",
+    "phone": null,
+    "tags": [
+      "pizza restaurant",
+      "fast food restaurant",
+      "pizza delivery"
+    ],
+    "blurb": "Pizza chain offering traditional and specialty pies cooked to order for takeaway or home delivery."
+  },
+  {
+    "id": "copper-club-sandown",
+    "name": "Copper Club - Sandown",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7997084,
+      "lng": 18.479281099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 599,
+    "address": "104 Sandown Rd, West Beach, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Restaurant in West Beach."
+  },
+  {
+    "id": "bootlegger-sandown-retail-crossing",
+    "name": "Bootlegger Sandown Retail Crossing",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7996103,
+      "lng": 18.5011983
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 406,
+    "address": "Shop 12A, Sandown Retail Crossing, Sandown Rd, Milnerton Rural, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "coffee shop",
+      "coffee roastery",
+      "cafe"
+    ],
+    "blurb": "Coffee Shop in Milnerton Rural."
+  },
+  {
+    "id": "all-in-the-kitchen-deli",
+    "name": "All in the Kitchen Deli",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8233551,
+      "lng": 18.4848295
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 391,
+    "address": "51 Blaauwberg Rd, Table View, Cape Town, 7439",
+    "phone": null,
+    "tags": [
+      "deli",
+      "breakfast restaurant",
+      "cafe"
+    ],
+    "blurb": "Deli in Table View."
+  },
+  {
+    "id": "atlantic-beach-hotel-melkbosstrand",
+    "name": "Atlantic Beach Hotel, Melkbosstrand",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7268717,
+      "lng": 18.4442326
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 332,
+    "address": "Cnr Commaille Road &, 13th Ave, Melkbosstrand, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "hotel",
+      "cafe",
+      "event venue"
+    ],
+    "blurb": "Laid-back quarters, some with sea views, in an unassuming hotel offering a bar/restaurant & parking."
+  },
+  {
+    "id": "andiccio24-sunset-beach",
+    "name": "Andiccio24 Sunset Beach",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8545267,
+      "lng": 18.4955404
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 287,
+    "address": "Corner Otto du Plessis Drive &, Ocean Way, Sunset Beach, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "pizza delivery",
+      "pizza restaurant",
+      "meal delivery"
+    ],
+    "blurb": "Pizza Delivery in Sunset Beach."
+  },
+  {
+    "id": "the-cinnamon-club",
+    "name": "The Cinnamon Club",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.804507,
+      "lng": 18.4750096
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 273,
+    "address": "8 The Courtyard Street, West Beach, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "cake shop",
+      "wholesaler",
+      "bakery"
+    ],
+    "blurb": "Cake Shop in West Beach."
+  },
+  {
+    "id": "reach-cafe",
+    "name": "REACH Cafe",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8228564,
+      "lng": 18.5033253
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 4.6,
+    "reviewCount": 215,
+    "address": "83 Janssens Avenue, Table View, Cape Town, 7439",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Restaurant in Table View."
+  },
+  {
+    "id": "waves-restaurant",
+    "name": "WAVES Restaurant",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8103081,
+      "lng": 18.469473999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.9,
+    "reviewCount": 212,
+    "address": "106 Beach Blvd, Table View, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Restaurant in Table View."
+  },
+  {
+    "id": "sunbird-restaurant",
+    "name": "Sunbird Restaurant",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.739798799999996,
+      "lng": 18.4523497
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 162,
+    "address": "1 Fairway Drive Melkbosstrand, Atlantic Beach Estate, Melkbosstrand, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Restaurant in Melkbosstrand."
+  },
+  {
+    "id": "romans-pizza-west-coast-village",
+    "name": "Roman's Pizza West Coast Village",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.804392,
+      "lng": 18.485347
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3,
+    "reviewCount": 120,
+    "address": "Shop 42(1, Cnr R27 and, West Coast Village Shopping Centre, Sandown Rd, Sunningdale, Cape Town, 7741",
+    "phone": null,
+    "tags": [
+      "pizza restaurant",
+      "fast food restaurant",
+      "meal takeaway"
+    ],
+    "blurb": "Pizza chain offering traditional and specialty pies cooked to order for takeaway or home delivery."
+  },
+  {
+    "id": "melkbosskerm",
+    "name": "Melkbosskerm",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.717450899999996,
+      "lng": 18.4489576
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 88,
+    "address": "Robben Rd, Melkbosstrand, Cape Town, 7437",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Restaurant in Melkbosstrand."
+  },
+  {
+    "id": "the-coffee-stop",
+    "name": "The Coffee Stop",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8024036,
+      "lng": 18.4601369
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 53,
+    "address": "20 Stadler Rd, Bloubergstrand, Cape Town, 7436",
+    "phone": null,
+    "tags": [
+      "coffee shop",
+      "food store",
+      "cafe"
+    ],
+    "blurb": "Coffee Shop in Bloubergstrand."
+  },
+  {
+    "id": "caffeine-cartel-coffee-truck",
+    "name": "Caffeine Cartel Coffee Truck",
+    "category": "eat",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8138326,
+      "lng": 18.4711368
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 17,
+    "address": "Blouberg Beach, Otto du Plessis Dr, Table View, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "coffee shop",
+      "food store",
+      "cafe"
+    ],
+    "blurb": "Coffee Shop in Table View."
+  },
+  {
+    "id": "blowfish-restaurant",
+    "name": "Blowfish Restaurant",
+    "category": "bars",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.829659,
+      "lng": 18.4815059
+    },
+    "priceBand": 3,
+    "priceEstimate": "R250–450 pp",
+    "rating": 4.1,
+    "reviewCount": 4354,
+    "address": "1 Marine Dr, Bloubergstrand, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "seafood restaurant",
+      "wine bar",
+      "sushi restaurant"
+    ],
+    "blurb": "Modern restaurant with a focus on fish and sushi, offering views of Table Mountain and the bay."
+  },
+  {
+    "id": "news-cafe-table-view",
+    "name": "News Cafe Table View",
+    "category": "bars",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8213831,
+      "lng": 18.4772271
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 3518,
+    "address": "1 Beach Blvd, Table View, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "cocktail bar",
+      "bar"
+    ],
+    "blurb": "Contemporary cafe/bar chain with an upbeat soundtrack, for cocktails, coffee & breakfast."
+  },
+  {
+    "id": "bossa-sunningdale",
+    "name": "Bossa Sunningdale",
+    "category": "bars",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8045814,
+      "lng": 18.4867536
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 2472,
+    "address": "Shop 55, West Coast Village Shopping Centre Corner West Coast &, Sandown Rd, Sunningdale, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "bar and grill",
+      "bar",
+      "restaurant"
+    ],
+    "blurb": "Bar & Grill in Sunningdale."
+  },
+  {
+    "id": "fancy-franks-sunset-beach",
+    "name": "Fancy Frank's Sunset Beach",
+    "category": "bars",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8548907,
+      "lng": 18.4953215
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 1939,
+    "address": "Seattle Coffee Company Ocean Square, 4 Ocean Way, Sunset Beach, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "bar and grill",
+      "pizza restaurant",
+      "bar"
+    ],
+    "blurb": "Bar & Grill in Sunset Beach."
+  },
+  {
+    "id": "the-hart",
+    "name": "The Hart",
+    "category": "bars",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7295598,
+      "lng": 18.4389872
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 1815,
+    "address": "Shop 4, Mira Mar Centre, 26 Beach Rd, Melkbosstrand, Cape Town, 7437",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "bistro",
+      "breakfast restaurant"
+    ],
+    "blurb": "Restaurant in Melkbosstrand."
+  },
+  {
+    "id": "reload-flamingo-square-centre",
+    "name": "Reload Flamingo Square Centre",
+    "category": "bars",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8301289,
+      "lng": 18.506431799999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 1450,
+    "address": "Shop 10 Flamingo Square Centre Corner of Blaauwberg Road, Study St, Table View, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "cafe",
+      "pizza restaurant",
+      "coffee shop"
+    ],
+    "blurb": "Cafe in Table View."
+  },
+  {
+    "id": "the-brazen-head-big-bay",
+    "name": "The Brazen Head Big Bay",
+    "category": "bars",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7883499,
+      "lng": 18.457304099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4,
+    "reviewCount": 633,
+    "address": "Seaside Village, Otto du Plessis Dr, Big Bay, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "bar and grill",
+      "bar"
+    ],
+    "blurb": "Restaurant in Big Bay."
+  },
+  {
+    "id": "melkbos-country-club",
+    "name": "Melkbos Country Club",
+    "category": "bars",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.716711,
+      "lng": 18.4486561
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 408,
+    "address": "1 Robben Rd, Melkbosstrand, Cape Town, 7437",
+    "phone": null,
+    "tags": [
+      "bar"
+    ],
+    "blurb": "Bar in Melkbosstrand."
+  },
+  {
+    "id": "baked-raats",
+    "name": "Baked Raats",
+    "category": "bars",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8212939,
+      "lng": 18.4930479
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 287,
+    "address": "22 Raats Dr, Table View, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "lounge bar",
+      "night club",
+      "bar"
+    ],
+    "blurb": "Lounge bar in Table View."
+  },
+  {
+    "id": "time-out-bar",
+    "name": "Time Out Bar",
+    "category": "bars",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8224838,
+      "lng": 18.5052993
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 265,
+    "address": "3 Merlot Ave, Table View, Cape Town, 7439",
+    "phone": null,
+    "tags": [
+      "bar"
+    ],
+    "blurb": "Bar in Table View."
+  },
+  {
+    "id": "le-petit-cafe-and-bar",
+    "name": "Le Petit Cafe and Bar",
+    "category": "bars",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.807029199999995,
+      "lng": 18.482173
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 215,
+    "address": "6 Sandown Rd, Blouberg Sands, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "cafe",
+      "bar"
+    ],
+    "blurb": "Cafe in Blouberg Sands."
+  },
+  {
+    "id": "misthom-lounge-shisha-bar",
+    "name": "Misthom Lounge & Shisha Bar",
+    "category": "bars",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.814729299999996,
+      "lng": 18.5033212
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 1.8,
+    "reviewCount": 37,
+    "address": "10A Parklands Main Rd, Parklands, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "bar and grill",
+      "bar",
+      "restaurant"
+    ],
+    "blurb": "Bar & Grill in Parklands."
+  },
+  {
+    "id": "heritage-lounge-and-restaurant",
+    "name": "Herit'Age Lounge and Restaurant",
+    "category": "bars",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8157175,
+      "lng": 18.497533
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.7,
+    "reviewCount": 19,
+    "address": "Unit C7B, Leonardo Park, Main Road, Parklands, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "lounge bar",
+      "night club",
+      "bar"
+    ],
+    "blurb": "Lounge bar in Parklands."
+  },
+  {
+    "id": "blouberg-beachfront",
+    "name": "Blouberg Beachfront",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.818435099999995,
+      "lng": 18.4741474
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.6,
+    "reviewCount": 3009,
+    "address": "Blouberg Beachfront, Milnerton Rural, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "beach",
+      "natural feature"
+    ],
+    "blurb": "Beach in Milnerton Rural."
+  },
+  {
+    "id": "blouberg-kite-surfing-beach",
+    "name": "Blouberg Kite Surfing Beach",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8208334,
+      "lng": 18.476736199999998
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.5,
+    "reviewCount": 1213,
+    "address": "Blouberg Kite Surfing Beach, Table View, Cape Town, 7439",
+    "phone": null,
+    "tags": [
+      "beach",
+      "natural feature"
+    ],
+    "blurb": "Beach in Table View."
+  },
+  {
+    "id": "sunset-beach",
+    "name": "Sunset Beach",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8543772,
+      "lng": 18.488624899999998
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.6,
+    "reviewCount": 952,
+    "address": "Sunset Beach",
+    "phone": null,
+    "tags": [
+      "beach",
+      "natural feature"
+    ],
+    "blurb": "Swimming & surfing along a stretch of shoreline with lodging, plus island & mountain views."
+  },
+  {
+    "id": "big-bay-blouberg",
+    "name": "Big Bay Blouberg",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7987105,
+      "lng": 18.4586406
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.6,
+    "reviewCount": 290,
+    "address": "Big Bay Blouberg, Stadler Rd, Bloubergstrand, Cape Town, 7436",
+    "phone": null,
+    "tags": [
+      "beach",
+      "natural feature"
+    ],
+    "blurb": "Beach in Bloubergstrand."
+  },
+  {
+    "id": "big-bay-beach",
+    "name": "Big Bay Beach",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7751808,
+      "lng": 18.4461507
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.7,
+    "reviewCount": 181,
+    "address": "Big Bay Beach",
+    "phone": null,
+    "tags": [
+      "beach",
+      "natural feature"
+    ],
+    "blurb": "Popular beach with eateries, restrooms & showers, known for surfing & sunset views."
+  },
+  {
+    "id": "duynefontein",
+    "name": "Duynefontein",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7089406,
+      "lng": 18.4432461
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.5,
+    "reviewCount": 142,
+    "address": "Duynefontein, 13 Strand Rd, Van Riebeeckstrand, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "beach",
+      "natural feature"
+    ],
+    "blurb": "Beach in Van Riebeeckstrand."
+  },
+  {
+    "id": "rietvlei-wetland-reserve",
+    "name": "Rietvlei Wetland Reserve",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8363928,
+      "lng": 18.4943311
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.3,
+    "reviewCount": 121,
+    "address": "8 Sandpiper Cres, Flamingo Vlei, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "tourist attraction",
+      "national park",
+      "park"
+    ],
+    "blurb": "National Park in Flamingo Vlei."
+  },
+  {
+    "id": "leonardo-dog-park",
+    "name": "Leonardo Dog Park",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8154574,
+      "lng": 18.4979011
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 3.9,
+    "reviewCount": 65,
+    "address": "21 Ravenscourt Rd, Parklands, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "dog park",
+      "park"
+    ],
+    "blurb": "Dog Park in Parklands."
+  },
+  {
+    "id": "regent-park",
+    "name": "Regent Park",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8183925,
+      "lng": 18.5038773
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 3.7,
+    "reviewCount": 52,
+    "address": "Regent Rd, Parklands, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "city park",
+      "park"
+    ],
+    "blurb": "City Park in Parklands."
+  },
+  {
+    "id": "little-bay-beach",
+    "name": "Little Bay Beach",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7454689,
+      "lng": 18.439845
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.5,
+    "reviewCount": 44,
+    "address": "Little Bay Beach",
+    "phone": null,
+    "tags": [
+      "beach",
+      "natural feature"
+    ],
+    "blurb": "Beach."
+  },
+  {
+    "id": "brander-park",
+    "name": "Brander Park",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.817646800000006,
+      "lng": 18.4776869
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.6,
+    "reviewCount": 41,
+    "address": "Bloubergrant, Cape Town, 7443",
+    "phone": null,
+    "tags": [
+      "city park",
+      "park"
+    ],
+    "blurb": "City Park in Bloubergrant."
+  },
+  {
+    "id": "sandown-road-park",
+    "name": "Sandown Road Park",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8032581,
+      "lng": 18.478507999999998
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.2,
+    "reviewCount": 38,
+    "address": "46 Sail St, Blouberg Sands, Cape Town, 7449",
+    "phone": null,
+    "tags": [
+      "city park",
+      "park"
+    ],
+    "blurb": "City Park in Blouberg Sands."
+  },
+  {
+    "id": "teal-bend-park",
+    "name": "Teal bend park",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.794855999999996,
+      "lng": 18.4844421
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.2,
+    "reviewCount": 34,
+    "address": "7441, Milnerton Rural, Cape Town",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Park in 7441."
+  },
+  {
+    "id": "clifton-park",
+    "name": "Clifton Park",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8052618,
+      "lng": 18.5070876
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4,
+    "reviewCount": 32,
+    "address": "111-113 Dorchester Dr, Parklands, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "city park",
+      "park"
+    ],
+    "blurb": "City Park in Parklands."
+  },
+  {
+    "id": "parkview-park",
+    "name": "Parkview Park",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.812177399999996,
+      "lng": 18.4924946
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.3,
+    "reviewCount": 25,
+    "address": "Parkview Cl, Sunningdale, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Park in Sunningdale."
+  },
+  {
+    "id": "echium-road-park",
+    "name": "Echium Road Park",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8196997,
+      "lng": 18.493618599999998
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.3,
+    "reviewCount": 23,
+    "address": "16 Echium Rd, Table View, Cape Town, 7439",
+    "phone": null,
+    "tags": [
+      "city park",
+      "park"
+    ],
+    "blurb": "City Park in Table View."
+  },
+  {
+    "id": "table-bay-nature-reserve",
+    "name": "Table Bay Nature Reserve",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8498544,
+      "lng": 18.5015033
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4,
+    "reviewCount": 22,
+    "address": "95 Bay Beach Ave, Sunset Beach, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "nature preserve",
+      "park",
+      "tourist attraction"
+    ],
+    "blurb": "Nature Preserve in Sunset Beach."
+  },
+  {
+    "id": "melkbos-reserve",
+    "name": "Melkbos RESERVE",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.727606699999995,
+      "lng": 18.442429999999998
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.5,
+    "reviewCount": 20,
+    "address": "Melkbos RESERVE, 8 10th Ave, Melkbosstrand, Cape Town, 7437",
+    "phone": null,
+    "tags": [
+      "beach",
+      "natural feature"
+    ],
+    "blurb": "Beach in Melkbosstrand."
+  },
+  {
+    "id": "mission-hills-park",
+    "name": "Mission Hills Park",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8008477,
+      "lng": 18.4902491
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 3.9,
+    "reviewCount": 17,
+    "address": "Mission Hills, Oakhill Village,, Sunningdale, Cape Town",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Park."
+  },
+  {
+    "id": "bloubergstrand",
+    "name": "Bloubergstrand",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7957563,
+      "lng": 18.4570629
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 3.7,
+    "reviewCount": 15,
+    "address": "Bloubergstrand",
+    "phone": null,
+    "tags": [
+      "beach",
+      "natural feature"
+    ],
+    "blurb": "Beach."
+  },
+  {
+    "id": "ster-kinekor-bayside",
+    "name": "Ster-Kinekor Bayside",
+    "category": "family",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.823515,
+      "lng": 18.488346699999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.9,
+    "reviewCount": 1421,
+    "address": "Blaauwberg Rd, Table View, Cape Town, 7439",
+    "phone": null,
+    "tags": [
+      "movie theater",
+      "confectionery",
+      "food store"
+    ],
+    "blurb": "Movie Theater in Table View."
+  },
+  {
+    "id": "milky-lane-total-tableview",
+    "name": "Milky Lane Total Tableview",
+    "category": "family",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8222551,
+      "lng": 18.4772264
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.9,
+    "reviewCount": 860,
+    "address": "Service Road, Table View, Cape Town, 7439",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "meal takeaway",
+      "dessert shop"
+    ],
+    "blurb": "Modern chain ice cream parlour serving sundaes, shakes, waffles & cakes to eat in or take away."
+  },
+  {
+    "id": "tube-wave",
+    "name": "Tube Wave",
+    "category": "family",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.726442299999995,
+      "lng": 18.441615499999997
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 4.3,
+    "reviewCount": 245,
+    "address": "Beach Rd, Melkbosstrand, Cape Town, 7437",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "dessert shop",
+      "confectionery"
+    ],
+    "blurb": "Ice Cream Shop in Melkbosstrand."
+  },
+  {
+    "id": "small-bay-park",
+    "name": "Small Bay Park",
+    "category": "family",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7981401,
+      "lng": 18.4592473
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 206,
+    "address": "7 Pelegrini St, Bloubergstrand, Cape Town, 7436",
+    "phone": null,
+    "tags": [
+      "playground"
+    ],
+    "blurb": "Playground in Bloubergstrand."
+  },
+  {
+    "id": "the-bubble-hub",
+    "name": "The bubble hub",
+    "category": "family",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7305533,
+      "lng": 18.4415333
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 152,
+    "address": "8 6th Ave, Melkbosstrand, Cape Town, 7437",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "dessert shop",
+      "confectionery"
+    ],
+    "blurb": "Ice Cream Shop in Melkbosstrand."
+  },
+  {
+    "id": "gatti-ice-cream-factory-shop",
+    "name": "Gatti Ice Cream Factory Shop",
+    "category": "family",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.80162,
+      "lng": 18.4937185
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 4,
+    "reviewCount": 84,
+    "address": "Shop 1 The Emporium Centre, Sandown Rd, Sunningdale, Cape Town",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "dessert shop",
+      "confectionery"
+    ],
+    "blurb": "Ice Cream Shop in Sandown Rd."
+  },
+  {
+    "id": "the-dairy-den-sandown-retail-crossing",
+    "name": "The Dairy Den - Sandown Retail Crossing",
+    "category": "family",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8010482,
+      "lng": 18.5033373
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "address": "Shop G12b, Cnr Wood Drive &, Sandown Rd, Parklands, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "dessert shop",
+      "confectionery"
+    ],
+    "blurb": "Ice Cream Shop in Parklands."
+  },
+  {
+    "id": "dolphin-beach",
+    "name": "Dolphin Beach",
+    "category": "family",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8294248,
+      "lng": 18.481788299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "address": "1 Marine Drive, Dolphin Beach, Tafelsig, Kaapstad, 7441",
+    "phone": null,
+    "tags": [
+      "playground"
+    ],
+    "blurb": "Playground in Tafelsig."
+  },
+  {
+    "id": "sempre-espresso",
+    "name": "Sempre Espresso",
+    "category": "family",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.813302199999995,
+      "lng": 18.4708395
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 21,
+    "address": "Blaauwberg, Otto du Plessis Dr, Table View, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "coffee stand",
+      "ice cream shop",
+      "dessert shop"
+    ],
+    "blurb": "Coffee Stand in Table View."
+  },
+  {
+    "id": "atlantic-beach-links",
+    "name": "Atlantic Beach Links",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.736046,
+      "lng": 18.4528279
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 863,
+    "address": "1 Fairway Drive, Melkbosstrand, Atlantic Beach Golf Estate, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "sports club",
+      "association or organization"
+    ],
+    "blurb": "Sports Club in Atlantic Beach Golf Estate."
+  },
+  {
+    "id": "the-thursty-turtle",
+    "name": "The Thursty Turtle",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8200564,
+      "lng": 18.4784203
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 4.2,
+    "reviewCount": 776,
+    "address": "Shop 2A, Blue Waters Centre, 2 Porterfield Rd, Table View, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "bar",
+      "sports bar",
+      "sports club"
+    ],
+    "blurb": "Bar in Table View."
+  },
+  {
+    "id": "sunningdale-sports-complex",
+    "name": "Sunningdale Sports Complex",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8026695,
+      "lng": 18.4868316
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 326,
+    "address": "Waterville St, Milnerton Rural, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "sports complex",
+      "sports activity location"
+    ],
+    "blurb": "Sports Complex in Milnerton Rural."
+  },
+  {
+    "id": "isla-malie-tropical-spa-tableview",
+    "name": "Isla Malie Tropical Spa Tableview",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.822549099999996,
+      "lng": 18.481681899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 286,
+    "address": "27 Blaauwberg Rd, Tableview, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "massage spa",
+      "yoga studio",
+      "juice shop"
+    ],
+    "blurb": "Massage spa in Tableview."
+  },
+  {
+    "id": "milnerton-aquatic-club",
+    "name": "Milnerton Aquatic Club",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8365128,
+      "lng": 18.4937141
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 241,
+    "address": "Grey Ave, Bloubergstrand, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "sports club",
+      "sports complex",
+      "sports activity location"
+    ],
+    "blurb": "Sports Club in Bloubergstrand."
+  },
+  {
+    "id": "tableview-sports-facility",
+    "name": "Tableview Sports Facility",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.829490899999996,
+      "lng": 18.487482099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 216,
+    "address": "Birkenhead Rd, Table View, 7441",
+    "phone": null,
+    "tags": [
+      "sports complex",
+      "sports club",
+      "association or organization"
+    ],
+    "blurb": "Sports Complex in Birkenhead Rd."
+  },
+  {
+    "id": "gracie-jiu-jitsu-cape-town",
+    "name": "Gracie Jiu Jitsu Cape Town",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.822456599999995,
+      "lng": 18.491638599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 160,
+    "address": "Delphi Arch Building, 12 Raats Dr, Table View, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "sports school",
+      "sports activity location",
+      "health"
+    ],
+    "blurb": "Sports School in Table View."
+  },
+  {
+    "id": "maximillian-jiu-jitsu",
+    "name": "Maximillian Jiu Jitsu",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.830987199999996,
+      "lng": 18.5066182
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 151,
+    "address": "Unit 22A, Flamingo Square, 212 Blaauwberg Rd, Table View, Cape Town, 7439",
+    "phone": null,
+    "tags": [
+      "gym",
+      "sports activity location",
+      "sports school"
+    ],
+    "blurb": "Sports School in Table View."
+  },
+  {
+    "id": "paintball-pyrozone",
+    "name": "Paintball PyroZone",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.717265600000005,
+      "lng": 18.4498612
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 137,
+    "address": "Robben Rd, Melkbosstrand, 7437",
+    "phone": null,
+    "tags": [
+      "paintball center",
+      "sports complex",
+      "athletic field"
+    ],
+    "blurb": "Paintball Center in Robben Rd."
+  },
+  {
+    "id": "khaya-kite-and-yoga-house",
+    "name": "Khaya Kite and Yoga House",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.816728399999995,
+      "lng": 18.4798475
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 94,
+    "address": "8 Crinum Rd, Table View, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "hostel",
+      "guest house",
+      "sauna"
+    ],
+    "blurb": "Simple dorms & warm rooms in a laid-back hostel offering an outdoor pool, daily yoga & a kitchen."
+  },
+  {
+    "id": "watersports-warehouse",
+    "name": "Watersports Warehouse",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8227674,
+      "lng": 18.477896299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 83,
+    "address": "Shop 1, Portico 3, Athens Rd, Bloubergstrand, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "sports coaching",
+      "sporting goods store",
+      "school"
+    ],
+    "blurb": "Store in Bloubergstrand."
+  },
+  {
+    "id": "chaitanya-school-of-yoga",
+    "name": "Chaitanya School of Yoga",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8156949,
+      "lng": 18.4974998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 73,
+    "address": "Unit C11 Leonardo Park Corner Link and, Parklands Main Rd, Parklands, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "yoga studio",
+      "fitness center",
+      "sports complex"
+    ],
+    "blurb": "Yoga Studio in Parklands."
+  },
+  {
+    "id": "united-krav-maga",
+    "name": "United Krav Maga",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8183068,
+      "lng": 18.4965825
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 69,
+    "address": "Cavalier centre, 2 Parklands Main Rd, Parklands, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "fitness center",
+      "gym",
+      "sports activity location"
+    ],
+    "blurb": "Sports School in Parklands."
+  },
+  {
+    "id": "fitbae-inc",
+    "name": "fitbae inc.",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8240003,
+      "lng": 18.4847993
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 56,
+    "address": "60 Blaauwberg Rd, Table View, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "fitness center",
+      "gym",
+      "sports activity location"
+    ],
+    "blurb": "Fitness center in Table View."
+  },
+  {
+    "id": "boardrooms-kite-coworking-accommodation",
+    "name": "Boardrooms Kite & Coworking Accommodation",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8149678,
+      "lng": 18.4773612
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 50,
+    "address": "16 Spray Rd, Bloubergstrand, Cape Town, 7443",
+    "phone": null,
+    "tags": [
+      "hotel",
+      "coworking space",
+      "gym"
+    ],
+    "blurb": "Hotel in Bloubergstrand."
+  },
+  {
+    "id": "house-of-movement",
+    "name": "House of Movement",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.799822999999996,
+      "lng": 18.460941899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 49,
+    "address": "34 Sir David Baird Dr, Bloubergstrand, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "yoga studio",
+      "fitness center",
+      "gym"
+    ],
+    "blurb": "Yoga Studio in Bloubergstrand."
+  },
+  {
+    "id": "big-bay-events",
+    "name": "Big Bay Events",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.793565,
+      "lng": 18.457278
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 41,
+    "address": "Otto du Plessis Dr, Big Bay, Cape Town, 7448",
+    "phone": null,
+    "tags": [
+      "sports club",
+      "association or organization"
+    ],
+    "blurb": "Sports Club in Big Bay."
+  },
+  {
+    "id": "ocean-reef-swim-school",
+    "name": "Ocean Reef Swim School",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8190461,
+      "lng": 18.4816045
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 31,
+    "address": "7 Crassula Rd, Table View, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "sports school",
+      "sports activity location"
+    ],
+    "blurb": "Sports School in Table View."
+  },
+  {
+    "id": "giants-gymnastics",
+    "name": "Giants Gymnastics",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8063813,
+      "lng": 18.4995762
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "address": "Grace Baptist Church, 77 Ringwood Dr, Parklands, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "sports club",
+      "association or organization"
+    ],
+    "blurb": "Sports Club in Parklands."
+  },
+  {
+    "id": "eda-krav-maga-self-defence",
+    "name": "EDA Krav Maga Self Defence",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.742372700000004,
+      "lng": 18.4528885
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 25,
+    "address": "8 Harbour Lights Ln, Melkbosstrand, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "educational institution",
+      "sports school",
+      "sports activity location"
+    ],
+    "blurb": "Sports School in Melkbosstrand."
+  },
+  {
+    "id": "laughing-waters-swim-school-milnerton-ca",
+    "name": "Laughing Waters Swim School - Milnerton, Cape Town",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.856066399999996,
+      "lng": 18.506198599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 23,
+    "address": "21 Fairview Cres, Milnerton Ridge, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "school",
+      "educational institution",
+      "sports school"
+    ],
+    "blurb": "Sports School in Milnerton Ridge."
+  },
+  {
+    "id": "madx-muay-thai-boxing-fitness",
+    "name": "MadX Muay Thai Boxing Fitness",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7806595,
+      "lng": 18.4543554
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 21,
+    "address": "La Paloma, 26 Santa Cruz Cres, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "sports coaching",
+      "gym",
+      "sports complex"
+    ],
+    "blurb": "Sports Coaching in 26 Santa Cruz Cres."
+  },
+  {
+    "id": "inmotion-create-your-balance",
+    "name": "INMOTION – CREATE YOUR BALANCE",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8506964,
+      "lng": 18.4900692
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "address": "23 Soluta St, Sunset Beach, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "yoga studio",
+      "fitness center",
+      "tourist attraction"
+    ],
+    "blurb": "Local spot in Sunset Beach."
+  },
+  {
+    "id": "venus-yoga-studio-sunset-beach-cape-town",
+    "name": "Venus Yoga Studio, Sunset Beach, Cape Town",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.853943099999995,
+      "lng": 18.4899533
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 15,
+    "address": "7 Volute Cir, Sunset Beach, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "yoga studio",
+      "fitness center",
+      "sports complex"
+    ],
+    "blurb": "Yoga Studio in Sunset Beach."
+  },
+  {
+    "id": "melkbosstrand-oppiesee-cultural-centre",
+    "name": "Melkbosstrand Oppiesee Cultural Centre",
+    "category": "arts",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7405372,
+      "lng": 18.4392925
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 163,
+    "address": "Otto du Plessis Dr",
+    "phone": null,
+    "tags": [
+      "cultural center"
+    ],
+    "blurb": "Cultural Center."
+  },
+  {
+    "id": "studio-46",
+    "name": "Studio 46",
+    "category": "arts",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.800464,
+      "lng": 18.459004399999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 52,
+    "address": "46 Stadler Rd, Bloubergstrand, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "art gallery",
+      "jewelry store",
+      "service"
+    ],
+    "blurb": "Art Gallery in Bloubergstrand."
+  },
+  {
+    "id": "ohana-beauty-and-wellness-day-spa",
+    "name": "Ohana Beauty and Wellness Day Spa",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8101807,
+      "lng": 18.469415899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 222,
+    "address": "Blaauwberg Beach Hotel, 106 Beach Blvd, Table View, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "spa"
+    ],
+    "blurb": "Spa in Table View."
+  },
+  {
+    "id": "naree-authentic-thai-massage",
+    "name": "Naree Authentic Thai Massage",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8620022,
+      "lng": 18.5025688
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 179,
+    "address": "First Floor Paddocks shopping centre Racecourse Road Racecourse Rd Milnerton Cape Town ZA 7441, Racecourse Rd, Milnerton, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "massage spa",
+      "massage",
+      "spa"
+    ],
+    "blurb": "Massage in Milnerton."
+  },
+  {
+    "id": "sawasdee-thai-spa",
+    "name": "Sawasdee Thai Spa",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.815514,
+      "lng": 18.4937124
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 161,
+    "address": "Intercare Medical & Dental Centre Park drive &, Link Rd, Parklands, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "massage",
+      "spa",
+      "service"
+    ],
+    "blurb": "Massage in Parklands."
+  },
+  {
+    "id": "wasana-thai-massage",
+    "name": "Wasana Thai Massage",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8250491,
+      "lng": 18.4916456
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 133,
+    "address": "Blaauwberg Therapy Centre, 103 Blaauwberg Rd, Table View, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "massage spa",
+      "massage",
+      "spa"
+    ],
+    "blurb": "Massage in Table View."
+  },
+  {
+    "id": "asianblendspa-home-of-tranquility",
+    "name": "AsianblendSpa Home of Tranquility",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.816583699999995,
+      "lng": 18.484010899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 116,
+    "address": "55 Porterfield Rd, Bloubergstrand, Cape Town, 7436",
+    "phone": null,
+    "tags": [
+      "massage spa",
+      "massage",
+      "spa"
+    ],
+    "blurb": "Massage spa in Bloubergstrand."
+  },
+  {
+    "id": "nirvana-nook-wellness-spa",
+    "name": "Nirvana Nook Wellness Spa",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8231542,
+      "lng": 18.505446799999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 100,
+    "address": "12 Merlot Ave, Table View, Cape Town, 7439",
+    "phone": null,
+    "tags": [
+      "massage spa",
+      "beauty salon",
+      "massage"
+    ],
+    "blurb": "Massage spa in Table View."
+  },
+  {
+    "id": "chiang-mai-thai-spa-massage",
+    "name": "Chiang Mai Thai Spa Massage",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.729932,
+      "lng": 18.439856
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 81,
+    "address": "17 6th Ave, Melkbosstrand, Cape Town, 7437",
+    "phone": null,
+    "tags": [
+      "spa",
+      "massage",
+      "service"
+    ],
+    "blurb": "Massage in Melkbosstrand."
+  },
+  {
+    "id": "rejuva-spa",
+    "name": "Rejuva Spa",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.788269,
+      "lng": 18.4575672
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 68,
+    "address": "39, Seaside Village Centre, Big Bay, Cape Town, 1446",
+    "phone": null,
+    "tags": [
+      "spa"
+    ],
+    "blurb": "Spa in Big Bay."
+  },
+  {
+    "id": "elim-spa-pedicure-products",
+    "name": "Elim Spa Pedicure Products",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.72712,
+      "lng": 18.44352
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 61,
+    "address": "Elim House, 1 12th Ave, Melkbosstrand, Cape Town, 7437",
+    "phone": null,
+    "tags": [
+      "cosmetics store",
+      "spa",
+      "educational institution"
+    ],
+    "blurb": "Cosmetics Store in Melkbosstrand."
+  },
+  {
+    "id": "lilac-beauty-lashes-skin-brows",
+    "name": "Lilac Beauty. Lashes, Skin & Brows",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.743769199999996,
+      "lng": 18.4493732
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 47,
+    "address": "18 Atlantic Beach Dr, Melkbosstrand, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "beauty salon",
+      "massage spa",
+      "skin care clinic"
+    ],
+    "blurb": "Beauty Salon in Melkbosstrand."
+  },
+  {
+    "id": "chalila-spa-wellness",
+    "name": "Chalila Spa & Wellness",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8357596,
+      "lng": 18.4942592
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 42,
+    "address": "20 Sandpiper Cres, Table View, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "spa",
+      "beauty salon",
+      "massage spa"
+    ],
+    "blurb": "Spa in Table View."
+  },
+  {
+    "id": "basic-touch-health-beauty-clinic-cc",
+    "name": "Basic Touch Health & Beauty Clinic cc",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8171162,
+      "lng": 18.4975173
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 42,
+    "address": "Shop 6, 14 Parklands Walk, Parklands, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "spa",
+      "health"
+    ],
+    "blurb": "Spa in Parklands."
+  },
+  {
+    "id": "atlantic-boutique",
+    "name": "Atlantic Boutique",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.739798799999996,
+      "lng": 18.4523497
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 36,
+    "address": "1 Fairway Drive Atlantic Beach Golf Estate, Melkbosstrand, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "beauty salon",
+      "massage spa",
+      "nail salon"
+    ],
+    "blurb": "Beauty Salon in Melkbosstrand."
+  },
+  {
+    "id": "the-jacobs-cottage",
+    "name": "The Jacobs Cottage",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.835049999999995,
+      "lng": 18.497709999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "address": "60 Pentz Dr, Flamingo Vlei, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "massage spa",
+      "massage",
+      "spa"
+    ],
+    "blurb": "Massage spa in Flamingo Vlei."
+  },
+  {
+    "id": "blonde-beard",
+    "name": "Blonde&Beard",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.792498699999996,
+      "lng": 18.4584266
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 27,
+    "address": "Eden on the Bay Big Bay, Big Bay, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "hair salon",
+      "makeup artist",
+      "nail salon"
+    ],
+    "blurb": "Hair Salon in Big Bay."
+  },
+  {
+    "id": "gaia-guest-house-health-hydro",
+    "name": "Gaia Guest House & Health Hydro",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8570257,
+      "lng": 18.4941225
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.6,
+    "reviewCount": 26,
+    "address": "29 Diluta Dr, Sunset Beach, Milnerton, 7441",
+    "phone": null,
+    "tags": [
+      "guest house",
+      "spa",
+      "lodging"
+    ],
+    "blurb": "Guest House in Sunset Beach."
+  },
+  {
+    "id": "ozone-hocatt-therapy-at-genesis-03-welln",
+    "name": "Ozone Hocatt Therapy at Genesis 03 Wellness",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8379036,
+      "lng": 18.5090303
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 25,
+    "address": "180 Pentz Dr, Flamingo Vlei, Cape Town, 7411",
+    "phone": null,
+    "tags": [
+      "spa",
+      "health"
+    ],
+    "blurb": "Spa in Flamingo Vlei."
+  },
+  {
+    "id": "blouberg-medi-spa",
+    "name": "Blouberg Medi Spa",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8074654,
+      "lng": 18.4810056
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 25,
+    "address": "7 Sandown Rd, West Beach, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "spa",
+      "health"
+    ],
+    "blurb": "Spa in West Beach."
+  }
+]

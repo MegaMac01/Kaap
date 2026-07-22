@@ -1,0 +1,6366 @@
+{
+  "truth": {
+    "placeId": "ChIJk0_6kHxnzB0R9hOYtdW5I_s",
+    "googleName": "Truth Coffee Roasting",
+    "coords": {
+      "lat": -33.92819,
+      "lng": 18.4226889
+    },
+    "rating": 4.5,
+    "reviewCount": 5809,
+    "phone": "+27 21 201 7000",
+    "website": "https://www.truth.capetown/",
+    "address": "36 Buitenkant St, Cape Town City Centre, Cape Town, 8000",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "kloof": {
+    "placeId": "ChIJ_Tc00XFnzB0R1TIppn46x4I",
+    "googleName": "Kloof Street House",
+    "coords": {
+      "lat": -33.9282119,
+      "lng": 18.412091699999998
+    },
+    "rating": 4.4,
+    "reviewCount": 5586,
+    "phone": "+27 21 423 4413",
+    "website": "http://www.kloofstreethouse.co.za/",
+    "address": "30 Kloof St, Gardens, Cape Town, 8005",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "superette": {
+    "placeId": "ChIJK6aeaJldzB0RV9QjxQrqqbs",
+    "googleName": "Superette",
+    "coords": {
+      "lat": -33.9265137,
+      "lng": 18.4460905
+    },
+    "rating": 4.3,
+    "reviewCount": 424,
+    "phone": "+27 21 447 5352",
+    "website": null,
+    "address": "66 Albert Rd, Woodstock, Cape Town, 7915",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "kalkfish": {
+    "placeId": "ChIJ8SkpLY1BzB0RMPl2PmlbuTg",
+    "googleName": "Kalky’s",
+    "coords": {
+      "lat": -34.1290494,
+      "lng": 18.4488229
+    },
+    "rating": 4.2,
+    "reviewCount": 2460,
+    "phone": "+27 21 788 1726",
+    "website": "https://www.eatout.co.za/venue/kalkys/",
+    "address": "Harbour, Cape Town, 7990",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "bootlegger": {
+    "placeId": "ChIJ6TdBjCFnzB0RM8gdI-9aXEs",
+    "googleName": "Bootlegger XS Sea Point",
+    "coords": {
+      "lat": -33.9197462,
+      "lng": 18.385467
+    },
+    "rating": 4.2,
+    "reviewCount": 956,
+    "phone": "+27 21 434 0060",
+    "website": "https://ourcafes.bootlegger.coffee/FoodDrink-CapeTown-BootleggerXSSeaPoint",
+    "address": "39 Regent Rd, Sea Point, Cape Town, 8060",
+    "hours": {
+      "mon": [
+        {
+          "open": "06:30",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:30",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:30",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:30",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "06:30",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "ontherocks": {
+    "placeId": "ChIJKx5cP2L1zB0RHlcsDjHf1W4",
+    "googleName": "On the Rocks Restaurant",
+    "coords": {
+      "lat": -33.8005721,
+      "lng": 18.4586361
+    },
+    "rating": 4.3,
+    "reviewCount": 4332,
+    "phone": "+27 21 554 1988",
+    "website": "http://www.ontherocks.co.za/",
+    "address": "45 Stadler Rd, Bloubergstrand, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "yourstruly": {
+    "placeId": "ChIJrd6WymhnzB0RtAbmT_Q9mhc",
+    "googleName": "Yours Truly",
+    "coords": {
+      "lat": -33.9302078,
+      "lng": 18.4109002
+    },
+    "rating": 4.3,
+    "reviewCount": 2729,
+    "phone": "+27 69 572 4837",
+    "website": "http://www.allyoursco.com/",
+    "address": "73 Kloof St, Schotsche Kloof, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "causeeffect": {
+    "placeId": "ChIJMSWE43FnzB0Rjil_wEY8TfA",
+    "googleName": "Cause Effect Cocktail Kitchen",
+    "coords": {
+      "lat": -33.9052339,
+      "lng": 18.4192207
+    },
+    "rating": 4.2,
+    "reviewCount": 1804,
+    "phone": "+27 21 879 0855",
+    "website": "http://causeandeffect.co.za/",
+    "address": "The Rocket Shed, 280 Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "01:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "01:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "01:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "01:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "01:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "01:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "01:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "bluepeter": {
+    "placeId": "ChIJGcz1jWP1zB0RwIR_FQAKMX4",
+    "googleName": "The Blue Peter Hotel",
+    "coords": {
+      "lat": -33.7963172,
+      "lng": 18.458799499999998
+    },
+    "rating": 4.3,
+    "reviewCount": 7286,
+    "phone": "+27 21 554 1956",
+    "website": "http://www.bluepeter.co.za/",
+    "address": "8 Popham St, Bloubergstrand, Cape Town, 7436",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "tablemtn": {
+    "placeId": "ChIJ_2wa9o1nzB0R64vZmO-aVvg",
+    "googleName": "Platteklip Gorge Starting Point",
+    "coords": {
+      "lat": -33.9553849,
+      "lng": 18.4157838
+    },
+    "rating": 4.7,
+    "reviewCount": 1761,
+    "phone": "+27 76 381 9710",
+    "website": "https://platteklipgorge.co.za/",
+    "address": "Tafelberg Rd, Table Mountain (Nature Reserve), Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "lionshead": {
+    "placeId": "ChIJ3c0kTQRnzB0RHyTnI5OYSd4",
+    "googleName": "Lion's Head Hiking Trail",
+    "coords": {
+      "lat": -33.9368154,
+      "lng": 18.3948401
+    },
+    "rating": 4.8,
+    "reviewCount": 3104,
+    "phone": "+27 81 762 5551",
+    "website": "http://www.hikelionshead.co.za/",
+    "address": "Signal Hill Rd, Signal Hill, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "campsbeach": {
+    "placeId": "ChIJuUZtdVNmzB0R-7OvUK-IBzE",
+    "googleName": "Camps Bay Beach",
+    "coords": {
+      "lat": -33.9506605,
+      "lng": 18.3776413
+    },
+    "rating": 4.7,
+    "reviewCount": 2244,
+    "phone": null,
+    "website": null,
+    "address": "Camps Bay Beach, Cape Town, 8005",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "boulders": {
+    "placeId": "ChIJKeByCDY-zB0RECn0gAHgvHw",
+    "googleName": "Boulders Beach",
+    "coords": {
+      "lat": -34.1956153,
+      "lng": 18.4503585
+    },
+    "rating": 4.6,
+    "reviewCount": 28543,
+    "phone": "+27 21 786 2329",
+    "website": "https://www.sanparks.org/parks/table_mountain/tourism/attractions.php#boulders",
+    "address": "Simon's Town, Cape Town, 7995",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "18:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "18:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "18:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "18:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "18:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "18:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "18:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "seapointprom": {
+    "placeId": "ChIJPbtn3yRnzB0RlkvEzyY2FMs",
+    "googleName": "Sea Point Promenade",
+    "coords": {
+      "lat": -33.9117056,
+      "lng": 18.3884009
+    },
+    "rating": null,
+    "reviewCount": null,
+    "phone": null,
+    "website": null,
+    "address": "Sea Point Promenade, Cape Town, 8005",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "bloubergbeach": {
+    "placeId": "ChIJkZEvSQpfzB0Rfg2XVG32CvM",
+    "googleName": "Bloubergstrand Beach",
+    "coords": {
+      "lat": -33.8246357,
+      "lng": 18.4775347
+    },
+    "rating": 4.6,
+    "reviewCount": 2677,
+    "phone": null,
+    "website": null,
+    "address": "Bloubergstrand Beach, 2 Marine Dr, Table View, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "surf": {
+    "placeId": "ChIJAym3sVZAzB0Rkrtalkql8Z0",
+    "googleName": "Surf Emporium - Muizenberg Surf School & Muizenberg Surf Shop",
+    "coords": {
+      "lat": -34.107826599999996,
+      "lng": 18.4704731
+    },
+    "rating": 4.7,
+    "reviewCount": 292,
+    "phone": "+27 21 788 8687",
+    "website": "https://surfemporium.co.za/",
+    "address": "Surfers Corner, 72 Beach Rd, Muizenberg, Cape Town, 7945",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "17:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "17:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "17:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "17:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "17:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "17:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "pottery": {
+    "placeId": "ChIJq-s09MddzB0Rpq-a9FanD0o",
+    "googleName": "Clay Hands",
+    "coords": {
+      "lat": -33.929949,
+      "lng": 18.450709
+    },
+    "rating": 4.9,
+    "reviewCount": 42,
+    "phone": "+27 73 414 7777",
+    "website": "http://www.clayhands.co.za/",
+    "address": "196 Victoria Rd, Woodstock, Cape Town, 7925",
+    "hours": {
+      "mon": [
+        {
+          "open": "18:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "18:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:30",
+          "close": "12:30"
+        },
+        {
+          "open": "18:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "18:00",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:30",
+          "close": "12:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "capemalay": {
+    "placeId": "ChIJ7UiTVQBnzB0RmIN2Zy0Ro5U",
+    "googleName": "Cape Malay Cooking Class in Bo-Kaap",
+    "coords": {
+      "lat": -33.925619999999995,
+      "lng": 18.411279999999998
+    },
+    "rating": 5,
+    "reviewCount": 1,
+    "phone": null,
+    "website": "https://www.getyourguide.com/cape-town-l103/cape-town-cape-malay-cooking-class-in-bo-kaap-t344546/?partner_id=PCP3E0Y&currency=USD&travel_agent=1&cmp=share_to_earn",
+    "address": "67A Jordaan St, Schotsche Kloof, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "kitesurf": {
+    "placeId": "ChIJb6UFtJ1fzB0RVCUGlgeOcw4",
+    "googleName": "High Five Kitesurf School Cape Town",
+    "coords": {
+      "lat": -33.8146623,
+      "lng": 18.4723765
+    },
+    "rating": 4.8,
+    "reviewCount": 269,
+    "phone": "+27 75 049 3822",
+    "website": "https://www.high-five.co.za/",
+    "address": "68 Beach Blvd, Table View, Cape Town, 7439",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "signalhill": {
+    "placeId": "ChIJLxZ_ThBnzB0RUlKaEktSTbg",
+    "googleName": "Signal Hill",
+    "coords": {
+      "lat": -33.9194855,
+      "lng": 18.400778
+    },
+    "rating": null,
+    "reviewCount": null,
+    "phone": null,
+    "website": null,
+    "address": "Signal Hill, Cape Town, 8001",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "zeitz": {
+    "placeId": "ChIJ3dD0bFlnzB0RGBEddr2FeY8",
+    "googleName": "Zeitz Museum of Contemporary Art Africa",
+    "coords": {
+      "lat": -33.908411799999996,
+      "lng": 18.4226404
+    },
+    "rating": 4.4,
+    "reviewCount": 5557,
+    "phone": "+27 87 350 4777",
+    "website": "https://zeitzmocaa.museum/",
+    "address": "S Arm Rd, Victoria & Alfred Waterfront, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "biscuitmill": {
+    "placeId": "ChIJmb1qtKZdzB0RQGPrsOVHzDk",
+    "googleName": "The Old Biscuit Mill",
+    "coords": {
+      "lat": -33.9273136,
+      "lng": 18.457449999999998
+    },
+    "rating": 4.4,
+    "reviewCount": 7722,
+    "phone": "+27 21 486 5999",
+    "website": "https://theoldbiscuitmill.co.za/",
+    "address": "373 Albert Rd, Woodstock, Cape Town, 7925",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "aquarium": {
+    "placeId": "ChIJfeaqwlpnzB0Rl2i0iRvp6SI",
+    "googleName": "Two Oceans Aquarium",
+    "coords": {
+      "lat": -33.908031699999995,
+      "lng": 18.4176607
+    },
+    "rating": 4.6,
+    "reviewCount": 25028,
+    "phone": "+27 21 418 3823",
+    "website": "https://www.aquarium.co.za/",
+    "address": "Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8002",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:30",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:30",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:30",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:30",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:30",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "constantiapicnic": {
+    "placeId": "ChIJDa4TTrZpzB0Rjaba2KrVSt4",
+    "googleName": "Buitenverwachting",
+    "coords": {
+      "lat": -34.0413676,
+      "lng": 18.416912399999998
+    },
+    "rating": 4.6,
+    "reviewCount": 443,
+    "phone": "+27 21 794 5191",
+    "website": "http://www.buitenverwachting.com/",
+    "address": "Buitenverwachting, Klein Constantia Rd, Constantia, Cape Town, 7806",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "doodles": {
+    "placeId": "ChIJ__wQMDxfzB0R_dTsPP9csjQ",
+    "googleName": "Doodles Beachfront",
+    "coords": {
+      "lat": -33.8100641,
+      "lng": 18.4690717
+    },
+    "rating": 4.3,
+    "reviewCount": 6887,
+    "phone": "+27 21 554 1080",
+    "website": "https://doodles.co.za/",
+    "address": "110 Beach Blvd, Bloubergstrand, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "ons-huisie-restaurant": {
+    "placeId": "ChIJg2gUtWP1zB0RRLPLZ5BYZas",
+    "googleName": "Ons Huisie Restaurant",
+    "coords": {
+      "lat": -33.7995838,
+      "lng": 18.4589335
+    },
+    "rating": 4.2,
+    "reviewCount": 8602,
+    "phone": "+27 21 554 1553",
+    "website": "https://onshuisie.co.za/",
+    "address": "Stadler Rd, Bloubergstrand, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "damhuis-restaurant": {
+    "placeId": "ChIJo-ztW6X0zB0Rew4TImHqKeE",
+    "googleName": "Damhuis Restaurant",
+    "coords": {
+      "lat": -33.7286375,
+      "lng": 18.4398431
+    },
+    "rating": 4.5,
+    "reviewCount": 6320,
+    "phone": "+27 21 553 0093",
+    "website": "https://www.diedamhuis.co.za/",
+    "address": "32 Beach Rd, Melkbosstrand, Cape Town, 7437",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "jerrys-burger-bar-blouberg": {
+    "placeId": "ChIJScKo1xBfzB0Rt2eDeYtViNU",
+    "googleName": "Jerry's Burger Bar Blouberg",
+    "coords": {
+      "lat": -33.8228541,
+      "lng": 18.4777435
+    },
+    "rating": 4.4,
+    "reviewCount": 5726,
+    "phone": "+27 21 556 0852",
+    "website": "http://www.jerrysburgerbar.co.za/",
+    "address": "1st Floor, Portico Building, 1 Athens Rd, Bloubergstrand, Cape Town, 7439",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "seat-restaurant": {
+    "placeId": "ChIJpStIAWb1zB0R__UBUqxRQVY",
+    "googleName": "Seat Restaurant",
+    "coords": {
+      "lat": -33.7919811,
+      "lng": 18.4572139
+    },
+    "rating": 4.1,
+    "reviewCount": 2444,
+    "phone": "+27 21 879 3322",
+    "website": "http://www.seatrestaurant.com/",
+    "address": "Big Bay Blvd, Big Bay, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "petiscos": {
+    "placeId": "ChIJaSbaLRVfzB0RTQWBktL1jFY",
+    "googleName": "Petiscos",
+    "coords": {
+      "lat": -33.8183484,
+      "lng": 18.4965461
+    },
+    "rating": 4.6,
+    "reviewCount": 2260,
+    "phone": "+27 21 557 3311",
+    "website": "http://www.petiscos.co.za/",
+    "address": "Parklands Main Road, Cavalier Centre, Parklands, Cape Town, 7441",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "cape-town-fish-market-bloubergstrand": {
+    "placeId": "ChIJyU4U0271zB0Ruu4VOiUmXnU",
+    "googleName": "Cape Town Fish Market Bloubergstrand",
+    "coords": {
+      "lat": -33.7883084,
+      "lng": 18.4573467
+    },
+    "rating": 4.2,
+    "reviewCount": 2129,
+    "phone": "+27 21 879 4142",
+    "website": "https://www.ctfm.co.za/",
+    "address": "Shop 42, Seaside Village, Cnr Otto Du Plessis Rd &, Cormorant Ave, Big Bay, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "23:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "ou-meul-melkbosstrand": {
+    "placeId": "ChIJR8wABCz1zB0RnQwcxc5-kV0",
+    "googleName": "Ou Meul Melkbosstrand",
+    "coords": {
+      "lat": -33.7356177,
+      "lng": 18.4561807
+    },
+    "rating": 4.3,
+    "reviewCount": 1439,
+    "phone": "+27 21 553 7074",
+    "website": "https://oumeul.co.za/",
+    "address": "r27 W Coast Rd, Melkbosstrand, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "portalia-pizzeria-deli": {
+    "placeId": "ChIJOV4CGD9fzB0RP-K0QMMzT1g",
+    "googleName": "Portalia Pizzeria & Deli",
+    "coords": {
+      "lat": -33.818977,
+      "lng": 18.5031486
+    },
+    "rating": 4.5,
+    "reviewCount": 940,
+    "phone": "+27 21 557 7280",
+    "website": "https://www.portalia.co.za/",
+    "address": "Hadjidakis Centre Cnr Raats Dr. &, Janssens Avenue, Table View, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "16:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "romans-pizza-milnerton": {
+    "placeId": "ChIJe02ainFOzB0RZds9N33QxNI",
+    "googleName": "Roman's Pizza Milnerton",
+    "coords": {
+      "lat": -33.8622959,
+      "lng": 18.5031888
+    },
+    "rating": 4.1,
+    "reviewCount": 822,
+    "phone": "+27 21 551 8680",
+    "website": "https://romanspizza.co.za/store-locator/f0389830-4466-44d3-b70d-b1e7aa1f0fd6?utm_source=google-places&utm_medium=search&utm_campaign=romans-pizza-milnerton",
+    "address": "Shop 33, The Paddocks Shopping Centre Cnr Grand National Boulevard &, Racecourse Rd, Milnerton, Cape Town, 7435",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "copper-club-sandown": {
+    "placeId": "ChIJ6ah0AlVfzB0RIh9StRHmAI0",
+    "googleName": "Copper Club - Sandown",
+    "coords": {
+      "lat": -33.7997084,
+      "lng": 18.479281099999998
+    },
+    "rating": 4.4,
+    "reviewCount": 599,
+    "phone": "+27 21 203 1561",
+    "website": "https://coppercollection.co.za/",
+    "address": "104 Sandown Rd, West Beach, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "bootlegger-sandown-retail-crossing": {
+    "placeId": "ChIJRy1W0zNfzB0RM_N4f8IqAuQ",
+    "googleName": "Bootlegger Sandown Retail Crossing",
+    "coords": {
+      "lat": -33.7996103,
+      "lng": 18.5011983
+    },
+    "rating": 4.5,
+    "reviewCount": 406,
+    "phone": "+27 21 203 5179",
+    "website": "https://ourcafes.bootlegger.coffee/FoodDrink-CapeTown-BootleggerSandownRetailCrossing",
+    "address": "Shop 12A, Sandown Retail Crossing, Sandown Rd, Milnerton Rural, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "all-in-the-kitchen-deli": {
+    "placeId": "ChIJIf-Huw1fzB0Rh4jDt-s4K9Q",
+    "googleName": "All in the Kitchen Deli",
+    "coords": {
+      "lat": -33.8233551,
+      "lng": 18.4848295
+    },
+    "rating": 4.8,
+    "reviewCount": 391,
+    "phone": "+27 78 121 4791",
+    "website": "https://www.facebook.com/AllInTheKitchen/",
+    "address": "51 Blaauwberg Rd, Table View, Cape Town, 7439",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "atlantic-beach-hotel-melkbosstrand": {
+    "placeId": "ChIJVStOiaT0zB0RrB7V7ow-YIQ",
+    "googleName": "Atlantic Beach Hotel, Melkbosstrand",
+    "coords": {
+      "lat": -33.7268717,
+      "lng": 18.4442326
+    },
+    "rating": 4.3,
+    "reviewCount": 332,
+    "phone": "+27 21 553 1800",
+    "website": "http://www.atlanticbeachhotel.co.za/",
+    "address": "Cnr Commaille Road &, 13th Ave, Melkbosstrand, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "andiccio24-sunset-beach": {
+    "placeId": "ChIJt8NBQHNfzB0RD0bjg3wqhyc",
+    "googleName": "Andiccio24 Sunset Beach",
+    "coords": {
+      "lat": -33.8545267,
+      "lng": 18.4955404
+    },
+    "rating": 4.3,
+    "reviewCount": 287,
+    "phone": "+27 21 525 9649",
+    "website": "https://www.andiccio24.co.za/",
+    "address": "Corner Otto du Plessis Drive &, Ocean Way, Sunset Beach, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "the-cinnamon-club": {
+    "placeId": "ChIJxfoHNVJRzB0RorIAi2o-dbY",
+    "googleName": "The Cinnamon Club",
+    "coords": {
+      "lat": -33.804507,
+      "lng": 18.4750096
+    },
+    "rating": 4.9,
+    "reviewCount": 273,
+    "phone": "+27 74 834 3479",
+    "website": "https://cinnamonclub.co.za/",
+    "address": "8 The Courtyard Street, West Beach, Cape Town, 7441",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "reach-cafe": {
+    "placeId": "ChIJDzXLk1tfzB0RdYJqBbPQID8",
+    "googleName": "REACH Cafe",
+    "coords": {
+      "lat": -33.8228564,
+      "lng": 18.5033253
+    },
+    "rating": 4.6,
+    "reviewCount": 215,
+    "phone": "+27 61 549 1922",
+    "website": "http://www.reachcafe.co.za/",
+    "address": "83 Janssens Avenue, Table View, Cape Town, 7439",
+    "hours": {
+      "mon": [
+        {
+          "open": "14:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "sat": [],
+      "sun": [
+        {
+          "open": "08:30",
+          "close": "14:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "waves-restaurant": {
+    "placeId": "ChIJiYEHFoRfzB0RbjqzLlL_e7Q",
+    "googleName": "WAVES Restaurant",
+    "coords": {
+      "lat": -33.8103081,
+      "lng": 18.469473999999998
+    },
+    "rating": 3.9,
+    "reviewCount": 212,
+    "phone": "+27 21 205 7555",
+    "website": "https://blaauwbergbeachhotel.co.za/dining/",
+    "address": "106 Beach Blvd, Table View, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "06:30",
+          "close": "22:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:30",
+          "close": "22:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:30",
+          "close": "22:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:30",
+          "close": "22:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "06:30",
+          "close": "22:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "06:30",
+          "close": "22:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "06:30",
+          "close": "22:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "sunbird-restaurant": {
+    "placeId": "ChIJVRvmqAH1zB0R4nX9v0bc0HY",
+    "googleName": "Sunbird Restaurant",
+    "coords": {
+      "lat": -33.739798799999996,
+      "lng": 18.4523497
+    },
+    "rating": 4.5,
+    "reviewCount": 162,
+    "phone": "+27 87 094 7949",
+    "website": "https://atlanticbeachestate.co.za/sub/sunbird-restaurant/",
+    "address": "1 Fairway Drive Melkbosstrand, Atlantic Beach Estate, Melkbosstrand, Cape Town, 7441",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "12:30",
+          "close": "20:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:30",
+          "close": "20:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:30",
+          "close": "21:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:30",
+          "close": "21:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:30",
+          "close": "21:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "romans-pizza-west-coast-village": {
+    "placeId": "ChIJOzy0nrVfzB0RBMEGYTaF0AE",
+    "googleName": "Roman's Pizza West Coast Village",
+    "coords": {
+      "lat": -33.804392,
+      "lng": 18.485347
+    },
+    "rating": 3,
+    "reviewCount": 120,
+    "phone": "+27 21 023 4133",
+    "website": "https://romanspizza.co.za/store-locator/148ea5c4-a7f7-4c41-a8b7-0fbcb622d5ed?utm_source=google-places&utm_medium=search&utm_campaign=romans-pizza-west-coast-village",
+    "address": "Shop 42(1, Cnr R27 and, West Coast Village Shopping Centre, Sandown Rd, Sunningdale, Cape Town, 7741",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:30",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:30",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:30",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:30",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:30",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:30",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:30",
+          "close": "21:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "melkbosskerm": {
+    "placeId": "ChIJn6O2Vl_zzB0RCBPkwRv73qk",
+    "googleName": "Melkbosskerm",
+    "coords": {
+      "lat": -33.717450899999996,
+      "lng": 18.4489576
+    },
+    "rating": 4.4,
+    "reviewCount": 88,
+    "phone": "+27 79 309 1010",
+    "website": "http://melkbosskerm.wixsite.com/melkbosskerm",
+    "address": "Robben Rd, Melkbosstrand, Cape Town, 7437",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "the-coffee-stop": {
+    "placeId": "ChIJkXC-ZwBfzB0RRrf6EEkKYYA",
+    "googleName": "The Coffee Stop",
+    "coords": {
+      "lat": -33.8024036,
+      "lng": 18.4601369
+    },
+    "rating": 4.5,
+    "reviewCount": 53,
+    "phone": null,
+    "website": "http://www.coffeeshopcompany.com/",
+    "address": "20 Stadler Rd, Bloubergstrand, Cape Town, 7436",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "caffeine-cartel-coffee-truck": {
+    "placeId": "ChIJM3n3totZzB0R6s2nv7_ediA",
+    "googleName": "Caffeine Cartel Coffee Truck",
+    "coords": {
+      "lat": -33.8138326,
+      "lng": 18.4711368
+    },
+    "rating": 4.9,
+    "reviewCount": 17,
+    "phone": "+27 84 920 8210",
+    "website": null,
+    "address": "Blouberg Beach, Otto du Plessis Dr, Table View, Cape Town, 7441",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "13:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "13:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "13:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "13:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "13:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "blowfish-restaurant": {
+    "placeId": "ChIJWQreJwtfzB0R3pBrzqgf3yU",
+    "googleName": "Blowfish Restaurant",
+    "coords": {
+      "lat": -33.829659,
+      "lng": 18.4815059
+    },
+    "rating": 4.1,
+    "reviewCount": 4355,
+    "phone": "+27 21 556 5464",
+    "website": "http://www.blowfishrestaurant.co.za/",
+    "address": "1 Marine Dr, Bloubergstrand, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "news-cafe-table-view": {
+    "placeId": "ChIJSddnzgpfzB0Ro1IIkTs5-zE",
+    "googleName": "News Cafe Table View",
+    "coords": {
+      "lat": -33.8213831,
+      "lng": 18.4772271
+    },
+    "rating": 4.1,
+    "reviewCount": 3518,
+    "phone": "+27 21 557 6336",
+    "website": "https://www.newscafe.co.za/stores/south-africa/tableview/",
+    "address": "1 Beach Blvd, Table View, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "04:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "04:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "bossa-sunningdale": {
+    "placeId": "ChIJkcYYG9lfzB0R6F3BCMep7r8",
+    "googleName": "Bossa Sunningdale",
+    "coords": {
+      "lat": -33.8045814,
+      "lng": 18.4867536
+    },
+    "rating": 4.4,
+    "reviewCount": 2472,
+    "phone": "+27 21 879 4530",
+    "website": "http://bossagoodtimes.com/",
+    "address": "Shop 55, West Coast Village Shopping Centre Corner West Coast &, Sandown Rd, Sunningdale, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "fancy-franks-sunset-beach": {
+    "placeId": "ChIJI32Fdv1fzB0R55Na3mbG7KM",
+    "googleName": "Fancy Frank's Sunset Beach",
+    "coords": {
+      "lat": -33.8548907,
+      "lng": 18.4953215
+    },
+    "rating": 4.4,
+    "reviewCount": 1939,
+    "phone": "+27 21 879 1923",
+    "website": "https://fancyfranks.co.za/",
+    "address": "Seattle Coffee Company Ocean Square, 4 Ocean Way, Sunset Beach, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "the-hart": {
+    "placeId": "ChIJi1y34q_0zB0R7n2meJqWHns",
+    "googleName": "The Hart",
+    "coords": {
+      "lat": -33.7295598,
+      "lng": 18.4389872
+    },
+    "rating": 4.5,
+    "reviewCount": 1815,
+    "phone": "+27 69 332 7323",
+    "website": "http://www.thehart.co.za/",
+    "address": "Shop 4, Mira Mar Centre, 26 Beach Rd, Melkbosstrand, Cape Town, 7437",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "15:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "15:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "15:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:30",
+          "close": "15:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "reload-flamingo-square-centre": {
+    "placeId": "ChIJR8bxXiRfzB0RA-xLFyinf8g",
+    "googleName": "Reload Flamingo Square Centre",
+    "coords": {
+      "lat": -33.8301289,
+      "lng": 18.506431799999998
+    },
+    "rating": 4.5,
+    "reviewCount": 1450,
+    "phone": "+27 21 556 8420",
+    "website": "http://www.reloadct.co.za/",
+    "address": "Shop 10 Flamingo Square Centre Corner of Blaauwberg Road, Study St, Table View, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "the-brazen-head-big-bay": {
+    "placeId": "ChIJN-K71G71zB0RodHZv8TpOp8",
+    "googleName": "The Brazen Head Big Bay",
+    "coords": {
+      "lat": -33.7883499,
+      "lng": 18.457304099999998
+    },
+    "rating": 4,
+    "reviewCount": 633,
+    "phone": "+27 21 215 1181",
+    "website": "http://www.brazenhead.co.za/",
+    "address": "Seaside Village, Otto du Plessis Dr, Big Bay, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "melkbos-country-club": {
+    "placeId": "ChIJm-n4XV_zzB0RzKvAlLwKU0M",
+    "googleName": "Melkbos Country Club",
+    "coords": {
+      "lat": -33.716711,
+      "lng": 18.4486561
+    },
+    "rating": 4.1,
+    "reviewCount": 408,
+    "phone": "+27 21 553 3408",
+    "website": "https://m.facebook.com/pages/Melkbosstrand-Country-Club/224464377603227",
+    "address": "1 Robben Rd, Melkbosstrand, Cape Town, 7437",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "baked-raats": {
+    "placeId": "ChIJU0zRfHhfzB0RS5JCScvKSAE",
+    "googleName": "Baked Raats",
+    "coords": {
+      "lat": -33.8212939,
+      "lng": 18.4930479
+    },
+    "rating": 4.2,
+    "reviewCount": 287,
+    "phone": "+27 68 309 4126",
+    "website": "http://store67126258.shop.netcash.co.za/",
+    "address": "22 Raats Dr, Table View, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "time-out-bar": {
+    "placeId": "ChIJO53f-TtfzB0RhEvAFH_tbTk",
+    "googleName": "Time Out Bar",
+    "coords": {
+      "lat": -33.8224838,
+      "lng": 18.5052993
+    },
+    "rating": 4.1,
+    "reviewCount": 265,
+    "phone": "+27 21 556 7413",
+    "website": "https://www.eatout.co.za/venue/time-bar/",
+    "address": "3 Merlot Ave, Table View, Cape Town, 7439",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "02:00"
+        },
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "le-petit-cafe-and-bar": {
+    "placeId": "ChIJG8R1UMNfzB0Rfm4OrZDZK-A",
+    "googleName": "Le Petit Cafe and Bar",
+    "coords": {
+      "lat": -33.807029199999995,
+      "lng": 18.482173
+    },
+    "rating": 4.7,
+    "reviewCount": 215,
+    "phone": "+27 71 649 8484",
+    "website": null,
+    "address": "6 Sandown Rd, Blouberg Sands, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "misthom-lounge-shisha-bar": {
+    "placeId": "ChIJz4JeViRfzB0RyVkys7tl-x0",
+    "googleName": "Misthom Lounge & Shisha Bar",
+    "coords": {
+      "lat": -33.814729299999996,
+      "lng": 18.5033212
+    },
+    "rating": 1.8,
+    "reviewCount": 37,
+    "phone": "+27 79 070 6195",
+    "website": null,
+    "address": "10A Parklands Main Rd, Parklands, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "heritage-lounge-and-restaurant": {
+    "placeId": "ChIJv1CknWFfzB0RP-Lfs6YqrbU",
+    "googleName": "Herit'Age Lounge and Restaurant",
+    "coords": {
+      "lat": -33.8157175,
+      "lng": 18.497533
+    },
+    "rating": 3.7,
+    "reviewCount": 19,
+    "phone": "+27 21 110 5431",
+    "website": null,
+    "address": "Unit C7B, Leonardo Park, Main Road, Parklands, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "blouberg-beachfront": {
+    "placeId": "ChIJR_zMM55fzB0R7GUwhqANVTM",
+    "googleName": "Blouberg Beachfront",
+    "coords": {
+      "lat": -33.818435099999995,
+      "lng": 18.4741474
+    },
+    "rating": 4.6,
+    "reviewCount": 3009,
+    "phone": "+27 21 400 1111",
+    "website": "https://www.capetown.gov.za/",
+    "address": "Blouberg Beachfront, Milnerton Rural, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "blouberg-kite-surfing-beach": {
+    "placeId": "ChIJfS-ysQpfzB0RVgs99ggR3Qk",
+    "googleName": "Blouberg Kite Surfing Beach",
+    "coords": {
+      "lat": -33.8208334,
+      "lng": 18.476736199999998
+    },
+    "rating": 4.5,
+    "reviewCount": 1213,
+    "phone": null,
+    "website": null,
+    "address": "Blouberg Kite Surfing Beach, Table View, Cape Town, 7439",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "sunset-beach": {
+    "placeId": "ChIJL_ORwu9ezB0RXOS3G72C2Fc",
+    "googleName": "Sunset Beach",
+    "coords": {
+      "lat": -33.8543772,
+      "lng": 18.488624899999998
+    },
+    "rating": 4.6,
+    "reviewCount": 952,
+    "phone": null,
+    "website": null,
+    "address": "Sunset Beach",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "big-bay-blouberg": {
+    "placeId": "ChIJFRanx2P1zB0RVxeZnrguhqs",
+    "googleName": "Big Bay Blouberg",
+    "coords": {
+      "lat": -33.7987105,
+      "lng": 18.4586406
+    },
+    "rating": 4.6,
+    "reviewCount": 290,
+    "phone": null,
+    "website": null,
+    "address": "Big Bay Blouberg, Stadler Rd, Bloubergstrand, Cape Town, 7436",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "big-bay-beach": {
+    "placeId": "ChIJjVD5ajz1zB0RJlK8fcR1RA8",
+    "googleName": "Big Bay Beach",
+    "coords": {
+      "lat": -33.7751808,
+      "lng": 18.4461507
+    },
+    "rating": 4.7,
+    "reviewCount": 181,
+    "phone": null,
+    "website": null,
+    "address": "Big Bay Beach",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "duynefontein": {
+    "placeId": "ChIJGzeTF1vzzB0R7k73BizdbzM",
+    "googleName": "Duynefontein",
+    "coords": {
+      "lat": -33.7089406,
+      "lng": 18.4432461
+    },
+    "rating": 4.5,
+    "reviewCount": 142,
+    "phone": null,
+    "website": null,
+    "address": "Duynefontein, 13 Strand Rd, Van Riebeeckstrand, Cape Town, 7441",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "rietvlei-wetland-reserve": {
+    "placeId": "ChIJG99BqR5fzB0RHSMLlloouGs",
+    "googleName": "Rietvlei Wetland Reserve",
+    "coords": {
+      "lat": -33.8363928,
+      "lng": 18.4943311
+    },
+    "rating": 4.3,
+    "reviewCount": 121,
+    "phone": "+27 21 444 0315",
+    "website": "http://www.friendsofrietvlei.co.za/",
+    "address": "8 Sandpiper Cres, Flamingo Vlei, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "leonardo-dog-park": {
+    "placeId": "ChIJoSMAX2pfzB0R5CTNjqELcWA",
+    "googleName": "Leonardo Dog Park",
+    "coords": {
+      "lat": -33.8154574,
+      "lng": 18.4979011
+    },
+    "rating": 3.9,
+    "reviewCount": 65,
+    "phone": null,
+    "website": null,
+    "address": "21 Ravenscourt Rd, Parklands, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "regent-park": {
+    "placeId": "ChIJAbykOT9fzB0RIY6Un6DsTXg",
+    "googleName": "Regent Park",
+    "coords": {
+      "lat": -33.8183925,
+      "lng": 18.5038773
+    },
+    "rating": 3.7,
+    "reviewCount": 52,
+    "phone": "+27 21 550 7783",
+    "website": null,
+    "address": "Regent Rd, Parklands, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "little-bay-beach": {
+    "placeId": "ChIJTbCV_sX0zB0RMNAvRBNvb5M",
+    "googleName": "Little Bay Beach",
+    "coords": {
+      "lat": -33.7454689,
+      "lng": 18.439845
+    },
+    "rating": 4.5,
+    "reviewCount": 44,
+    "phone": null,
+    "website": null,
+    "address": "Little Bay Beach",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "brander-park": {
+    "placeId": "ChIJj1mUQixfzB0RzUdS0eG1kIk",
+    "googleName": "Brander Park",
+    "coords": {
+      "lat": -33.817646800000006,
+      "lng": 18.4776869
+    },
+    "rating": 4.6,
+    "reviewCount": 41,
+    "phone": null,
+    "website": null,
+    "address": "Bloubergrant, Cape Town, 7443",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "sandown-road-park": {
+    "placeId": "ChIJY5Dy3X5fzB0RbtH4My2i0cw",
+    "googleName": "Sandown Road Park",
+    "coords": {
+      "lat": -33.8032581,
+      "lng": 18.478507999999998
+    },
+    "rating": 4.2,
+    "reviewCount": 38,
+    "phone": null,
+    "website": null,
+    "address": "46 Sail St, Blouberg Sands, Cape Town, 7449",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "teal-bend-park": {
+    "placeId": "ChIJ9wINWob1zB0RZkmLSeAZo6s",
+    "googleName": "Teal bend park",
+    "coords": {
+      "lat": -33.794855999999996,
+      "lng": 18.4844421
+    },
+    "rating": 4.2,
+    "reviewCount": 34,
+    "phone": null,
+    "website": null,
+    "address": "7441, Milnerton Rural, Cape Town",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "clifton-park": {
+    "placeId": "ChIJlz3CLVtfzB0R6Aa-O65x6R8",
+    "googleName": "Clifton Park",
+    "coords": {
+      "lat": -33.8052618,
+      "lng": 18.5070876
+    },
+    "rating": 4,
+    "reviewCount": 32,
+    "phone": null,
+    "website": null,
+    "address": "111-113 Dorchester Dr, Parklands, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "parkview-park": {
+    "placeId": "ChIJQz25sm5fzB0RcH_lcb9BJsw",
+    "googleName": "Parkview Park",
+    "coords": {
+      "lat": -33.812177399999996,
+      "lng": 18.4924946
+    },
+    "rating": 4.3,
+    "reviewCount": 25,
+    "phone": null,
+    "website": null,
+    "address": "Parkview Cl, Sunningdale, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "echium-road-park": {
+    "placeId": "ChIJfU2yohRfzB0RMi6uAtbYwks",
+    "googleName": "Echium Road Park",
+    "coords": {
+      "lat": -33.8196997,
+      "lng": 18.493618599999998
+    },
+    "rating": 4.3,
+    "reviewCount": 23,
+    "phone": null,
+    "website": null,
+    "address": "16 Echium Rd, Table View, Cape Town, 7439",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "table-bay-nature-reserve": {
+    "placeId": "ChIJXdmhgOZezB0RC3ocnFp8oAo",
+    "googleName": "Table Bay Nature Reserve",
+    "coords": {
+      "lat": -33.8498544,
+      "lng": 18.5015033
+    },
+    "rating": 4,
+    "reviewCount": 22,
+    "phone": "+27 21 444 0315",
+    "website": "https://www.capetown.gov.za/Family%20and%20home/See-all-city-facilities/Our-recreational-facilities/Nature%20reserves/Table%20Bay%20Nature%20Reserve",
+    "address": "95 Bay Beach Ave, Sunset Beach, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "melkbos-reserve": {
+    "placeId": "ChIJU1UeHqX0zB0RxLWHur6kvRs",
+    "googleName": "Melkbos RESERVE",
+    "coords": {
+      "lat": -33.727606699999995,
+      "lng": 18.442429999999998
+    },
+    "rating": 4.5,
+    "reviewCount": 20,
+    "phone": null,
+    "website": null,
+    "address": "Melkbos RESERVE, 8 10th Ave, Melkbosstrand, Cape Town, 7437",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "mission-hills-park": {
+    "placeId": "ChIJXSlwpmNfzB0RU59MStYtnwU",
+    "googleName": "Mission Hills Park",
+    "coords": {
+      "lat": -33.8008477,
+      "lng": 18.4902491
+    },
+    "rating": 3.9,
+    "reviewCount": 17,
+    "phone": null,
+    "website": null,
+    "address": "Mission Hills, Oakhill Village,, Sunningdale, Cape Town",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "bloubergstrand": {
+    "placeId": "ChIJr8dKrfgXzB0R35y2YO7gmdA",
+    "googleName": "Bloubergstrand",
+    "coords": {
+      "lat": -33.7957563,
+      "lng": 18.4570629
+    },
+    "rating": 3.7,
+    "reviewCount": 15,
+    "phone": null,
+    "website": null,
+    "address": "Bloubergstrand",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "ster-kinekor-bayside": {
+    "placeId": "ChIJ853OShJfzB0Re6jrh-xRWmk",
+    "googleName": "Ster-Kinekor Bayside",
+    "coords": {
+      "lat": -33.823515,
+      "lng": 18.488346699999997
+    },
+    "rating": 3.9,
+    "reviewCount": 1421,
+    "phone": "+27 86 166 8437",
+    "website": "https://www.sterkinekor.com/?utm_source=GMB&utm_medium=Search&utm_campaign=Ster-Kinekor-Bayside",
+    "address": "Blaauwberg Rd, Table View, Cape Town, 7439",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "11:45",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:45",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:45",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:45",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:45",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:45",
+          "close": "20:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "milky-lane-total-tableview": {
+    "placeId": "ChIJTWYv3QpfzB0R2oCW998Qoqs",
+    "googleName": "Milky Lane Total Tableview",
+    "coords": {
+      "lat": -33.8222551,
+      "lng": 18.4772264
+    },
+    "rating": 3.9,
+    "reviewCount": 860,
+    "phone": "+27 74 168 6122",
+    "website": "https://locations.milkylane.co.za/restaurants-TableView-MilkyLaneTotalTableview?utm_source=google_maps&utm_medium=website_button&utm_campaign=SP&utm_content=SP",
+    "address": "Service Road, Table View, Cape Town, 7439",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "tube-wave": {
+    "placeId": "ChIJOc2zpaX0zB0RX60AyTAtpkI",
+    "googleName": "Tube Wave",
+    "coords": {
+      "lat": -33.726442299999995,
+      "lng": 18.441615499999997
+    },
+    "rating": 4.3,
+    "reviewCount": 245,
+    "phone": "+27 82 568 8945",
+    "website": null,
+    "address": "Beach Rd, Melkbosstrand, Cape Town, 7437",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "small-bay-park": {
+    "placeId": "ChIJfdyNvWP1zB0R4b3R2oW8Scw",
+    "googleName": "Small Bay Park",
+    "coords": {
+      "lat": -33.7981401,
+      "lng": 18.4592473
+    },
+    "rating": 4.3,
+    "reviewCount": 206,
+    "phone": null,
+    "website": null,
+    "address": "7 Pelegrini St, Bloubergstrand, Cape Town, 7436",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "the-bubble-hub": {
+    "placeId": "ChIJRSUhDwD1zB0RM-jWrxaqXf0",
+    "googleName": "The bubble hub",
+    "coords": {
+      "lat": -33.7305533,
+      "lng": 18.4415333
+    },
+    "rating": 4.8,
+    "reviewCount": 152,
+    "phone": "+27 73 444 9407",
+    "website": null,
+    "address": "8 6th Ave, Melkbosstrand, Cape Town, 7437",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "gatti-ice-cream-factory-shop": {
+    "placeId": "ChIJsW1XpYpfzB0RL3NANXOnzXs",
+    "googleName": "Gatti Ice Cream Factory Shop",
+    "coords": {
+      "lat": -33.80162,
+      "lng": 18.4937185
+    },
+    "rating": 4,
+    "reviewCount": 84,
+    "phone": "+27 62 927 2151",
+    "website": "http://icecreambay.com/",
+    "address": "Shop 1 The Emporium Centre, Sandown Rd, Sunningdale, Cape Town",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "the-dairy-den-sandown-retail-crossing": {
+    "placeId": "ChIJTYX-D99fzB0RChOSjxL8Q0Q",
+    "googleName": "The Dairy Den - Sandown Retail Crossing",
+    "coords": {
+      "lat": -33.8010482,
+      "lng": 18.5033373
+    },
+    "rating": 4.4,
+    "reviewCount": 26,
+    "phone": "+27 72 726 6768",
+    "website": "https://www.thedairyden.com/",
+    "address": "Shop G12b, Cnr Wood Drive &, Sandown Rd, Parklands, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "dolphin-beach": {
+    "placeId": "ChIJBa0zdS1fzB0R2y1SrA0dYrY",
+    "googleName": "Dolphin Beach",
+    "coords": {
+      "lat": -33.8294248,
+      "lng": 18.481788299999998
+    },
+    "rating": 4.8,
+    "reviewCount": 25,
+    "phone": null,
+    "website": null,
+    "address": "1 Marine Drive, Dolphin Beach, Tafelsig, Kaapstad, 7441",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "sempre-espresso": {
+    "placeId": "ChIJGZzjtbpfzB0R2jG2_ZYyWn0",
+    "googleName": "Sempre Espresso",
+    "coords": {
+      "lat": -33.813302199999995,
+      "lng": 18.4708395
+    },
+    "rating": 5,
+    "reviewCount": 21,
+    "phone": "+27 69 687 3215",
+    "website": null,
+    "address": "Blaauwberg, Otto du Plessis Dr, Table View, Cape Town, 7441",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "08:15",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:15",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:15",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:15",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:15",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:15",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "atlantic-beach-links": {
+    "placeId": "ChIJta9IvOr0zB0RXFLBLpgxQNw",
+    "googleName": "Atlantic Beach Links",
+    "coords": {
+      "lat": -33.736046,
+      "lng": 18.4528279
+    },
+    "rating": 4.3,
+    "reviewCount": 863,
+    "phone": "+27 21 553 2223",
+    "website": "http://www.atlanticbeachestate.co.za/",
+    "address": "1 Fairway Drive, Melkbosstrand, Atlantic Beach Golf Estate, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "the-thursty-turtle": {
+    "placeId": "ChIJYw9S13RfzB0RQXKiFyCmLdM",
+    "googleName": "The Thursty Turtle",
+    "coords": {
+      "lat": -33.8200564,
+      "lng": 18.4784203
+    },
+    "rating": 4.2,
+    "reviewCount": 776,
+    "phone": "+27 76 129 4536",
+    "website": null,
+    "address": "Shop 2A, Blue Waters Centre, 2 Porterfield Rd, Table View, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "sunningdale-sports-complex": {
+    "placeId": "ChIJa8SwpnxfzB0RfMlrR56QeSs",
+    "googleName": "Sunningdale Sports Complex",
+    "coords": {
+      "lat": -33.8026695,
+      "lng": 18.4868316
+    },
+    "rating": 4.4,
+    "reviewCount": 326,
+    "phone": "+27 21 554 0292",
+    "website": null,
+    "address": "Waterville St, Milnerton Rural, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "isla-malie-tropical-spa-tableview": {
+    "placeId": "ChIJd8GN24L1zB0RDZZ31hGlcOs",
+    "googleName": "Isla Malie Tropical Spa Tableview",
+    "coords": {
+      "lat": -33.822549099999996,
+      "lng": 18.481681899999998
+    },
+    "rating": 4.8,
+    "reviewCount": 286,
+    "phone": "+27 73 913 0253",
+    "website": "https://islamalie.co.za/",
+    "address": "27 Blaauwberg Rd, Tableview, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "milnerton-aquatic-club": {
+    "placeId": "ChIJ-c4R4iFfzB0RIuzcKpy9kp8",
+    "googleName": "Milnerton Aquatic Club",
+    "coords": {
+      "lat": -33.8365128,
+      "lng": 18.4937141
+    },
+    "rating": 4.6,
+    "reviewCount": 241,
+    "phone": "+27 21 557 7090",
+    "website": "http://www.milnertonaquaticclub.co.za/",
+    "address": "Grey Ave, Bloubergstrand, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "tableview-sports-facility": {
+    "placeId": "ChIJ59WF1Q9fzB0Rqwy2-e370Ng",
+    "googleName": "Tableview Sports Facility",
+    "coords": {
+      "lat": -33.829490899999996,
+      "lng": 18.487482099999998
+    },
+    "rating": 4.2,
+    "reviewCount": 216,
+    "phone": "+27 21 557 6886",
+    "website": null,
+    "address": "Birkenhead Rd, Table View, 7441",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "gracie-jiu-jitsu-cape-town": {
+    "placeId": "ChIJlcpcujtfzB0RJz14IgclsQA",
+    "googleName": "Gracie Jiu Jitsu Cape Town",
+    "coords": {
+      "lat": -33.822456599999995,
+      "lng": 18.491638599999998
+    },
+    "rating": 5,
+    "reviewCount": 160,
+    "phone": "+27 81 400 1130",
+    "website": "http://www.graciejiujitsu.co.za/",
+    "address": "Delphi Arch Building, 12 Raats Dr, Table View, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:30",
+          "close": "20:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "15:30",
+          "close": "20:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:30",
+          "close": "20:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "15:30",
+          "close": "20:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:30",
+          "close": "20:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "12:30"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "maximillian-jiu-jitsu": {
+    "placeId": "ChIJJ-tPJWtfzB0Rteh3bsS9MFA",
+    "googleName": "Maximillian Jiu Jitsu",
+    "coords": {
+      "lat": -33.830987199999996,
+      "lng": 18.5066182
+    },
+    "rating": 5,
+    "reviewCount": 151,
+    "phone": "+27 76 122 2622",
+    "website": "https://maxjj.co.za/",
+    "address": "Unit 22A, Flamingo Square, 212 Blaauwberg Rd, Table View, Cape Town, 7439",
+    "hours": {
+      "mon": [
+        {
+          "open": "16:00",
+          "close": "19:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "05:30",
+          "close": "06:30"
+        },
+        {
+          "open": "16:00",
+          "close": "19:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "16:00",
+          "close": "19:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "05:30",
+          "close": "06:30"
+        },
+        {
+          "open": "16:00",
+          "close": "19:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "18:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "paintball-pyrozone": {
+    "placeId": "ChIJFUe1CqD0zB0RdUdbjLd8wgk",
+    "googleName": "Paintball PyroZone",
+    "coords": {
+      "lat": -33.717265600000005,
+      "lng": 18.4498612
+    },
+    "rating": 4.3,
+    "reviewCount": 137,
+    "phone": "+27 72 609 9493",
+    "website": "http://www.paintballpyrozone.co.za/",
+    "address": "Robben Rd, Melkbosstrand, 7437",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:01"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "khaya-kite-and-yoga-house": {
+    "placeId": "ChIJ-xirEfRfzB0RIprg54INJEc",
+    "googleName": "Khaya Kite and Yoga House",
+    "coords": {
+      "lat": -33.816728399999995,
+      "lng": 18.4798475
+    },
+    "rating": 4.9,
+    "reviewCount": 94,
+    "phone": "+27 72 377 0575",
+    "website": "http://www.khayakitehouse.com/",
+    "address": "8 Crinum Rd, Table View, Cape Town, 7441",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "watersports-warehouse": {
+    "placeId": "ChIJmUbHLbqLtAERiFTLg5pZsvw",
+    "googleName": "Watersports Warehouse",
+    "coords": {
+      "lat": -33.8227674,
+      "lng": 18.477896299999998
+    },
+    "rating": 4.7,
+    "reviewCount": 83,
+    "phone": "+27 21 555 3164",
+    "website": "https://www.watersportswarehouse.co.za/",
+    "address": "Shop 1, Portico 3, Athens Rd, Bloubergstrand, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "chaitanya-school-of-yoga": {
+    "placeId": "ChIJlbwHbz1fzB0R90aZmPYbGio",
+    "googleName": "Chaitanya School of Yoga",
+    "coords": {
+      "lat": -33.8156949,
+      "lng": 18.4974998
+    },
+    "rating": 5,
+    "reviewCount": 73,
+    "phone": "+27 83 632 9434",
+    "website": "http://www.chaitanyayoga.co.za/",
+    "address": "Unit C11 Leonardo Park Corner Link and, Parklands Main Rd, Parklands, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "18:00",
+          "close": "19:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "10:00"
+        },
+        {
+          "open": "18:00",
+          "close": "19:30"
+        }
+      ],
+      "wed": [],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "10:00"
+        },
+        {
+          "open": "18:00",
+          "close": "19:30"
+        }
+      ],
+      "fri": [],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "11:15"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "united-krav-maga": {
+    "placeId": "ChIJc2x6ePtfzB0ReGwDYnmwAcM",
+    "googleName": "United Krav Maga",
+    "coords": {
+      "lat": -33.8183068,
+      "lng": 18.4965825
+    },
+    "rating": 4.9,
+    "reviewCount": 69,
+    "phone": "+27 87 092 6626",
+    "website": "https://www.ukm.co.za/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=17057092918097904821",
+    "address": "Cavalier centre, 2 Parklands Main Rd, Parklands, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "12:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "fitbae-inc": {
+    "placeId": "ChIJxT67uFqH40YRjrjVF1zc0YY",
+    "googleName": "fitbae inc.",
+    "coords": {
+      "lat": -33.8240003,
+      "lng": 18.4847993
+    },
+    "rating": 5,
+    "reviewCount": 56,
+    "phone": "+27 83 231 2160",
+    "website": "https://fitbaeinc.co.za/",
+    "address": "60 Blaauwberg Rd, Table View, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "05:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "05:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "05:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "05:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "05:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "11:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "boardrooms-kite-coworking-accommodation": {
+    "placeId": "ChIJUfTclsNfzB0RNdVxu-nmfTQ",
+    "googleName": "Boardrooms Kite & Coworking Accommodation",
+    "coords": {
+      "lat": -33.8149678,
+      "lng": 18.4773612
+    },
+    "rating": 5,
+    "reviewCount": 50,
+    "phone": "+27 83 448 2177",
+    "website": "https://boardrooms.capetown/",
+    "address": "16 Spray Rd, Bloubergstrand, Cape Town, 7443",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "house-of-movement": {
+    "placeId": "ChIJVd3bkJBnzB0R4l7fCFSQr8Q",
+    "googleName": "House of Movement",
+    "coords": {
+      "lat": -33.799822999999996,
+      "lng": 18.460941899999998
+    },
+    "rating": 5,
+    "reviewCount": 49,
+    "phone": null,
+    "website": "https://houseofmovement.co.za/classes/",
+    "address": "34 Sir David Baird Dr, Bloubergstrand, Cape Town, 8001",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "big-bay-events": {
+    "placeId": "ChIJD20Mbmb1zB0RDF8ty3ncHs0",
+    "googleName": "Big Bay Events",
+    "coords": {
+      "lat": -33.793565,
+      "lng": 18.457278
+    },
+    "rating": 4.2,
+    "reviewCount": 41,
+    "phone": "+27 21 554 3664",
+    "website": "http://www.bigbayevents.co.za/",
+    "address": "Otto du Plessis Dr, Big Bay, Cape Town, 7448",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "ocean-reef-swim-school": {
+    "placeId": "ChIJ7elBDWJfzB0RSW5pRprj4ZI",
+    "googleName": "Ocean Reef Swim School",
+    "coords": {
+      "lat": -33.8190461,
+      "lng": 18.4816045
+    },
+    "rating": 5,
+    "reviewCount": 31,
+    "phone": "+27 84 513 7879",
+    "website": "https://ocean-reef-swim-school-test.webflow.io/",
+    "address": "7 Crassula Rd, Table View, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "13:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "giants-gymnastics": {
+    "placeId": "ChIJg3vDTF1fzB0RjH-B5T8_-SE",
+    "googleName": "Giants Gymnastics",
+    "coords": {
+      "lat": -33.8063813,
+      "lng": 18.4995762
+    },
+    "rating": 4.8,
+    "reviewCount": 30,
+    "phone": "+27 81 271 2799",
+    "website": "http://giantsblouberg.co.za/",
+    "address": "Grace Baptist Church, 77 Ringwood Dr, Parklands, Cape Town, 7441",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "eda-krav-maga-self-defence": {
+    "placeId": "ChIJQUF0W6T1zB0RyIYONZLW1oI",
+    "googleName": "EDA Krav Maga Self Defence",
+    "coords": {
+      "lat": -33.742372700000004,
+      "lng": 18.4528885
+    },
+    "rating": 5,
+    "reviewCount": 25,
+    "phone": "+27 82 454 7636",
+    "website": "http://www.edakravmaga.com/",
+    "address": "8 Harbour Lights Ln, Melkbosstrand, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "laughing-waters-swim-school-milnerton-ca": {
+    "placeId": "ChIJJwcx6MZezB0RslZN8gH6u0s",
+    "googleName": "Laughing Waters Swim School - Milnerton, Cape Town",
+    "coords": {
+      "lat": -33.856066399999996,
+      "lng": 18.506198599999998
+    },
+    "rating": 4.6,
+    "reviewCount": 23,
+    "phone": "+27 83 458 5897",
+    "website": "http://www.laughingwatersct.co.za/",
+    "address": "21 Fairview Cres, Milnerton Ridge, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "madx-muay-thai-boxing-fitness": {
+    "placeId": "ChIJGWDB-7n1zB0RK_M-tEJQfaM",
+    "googleName": "MadX Muay Thai Boxing Fitness",
+    "coords": {
+      "lat": -33.7806595,
+      "lng": 18.4543554
+    },
+    "rating": 4.9,
+    "reviewCount": 21,
+    "phone": "+27 82 877 8323",
+    "website": "https://www.facebook.com/MadXfitness",
+    "address": "La Paloma, 26 Santa Cruz Cres, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "13:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "12:30"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "inmotion-create-your-balance": {
+    "placeId": "ChIJdbUvRw1nzB0RbCY0aQoCexg",
+    "googleName": "INMOTION – CREATE YOUR BALANCE",
+    "coords": {
+      "lat": -33.8506964,
+      "lng": 18.4900692
+    },
+    "rating": 4.8,
+    "reviewCount": 21,
+    "phone": "+27 76 981 1034",
+    "website": "http://inmotion-sd.com/",
+    "address": "23 Soluta St, Sunset Beach, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "06:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "venus-yoga-studio-sunset-beach-cape-town": {
+    "placeId": "ChIJI-gjCABfzB0R75PV2uPMxu4",
+    "googleName": "Venus Yoga Studio, Sunset Beach, Cape Town",
+    "coords": {
+      "lat": -33.853943099999995,
+      "lng": 18.4899533
+    },
+    "rating": 4.7,
+    "reviewCount": 15,
+    "phone": "+27 82 809 6711",
+    "website": "https://linktr.ee/venusyoga108",
+    "address": "7 Volute Cir, Sunset Beach, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "17:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ],
+      "fri": [],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "melkbosstrand-oppiesee-cultural-centre": {
+    "placeId": "ChIJ46sgAMj0zB0RNoboA6w0zgA",
+    "googleName": "Melkbosstrand Oppiesee Cultural Centre",
+    "coords": {
+      "lat": -33.7405372,
+      "lng": 18.4392925
+    },
+    "rating": 4.2,
+    "reviewCount": 163,
+    "phone": "+27 21 553 2581",
+    "website": "https://cultural-facilities.westerncape.gov.za/spbook/facility_view.html?facno=6",
+    "address": "Otto du Plessis Dr",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "studio-46": {
+    "placeId": "ChIJKSHbRmL1zB0R6UI0RUmqXak",
+    "googleName": "Studio 46",
+    "coords": {
+      "lat": -33.800464,
+      "lng": 18.459004399999998
+    },
+    "rating": 5,
+    "reviewCount": 52,
+    "phone": "+27 74 369 4294",
+    "website": "http://www.studio46.co.za/",
+    "address": "46 Stadler Rd, Bloubergstrand, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "16:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "16:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "16:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "16:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "16:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "ohana-beauty-and-wellness-day-spa": {
+    "placeId": "ChIJy7cUxTlfzB0Rh_WeFv6w9WA",
+    "googleName": "Ohana Beauty and Wellness Day Spa",
+    "coords": {
+      "lat": -33.8101807,
+      "lng": 18.469415899999998
+    },
+    "rating": 4.4,
+    "reviewCount": 222,
+    "phone": "+27 72 249 3285",
+    "website": "https://ohanabeautyandwellness.co.za/",
+    "address": "Blaauwberg Beach Hotel, 106 Beach Blvd, Table View, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "naree-authentic-thai-massage": {
+    "placeId": "ChIJsdf8GL9ezB0RGQL0Xg8MPuY",
+    "googleName": "Naree Authentic Thai Massage",
+    "coords": {
+      "lat": -33.8620022,
+      "lng": 18.5025688
+    },
+    "rating": 4.7,
+    "reviewCount": 179,
+    "phone": "+27 76 808 4136",
+    "website": "http://www.naree-thai-massage.co.za/",
+    "address": "First Floor Paddocks shopping centre Racecourse Road Racecourse Rd Milnerton Cape Town ZA 7441, Racecourse Rd, Milnerton, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "sawasdee-thai-spa": {
+    "placeId": "ChIJBw_SQmxfzB0RLmN18NbLYz8",
+    "googleName": "Sawasdee Thai Spa",
+    "coords": {
+      "lat": -33.815514,
+      "lng": 18.4937124
+    },
+    "rating": 4.6,
+    "reviewCount": 161,
+    "phone": "+27 84 222 7882",
+    "website": "http://www.sawasdeethaispa.co.za/",
+    "address": "Intercare Medical & Dental Centre Park drive &, Link Rd, Parklands, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "wasana-thai-massage": {
+    "placeId": "ChIJbdhPuawgjgMRV--bK4DuzYg",
+    "googleName": "Wasana Thai Massage",
+    "coords": {
+      "lat": -33.8250491,
+      "lng": 18.4916456
+    },
+    "rating": 5,
+    "reviewCount": 133,
+    "phone": "+27 21 557 6066",
+    "website": "https://wasanathaimassagectn.co.za/",
+    "address": "Blaauwberg Therapy Centre, 103 Blaauwberg Rd, Table View, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "asianblendspa-home-of-tranquility": {
+    "placeId": "ChIJ6SzGr2VRzB0RoHqaKLGkRYw",
+    "googleName": "AsianblendSpa Home of Tranquility",
+    "coords": {
+      "lat": -33.816583699999995,
+      "lng": 18.484010899999998
+    },
+    "rating": 4.8,
+    "reviewCount": 116,
+    "phone": "+27 84 037 7167",
+    "website": "http://www.asianblendspa.com/",
+    "address": "55 Porterfield Rd, Bloubergstrand, Cape Town, 7436",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "nirvana-nook-wellness-spa": {
+    "placeId": "ChIJD_8qSMFfzB0Rrejss_Am1eM",
+    "googleName": "Nirvana Nook Wellness Spa",
+    "coords": {
+      "lat": -33.8231542,
+      "lng": 18.505446799999998
+    },
+    "rating": 5,
+    "reviewCount": 100,
+    "phone": "+27 76 582 3013",
+    "website": "https://nirvananookwellnessspa.setmore.com/",
+    "address": "12 Merlot Ave, Table View, Cape Town, 7439",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "chiang-mai-thai-spa-massage": {
+    "placeId": "ChIJLdUArLr0zB0RDReH6rdz370",
+    "googleName": "Chiang Mai Thai Spa Massage",
+    "coords": {
+      "lat": -33.729932,
+      "lng": 18.439856
+    },
+    "rating": 4.8,
+    "reviewCount": 81,
+    "phone": "+27 21 553 1408",
+    "website": "http://www.cmthaispa.co.za",
+    "address": "17 6th Ave, Melkbosstrand, Cape Town, 7437",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "rejuva-spa": {
+    "placeId": "ChIJ7z5xLmn1zB0Rx8blh3MDhH4",
+    "googleName": "Rejuva Spa",
+    "coords": {
+      "lat": -33.788269,
+      "lng": 18.4575672
+    },
+    "rating": 4.8,
+    "reviewCount": 68,
+    "phone": "+27 21 554 2238",
+    "website": "http://www.rejuvaspa.co.za/",
+    "address": "39, Seaside Village Centre, Big Bay, Cape Town, 1446",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "elim-spa-pedicure-products": {
+    "placeId": "ChIJIfCnmab0zB0RRav7C8ajWdA",
+    "googleName": "Elim Spa Pedicure Products",
+    "coords": {
+      "lat": -33.72712,
+      "lng": 18.44352
+    },
+    "rating": 5,
+    "reviewCount": 61,
+    "phone": "+27 21 553 2309",
+    "website": "http://www.elimspaproducts.co.za/",
+    "address": "Elim House, 1 12th Ave, Melkbosstrand, Cape Town, 7437",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "lilac-beauty-lashes-skin-brows": {
+    "placeId": "ChIJ32UkZHFfzB0R3JmReclf_Vc",
+    "googleName": "Lilac Beauty. Lashes, Skin & Brows",
+    "coords": {
+      "lat": -33.743769199999996,
+      "lng": 18.4493732
+    },
+    "rating": 5,
+    "reviewCount": 47,
+    "phone": "+27 71 583 3352",
+    "website": "https://www.fresha.com/book-now/lilac-beauty-skin-brows-lashes-jsljdh1p/all-offer?pId=879866",
+    "address": "18 Atlantic Beach Dr, Melkbosstrand, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "13:00"
+        },
+        {
+          "open": "14:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "13:00"
+        },
+        {
+          "open": "14:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "13:00"
+        },
+        {
+          "open": "14:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "13:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "chalila-spa-wellness": {
+    "placeId": "ChIJyWPf6HTc5GURcSBUBJFmAdw",
+    "googleName": "Chalila Spa & Wellness",
+    "coords": {
+      "lat": -33.8357596,
+      "lng": 18.4942592
+    },
+    "rating": 4.8,
+    "reviewCount": 42,
+    "phone": "+27 71 587 4608",
+    "website": "https://chalilawellness.co.za/",
+    "address": "20 Sandpiper Cres, Table View, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "basic-touch-health-beauty-clinic-cc": {
+    "placeId": "ChIJs7P8LBVfzB0RuRJw8l00vq0",
+    "googleName": "Basic Touch Health & Beauty Clinic cc",
+    "coords": {
+      "lat": -33.8171162,
+      "lng": 18.4975173
+    },
+    "rating": 4.8,
+    "reviewCount": 42,
+    "phone": "+27 83 794 1845",
+    "website": "http://www.basictouch.co.za/",
+    "address": "Shop 6, 14 Parklands Walk, Parklands, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "14:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "atlantic-boutique": {
+    "placeId": "ChIJ66-Nver0zB0R9HrqoZom5TI",
+    "googleName": "Atlantic Boutique",
+    "coords": {
+      "lat": -33.739798799999996,
+      "lng": 18.4523497
+    },
+    "rating": 4.8,
+    "reviewCount": 36,
+    "phone": "+27 61 524 9081",
+    "website": "http://atlanticboutique.co.za/",
+    "address": "1 Fairway Drive Atlantic Beach Golf Estate, Melkbosstrand, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "the-jacobs-cottage": {
+    "placeId": "ChIJtcVhQR9fzB0RuD1GDcNR-0s",
+    "googleName": "The Jacobs Cottage",
+    "coords": {
+      "lat": -33.835049999999995,
+      "lng": 18.497709999999998
+    },
+    "rating": 4.8,
+    "reviewCount": 34,
+    "phone": "+27 69 548 7754",
+    "website": "http://instagram.com/the_jacobs_cottage",
+    "address": "60 Pentz Dr, Flamingo Vlei, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "blonde-beard": {
+    "placeId": "ChIJZy-DJGtfzB0RC05xZaBsI9I",
+    "googleName": "Blonde&Beard",
+    "coords": {
+      "lat": -33.792498699999996,
+      "lng": 18.4584266
+    },
+    "rating": 4.5,
+    "reviewCount": 27,
+    "phone": "+27 21 554 0638",
+    "website": null,
+    "address": "Eden on the Bay Big Bay, Big Bay, Cape Town, 7441",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "gaia-guest-house-health-hydro": {
+    "placeId": "ChIJRZJOk9ZfzB0RuVX8ID0bM0k",
+    "googleName": "Gaia Guest House & Health Hydro",
+    "coords": {
+      "lat": -33.8570257,
+      "lng": 18.4941225
+    },
+    "rating": 3.6,
+    "reviewCount": 26,
+    "phone": "+27 79 583 3500",
+    "website": "https://gaiahydrospa.wixsite.com/my-site",
+    "address": "29 Diluta Dr, Sunset Beach, Milnerton, 7441",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "ozone-hocatt-therapy-at-genesis-03-welln": {
+    "placeId": "ChIJYRSAztZfzB0R4i-Kj0LD9xE",
+    "googleName": "Ozone Hocatt Therapy at Genesis 03 Wellness",
+    "coords": {
+      "lat": -33.8379036,
+      "lng": 18.5090303
+    },
+    "rating": 5,
+    "reviewCount": 25,
+    "phone": "+27 76 943 4110",
+    "website": "https://www.facebook.com/genesis03wellness",
+    "address": "180 Pentz Dr, Flamingo Vlei, Cape Town, 7411",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "17:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "blouberg-medi-spa": {
+    "placeId": "ChIJWznQQn9fzB0RRmYUkylbhQg",
+    "googleName": "Blouberg Medi Spa",
+    "coords": {
+      "lat": -33.8074654,
+      "lng": 18.4810056
+    },
+    "rating": 4.6,
+    "reviewCount": 25,
+    "phone": "+27 83 375 9078",
+    "website": "http://www.bloubergmedispa.co.za/",
+    "address": "7 Sandown Rd, West Beach, Cape Town, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  }
+}

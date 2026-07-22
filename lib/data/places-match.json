@@ -1,0 +1,670 @@
+{
+  "truth": {
+    "placeId": "ChIJk0_6kHxnzB0R9hOYtdW5I_s",
+    "googleName": "Truth Coffee Roasting",
+    "address": "36 Buitenkant St, Cape Town City Centre, Cape Town, 8000, South Africa"
+  },
+  "kloof": {
+    "placeId": "ChIJ_Tc00XFnzB0R1TIppn46x4I",
+    "googleName": "Kloof Street House",
+    "address": "30 Kloof St, Gardens, Cape Town, 8005, South Africa"
+  },
+  "superette": {
+    "placeId": "ChIJK6aeaJldzB0RV9QjxQrqqbs",
+    "googleName": "Superette",
+    "address": "66 Albert Rd, Woodstock, Cape Town, 7915, South Africa"
+  },
+  "kalkfish": {
+    "placeId": "ChIJ8SkpLY1BzB0RMPl2PmlbuTg",
+    "googleName": "Kalky’s",
+    "address": "Harbour, Cape Town, 7990, South Africa"
+  },
+  "bootlegger": {
+    "placeId": "ChIJ6TdBjCFnzB0RM8gdI-9aXEs",
+    "googleName": "Bootlegger XS Sea Point",
+    "address": "39 Regent Rd, Sea Point, Cape Town, 8060, South Africa"
+  },
+  "yourstruly": {
+    "placeId": "ChIJrd6WymhnzB0RtAbmT_Q9mhc",
+    "googleName": "Yours Truly",
+    "address": "73 Kloof St, Schotsche Kloof, Cape Town, 8001, South Africa"
+  },
+  "causeeffect": {
+    "placeId": "ChIJMSWE43FnzB0Rjil_wEY8TfA",
+    "googleName": "Cause Effect Cocktail Kitchen",
+    "address": "The Rocket Shed, 280 Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa"
+  },
+  "tablemtn": {
+    "placeId": "ChIJ_2wa9o1nzB0R64vZmO-aVvg",
+    "googleName": "Platteklip Gorge Starting Point",
+    "address": "Tafelberg Rd, Table Mountain (Nature Reserve), Cape Town, 8001, South Africa"
+  },
+  "lionshead": {
+    "placeId": "ChIJ3c0kTQRnzB0RHyTnI5OYSd4",
+    "googleName": "Lion's Head Hiking Trail",
+    "address": "Signal Hill Rd, Signal Hill, Cape Town, 8001, South Africa"
+  },
+  "campsbeach": {
+    "placeId": "ChIJuUZtdVNmzB0R-7OvUK-IBzE",
+    "googleName": "Camps Bay Beach",
+    "address": "Camps Bay Beach, Cape Town, 8005, South Africa"
+  },
+  "boulders": {
+    "placeId": "ChIJKeByCDY-zB0RECn0gAHgvHw",
+    "googleName": "Boulders Beach",
+    "address": "Simon's Town, Cape Town, 7995, South Africa"
+  },
+  "seapointprom": {
+    "placeId": "ChIJPbtn3yRnzB0RlkvEzyY2FMs",
+    "googleName": "Sea Point Promenade",
+    "address": "Sea Point Promenade, Cape Town, 8005, South Africa"
+  },
+  "surf": {
+    "placeId": "ChIJAym3sVZAzB0Rkrtalkql8Z0",
+    "googleName": "Surf Emporium - Muizenberg Surf School & Muizenberg Surf Shop",
+    "address": "Surfers Corner, 72 Beach Rd, Muizenberg, Cape Town, 7945, South Africa"
+  },
+  "pottery": {
+    "placeId": "ChIJq-s09MddzB0Rpq-a9FanD0o",
+    "googleName": "Clay Hands",
+    "address": "196 Victoria Rd, Woodstock, Cape Town, 7925, South Africa"
+  },
+  "capemalay": {
+    "placeId": "ChIJ7UiTVQBnzB0RmIN2Zy0Ro5U",
+    "googleName": "Cape Malay Cooking Class in Bo-Kaap",
+    "address": "67A Jordaan St, Schotsche Kloof, Cape Town, 8001, South Africa"
+  },
+  "signalhill": {
+    "placeId": "ChIJLxZ_ThBnzB0RUlKaEktSTbg",
+    "googleName": "Signal Hill",
+    "address": "Signal Hill, Cape Town, 8001, South Africa"
+  },
+  "zeitz": {
+    "placeId": "ChIJ3dD0bFlnzB0RGBEddr2FeY8",
+    "googleName": "Zeitz Museum of Contemporary Art Africa",
+    "address": "S Arm Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa"
+  },
+  "biscuitmill": {
+    "placeId": "ChIJmb1qtKZdzB0RQGPrsOVHzDk",
+    "googleName": "The Old Biscuit Mill",
+    "address": "373 Albert Rd, Woodstock, Cape Town, 7925, South Africa"
+  },
+  "aquarium": {
+    "placeId": "ChIJfeaqwlpnzB0Rl2i0iRvp6SI",
+    "googleName": "Two Oceans Aquarium",
+    "address": "Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8002, South Africa"
+  },
+  "constantiapicnic": {
+    "placeId": "ChIJDa4TTrZpzB0Rjaba2KrVSt4",
+    "googleName": "Buitenverwachting",
+    "address": "Buitenverwachting, Klein Constantia Rd, Constantia, Cape Town, 7806, South Africa"
+  },
+  "ontherocks": {
+    "placeId": "ChIJKx5cP2L1zB0RHlcsDjHf1W4",
+    "googleName": "On the Rocks Restaurant",
+    "address": "45 Stadler Rd, Bloubergstrand, Cape Town, 7441, South Africa"
+  },
+  "sundowners": null,
+  "bluepeter": {
+    "placeId": "ChIJGcz1jWP1zB0RwIR_FQAKMX4",
+    "googleName": "The Blue Peter Hotel",
+    "address": "8 Popham St, Bloubergstrand, Cape Town, 7436, South Africa"
+  },
+  "bloubergbeach": {
+    "placeId": "ChIJkZEvSQpfzB0Rfg2XVG32CvM",
+    "googleName": "Bloubergstrand Beach",
+    "address": "Bloubergstrand Beach, 2 Marine Dr, Table View, Cape Town, 7441, South Africa"
+  },
+  "kitesurf": {
+    "placeId": "ChIJb6UFtJ1fzB0RVCUGlgeOcw4",
+    "googleName": "High Five Kitesurf School Cape Town",
+    "address": "68 Beach Blvd, Table View, Cape Town, 7439, South Africa"
+  },
+  "obscafe": null,
+  "bokaapwalk": null,
+  "doodles": {
+    "placeId": "ChIJ__wQMDxfzB0R_dTsPP9csjQ",
+    "googleName": "Doodles Beachfront",
+    "address": "110 Beach Blvd, Bloubergstrand, Cape Town, 7441, South Africa"
+  },
+  "ons-huisie-restaurant": {
+    "placeId": "ChIJg2gUtWP1zB0RRLPLZ5BYZas",
+    "googleName": "Ons Huisie Restaurant",
+    "address": "Stadler Rd, Bloubergstrand, Cape Town, 7441"
+  },
+  "damhuis-restaurant": {
+    "placeId": "ChIJo-ztW6X0zB0Rew4TImHqKeE",
+    "googleName": "Damhuis Restaurant",
+    "address": "32 Beach Rd, Melkbosstrand, Cape Town, 7437"
+  },
+  "jerrys-burger-bar-blouberg": {
+    "placeId": "ChIJScKo1xBfzB0Rt2eDeYtViNU",
+    "googleName": "Jerry's Burger Bar Blouberg",
+    "address": "1st Floor, Portico Building, 1 Athens Rd, Bloubergstrand, Cape Town, 7439"
+  },
+  "seat-restaurant": {
+    "placeId": "ChIJpStIAWb1zB0R__UBUqxRQVY",
+    "googleName": "Seat Restaurant",
+    "address": "Big Bay Blvd, Big Bay, Cape Town, 7441"
+  },
+  "petiscos": {
+    "placeId": "ChIJaSbaLRVfzB0RTQWBktL1jFY",
+    "googleName": "Petiscos",
+    "address": "Parklands Main Road, Cavalier Centre, Parklands, Cape Town, 7441"
+  },
+  "cape-town-fish-market-bloubergstrand": {
+    "placeId": "ChIJyU4U0271zB0Ruu4VOiUmXnU",
+    "googleName": "Cape Town Fish Market Bloubergstrand",
+    "address": "Shop 42, Seaside Village, Cnr Otto Du Plessis Rd &, Cormorant Ave, Big Bay, Cape Town, 7441"
+  },
+  "ou-meul-melkbosstrand": {
+    "placeId": "ChIJR8wABCz1zB0RnQwcxc5-kV0",
+    "googleName": "Ou Meul Melkbosstrand",
+    "address": "r27 W Coast Rd, Melkbosstrand, Cape Town, 7441"
+  },
+  "portalia-pizzeria-deli": {
+    "placeId": "ChIJOV4CGD9fzB0RP-K0QMMzT1g",
+    "googleName": "Portalia Pizzeria & Deli",
+    "address": "Hadjidakis Centre Cnr Raats Dr. &, Janssens Avenue, Table View, Cape Town, 7441"
+  },
+  "romans-pizza-milnerton": {
+    "placeId": "ChIJe02ainFOzB0RZds9N33QxNI",
+    "googleName": "Roman's Pizza Milnerton",
+    "address": "Shop 33, The Paddocks Shopping Centre Cnr Grand National Boulevard &, Racecourse Rd, Milnerton, Cape Town, 7435"
+  },
+  "copper-club-sandown": {
+    "placeId": "ChIJ6ah0AlVfzB0RIh9StRHmAI0",
+    "googleName": "Copper Club - Sandown",
+    "address": "104 Sandown Rd, West Beach, Cape Town, 7441"
+  },
+  "bootlegger-sandown-retail-crossing": {
+    "placeId": "ChIJRy1W0zNfzB0RM_N4f8IqAuQ",
+    "googleName": "Bootlegger Sandown Retail Crossing",
+    "address": "Shop 12A, Sandown Retail Crossing, Sandown Rd, Milnerton Rural, Cape Town, 7441"
+  },
+  "all-in-the-kitchen-deli": {
+    "placeId": "ChIJIf-Huw1fzB0Rh4jDt-s4K9Q",
+    "googleName": "All in the Kitchen Deli",
+    "address": "51 Blaauwberg Rd, Table View, Cape Town, 7439"
+  },
+  "atlantic-beach-hotel-melkbosstrand": {
+    "placeId": "ChIJVStOiaT0zB0RrB7V7ow-YIQ",
+    "googleName": "Atlantic Beach Hotel, Melkbosstrand",
+    "address": "Cnr Commaille Road &, 13th Ave, Melkbosstrand, Cape Town, 7441"
+  },
+  "andiccio24-sunset-beach": {
+    "placeId": "ChIJt8NBQHNfzB0RD0bjg3wqhyc",
+    "googleName": "Andiccio24 Sunset Beach",
+    "address": "Corner Otto du Plessis Drive &, Ocean Way, Sunset Beach, Cape Town, 7441"
+  },
+  "the-cinnamon-club": {
+    "placeId": "ChIJxfoHNVJRzB0RorIAi2o-dbY",
+    "googleName": "The Cinnamon Club",
+    "address": "8 The Courtyard Street, West Beach, Cape Town, 7441"
+  },
+  "reach-cafe": {
+    "placeId": "ChIJDzXLk1tfzB0RdYJqBbPQID8",
+    "googleName": "REACH Cafe",
+    "address": "83 Janssens Avenue, Table View, Cape Town, 7439"
+  },
+  "waves-restaurant": {
+    "placeId": "ChIJiYEHFoRfzB0RbjqzLlL_e7Q",
+    "googleName": "WAVES Restaurant",
+    "address": "106 Beach Blvd, Table View, Cape Town, 7441"
+  },
+  "sunbird-restaurant": {
+    "placeId": "ChIJVRvmqAH1zB0R4nX9v0bc0HY",
+    "googleName": "Sunbird Restaurant",
+    "address": "1 Fairway Drive Melkbosstrand, Atlantic Beach Estate, Melkbosstrand, Cape Town, 7441"
+  },
+  "romans-pizza-west-coast-village": {
+    "placeId": "ChIJOzy0nrVfzB0RBMEGYTaF0AE",
+    "googleName": "Roman's Pizza West Coast Village",
+    "address": "Shop 42(1, Cnr R27 and, West Coast Village Shopping Centre, Sandown Rd, Sunningdale, Cape Town, 7741"
+  },
+  "melkbosskerm": {
+    "placeId": "ChIJn6O2Vl_zzB0RCBPkwRv73qk",
+    "googleName": "Melkbosskerm",
+    "address": "Robben Rd, Melkbosstrand, Cape Town, 7437"
+  },
+  "the-coffee-stop": {
+    "placeId": "ChIJkXC-ZwBfzB0RRrf6EEkKYYA",
+    "googleName": "The Coffee Stop",
+    "address": "20 Stadler Rd, Bloubergstrand, Cape Town, 7436"
+  },
+  "caffeine-cartel-coffee-truck": {
+    "placeId": "ChIJM3n3totZzB0R6s2nv7_ediA",
+    "googleName": "Caffeine Cartel Coffee Truck",
+    "address": "Blouberg Beach, Otto du Plessis Dr, Table View, Cape Town, 7441"
+  },
+  "blowfish-restaurant": {
+    "placeId": "ChIJWQreJwtfzB0R3pBrzqgf3yU",
+    "googleName": "Blowfish Restaurant",
+    "address": "1 Marine Dr, Bloubergstrand, Cape Town, 7441"
+  },
+  "news-cafe-table-view": {
+    "placeId": "ChIJSddnzgpfzB0Ro1IIkTs5-zE",
+    "googleName": "News Cafe Table View",
+    "address": "1 Beach Blvd, Table View, Cape Town, 7441"
+  },
+  "bossa-sunningdale": {
+    "placeId": "ChIJkcYYG9lfzB0R6F3BCMep7r8",
+    "googleName": "Bossa Sunningdale",
+    "address": "Shop 55, West Coast Village Shopping Centre Corner West Coast &, Sandown Rd, Sunningdale, Cape Town, 7441"
+  },
+  "fancy-franks-sunset-beach": {
+    "placeId": "ChIJI32Fdv1fzB0R55Na3mbG7KM",
+    "googleName": "Fancy Frank's Sunset Beach",
+    "address": "Seattle Coffee Company Ocean Square, 4 Ocean Way, Sunset Beach, Cape Town, 7441"
+  },
+  "the-hart": {
+    "placeId": "ChIJi1y34q_0zB0R7n2meJqWHns",
+    "googleName": "The Hart",
+    "address": "Shop 4, Mira Mar Centre, 26 Beach Rd, Melkbosstrand, Cape Town, 7437"
+  },
+  "reload-flamingo-square-centre": {
+    "placeId": "ChIJR8bxXiRfzB0RA-xLFyinf8g",
+    "googleName": "Reload Flamingo Square Centre",
+    "address": "Shop 10 Flamingo Square Centre Corner of Blaauwberg Road, Study St, Table View, Cape Town, 7441"
+  },
+  "the-brazen-head-big-bay": {
+    "placeId": "ChIJN-K71G71zB0RodHZv8TpOp8",
+    "googleName": "The Brazen Head Big Bay",
+    "address": "Seaside Village, Otto du Plessis Dr, Big Bay, Cape Town, 7441"
+  },
+  "melkbos-country-club": {
+    "placeId": "ChIJm-n4XV_zzB0RzKvAlLwKU0M",
+    "googleName": "Melkbos Country Club",
+    "address": "1 Robben Rd, Melkbosstrand, Cape Town, 7437"
+  },
+  "baked-raats": {
+    "placeId": "ChIJU0zRfHhfzB0RS5JCScvKSAE",
+    "googleName": "Baked Raats",
+    "address": "22 Raats Dr, Table View, Cape Town, 7441"
+  },
+  "time-out-bar": {
+    "placeId": "ChIJO53f-TtfzB0RhEvAFH_tbTk",
+    "googleName": "Time Out Bar",
+    "address": "3 Merlot Ave, Table View, Cape Town, 7439"
+  },
+  "le-petit-cafe-and-bar": {
+    "placeId": "ChIJG8R1UMNfzB0Rfm4OrZDZK-A",
+    "googleName": "Le Petit Cafe and Bar",
+    "address": "6 Sandown Rd, Blouberg Sands, Cape Town, 7441"
+  },
+  "misthom-lounge-shisha-bar": {
+    "placeId": "ChIJz4JeViRfzB0RyVkys7tl-x0",
+    "googleName": "Misthom Lounge & Shisha Bar",
+    "address": "10A Parklands Main Rd, Parklands, Cape Town, 7441"
+  },
+  "heritage-lounge-and-restaurant": {
+    "placeId": "ChIJv1CknWFfzB0RP-Lfs6YqrbU",
+    "googleName": "Herit'Age Lounge and Restaurant",
+    "address": "Unit C7B, Leonardo Park, Main Road, Parklands, Cape Town, 7441"
+  },
+  "blouberg-beachfront": {
+    "placeId": "ChIJR_zMM55fzB0R7GUwhqANVTM",
+    "googleName": "Blouberg Beachfront",
+    "address": "Blouberg Beachfront, Milnerton Rural, Cape Town, 7441"
+  },
+  "blouberg-kite-surfing-beach": {
+    "placeId": "ChIJfS-ysQpfzB0RVgs99ggR3Qk",
+    "googleName": "Blouberg Kite Surfing Beach",
+    "address": "Blouberg Kite Surfing Beach, Table View, Cape Town, 7439"
+  },
+  "sunset-beach": {
+    "placeId": "ChIJL_ORwu9ezB0RXOS3G72C2Fc",
+    "googleName": "Sunset Beach",
+    "address": "Sunset Beach"
+  },
+  "big-bay-blouberg": {
+    "placeId": "ChIJFRanx2P1zB0RVxeZnrguhqs",
+    "googleName": "Big Bay Blouberg",
+    "address": "Big Bay Blouberg, Stadler Rd, Bloubergstrand, Cape Town, 7436"
+  },
+  "big-bay-beach": {
+    "placeId": "ChIJjVD5ajz1zB0RJlK8fcR1RA8",
+    "googleName": "Big Bay Beach",
+    "address": "Big Bay Beach"
+  },
+  "duynefontein": {
+    "placeId": "ChIJGzeTF1vzzB0R7k73BizdbzM",
+    "googleName": "Duynefontein",
+    "address": "Duynefontein, 13 Strand Rd, Van Riebeeckstrand, Cape Town, 7441"
+  },
+  "rietvlei-wetland-reserve": {
+    "placeId": "ChIJG99BqR5fzB0RHSMLlloouGs",
+    "googleName": "Rietvlei Wetland Reserve",
+    "address": "8 Sandpiper Cres, Flamingo Vlei, Cape Town, 7441"
+  },
+  "leonardo-dog-park": {
+    "placeId": "ChIJoSMAX2pfzB0R5CTNjqELcWA",
+    "googleName": "Leonardo Dog Park",
+    "address": "21 Ravenscourt Rd, Parklands, Cape Town, 7441"
+  },
+  "regent-park": {
+    "placeId": "ChIJAbykOT9fzB0RIY6Un6DsTXg",
+    "googleName": "Regent Park",
+    "address": "Regent Rd, Parklands, Cape Town, 7441"
+  },
+  "little-bay-beach": {
+    "placeId": "ChIJTbCV_sX0zB0RMNAvRBNvb5M",
+    "googleName": "Little Bay Beach",
+    "address": "Little Bay Beach"
+  },
+  "brander-park": {
+    "placeId": "ChIJj1mUQixfzB0RzUdS0eG1kIk",
+    "googleName": "Brander Park",
+    "address": "Bloubergrant, Cape Town, 7443"
+  },
+  "sandown-road-park": {
+    "placeId": "ChIJY5Dy3X5fzB0RbtH4My2i0cw",
+    "googleName": "Sandown Road Park",
+    "address": "46 Sail St, Blouberg Sands, Cape Town, 7449"
+  },
+  "teal-bend-park": {
+    "placeId": "ChIJ9wINWob1zB0RZkmLSeAZo6s",
+    "googleName": "Teal bend park",
+    "address": "7441, Milnerton Rural, Cape Town"
+  },
+  "clifton-park": {
+    "placeId": "ChIJlz3CLVtfzB0R6Aa-O65x6R8",
+    "googleName": "Clifton Park",
+    "address": "111-113 Dorchester Dr, Parklands, Cape Town, 7441"
+  },
+  "parkview-park": {
+    "placeId": "ChIJQz25sm5fzB0RcH_lcb9BJsw",
+    "googleName": "Parkview Park",
+    "address": "Parkview Cl, Sunningdale, Cape Town, 7441"
+  },
+  "echium-road-park": {
+    "placeId": "ChIJfU2yohRfzB0RMi6uAtbYwks",
+    "googleName": "Echium Road Park",
+    "address": "16 Echium Rd, Table View, Cape Town, 7439"
+  },
+  "table-bay-nature-reserve": {
+    "placeId": "ChIJXdmhgOZezB0RC3ocnFp8oAo",
+    "googleName": "Table Bay Nature Reserve",
+    "address": "95 Bay Beach Ave, Sunset Beach, Cape Town, 7441"
+  },
+  "melkbos-reserve": {
+    "placeId": "ChIJU1UeHqX0zB0RxLWHur6kvRs",
+    "googleName": "Melkbos RESERVE",
+    "address": "Melkbos RESERVE, 8 10th Ave, Melkbosstrand, Cape Town, 7437"
+  },
+  "mission-hills-park": {
+    "placeId": "ChIJXSlwpmNfzB0RU59MStYtnwU",
+    "googleName": "Mission Hills Park",
+    "address": "Mission Hills, Oakhill Village,, Sunningdale, Cape Town"
+  },
+  "bloubergstrand": {
+    "placeId": "ChIJr8dKrfgXzB0R35y2YO7gmdA",
+    "googleName": "Bloubergstrand",
+    "address": "Bloubergstrand"
+  },
+  "ster-kinekor-bayside": {
+    "placeId": "ChIJ853OShJfzB0Re6jrh-xRWmk",
+    "googleName": "Ster-Kinekor Bayside",
+    "address": "Blaauwberg Rd, Table View, Cape Town, 7439"
+  },
+  "milky-lane-total-tableview": {
+    "placeId": "ChIJTWYv3QpfzB0R2oCW998Qoqs",
+    "googleName": "Milky Lane Total Tableview",
+    "address": "Service Road, Table View, Cape Town, 7439"
+  },
+  "tube-wave": {
+    "placeId": "ChIJOc2zpaX0zB0RX60AyTAtpkI",
+    "googleName": "Tube Wave",
+    "address": "Beach Rd, Melkbosstrand, Cape Town, 7437"
+  },
+  "small-bay-park": {
+    "placeId": "ChIJfdyNvWP1zB0R4b3R2oW8Scw",
+    "googleName": "Small Bay Park",
+    "address": "7 Pelegrini St, Bloubergstrand, Cape Town, 7436"
+  },
+  "the-bubble-hub": {
+    "placeId": "ChIJRSUhDwD1zB0RM-jWrxaqXf0",
+    "googleName": "The bubble hub",
+    "address": "8 6th Ave, Melkbosstrand, Cape Town, 7437"
+  },
+  "gatti-ice-cream-factory-shop": {
+    "placeId": "ChIJsW1XpYpfzB0RL3NANXOnzXs",
+    "googleName": "Gatti Ice Cream Factory Shop",
+    "address": "Shop 1 The Emporium Centre, Sandown Rd, Sunningdale, Cape Town"
+  },
+  "the-dairy-den-sandown-retail-crossing": {
+    "placeId": "ChIJTYX-D99fzB0RChOSjxL8Q0Q",
+    "googleName": "The Dairy Den - Sandown Retail Crossing",
+    "address": "Shop G12b, Cnr Wood Drive &, Sandown Rd, Parklands, Cape Town, 7441"
+  },
+  "dolphin-beach": {
+    "placeId": "ChIJBa0zdS1fzB0R2y1SrA0dYrY",
+    "googleName": "Dolphin Beach",
+    "address": "1 Marine Drive, Dolphin Beach, Tafelsig, Kaapstad, 7441"
+  },
+  "sempre-espresso": {
+    "placeId": "ChIJGZzjtbpfzB0R2jG2_ZYyWn0",
+    "googleName": "Sempre Espresso",
+    "address": "Blaauwberg, Otto du Plessis Dr, Table View, Cape Town, 7441"
+  },
+  "atlantic-beach-links": {
+    "placeId": "ChIJta9IvOr0zB0RXFLBLpgxQNw",
+    "googleName": "Atlantic Beach Links",
+    "address": "1 Fairway Drive, Melkbosstrand, Atlantic Beach Golf Estate, Cape Town, 7441"
+  },
+  "the-thursty-turtle": {
+    "placeId": "ChIJYw9S13RfzB0RQXKiFyCmLdM",
+    "googleName": "The Thursty Turtle",
+    "address": "Shop 2A, Blue Waters Centre, 2 Porterfield Rd, Table View, Cape Town, 7441"
+  },
+  "sunningdale-sports-complex": {
+    "placeId": "ChIJa8SwpnxfzB0RfMlrR56QeSs",
+    "googleName": "Sunningdale Sports Complex",
+    "address": "Waterville St, Milnerton Rural, Cape Town, 7441"
+  },
+  "isla-malie-tropical-spa-tableview": {
+    "placeId": "ChIJd8GN24L1zB0RDZZ31hGlcOs",
+    "googleName": "Isla Malie Tropical Spa Tableview",
+    "address": "27 Blaauwberg Rd, Tableview, Cape Town, 7441"
+  },
+  "milnerton-aquatic-club": {
+    "placeId": "ChIJ-c4R4iFfzB0RIuzcKpy9kp8",
+    "googleName": "Milnerton Aquatic Club",
+    "address": "Grey Ave, Bloubergstrand, Cape Town, 7441"
+  },
+  "tableview-sports-facility": {
+    "placeId": "ChIJ59WF1Q9fzB0Rqwy2-e370Ng",
+    "googleName": "Tableview Sports Facility",
+    "address": "Birkenhead Rd, Table View, 7441"
+  },
+  "gracie-jiu-jitsu-cape-town": {
+    "placeId": "ChIJlcpcujtfzB0RJz14IgclsQA",
+    "googleName": "Gracie Jiu Jitsu Cape Town",
+    "address": "Delphi Arch Building, 12 Raats Dr, Table View, Cape Town, 7441"
+  },
+  "maximillian-jiu-jitsu": {
+    "placeId": "ChIJJ-tPJWtfzB0Rteh3bsS9MFA",
+    "googleName": "Maximillian Jiu Jitsu",
+    "address": "Unit 22A, Flamingo Square, 212 Blaauwberg Rd, Table View, Cape Town, 7439"
+  },
+  "paintball-pyrozone": {
+    "placeId": "ChIJFUe1CqD0zB0RdUdbjLd8wgk",
+    "googleName": "Paintball PyroZone",
+    "address": "Robben Rd, Melkbosstrand, 7437"
+  },
+  "khaya-kite-and-yoga-house": {
+    "placeId": "ChIJ-xirEfRfzB0RIprg54INJEc",
+    "googleName": "Khaya Kite and Yoga House",
+    "address": "8 Crinum Rd, Table View, Cape Town, 7441"
+  },
+  "watersports-warehouse": {
+    "placeId": "ChIJmUbHLbqLtAERiFTLg5pZsvw",
+    "googleName": "Watersports Warehouse",
+    "address": "Shop 1, Portico 3, Athens Rd, Bloubergstrand, Cape Town, 7441"
+  },
+  "chaitanya-school-of-yoga": {
+    "placeId": "ChIJlbwHbz1fzB0R90aZmPYbGio",
+    "googleName": "Chaitanya School of Yoga",
+    "address": "Unit C11 Leonardo Park Corner Link and, Parklands Main Rd, Parklands, Cape Town, 7441"
+  },
+  "united-krav-maga": {
+    "placeId": "ChIJc2x6ePtfzB0ReGwDYnmwAcM",
+    "googleName": "United Krav Maga",
+    "address": "Cavalier centre, 2 Parklands Main Rd, Parklands, Cape Town, 7441"
+  },
+  "fitbae-inc": {
+    "placeId": "ChIJxT67uFqH40YRjrjVF1zc0YY",
+    "googleName": "fitbae inc.",
+    "address": "60 Blaauwberg Rd, Table View, Cape Town, 7441"
+  },
+  "boardrooms-kite-coworking-accommodation": {
+    "placeId": "ChIJUfTclsNfzB0RNdVxu-nmfTQ",
+    "googleName": "Boardrooms Kite & Coworking Accommodation",
+    "address": "16 Spray Rd, Bloubergstrand, Cape Town, 7443"
+  },
+  "house-of-movement": {
+    "placeId": "ChIJVd3bkJBnzB0R4l7fCFSQr8Q",
+    "googleName": "House of Movement",
+    "address": "34 Sir David Baird Dr, Bloubergstrand, Cape Town, 8001"
+  },
+  "big-bay-events": {
+    "placeId": "ChIJD20Mbmb1zB0RDF8ty3ncHs0",
+    "googleName": "Big Bay Events",
+    "address": "Otto du Plessis Dr, Big Bay, Cape Town, 7448"
+  },
+  "ocean-reef-swim-school": {
+    "placeId": "ChIJ7elBDWJfzB0RSW5pRprj4ZI",
+    "googleName": "Ocean Reef Swim School",
+    "address": "7 Crassula Rd, Table View, Cape Town, 7441"
+  },
+  "giants-gymnastics": {
+    "placeId": "ChIJg3vDTF1fzB0RjH-B5T8_-SE",
+    "googleName": "Giants Gymnastics",
+    "address": "Grace Baptist Church, 77 Ringwood Dr, Parklands, Cape Town, 7441"
+  },
+  "eda-krav-maga-self-defence": {
+    "placeId": "ChIJQUF0W6T1zB0RyIYONZLW1oI",
+    "googleName": "EDA Krav Maga Self Defence",
+    "address": "8 Harbour Lights Ln, Melkbosstrand, Cape Town, 7441"
+  },
+  "laughing-waters-swim-school-milnerton-ca": {
+    "placeId": "ChIJJwcx6MZezB0RslZN8gH6u0s",
+    "googleName": "Laughing Waters Swim School - Milnerton, Cape Town",
+    "address": "21 Fairview Cres, Milnerton Ridge, Cape Town, 7441"
+  },
+  "madx-muay-thai-boxing-fitness": {
+    "placeId": "ChIJGWDB-7n1zB0RK_M-tEJQfaM",
+    "googleName": "MadX Muay Thai Boxing Fitness",
+    "address": "La Paloma, 26 Santa Cruz Cres, Cape Town, 7441"
+  },
+  "inmotion-create-your-balance": {
+    "placeId": "ChIJdbUvRw1nzB0RbCY0aQoCexg",
+    "googleName": "INMOTION – CREATE YOUR BALANCE",
+    "address": "23 Soluta St, Sunset Beach, Cape Town, 7441"
+  },
+  "venus-yoga-studio-sunset-beach-cape-town": {
+    "placeId": "ChIJI-gjCABfzB0R75PV2uPMxu4",
+    "googleName": "Venus Yoga Studio, Sunset Beach, Cape Town",
+    "address": "7 Volute Cir, Sunset Beach, Cape Town, 7441"
+  },
+  "melkbosstrand-oppiesee-cultural-centre": {
+    "placeId": "ChIJ46sgAMj0zB0RNoboA6w0zgA",
+    "googleName": "Melkbosstrand Oppiesee Cultural Centre",
+    "address": "Otto du Plessis Dr"
+  },
+  "studio-46": {
+    "placeId": "ChIJKSHbRmL1zB0R6UI0RUmqXak",
+    "googleName": "Studio 46",
+    "address": "46 Stadler Rd, Bloubergstrand, Cape Town, 7441"
+  },
+  "ohana-beauty-and-wellness-day-spa": {
+    "placeId": "ChIJy7cUxTlfzB0Rh_WeFv6w9WA",
+    "googleName": "Ohana Beauty and Wellness Day Spa",
+    "address": "Blaauwberg Beach Hotel, 106 Beach Blvd, Table View, Cape Town, 7441"
+  },
+  "naree-authentic-thai-massage": {
+    "placeId": "ChIJsdf8GL9ezB0RGQL0Xg8MPuY",
+    "googleName": "Naree Authentic Thai Massage",
+    "address": "First Floor Paddocks shopping centre Racecourse Road Racecourse Rd Milnerton Cape Town ZA 7441, Racecourse Rd, Milnerton, Cape Town, 7441"
+  },
+  "sawasdee-thai-spa": {
+    "placeId": "ChIJBw_SQmxfzB0RLmN18NbLYz8",
+    "googleName": "Sawasdee Thai Spa",
+    "address": "Intercare Medical & Dental Centre Park drive &, Link Rd, Parklands, Cape Town, 7441"
+  },
+  "wasana-thai-massage": {
+    "placeId": "ChIJbdhPuawgjgMRV--bK4DuzYg",
+    "googleName": "Wasana Thai Massage",
+    "address": "Blaauwberg Therapy Centre, 103 Blaauwberg Rd, Table View, Cape Town, 7441"
+  },
+  "asianblendspa-home-of-tranquility": {
+    "placeId": "ChIJ6SzGr2VRzB0RoHqaKLGkRYw",
+    "googleName": "AsianblendSpa Home of Tranquility",
+    "address": "55 Porterfield Rd, Bloubergstrand, Cape Town, 7436"
+  },
+  "nirvana-nook-wellness-spa": {
+    "placeId": "ChIJD_8qSMFfzB0Rrejss_Am1eM",
+    "googleName": "Nirvana Nook Wellness Spa",
+    "address": "12 Merlot Ave, Table View, Cape Town, 7439"
+  },
+  "chiang-mai-thai-spa-massage": {
+    "placeId": "ChIJLdUArLr0zB0RDReH6rdz370",
+    "googleName": "Chiang Mai Thai Spa Massage",
+    "address": "17 6th Ave, Melkbosstrand, Cape Town, 7437"
+  },
+  "rejuva-spa": {
+    "placeId": "ChIJ7z5xLmn1zB0Rx8blh3MDhH4",
+    "googleName": "Rejuva Spa",
+    "address": "39, Seaside Village Centre, Big Bay, Cape Town, 1446"
+  },
+  "elim-spa-pedicure-products": {
+    "placeId": "ChIJIfCnmab0zB0RRav7C8ajWdA",
+    "googleName": "Elim Spa Pedicure Products",
+    "address": "Elim House, 1 12th Ave, Melkbosstrand, Cape Town, 7437"
+  },
+  "lilac-beauty-lashes-skin-brows": {
+    "placeId": "ChIJ32UkZHFfzB0R3JmReclf_Vc",
+    "googleName": "Lilac Beauty. Lashes, Skin & Brows",
+    "address": "18 Atlantic Beach Dr, Melkbosstrand, Cape Town, 7441"
+  },
+  "chalila-spa-wellness": {
+    "placeId": "ChIJyWPf6HTc5GURcSBUBJFmAdw",
+    "googleName": "Chalila Spa & Wellness",
+    "address": "20 Sandpiper Cres, Table View, Cape Town, 7441"
+  },
+  "basic-touch-health-beauty-clinic-cc": {
+    "placeId": "ChIJs7P8LBVfzB0RuRJw8l00vq0",
+    "googleName": "Basic Touch Health & Beauty Clinic cc",
+    "address": "Shop 6, 14 Parklands Walk, Parklands, Cape Town, 7441"
+  },
+  "atlantic-boutique": {
+    "placeId": "ChIJ66-Nver0zB0R9HrqoZom5TI",
+    "googleName": "Atlantic Boutique",
+    "address": "1 Fairway Drive Atlantic Beach Golf Estate, Melkbosstrand, Cape Town, 7441"
+  },
+  "the-jacobs-cottage": {
+    "placeId": "ChIJtcVhQR9fzB0RuD1GDcNR-0s",
+    "googleName": "The Jacobs Cottage",
+    "address": "60 Pentz Dr, Flamingo Vlei, Cape Town, 7441"
+  },
+  "blonde-beard": {
+    "placeId": "ChIJZy-DJGtfzB0RC05xZaBsI9I",
+    "googleName": "Blonde&Beard",
+    "address": "Eden on the Bay Big Bay, Big Bay, Cape Town, 7441"
+  },
+  "gaia-guest-house-health-hydro": {
+    "placeId": "ChIJRZJOk9ZfzB0RuVX8ID0bM0k",
+    "googleName": "Gaia Guest House & Health Hydro",
+    "address": "29 Diluta Dr, Sunset Beach, Milnerton, 7441"
+  },
+  "ozone-hocatt-therapy-at-genesis-03-welln": {
+    "placeId": "ChIJYRSAztZfzB0R4i-Kj0LD9xE",
+    "googleName": "Ozone Hocatt Therapy at Genesis 03 Wellness",
+    "address": "180 Pentz Dr, Flamingo Vlei, Cape Town, 7411"
+  },
+  "blouberg-medi-spa": {
+    "placeId": "ChIJWznQQn9fzB0RRmYUkylbhQg",
+    "googleName": "Blouberg Medi Spa",
+    "address": "7 Sandown Rd, West Beach, Cape Town, 7441"
+  }
+}

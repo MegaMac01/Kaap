@@ -1,26 +1,94 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-hanken), system-ui, sans-serif;
+  --font-display: var(--font-instrument), serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+@theme {
+  /* Kaap design tokens — from design handoff README "Design Tokens" */
+  --color-parchment: #efe8d8;
+  --color-card: #fffdf6;
+  --color-ink: #23281f;
+  --color-ink-soft: #3c4238;
+  --color-ink-soft2: #4a4f43;
+  --color-ink-mid: #6a6555;
+  --color-muted: #7a7565;
+  --color-muted2: #9a9483;
+  --color-muted3: #a49d8b;
+  --color-faint: #c2bba9;
+  --color-terracotta: #cf6a3f;
+  --color-terracotta-hover: #b0512a;
+  --color-terracotta-deep: #a94f28;
+  --color-forest: #2c4a3b;
+  --color-sage: #5c6b5c;
+  --color-open: #2f7d52;
+  --color-open-bg: #e6f0e6;
+  --color-closed: #b5573f;
+  --color-star: #e0a53f;
+  --color-ocean1: #c7ddd8;
+  --color-ocean2: #b2cfc8;
+  --color-land1: #e9dfc6;
+  --color-land2: #e0d3b3;
+  --color-mountain: #8ca596;
+  --color-map-label: #3c5648;
+  --color-map-italic: #6a8377;
+
+  --shadow-card: 0 8px 22px -18px rgba(44, 74, 59, 0.6);
+  --shadow-card-hover: 0 16px 30px -18px rgba(44, 74, 59, 0.55);
+  --shadow-panel: 0 12px 30px -18px rgba(44, 74, 59, 0.5);
+  --shadow-action: 0 14px 34px -22px rgba(44, 74, 59, 0.6);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-parchment);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+}
+
+::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(44, 74, 59, 0.22);
+  border-radius: 20px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Horizontal rails (collections, chips, similar spots) */
+.hrail {
+  scrollbar-width: thin;
+}
+
+/* MapLibre attribution control, reskinned to match the app chrome instead of
+   the library's plain white/black default (SpotMap, DiscoverMap). `compact:
+   true` doesn't start collapsed and the OpenFreeMap style's own credit can't
+   be replaced client-side, so this shrinks it to a single quiet line rather
+   than fighting to hide it. */
+.maplibregl-ctrl-attrib {
+  background: transparent;
+}
+.maplibregl-ctrl-attrib.maplibregl-compact-show {
+  max-width: calc(100% - 8px);
+  border-radius: 999px;
+  padding: 3px 10px;
+  margin: 0 4px 4px 0;
+  background: rgba(255, 253, 246, 0.88);
+  box-shadow: 0 1px 4px rgba(44, 74, 59, 0.18);
+}
+.maplibregl-ctrl-attrib.maplibregl-compact-show .maplibregl-ctrl-attrib-inner {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-size: 10px;
+  line-height: 1.4;
+}
+.maplibregl-ctrl-attrib a {
+  color: var(--color-ink-mid);
+}
+.maplibregl-ctrl-attrib-button {
+  display: none; /* redundant once the control is always shown expanded */
 }
