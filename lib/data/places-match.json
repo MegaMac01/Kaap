@@ -666,5 +666,800 @@
     "placeId": "ChIJWznQQn9fzB0RRmYUkylbhQg",
     "googleName": "Blouberg Medi Spa",
     "address": "7 Sandown Rd, West Beach, Cape Town, 7441"
+  },
+  "toboggan-family-park-pty-ltd-t-a-cool-ru": {
+    "placeId": "ChIJUWybPLtQzB0RnW2g9TZm59A",
+    "googleName": "Toboggan Family Park (Pty) Ltd., t/a Cool Runnings",
+    "address": "Off Carl Cronje Dr, Tygervalley, Cape Town, 7530"
+  },
+  "ster-kinekor-cape-gate": {
+    "placeId": "ChIJn_2T1pBWzB0RKqFpiG_YNyk",
+    "googleName": "Ster-Kinekor Cape Gate",
+    "address": "Cape Gate Shopping Centre Okavango Rd &, De Bron Rd, Cape Gate, Cape Town, 7560"
+  },
+  "ipic-play": {
+    "placeId": "ChIJVxeJ55RXzB0R7E6yEOW5x1Y",
+    "googleName": "Ipic Play",
+    "address": "Corner of Burton and, Aurora St, Durbanville, Cape Town, 7550"
+  },
+  "playalot-indoor-adventure-park-pinehurst": {
+    "placeId": "ChIJNV5nEVRRzB0RvoL4RXQepBM",
+    "googleName": "Playalot Indoor Adventure Park - Pinehurst - Durbanville",
+    "address": "3 Tanzanite Cres, Durbanville, Cape Town, 7550"
+  },
+  "dairy-exchange-brackenfell": {
+    "placeId": "ChIJcz2g8xNRzB0RBDzyJLwlsvA",
+    "googleName": "Dairy Exchange Brackenfell",
+    "address": "Shop 5, Aroma Village Centre, Old Paarl Rd, Brackenfell, Cape Town, 7560"
+  },
+  "the-creamery-caf-durbanville": {
+    "placeId": "ChIJyy5Ag0dXzB0R34AVuNgqXeY",
+    "googleName": "The Creamery Café Durbanville",
+    "address": "Shop 18, 36 Oxford St, Durbanville, Cape Town, 7550"
+  },
+  "whats-the-scoop": {
+    "placeId": "ChIJcXibc3VXzB0RK44QRdjQIFo",
+    "googleName": "What's The Scoop?",
+    "address": "Shop 2, Langeberg Ridge centre, 43 Ridge Rd, Langeberg Ridge, Cape Town, 7570"
+  },
+  "polar-ice-cream-brackenfell": {
+    "placeId": "ChIJ-7j-cPRRzB0R2efsfY5w1UU",
+    "googleName": "Polar Ice Cream Brackenfell",
+    "address": "Frans Conradie Dr, Brackenfell South, Cape Town, 7560"
+  },
+  "chocolat-bistro": {
+    "placeId": "ChIJLX2wRhJXzB0RHrJUjBoMo-o",
+    "googleName": "Chocolat Bistro",
+    "address": "46 Oxford St, Durbanville, Cape Town, 7550"
+  },
+  "bossa-buh-rein": {
+    "placeId": "ChIJF_n9biFUzB0Rjre4FZjJi5U",
+    "googleName": "Bossa Buh-Rein",
+    "address": "Buh-Rein Dr &, Zandvliet Dr, East-Rural, Cape Town, 7570"
+  },
+  "copper-club-tyger-waterfront": {
+    "placeId": "ChIJ51lvN7tQzB0Rh6uU5nuRA_M",
+    "googleName": "Copper Club Tyger Waterfront",
+    "address": "18-19, Tyger Waterfront, Carl Cronje Dr, Bellville, Cape Town, 7530"
+  },
+  "bossa-vredekloof": {
+    "placeId": "ChIJnR7oUblRzB0RB2yiOMH9AtQ",
+    "googleName": "Bossa Vredekloof",
+    "address": "Shop 10, Vredekloof Centre Corner Brackenfell Boulevard, De Bron Rd, Vredekloof, Cape Town, 7560"
+  },
+  "kapstadt-brauhaus-durbanville": {
+    "placeId": "ChIJUTSwE5dXzB0RRG26MQLaaqQ",
+    "googleName": "Kapstadt Brauhaus Durbanville",
+    "address": "C/O, Gladstone and, Heritage Square, Vrede St, Durbanville, Cape Town, 7550"
+  },
+  "die-boer-restaurant-durbanville": {
+    "placeId": "ChIJa78f6BBXzB0Rt7xVB07jjjM",
+    "googleName": "Die Boer Restaurant Durbanville",
+    "address": "6 Chenoweth St, Durbanville, 7551"
+  },
+  "boston-coffee-roasters": {
+    "placeId": "ChIJVW9X95xQzB0RVjBwK9abKoQ",
+    "googleName": "Boston Coffee Roasters",
+    "address": "Cleveland St, Boston, Cape Town, 7530"
+  },
+  "boathouse-sushi": {
+    "placeId": "ChIJtzuBysFWzB0RhDzjtsdlhs0",
+    "googleName": "Boathouse Sushi",
+    "address": "Shop 27, Pinehurst Shopping Centre, Brackenfell Blvd, Durbanville, Cape Town, 7569"
+  },
+  "romans-pizza-bellville": {
+    "placeId": "ChIJ63uB2YpQzB0RniNaMRbiIO0",
+    "googleName": "Roman's Pizza Bellville",
+    "address": "Cnr Quarry &, Mazzur Rd, Bellville, Cape Town, 7530"
+  },
+  "cab-foods-bellville": {
+    "placeId": "ChIJ42_B1ZBQzB0RH4B1Id5VU9c",
+    "googleName": "CAB Foods Bellville",
+    "address": "34A Northumberland St, Bellville, Cape Town, 7530"
+  },
+  "cab-foods-brackenfell": {
+    "placeId": "ChIJf0AOn1pRzB0RtQ4zOkJnRlk",
+    "googleName": "CAB Foods Brackenfell",
+    "address": "Frans Conradie Dr &, Kenwill Dr, Okavango Park, Cape Town, 7560"
+  },
+  "ruslamere-hotel-and-conference-centre": {
+    "placeId": "ChIJP4Xr5R1XzB0RAZWfph0um_4",
+    "googleName": "Ruslamere Hotel and Conference Centre",
+    "address": "14 Langeberg Rd, Durbanville, Cape Town, 7550"
+  },
+  "boere-sjiek-gifts": {
+    "placeId": "ChIJj8e8YDdRzB0R2LStNthugUs",
+    "googleName": "Boere Sjiek Gifts",
+    "address": "12 Kiewiet Cl, Okavango Park, Cape Town, 7560"
+  },
+  "the-home-of-mondvol-cookies": {
+    "placeId": "ChIJK53ESN5RzB0RLRc9xjjkI2k",
+    "googleName": "The home of Mondvol Cookies",
+    "address": "30 Tanzanite Cres, Stonewood Dr, Bonnie Brae, Cape Town, 7570"
+  },
+  "blou-winkel": {
+    "placeId": "ChIJrR99y-RTzB0RTekJ_Mq9NRc",
+    "googleName": "Blou Winkel",
+    "address": "254 Voortrekker Rd, Kraaifontein, Cape Town, 7570"
+  },
+  "heroes-live": {
+    "placeId": "ChIJV8BVcTNXzB0RB4_cFdv6WiE",
+    "googleName": "HEROES LIVE",
+    "address": "Unit 1A, Cape Gate Corner, Nitida Ave, Kleinbron Estate, Cape Town, 7560"
+  },
+  "the-bloemhof-grill-and-guesthouse": {
+    "placeId": "ChIJNVoZQOhRzB0RqlmCq58jR2U",
+    "googleName": "The Bloemhof Grill and Guesthouse",
+    "address": "76 Bloemhof Rd, Oakdale, Cape Town, 7530"
+  },
+  "groot-phesantekraal-wines-restaurant": {
+    "placeId": "ChIJjSB0A0xWzB0RcMQqsD63QwE",
+    "googleName": "Groot Phesantekraal Wines & Restaurant",
+    "address": "Klipheuwel Rd, R302, Cape Town, 7550"
+  },
+  "fat-cactus-tygervalley": {
+    "placeId": "ChIJ32_F4ylRzB0RZCrQ4jY3baY",
+    "googleName": "Fat Cactus Tygervalley",
+    "address": "21 Mispel Rd, Bellville Park, Cape Town, 7530"
+  },
+  "cafe-grano": {
+    "placeId": "ChIJGRdzpflWzB0Rwhslg8fQLsg",
+    "googleName": "Cafe Grano",
+    "address": "Shop 5 Graanendal Shopping Centre, Durbanville, Cape Town, 7550"
+  },
+  "new-national-hotel": {
+    "placeId": "ChIJ1Xny0l1azB0RJlKN4Vcczxk",
+    "googleName": "New National Hotel",
+    "address": "352 Voortrekker Rd, Fairfield Estate, Cape Town, 7500"
+  },
+  "license-to-grill-restaurant-durbanville": {
+    "placeId": "ChIJvebmWeJXzB0RDxNQcOvavY0",
+    "googleName": "License to Grill Restaurant Durbanville",
+    "address": "Shop 35a-d Klipheuwel Road &, Okavango Rd, Durbanville, Cape Town, 5770"
+  },
+  "bossa-phesantekraal": {
+    "placeId": "ChIJXZUAFT1XzB0RSVQaTm1MuuU",
+    "googleName": "Bossa Phesantekraal",
+    "address": "Shop 36, Groot Phesantekraal Shopping Centre Cnr of Klipheuwel Road &, Okavango Rd, Durbanville, Cape Town, 7550"
+  },
+  "tygerberg-student-centre": {
+    "placeId": "ChIJa_txXIdazB0RH_WbKBP9eAo",
+    "googleName": "Tygerberg Student Centre",
+    "address": "3JR6+M2, Tygerberg Hospital, Cape Town, 7505"
+  },
+  "vierlanden-kwikspar": {
+    "placeId": "ChIJ5f0ZHgFXzB0RbrMruknXmUg",
+    "googleName": "Vierlanden Kwikspar",
+    "address": "Protea Way, Vierlanden, Cape Town, 7550"
+  },
+  "petes-pizza-uitzicht": {
+    "placeId": "ChIJtQzNnI5WzB0R6bgjIVWvLQY",
+    "googleName": "Pete's Pizza Uitzicht",
+    "address": "10 Uitzicht Centre, Vatican St, Uitzicht, Cape Town, 7570"
+  },
+  "omalleys-sports-ale": {
+    "placeId": "ChIJwY7hqe9RzB0Ra1BJVuqvcH4",
+    "googleName": "O'Malleys Sports & Ale",
+    "address": "Witels St, Arauna, Cape Town, 7560"
+  },
+  "plat-coffee-brackenfell": {
+    "placeId": "ChIJQY2kYWJRzB0RiWTHJp8p3ac",
+    "googleName": "Platō Coffee - Brackenfell",
+    "address": "Essential Health Building C/O Old Paarl, and, Jeanette St, Springbokpark, Cape Town, 7560"
+  },
+  "coco-vogue-eco-health-beauty-eco-emporiu": {
+    "placeId": "ChIJRUVRB5ZQzB0RvJ9f_0FGHMA",
+    "googleName": "Coco Vogue Eco Health & Beauty Eco Emporium & Coco Vogue Revive Lounge",
+    "address": "Suite 102 shop 75, building 111, Edward building, Tyger Valley, 11 Edward Rd, Bo Oakdale, Cape Town, 7550"
+  },
+  "absolute-beauty": {
+    "placeId": "ChIJW8K0QHBRzB0R7W8P4ejQy-A",
+    "googleName": "Absolute Beauty",
+    "address": "43 Protea Rd, Brackenfell, Cape Town, 7560"
+  },
+  "gem-beauty": {
+    "placeId": "ChIJT0fKPm9XzB0RnUPVnrmVssg",
+    "googleName": "Gem Beauty",
+    "address": "28 Aurora St, Aurora, Cape Town, 7550"
+  },
+  "pure-day-spa-durbanville": {
+    "placeId": "ChIJr7sX3h1XzB0Rl04O0Cfanw0",
+    "googleName": "Pure Day Spa - Durbanville",
+    "address": "Unit 15, Sir Benjamin Promenade, 20A Oxford St, Durbanville, Cape Town, 7550"
+  },
+  "empath-hands": {
+    "placeId": "ChIJieYa1YlujQMRR1AQFT6SCWM",
+    "googleName": "Empath Hands",
+    "address": "20 Tygerberg Rd, Kraaifontein, Cape Town, 7570"
+  },
+  "la-mai-massage-and-wellness-spa": {
+    "placeId": "ChIJv4ddEZFQzB0ROQFuE0HeA9M",
+    "googleName": "La Mai Massage and Wellness Spa",
+    "address": "200 Durban Rd, Oakdale, Cape Town, 7530"
+  },
+  "aesthetics-dr-nardus-le-grange": {
+    "placeId": "ChIJU1VfTbtQzB0RiMtfkkOh7JU",
+    "googleName": "Aesthetics (Dr Nardus le Grange)",
+    "address": "Suite 2, Canal Edge 3, Tyger Waterfont, Carl Cronje Dr, Bellville, Cape Town, 7530"
+  },
+  "ljs-ancient-healing-centre": {
+    "placeId": "ChIJdcO9jCBRzB0RGb7Gwf66RuY",
+    "googleName": "LJS Ancient Healing Centre",
+    "address": "34 Bloemhof Rd, Bo Oakdale, Cape Town, 7530"
+  },
+  "beyond-wellness": {
+    "placeId": "ChIJpcdtIulQzB0Rx6wmOyqXzoE",
+    "googleName": "Beyond Wellness",
+    "address": "81 Raglan St, Oakdale, Cape Town, 7530"
+  },
+  "hidden-gem-self-catering": {
+    "placeId": "ChIJ4ywYH3RRzB0RKRQkMuvJyEc",
+    "googleName": "Hidden Gem Self-Catering",
+    "address": "3 STEENBOK STREET RUWARI, Brackenfell, Cape Town, 7560"
+  },
+  "flawless-beauty-spa": {
+    "placeId": "ChIJQ2usLPdRzB0Rnot7RbdrY44",
+    "googleName": "Flawless Beauty Spa",
+    "address": "Shop UL02A Cape Gate Lifestyle Centre Corner Okovango and, Tanner St, Brackenfell, Cape Town, 7570"
+  },
+  "salon-on-nutans": {
+    "placeId": "ChIJm6WB_5BXzB0RoYWMiJMIlYY",
+    "googleName": "Salon On Nutans",
+    "address": "2 Nutans Ave, Proteaville, Cape Town, 7550"
+  },
+  "de-oude-caab-country-house": {
+    "placeId": "ChIJ8yPyyxVXzB0Rvw0roLWQXAg",
+    "googleName": "De Oude CAAB Country House",
+    "address": "3 Church St, Durbanville, Cape Town, 7550"
+  },
+  "shalom-hair-and-beauty-spa": {
+    "placeId": "ChIJ69Ob_UZRzB0Rxebo5L4WY0o",
+    "googleName": "Shalom Hair and Beauty Spa",
+    "address": "Shop 2 Shawn St, Arauna, Cape Town, 7560"
+  },
+  "lymph-draining-plus": {
+    "placeId": "ChIJ36qajegnLUQRCas3VXpmw_w",
+    "googleName": "Lymph Draining Plus",
+    "address": "Unit 1, 39 Wellington Rd, Durbanville, Cape Town, 7550"
+  },
+  "exclusive-plants": {
+    "placeId": "ChIJr3jhyd5WzB0RWdL4EeZWsIM",
+    "googleName": "Exclusive Plants",
+    "address": "1 Krisant St, Durbanville, Cape Town, 7550"
+  },
+  "beauty-by-hanna": {
+    "placeId": "ChIJfa8cQAdbzB0RQ5rJZ6qMqd0",
+    "googleName": "Beauty by Hanna",
+    "address": "30 Esperance St, Oostersee, Cape Town, 7500"
+  },
+  "dr-michelle-fourie-aesthetics": {
+    "placeId": "ChIJs_7BGyBXzB0R0nMNcAAM4AE",
+    "googleName": "Dr Michelle Fourie Aesthetics",
+    "address": "Unit 1.4, first floor, corner of New and, Park Central, 2 Koeberg Rd, Durbanville, Cape Town, 7550"
+  },
+  "chick-pulse-beauty-salon-kraaifontein": {
+    "placeId": "ChIJPYuxEHtvfCARG9i7SZMvqPA",
+    "googleName": "Chick Pulse Beauty Salon Kraaifontein",
+    "address": "2 Umkomaas Rd, Bonny Brook, Cape Town, 7570"
+  },
+  "jacaranda-skincare-salon": {
+    "placeId": "ChIJGwoi0SRXzB0RRB9JE6KOa4M",
+    "googleName": "Jacaranda Skincare Salon",
+    "address": "15 Mimosa St, Wellway Park, Cape Town, 7550"
+  },
+  "its-a-hair-circus-hair-nails-beauty": {
+    "placeId": "ChIJc5zAZw34wUwRdyxD0T2G9Iw",
+    "googleName": "It's A Hair Circus, Hair, Nails & Beauty",
+    "address": "11 Roslyn St, Brackenfell, Cape Town, 7650"
+  },
+  "corner-deck": {
+    "placeId": "ChIJjaLdlbRWzB0RUkcYi9Zcpdo",
+    "googleName": "CORNER DECK",
+    "address": "Cape Gate Lifestyle Centre, 25 Okavango Rd, Brackenfell, Cape Town, 7560"
+  },
+  "speakeasy-on-oxford": {
+    "placeId": "ChIJX5he9hNXzB0R2U4yTKDEETU",
+    "googleName": "Speakeasy on Oxford",
+    "address": "20 Oxford St, Durbanville, Cape Town, 7551"
+  },
+  "peppa-jacks-tex-mex-grill-bar": {
+    "placeId": "ChIJQ1DxFRFXzB0RgdDHz9udpDg",
+    "googleName": "Peppa Jack's Tex-Mex Grill & Bar",
+    "address": "19 Thaba Park, Hooggelegen Rd, Durbanville, Cape Town, 7550"
+  },
+  "hennies-brackenfell": {
+    "placeId": "ChIJWW9iQV1RzB0R0IXeSUgbVjE",
+    "googleName": "Hennie's Brackenfell",
+    "address": "Shop 57, Brackenfell Shopping Centre, Old Paarl Rd, Brackenfell South, Cape Town, 7560"
+  },
+  "jackson-and-black-grill-pizzeria-tyger": {
+    "placeId": "ChIJq1IFeChRzB0RRtzJ9BK7Exg",
+    "googleName": "Jackson and Black Grill & Pizzeria | TYGER",
+    "address": "Gihon Buidling Corner Bill Bezuidenhout &, Sportica Cres, Tygervalley, Cape Town, 7530"
+  },
+  "sk-l-bar-and-eatery": {
+    "placeId": "ChIJrSSoTDFRzB0RW0ZoQShU-vQ",
+    "googleName": "Skål Bar and Eatery",
+    "address": "Shop 16 Vredekloof, Centre Dr, Brackenfell, Cape Town, 7560"
+  },
+  "bok-lounge-grill": {
+    "placeId": "ChIJb3QwB0BRzB0R4yVJtZSS8Yg",
+    "googleName": "Bok Lounge & Grill",
+    "address": "Paradys St, St Michaels, Cape Town, 7560"
+  },
+  "danskraal": {
+    "placeId": "ChIJ7eVM2pBQzB0RKa5peG8AJrw",
+    "googleName": "Danskraal",
+    "address": "Northumberland Rd, Oakdale, Cape Town, 7530"
+  },
+  "gringos-cantina-pizzeria": {
+    "placeId": "ChIJIfCg-5xQzB0RbzZ9TWQsDp8",
+    "googleName": "Gringo's Cantina & Pizzeria",
+    "address": "39 12th Ave, Boston, Cape Town, 7530"
+  },
+  "the-sports-fan-pub-grill": {
+    "placeId": "ChIJoW8L70BRzB0REHh2bOAPTs0",
+    "googleName": "The Sports Fan Pub & Grill",
+    "address": "580 Frans Conradie Dr, Ferndale, Cape Town, 7560"
+  },
+  "pizza-pub-restaurant": {
+    "placeId": "ChIJRcsfvalWzB0RRVjcl1XHTss",
+    "googleName": "Pizza Pub & Restaurant",
+    "address": "Office No.8, Brighton Center, 8 Brighton Rd, Windsor Park, Cape Town, 7570"
+  },
+  "the-drunken-duck-bellville": {
+    "placeId": "ChIJq6qqpllQzB0RyORR9tx6uC0",
+    "googleName": "The Drunken Duck Bellville",
+    "address": "Mahenka Centre, Cnr Strand st & Ford Street, Stikland, Cape Town, 7535"
+  },
+  "highlander-pub-and-venue": {
+    "placeId": "ChIJyeieUGZRzB0RlfAghtLakao",
+    "googleName": "Highlander Pub and venue",
+    "address": "37 Gemini St, Brackenfell South, Cape Town, 7570"
+  },
+  "stinos-pub-and-grill": {
+    "placeId": "ChIJjx6CoYlQzB0Rwc12-CT96v8",
+    "googleName": "Stino's Pub and Grill",
+    "address": "Lareh Court, 70F Voortrekker Rd, Bellville, Cape Town, 7530"
+  },
+  "smugglers-sports-pub": {
+    "placeId": "ChIJjRRzP0pRzB0Rg4oAXgcvr6o",
+    "googleName": "Smugglers Sports Pub",
+    "address": "Shopping Centre, De Bron Rd, Brackenfell, Cape Town, 7560"
+  },
+  "green-fields-pub": {
+    "placeId": "ChIJM3iTvWRRzB0R5ox5L25bkcg",
+    "googleName": "Green Fields Pub",
+    "address": "Shop 7 Ruwari Ctr, Kruis Rd, Brackenfell, Cape Town, 7560"
+  },
+  "schwarma-pizza-cafe": {
+    "placeId": "ChIJW54V2KRQzB0RbhtvZziZr54",
+    "googleName": "Schwarma& Pizza Cafe",
+    "address": "3 Waterfront Rd, Tyger Waterfront, Cape Town, 7530"
+  },
+  "planet-sports-bar-bellville": {
+    "placeId": "ChIJzTJQmohQzB0RqOEyXB_1zUk",
+    "googleName": "Planet Sports Bar Bellville",
+    "address": "corner of blankenberg street, and, Voortrekker Rd, Bellville, Cape Town, 7530"
+  },
+  "uncle-stans-pizza-pub": {
+    "placeId": "ChIJ5wTm2ghUzB0RQZblLa2zzQg",
+    "googleName": "Uncle Stan's Pizza & Pub",
+    "address": "Peerless Park West, Cape Town, 7570"
+  },
+  "cheers-on-oxford-pub": {
+    "placeId": "ChIJ7ZJINxJXzB0RbzLD_y08D9I",
+    "googleName": "Cheers on Oxford Pub",
+    "address": "44 Oxford St, Durbanville, Cape Town, 7550"
+  },
+  "v-bar-brackenfell": {
+    "placeId": "ChIJJYvuaj5RzB0ROQxkY-aEqwY",
+    "googleName": "V Bar Brackenfell",
+    "address": "Shop 4 A, Arauna Center, Handel Rd, Brackenfell, Cape Town, 7560"
+  },
+  "meeting-place": {
+    "placeId": "ChIJbW6LA5NQzB0Rak7ZqYWQco4",
+    "googleName": "Meeting Place",
+    "address": "46 Raglan St, Oakdale, Cape Town, 7530"
+  },
+  "pipers-pub": {
+    "placeId": "ChIJN0hjieVXzB0RgfgVy01BMNs",
+    "googleName": "Pipers Pub",
+    "address": "Vatican St, Uitzicht, Cape Town, 7570"
+  },
+  "the-corner-rock-bar": {
+    "placeId": "ChIJfx_BFelXzB0R7y9c0OHLqvk",
+    "googleName": "The Corner Rock Bar",
+    "address": "Scher Rd, Durbanville, Cape Town, 7550"
+  },
+  "ringos-pub-n-grill": {
+    "placeId": "ChIJY08NDlxQzB0RQx0HLXxLMoI",
+    "googleName": "Ringo's Pub n Grill",
+    "address": "Ringo, 10 Thermo St, Stikland, Cape Town, 7530"
+  },
+  "stargayzers": {
+    "placeId": "ChIJMbfEWXtazB0RQg-C_ZWPjZI",
+    "googleName": "Stargayzers",
+    "address": "16 Caxton St, Parow East, Cape Town, 7501"
+  },
+  "forest-tavern": {
+    "placeId": "ChIJnctfku5TzB0R6c1u5D7bntA",
+    "googleName": "Forest Tavern",
+    "address": "Ntongana Rd, Wallace Dene, Cape Town, 7570"
+  },
+  "papa-joes": {
+    "placeId": "ChIJ6cVu-LhRzB0Rd38rsa6Z-qo",
+    "googleName": "Papa Joe's",
+    "address": "42B Kruis Rd, Protea Hoogte, Cape Town, 7560"
+  },
+  "fives-sports-bar-grill-pinehurst": {
+    "placeId": "ChIJt2hvtZRXzB0RlpKMZ2cIIAo",
+    "googleName": "Fives Sports bar & Grill Pinehurst",
+    "address": "Corner of sirocco drive, and, Pinehurst Dr, Durbanville, Cape Town, 7550"
+  },
+  "dantes-premiere-lounge": {
+    "placeId": "ChIJ4XyMscxRzB0RrU3nekkHpTg",
+    "googleName": "Dante's Premiere Lounge",
+    "address": "9 Neutron St, Triangle Farm, Cape Town, 7530"
+  },
+  "livingroom": {
+    "placeId": "ChIJiZCIXJxRzB0RVgd35x-hm4g",
+    "googleName": "Livingroom",
+    "address": "105 Voortrekker Rd, Bellville, Cape Town, 7530"
+  },
+  "kraaifontein-jukskei-klub": {
+    "placeId": "ChIJVcHau4hXzB0RZGyZId-Yc54",
+    "googleName": "Kraaifontein Jukskei Klub",
+    "address": "Sarel Van Deventer Rd, Bonnie Brae, Cape Town, 7569"
+  },
+  "down-the-hatch": {
+    "placeId": "ChIJN_-Fwr5RzB0RVXHH0J2oGTo",
+    "googleName": "Down the Hatch",
+    "address": "Northpine, Cape Town, 7560"
+  },
+  "jack-muller-danie-uys-district-park": {
+    "placeId": "ChIJZxWlW5pQzB0RCd-FNh8R7eE",
+    "googleName": "Jack Muller & Danie Uys District Park",
+    "address": "Frans Conradie Dr, Boston, Cape Town, 7530"
+  },
+  "bracken-nature-reserve": {
+    "placeId": "ChIJAU8ecthTzB0RU9G0sdZdXc0",
+    "googleName": "Bracken Nature Reserve",
+    "address": "2 Reservoir St, Brackenfell South, Cape Town, 7560"
+  },
+  "durbanville-nature-reserve": {
+    "placeId": "ChIJc8xpnz9XzB0RL5-oAXlrKyw",
+    "googleName": "Durbanville Nature Reserve",
+    "address": "Race Course Rd, Durbanville, Cape Town, 7550"
+  },
+  "boland-dam-park": {
+    "placeId": "ChIJrTDzCyNXzB0RxmjAY7k4q2A",
+    "googleName": "Boland Dam Park",
+    "address": "Vierlanden, Cape Town, 7550"
+  },
+  "uitzicht-greenbelt-body-of-water": {
+    "placeId": "ChIJZw4Vo4xWzB0RxSDQEzDQQuI",
+    "googleName": "Uitzicht Greenbelt Body of Water",
+    "address": "25 St Peters St, Uitzicht, Cape Town, 7570"
+  },
+  "zoo-dog-park": {
+    "placeId": "ChIJSWL60alXzB0RknBzZ0aUHDk",
+    "googleName": "Zoo dog park",
+    "address": "Zoo Park, Cape Town, 7570"
+  },
+  "botterblom-nature-reserve": {
+    "placeId": "ChIJKYH2m0NXzB0R2UYTYK3wD2w",
+    "googleName": "Botterblom Nature Reserve",
+    "address": "Botterblom Street, Vierlanden Heights, Cape Town, 7550"
+  },
+  "aurora-park": {
+    "placeId": "ChIJa5HQdmVXzB0RCCj3HNsfYxI",
+    "googleName": "Aurora Park",
+    "address": "Aurora, Cape Town, 7550"
+  },
+  "crown-crescent-park": {
+    "placeId": "ChIJl7CZIRxUzB0RReTFXLP4lUQ",
+    "googleName": "Crown Crescent Park",
+    "address": "East-Rural, Cape Town, 7570"
+  },
+  "dalsig-park": {
+    "placeId": "ChIJE5LvP95XzB0R9yk-t7vynrQ",
+    "googleName": "Dalsig Park",
+    "address": "&nbsp, Durbanville, Kaapstad, 7550"
+  },
+  "thibault-inclusive-play-park": {
+    "placeId": "ChIJ3cvqr1dRzB0RdAlWTcXni-Y",
+    "googleName": "Thibault Inclusive Play Park",
+    "address": "32-6 Thibault St, Arauna, Cape Town, 7560"
+  },
+  "horak-city-park": {
+    "placeId": "ChIJ69hgPgdUzB0RK8gI6ZpzP24",
+    "googleName": "Horak City Park",
+    "address": "Horak St, Kraaifontein, Cape Town, 7570"
+  },
+  "suikerbossie-park-community-garden": {
+    "placeId": "ChIJYy4qYoBTzB0R_tQTtg7Piog",
+    "googleName": "Suikerbossie Park Community Garden",
+    "address": "23, 11 Suikerbos St, Protea Village, Cape Town, 7560"
+  },
+  "george-starke-park": {
+    "placeId": "ChIJ0bUlA29azB0R-x8fgUda6KY",
+    "googleName": "George Starke Park",
+    "address": "Friesland St, Parow, Cape Town, 7500"
+  },
+  "uitkamp-wetland-nature-reserve": {
+    "placeId": "ChIJqbGFOvZXzB0RYWLeIKwk0Rg",
+    "googleName": "Uitkamp Wetland Nature Reserve",
+    "address": "D`urbanvale, Cape Town, 7550"
+  },
+  "boland-park": {
+    "placeId": "ChIJH3qOb81XzB0R39PUHzi6m2Y",
+    "googleName": "Boland Park",
+    "address": "Boland Way, Vierlanden, Cape Town, 7550"
+  },
+  "odendaal-park": {
+    "placeId": "ChIJ8aCZKXtXzB0Rs8f5Jg_03hY",
+    "googleName": "Odendaal Park",
+    "address": "70 Odendaal Rd, Aurora, Cape Town, 7550"
+  },
+  "tielman-marais-park": {
+    "placeId": "ChIJh3fqaIVQzB0RcfzMusV1338",
+    "googleName": "Tielman Marais Park",
+    "address": "16 Alexandra St, Oakdale, Cape Town, 7530"
+  },
+  "henlo-park": {
+    "placeId": "ChIJsV4EEbxWzB0RCblBw0-N0OU",
+    "googleName": "Henlo Park",
+    "address": "Hennop Rd, Langeberg Glen, Cape Town, 7570"
+  },
+  "stonewood-estate-park": {
+    "placeId": "ChIJU9hWvmxXzB0R_w7ZAgZ4jEQ",
+    "googleName": "Stonewood Estate Park",
+    "address": "8 Basswood Rd, Kraaifontein, Cape Town, 7569"
+  },
+  "8-th-avenue-park": {
+    "placeId": "ChIJt1Xw7RRbzB0R7kJUIWZuwno",
+    "googleName": "8 th Avenue park",
+    "address": "70 8th Ave, Boston, Cape Town, 7530"
+  },
+  "leroux-park": {
+    "placeId": "ChIJ-WGPcqRWzB0RgTwFSrQ1nmQ",
+    "googleName": "Leroux Park",
+    "address": "11 Stormberg Cres, Bonnie Brae, Cape Town, 7570"
+  },
+  "neilson-cycles": {
+    "placeId": "ChIJn2Eu8M9WzB0RvgevP5BV8UE",
+    "googleName": "Neilson Cycles",
+    "address": "Shop 2, 22 on, Oxford St, Durbanville, Cape Town, 7550"
+  },
+  "durbanville-golf-club": {
+    "placeId": "ChIJdYM1TB9XzB0Ro_UYR0oh5Jg",
+    "googleName": "Durbanville Golf Club",
+    "address": "Sport Way, Durbanville, Cape Town, 7550"
+  },
+  "brackenfell-action-sports-arena": {
+    "placeId": "ChIJ4ckVpxNRzB0RvmYiqPUPgfs",
+    "googleName": "Brackenfell Action Sports Arena",
+    "address": "48, Brackenfell Shopping Centre, Old Paarl Rd, Brackenfell, Cape Town, 7560"
+  },
+  "oakdale-club-klub-conference-and-functio": {
+    "placeId": "ChIJa3U-ZOpQzB0RYyj9p0QD7pU",
+    "googleName": "Oakdale Club / Klub | Conference and Function Venue",
+    "address": "80a Bloemhof Rd, Bloemhof, Cape Town, 7530"
+  },
+  "fives-futbol-pinehurst": {
+    "placeId": "ChIJzWCda75XzB0RSTSxvIwhPvM",
+    "googleName": "Fives Futbol Pinehurst",
+    "address": "Cnr Pinehurst Drive and, Sirocco Dr, Pinehurst, Cape Town, 7550"
+  },
+  "the-bellville-velodrome": {
+    "placeId": "ChIJtUGzTLxQzB0RxOhx46PJkDU",
+    "googleName": "The Bellville Velodrome",
+    "address": "Carl Cronje Dr, Bellville Park, Cape Town, 7530"
+  },
+  "ellingtons-saloon": {
+    "placeId": "ChIJzWbsz5BQzB0R0vDMfu5kz54",
+    "googleName": "Ellington's Saloon",
+    "address": "&, Pioneer Street, 31 Northumberland St, Oakdale, Cape Town, 7530"
+  },
+  "sessions-billiard-and-darts-tygervalley": {
+    "placeId": "ChIJbWO65SpRzB0Rr5aKvXV9KPU",
+    "googleName": "Sessions Billiard and Darts Tygervalley",
+    "address": "Unit 12 & 13 Tyger Manor Centre Cnr Durban road, Bill Bezuidenhout, amd, Willie Van Schoor Ave, Bellville, Cape Town, 7530"
+  },
+  "eagle-golf-ranges-previously-known-as-th": {
+    "placeId": "ChIJWWncg5dQzB0RdSPEjocn-CA",
+    "googleName": "Eagle Golf Ranges previously known as The Golf Village Tygervalley",
+    "address": "Carl Cronje Dr, Bellville, Cape Town, 7530"
+  },
+  "hollywoodbets-durbanville-racecourse": {
+    "placeId": "ChIJ3Z6hTkBXzB0RrM1dk6Y0NsA",
+    "googleName": "Hollywoodbets Durbanville Racecourse",
+    "address": "Bowlers Ave, Durbanville, Cape Town, 7551"
+  },
+  "golden-oldies-sports-bar": {
+    "placeId": "ChIJq1aoRfVQzB0R3IB4UV5PTt8",
+    "googleName": "Golden Oldies Sports Bar",
+    "address": "Next to Goldwagen, 5 Strand Rd, Belgravia, Kaapstad, 7530"
+  },
+  "avalon-lifestyle-centre": {
+    "placeId": "ChIJB0NhupNWzB0RS3YZZ4Dmm7k",
+    "googleName": "Avalon Lifestyle Centre",
+    "address": "Narvik Street, Durbanville, Kaapstad, 7569"
+  },
+  "brackenfell-cricket-club": {
+    "placeId": "ChIJFySIyTlRzB0RaNLehnYL52U",
+    "googleName": "Brackenfell Cricket Club",
+    "address": "Witels St, Brackenfell North, Cape Town, 7560"
+  },
+  "bellville-hockey-club": {
+    "placeId": "ChIJJelDvIFQzB0RbeETG6mCUk4",
+    "googleName": "Bellville Hockey Club",
+    "address": "Bellville Astro Corner of Landros &, Voortrekker Rd, Bellville, Cape Town, 7530"
+  },
+  "purpose-fit-fitness-studio": {
+    "placeId": "ChIJq5ZxLPlXzB0ReHa5OhQq0hM",
+    "googleName": "Purpose Fit Fitness Studio",
+    "address": "Unit 3 Tanzanite crescent, Stonewood Dr, Kraaifontein, Cape Town, 7550"
+  },
+  "durbanville-soccer-club": {
+    "placeId": "ChIJrZ_iDBlXzB0RFY3FKsl_5Uo",
+    "googleName": "Durbanville Soccer Club",
+    "address": "De Villiers Dr, Durbanville, Cape Town, 7550"
+  },
+  "kraaifontein-sport-shooting-club": {
+    "placeId": "ChIJv1xy0ppWzB0RBbINRCylv6E",
+    "googleName": "Kraaifontein Sport Shooting Club",
+    "address": "Amadeus Dr, Kraaifontein, Cape Town, 7570"
+  },
+  "bowtime-archery-supplies-and-shooting-ra": {
+    "placeId": "ChIJscv8hWZRzB0RFNvk0mXYEj8",
+    "googleName": "BOWTIME: Archery Supplies and Shooting Range",
+    "address": "52B Gemini St, Brackenfell Industrial, Cape Town, 7560"
+  },
+  "bellville-cricket-club": {
+    "placeId": "ChIJ0Th87b5QzB0R-yI5rVYrGXE",
+    "googleName": "Bellville Cricket Club",
+    "address": "PP Smit Sportsfields, Durban Rd, Bellville, Kaapstad, 7530"
+  },
+  "iron-grip-martial-arts-brazilian-jiu-jit": {
+    "placeId": "ChIJAylrAkdRzB0RMSkS7jN9Ang",
+    "googleName": "Iron Grip Martial Arts - Brazilian Jiu-Jitsu",
+    "address": "Stonewood Business Park, 6 Tanzanite Cres, Pinehurst, Cape Town, 7570"
+  },
+  "northpine-united-fc": {
+    "placeId": "ChIJNfJhsudTzB0RQJ5iB4HeKlg",
+    "googleName": "Northpine United FC",
+    "address": "Eoan Ave, Scottsdene, Cape Town, 7570"
+  },
+  "dave-sheer-guns-cape-town": {
+    "placeId": "ChIJTUP4WRFXzB0RAzrbTdb1uu8",
+    "googleName": "Dave Sheer Guns Cape Town",
+    "address": "Klipheuwel Road &, Okavango Rd, durbanville, Cape Town, 7550"
+  },
+  "foreverstrong-brackenfell": {
+    "placeId": "ChIJwbwzUzFRzB0R7mpbV_Eespk",
+    "googleName": "ForeverStrong Brackenfell",
+    "address": "7 Vredekloof Rd, Vredekloof, Cape Town, 7560"
+  },
+  "ipic-active": {
+    "placeId": "ChIJ_6fZIVFXzB0RwTIpHSmSCCs",
+    "googleName": "Ipic Active",
+    "address": "Corner of Burton &, Aurora St, Aurora, Cape Town, 7550"
+  },
+  "chrismar-tennis-club": {
+    "placeId": "ChIJJUgsXPJQzB0RIdNF9dKBdrM",
+    "googleName": "Chrismar Tennis Club",
+    "address": "22 Glanville Rd, Chrismar, Cape Town, 7530"
+  },
+  "camelot-riding-school": {
+    "placeId": "ChIJUY4ALAhXzB0R6t7Hi8E7xpQ",
+    "googleName": "Camelot Riding School",
+    "address": "Herta Erna Road, Schoongesig, Durbanville, Cape Town, 7550"
+  },
+  "taurus-indoor-shooting-range": {
+    "placeId": "ChIJ3YoPentazB0RT5l6k1p0DGg",
+    "googleName": "Taurus Indoor Shooting Range",
+    "address": "3 Boompies St, Parow East, Cape Town, 7500"
+  },
+  "bio-health": {
+    "placeId": "ChIJvZJuu6BXzB0ROmJLNXnM0CI",
+    "googleName": "Bio-health",
+    "address": "Abbeydale House, 4 Queen St, Durbanville, 7550"
+  },
+  "stormers-rugby-high-performance-centre": {
+    "placeId": "ChIJL3oBUX9azB0RnEbpJpvjkSI",
+    "googleName": "Stormers Rugby High Performance Centre",
+    "address": "Corner of &, Voortrekker Rd &, Duminy St, Bellville, Cape Town, 7530"
+  },
+  "cindys-academy-of-swimming": {
+    "placeId": "ChIJxfHVykZRzB0Ra_2R4_hZQMc",
+    "googleName": "Cindy's Academy of Swimming",
+    "address": "12 Marais St, Brackenfell, Cape Town, 7560"
+  },
+  "kraaifontein-cricket-club": {
+    "placeId": "ChIJ7bR2RZlWzB0Rm2XaTgcgVNg",
+    "googleName": "Kraaifontein Cricket Club",
+    "address": "Sarel Van Deventer Rd, Bonnie Brae, Cape Town, 7569"
+  },
+  "durbanville-tennis-club": {
+    "placeId": "ChIJk1OiiRFXzB0RRkNH5Tnhuzg",
+    "googleName": "Durbanville Tennis Club",
+    "address": "Biccard St, Durbanville, Cape Town, 7551"
+  },
+  "superswim-academy-durbanville": {
+    "placeId": "ChIJwbdoU5FXzB0R8RauTGNS6sI",
+    "googleName": "Superswim Academy Durbanville",
+    "address": "2 Slangkop Way, Skoongesig, Cape Town, 7550"
+  },
+  "crossfit-relentless-heart": {
+    "placeId": "ChIJhXxMO1BRzB0R9oBigJuzj88",
+    "googleName": "CrossFit Relentless Heart",
+    "address": "Unit 2, 25 Tarentaal Cres, Okavango Park, Cape Town, 7560"
+  },
+  "olympians-wrestling-club-stoei-klub": {
+    "placeId": "ChIJu9dcffpXzB0RJI3lX4Rjtb8",
+    "googleName": "Olympians -Wrestling Club -Stoei Klub",
+    "address": "Durbanville, Cape Town, 7551"
+  },
+  "tricore-mma-gym": {
+    "placeId": "ChIJMUwJBltRzB0RlBFP4nefb8A",
+    "googleName": "Tricore MMA Gym",
+    "address": "103 Edward Rd, Windsor Park, Cape Town, 7570"
+  },
+  "morningstar-swimming-pool": {
+    "placeId": "ChIJS3lYURpXzB0RPNk0_mNf0Gs",
+    "googleName": "Morningstar Swimming Pool",
+    "address": "9 Pikkewyn St, Durbanville, Cape Town, 7550"
+  },
+  "hands-and-hearts-eikendal-sports-club": {
+    "placeId": "ChIJNcGQQ_xTzB0R7wsDcy7hbO0",
+    "googleName": "Hands and Hearts Eikendal Sports club",
+    "address": "Eighth Ave, Eikendal, Cape Town, 7570"
+  },
+  "truekrav-durbanville": {
+    "placeId": "ChIJo5-9J_JXzB0RdKJWOfQOC7w",
+    "googleName": "Truekrav Durbanville",
+    "address": "Unit 7, Thaba Park, Hooggelegen Rd, Durbanville, 7550"
+  },
+  "aqua-skills-swimming-school": {
+    "placeId": "ChIJH_esN2ZXzB0RA1iRv7taEnw",
+    "googleName": "Aqua Skills Swimming School",
+    "address": "40 Parker St, Vergesig, Cape Town, 7550"
+  },
+  "oom-vossie-voortrekkers": {
+    "placeId": "ChIJ7TJcVupQzB0RF2C5-h7IRec",
+    "googleName": "Oom Vossie Voortrekkers",
+    "address": "Disa Cres, Blomtuin, Cape Town, 7530"
+  },
+  "the-framed-feather-artshopper": {
+    "placeId": "ChIJI8rZhk7ztAERnKeSC4elzsI",
+    "googleName": "The Framed Feather & Artshopper",
+    "address": "93 12th Ave, Boston, Cape Town, 7530"
+  },
+  "rust-en-vrede-gallery-and-clay-museum": {
+    "placeId": "ChIJdQNZNBFXzB0R_rUIAwYC-i4",
+    "googleName": "Rust-en-vrede Gallery and Clay Museum",
+    "address": "10 Wellington Rd, Durbanville, Cape Town, 7550"
+  },
+  "art-b-gallery": {
+    "placeId": "ChIJ8_gzxIZQzB0RFdneoTMgwtk",
+    "googleName": "Art B Gallery",
+    "address": "The Library Centre, Carl Van Aswegen St, Bellville, Cape Town, 7530"
+  },
+  "villa-pascal-guest-house": {
+    "placeId": "ChIJtf5rgSJXzB0RaUxrWnv43Cc",
+    "googleName": "Villa Pascal Guest House",
+    "address": "28 Van Der Westhuizen Ave, Valmary Park, Cape Town, 7550"
+  },
+  "kingsbridge-art": {
+    "placeId": "ChIJAwL8wHtazB0RiN-kT-sZK10",
+    "googleName": "Kingsbridge Art",
+    "address": "Bellville Business Park, 15A Mike Pienaar Blvd, Bellville West, Cape Town, 7530"
+  },
+  "frame-gallery": {
+    "placeId": "ChIJC2ca25BQzB0RogL1JwaABO8",
+    "googleName": "FRAME GALLERY",
+    "address": "35 Northumberland St, Oakdale, Cape Town, 7550"
   }
 }

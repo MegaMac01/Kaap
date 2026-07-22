@@ -22,6 +22,7 @@ const SPOTS_SOURCE = "spots";
 /** Real-world anchor per area for the clickable filter markers. */
 const AREA_ANCHORS: Record<AreaId, { lat: number; lng: number }> = {
   blouberg: { lat: -33.808, lng: 18.4695 },
+  durbanville: { lat: -33.8305, lng: 18.6501 },
   waterfront: { lat: -33.9036, lng: 18.4207 },
   bokaap: { lat: -33.9192, lng: 18.4135 },
   citybowl: { lat: -33.9258, lng: 18.4232 },
@@ -36,10 +37,10 @@ const AREA_ANCHORS: Record<AreaId, { lat: number; lng: number }> = {
   muizenberg: { lat: -34.105, lng: 18.469 },
 };
 
-/** Whole-metro view (Blouberg down to Simon's Town). */
+/** Whole-metro view (Blouberg/Durbanville down to Simon's Town). */
 const HOME_BOUNDS: [[number, number], [number, number]] = [
   [18.32, -34.21],
-  [18.52, -33.78],
+  [18.78, -33.78],
 ];
 
 /** ['match', ['get','category'], 'eat', '#cf6a3f', ..., <default>] for the point layer. */

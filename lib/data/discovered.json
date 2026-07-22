@@ -2313,5 +2313,3380 @@
       "health"
     ],
     "blurb": "Spa in West Beach."
+  },
+  {
+    "id": "toboggan-family-park-pty-ltd-t-a-cool-ru",
+    "name": "Toboggan Family Park (Pty) Ltd., t/a Cool Runnings",
+    "category": "family",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8802328,
+      "lng": 18.629963999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 5698,
+    "address": "Off Carl Cronje Dr, Tygervalley, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "amusement park",
+      "amusement center"
+    ],
+    "blurb": "Wheeled toboggan rides down a twisting steel  track with a tunnel, plus a cable haul."
+  },
+  {
+    "id": "ster-kinekor-cape-gate",
+    "name": "Ster-Kinekor Cape Gate",
+    "category": "family",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8519705,
+      "lng": 18.697569599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 2914,
+    "address": "Cape Gate Shopping Centre Okavango Rd &, De Bron Rd, Cape Gate, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "movie theater"
+    ],
+    "blurb": "Movie Theater in Cape Gate."
+  },
+  {
+    "id": "ipic-play",
+    "name": "Ipic Play",
+    "category": "family",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8335668,
+      "lng": 18.6309886
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 1604,
+    "address": "Corner of Burton and, Aurora St, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "amusement center"
+    ],
+    "blurb": "Amusement Center in Durbanville."
+  },
+  {
+    "id": "playalot-indoor-adventure-park-pinehurst",
+    "name": "Playalot Indoor Adventure Park - Pinehurst - Durbanville",
+    "category": "family",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8263235,
+      "lng": 18.7004695
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 1429,
+    "address": "3 Tanzanite Cres, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "indoor playground",
+      "playground"
+    ],
+    "blurb": "Indoor Playground in Durbanville."
+  },
+  {
+    "id": "dairy-exchange-brackenfell",
+    "name": "Dairy Exchange Brackenfell",
+    "category": "family",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8807389,
+      "lng": 18.684112
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 782,
+    "address": "Shop 5, Aroma Village Centre, Old Paarl Rd, Brackenfell, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "dessert shop",
+      "confectionery"
+    ],
+    "blurb": "Food Store in Brackenfell."
+  },
+  {
+    "id": "the-creamery-caf-durbanville",
+    "name": "The Creamery Café Durbanville",
+    "category": "family",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8298017,
+      "lng": 18.6483643
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 740,
+    "address": "Shop 18, 36 Oxford St, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "dessert shop",
+      "confectionery"
+    ],
+    "blurb": "Ice Cream Shop in Durbanville."
+  },
+  {
+    "id": "whats-the-scoop",
+    "name": "What's The Scoop?",
+    "category": "family",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8462801,
+      "lng": 18.6927791
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 331,
+    "address": "Shop 2, Langeberg Ridge centre, 43 Ridge Rd, Langeberg Ridge, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "dessert shop",
+      "confectionery"
+    ],
+    "blurb": "Ice Cream Shop in Langeberg Ridge."
+  },
+  {
+    "id": "polar-ice-cream-brackenfell",
+    "name": "Polar Ice Cream Brackenfell",
+    "category": "family",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8764588,
+      "lng": 18.686182
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 4.3,
+    "reviewCount": 47,
+    "address": "Frans Conradie Dr, Brackenfell South, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "dessert shop",
+      "confectionery"
+    ],
+    "blurb": "Ice Cream Shop in Brackenfell South."
+  },
+  {
+    "id": "chocolat-bistro",
+    "name": "Chocolat Bistro",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8288322,
+      "lng": 18.6455248
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 3879,
+    "address": "46 Oxford St, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Restaurant in Durbanville."
+  },
+  {
+    "id": "bossa-buh-rein",
+    "name": "Bossa Buh-Rein",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8232224,
+      "lng": 18.7176746
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 3815,
+    "address": "Buh-Rein Dr &, Zandvliet Dr, East-Rural, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Restaurant in East-Rural."
+  },
+  {
+    "id": "copper-club-tyger-waterfront",
+    "name": "Copper Club Tyger Waterfront",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.876449199999996,
+      "lng": 18.63014
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 3052,
+    "address": "18-19, Tyger Waterfront, Carl Cronje Dr, Bellville, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Restaurant in Bellville."
+  },
+  {
+    "id": "bossa-vredekloof",
+    "name": "Bossa Vredekloof",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8598271,
+      "lng": 18.6827117
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 2230,
+    "address": "Shop 10, Vredekloof Centre Corner Brackenfell Boulevard, De Bron Rd, Vredekloof, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Restaurant in Vredekloof."
+  },
+  {
+    "id": "kapstadt-brauhaus-durbanville",
+    "name": "Kapstadt Brauhaus Durbanville",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.83309250000001,
+      "lng": 18.6462205
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 1802,
+    "address": "C/O, Gladstone and, Heritage Square, Vrede St, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "german restaurant",
+      "european restaurant",
+      "restaurant"
+    ],
+    "blurb": "German Restaurant in Durbanville."
+  },
+  {
+    "id": "die-boer-restaurant-durbanville",
+    "name": "Die Boer Restaurant Durbanville",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8300875,
+      "lng": 18.6505237
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 1802,
+    "address": "6 Chenoweth St, Durbanville, 7551",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Live blues bands and other rousing music in relaxed restaurant and theatre with international menu."
+  },
+  {
+    "id": "boston-coffee-roasters",
+    "name": "Boston Coffee Roasters",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.893266,
+      "lng": 18.621321200000004
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 4.7,
+    "reviewCount": 1723,
+    "address": "Cleveland St, Boston, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "coffee shop",
+      "breakfast restaurant",
+      "cafe"
+    ],
+    "blurb": "Coffee Shop in Boston."
+  },
+  {
+    "id": "boathouse-sushi",
+    "name": "Boathouse Sushi",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8328625,
+      "lng": 18.685366
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 1536,
+    "address": "Shop 27, Pinehurst Shopping Centre, Brackenfell Blvd, Durbanville, Cape Town, 7569",
+    "phone": null,
+    "tags": [
+      "sushi restaurant",
+      "asian restaurant",
+      "buffet restaurant"
+    ],
+    "blurb": "Sushi Restaurant in Durbanville."
+  },
+  {
+    "id": "romans-pizza-bellville",
+    "name": "Roman's Pizza Bellville",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.9012147,
+      "lng": 18.6407448
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 1358,
+    "address": "Cnr Quarry &, Mazzur Rd, Bellville, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "pizza restaurant",
+      "pizza delivery",
+      "meal delivery"
+    ],
+    "blurb": "Pizza chain offering traditional and specialty pies cooked to order for takeaway or home delivery."
+  },
+  {
+    "id": "cab-foods-bellville",
+    "name": "CAB Foods Bellville",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.88865500000001,
+      "lng": 18.632389
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 1216,
+    "address": "34A Northumberland St, Bellville, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "cake shop",
+      "bakery",
+      "wholesaler"
+    ],
+    "blurb": "Store in Bellville."
+  },
+  {
+    "id": "cab-foods-brackenfell",
+    "name": "CAB Foods Brackenfell",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.861123299999996,
+      "lng": 18.7024409
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 1123,
+    "address": "Frans Conradie Dr &, Kenwill Dr, Okavango Park, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "cake shop",
+      "bakery",
+      "wholesaler"
+    ],
+    "blurb": "Store in Okavango Park."
+  },
+  {
+    "id": "ruslamere-hotel-and-conference-centre",
+    "name": "Ruslamere Hotel and Conference Centre",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8292038,
+      "lng": 18.6640724
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 1107,
+    "address": "14 Langeberg Rd, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "hotel",
+      "meal takeaway",
+      "event venue"
+    ],
+    "blurb": "Straightforward rooms, suites & lofts, plus a casual restaurant, conference spaces & a pool."
+  },
+  {
+    "id": "boere-sjiek-gifts",
+    "name": "Boere Sjiek Gifts",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8601248,
+      "lng": 18.697662299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 865,
+    "address": "12 Kiewiet Cl, Okavango Park, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Restaurant in Okavango Park."
+  },
+  {
+    "id": "the-home-of-mondvol-cookies",
+    "name": "The home of Mondvol Cookies",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8267096,
+      "lng": 18.7035031
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 863,
+    "address": "30 Tanzanite Cres, Stonewood Dr, Bonnie Brae, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "bakery",
+      "dessert shop",
+      "confectionery"
+    ],
+    "blurb": "Bakery in Bonnie Brae."
+  },
+  {
+    "id": "blou-winkel",
+    "name": "Blou Winkel",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8588545,
+      "lng": 18.7203896
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.9,
+    "reviewCount": 827,
+    "address": "254 Voortrekker Rd, Kraaifontein, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "general store",
+      "hardware store",
+      "cafe"
+    ],
+    "blurb": "General Store in Kraaifontein."
+  },
+  {
+    "id": "heroes-live",
+    "name": "HEROES LIVE",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8501317,
+      "lng": 18.6946938
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 771,
+    "address": "Unit 1A, Cape Gate Corner, Nitida Ave, Kleinbron Estate, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "family restaurant",
+      "restaurant"
+    ],
+    "blurb": "Family Restaurant in Kleinbron Estate."
+  },
+  {
+    "id": "the-bloemhof-grill-and-guesthouse",
+    "name": "The Bloemhof Grill and Guesthouse",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.88133,
+      "lng": 18.6440284
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 4.6,
+    "reviewCount": 755,
+    "address": "76 Bloemhof Rd, Oakdale, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Restaurant in Oakdale."
+  },
+  {
+    "id": "groot-phesantekraal-wines-restaurant",
+    "name": "Groot Phesantekraal Wines & Restaurant",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.7966049,
+      "lng": 18.6707812
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 745,
+    "address": "Klipheuwel Rd, R302, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "winery",
+      "liquor store"
+    ],
+    "blurb": "Restaurant in R302."
+  },
+  {
+    "id": "fat-cactus-tygervalley",
+    "name": "Fat Cactus Tygervalley",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8831829,
+      "lng": 18.6322743
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 646,
+    "address": "21 Mispel Rd, Bellville Park, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "tex mex restaurant",
+      "american restaurant",
+      "restaurant"
+    ],
+    "blurb": "Tex-Mex Restaurant in Bellville Park."
+  },
+  {
+    "id": "cafe-grano",
+    "name": "Cafe Grano",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8147611,
+      "lng": 18.673951
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 562,
+    "address": "Shop 5 Graanendal Shopping Centre, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "coffee shop",
+      "cafe",
+      "food store"
+    ],
+    "blurb": "Coffee Shop in Durbanville."
+  },
+  {
+    "id": "new-national-hotel",
+    "name": "New National Hotel",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.9032413,
+      "lng": 18.603250199999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.9,
+    "reviewCount": 424,
+    "address": "352 Voortrekker Rd, Fairfield Estate, Cape Town, 7500",
+    "phone": null,
+    "tags": [
+      "hotel",
+      "event venue",
+      "lodging"
+    ],
+    "blurb": "Casual rooms in a straightforward hotel with conference facilities & a restaurant."
+  },
+  {
+    "id": "license-to-grill-restaurant-durbanville",
+    "name": "License to Grill Restaurant Durbanville",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8022644,
+      "lng": 18.6842634
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 414,
+    "address": "Shop 35a-d Klipheuwel Road &, Okavango Rd, Durbanville, Cape Town, 5770",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "family restaurant",
+      "fine dining restaurant"
+    ],
+    "blurb": "Restaurant in Durbanville."
+  },
+  {
+    "id": "bossa-phesantekraal",
+    "name": "Bossa Phesantekraal",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8005439,
+      "lng": 18.686780799999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 331,
+    "address": "Shop 36, Groot Phesantekraal Shopping Centre Cnr of Klipheuwel Road &, Okavango Rd, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Restaurant in Durbanville."
+  },
+  {
+    "id": "tygerberg-student-centre",
+    "name": "Tygerberg Student Centre",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.9084091,
+      "lng": 18.6101959
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4,
+    "reviewCount": 313,
+    "address": "3JR6+M2, Tygerberg Hospital, Cape Town, 7505",
+    "phone": null,
+    "tags": [
+      "cafe"
+    ],
+    "blurb": "Cafe in Tygerberg Hospital."
+  },
+  {
+    "id": "vierlanden-kwikspar",
+    "name": "Vierlanden Kwikspar",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8168763,
+      "lng": 18.660429999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 302,
+    "address": "Protea Way, Vierlanden, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "grocery store",
+      "butcher shop",
+      "bakery"
+    ],
+    "blurb": "Grocery Store in Vierlanden."
+  },
+  {
+    "id": "petes-pizza-uitzicht",
+    "name": "Pete's Pizza Uitzicht",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8160387,
+      "lng": 18.6949762
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 216,
+    "address": "10 Uitzicht Centre, Vatican St, Uitzicht, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "fast food restaurant",
+      "restaurant"
+    ],
+    "blurb": "Fast Food Restaurant in Uitzicht."
+  },
+  {
+    "id": "omalleys-sports-ale",
+    "name": "O'Malleys Sports & Ale",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.865173299999995,
+      "lng": 18.6858514
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 161,
+    "address": "Witels St, Arauna, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Restaurant in Arauna."
+  },
+  {
+    "id": "plat-coffee-brackenfell",
+    "name": "Platō Coffee - Brackenfell",
+    "category": "eat",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.880108299999996,
+      "lng": 18.6851493
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 112,
+    "address": "Essential Health Building C/O Old Paarl, and, Jeanette St, Springbokpark, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "coffee shop",
+      "cafe",
+      "food store"
+    ],
+    "blurb": "Coffee Shop in Springbokpark."
+  },
+  {
+    "id": "coco-vogue-eco-health-beauty-eco-emporiu",
+    "name": "Coco Vogue Eco Health & Beauty Eco Emporium & Coco Vogue Revive Lounge",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.883169099999996,
+      "lng": 18.6352304
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 3718,
+    "address": "Suite 102 shop 75, building 111, Edward building, Tyger Valley, 11 Edward Rd, Bo Oakdale, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "spa",
+      "nail salon",
+      "beauty salon"
+    ],
+    "blurb": "Spa in Bo Oakdale."
+  },
+  {
+    "id": "absolute-beauty",
+    "name": "Absolute Beauty",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8848341,
+      "lng": 18.6988521
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 693,
+    "address": "43 Protea Rd, Brackenfell, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "beauty salon",
+      "tanning studio",
+      "nail salon"
+    ],
+    "blurb": "Beauty Salon in Brackenfell."
+  },
+  {
+    "id": "gem-beauty",
+    "name": "Gem Beauty",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8336052,
+      "lng": 18.6314077
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 244,
+    "address": "28 Aurora St, Aurora, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "beauty salon",
+      "nail salon",
+      "hair care"
+    ],
+    "blurb": "Beauty Salon in Aurora."
+  },
+  {
+    "id": "pure-day-spa-durbanville",
+    "name": "Pure Day Spa - Durbanville",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8312948,
+      "lng": 18.6498784
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 232,
+    "address": "Unit 15, Sir Benjamin Promenade, 20A Oxford St, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "beauty salon",
+      "beautician",
+      "hair care"
+    ],
+    "blurb": "Spa in Durbanville."
+  },
+  {
+    "id": "empath-hands",
+    "name": "Empath Hands",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.835234299999996,
+      "lng": 18.7038683
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 215,
+    "address": "20 Tygerberg Rd, Kraaifontein, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "massage spa",
+      "spa",
+      "massage"
+    ],
+    "blurb": "Massage spa in Kraaifontein."
+  },
+  {
+    "id": "la-mai-massage-and-wellness-spa",
+    "name": "La Mai Massage and Wellness Spa",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8900553,
+      "lng": 18.6336019
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 183,
+    "address": "200 Durban Rd, Oakdale, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "massage spa",
+      "massage",
+      "spa"
+    ],
+    "blurb": "Massage spa in Oakdale."
+  },
+  {
+    "id": "aesthetics-dr-nardus-le-grange",
+    "name": "Aesthetics (Dr Nardus le Grange)",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8774832,
+      "lng": 18.6292777
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 79,
+    "address": "Suite 2, Canal Edge 3, Tyger Waterfont, Carl Cronje Dr, Bellville, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "skin care clinic",
+      "beauty salon",
+      "spa"
+    ],
+    "blurb": "Skin Care Clinic in Bellville."
+  },
+  {
+    "id": "ljs-ancient-healing-centre",
+    "name": "LJS Ancient Healing Centre",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.88079,
+      "lng": 18.63955
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 69,
+    "address": "34 Bloemhof Rd, Bo Oakdale, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "massage spa",
+      "massage",
+      "spa"
+    ],
+    "blurb": "Massage spa in Bo Oakdale."
+  },
+  {
+    "id": "beyond-wellness",
+    "name": "Beyond Wellness",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8902,
+      "lng": 18.64198
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 59,
+    "address": "81 Raglan St, Oakdale, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "spa"
+    ],
+    "blurb": "Spa in Oakdale."
+  },
+  {
+    "id": "hidden-gem-self-catering",
+    "name": "Hidden Gem Self-Catering",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8816677,
+      "lng": 18.7090758
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 49,
+    "address": "3 STEENBOK STREET RUWARI, Brackenfell, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "sauna",
+      "public bath",
+      "swimming pool"
+    ],
+    "blurb": "Lodging in Brackenfell."
+  },
+  {
+    "id": "flawless-beauty-spa",
+    "name": "Flawless Beauty Spa",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8498006,
+      "lng": 18.6932291
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 40,
+    "address": "Shop UL02A Cape Gate Lifestyle Centre Corner Okovango and, Tanner St, Brackenfell, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "massage spa",
+      "spa",
+      "massage"
+    ],
+    "blurb": "Massage spa in Brackenfell."
+  },
+  {
+    "id": "salon-on-nutans",
+    "name": "Salon On Nutans",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8181607,
+      "lng": 18.6546408
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 39,
+    "address": "2 Nutans Ave, Proteaville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "tanning studio",
+      "beauty salon",
+      "hair salon"
+    ],
+    "blurb": "Hair Salon in Proteaville."
+  },
+  {
+    "id": "de-oude-caab-country-house",
+    "name": "De Oude CAAB Country House",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8355307,
+      "lng": 18.64603
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 36,
+    "address": "3 Church St, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "garden",
+      "service"
+    ],
+    "blurb": "Services in Durbanville."
+  },
+  {
+    "id": "shalom-hair-and-beauty-spa",
+    "name": "Shalom Hair and Beauty Spa",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.866237,
+      "lng": 18.69182
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 34,
+    "address": "Shop 2 Shawn St, Arauna, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "beauty salon",
+      "hair salon",
+      "massage spa"
+    ],
+    "blurb": "Beauty Salon in Arauna."
+  },
+  {
+    "id": "lymph-draining-plus",
+    "name": "Lymph Draining Plus",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8259414,
+      "lng": 18.6531909
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 25,
+    "address": "Unit 1, 39 Wellington Rd, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "massage",
+      "spa",
+      "health"
+    ],
+    "blurb": "Health in Durbanville."
+  },
+  {
+    "id": "exclusive-plants",
+    "name": "Exclusive Plants",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8391266,
+      "lng": 18.669517799999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 24,
+    "address": "1 Krisant St, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "garden"
+    ],
+    "blurb": "Garden in Durbanville."
+  },
+  {
+    "id": "beauty-by-hanna",
+    "name": "Beauty by Hanna",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.897639999999996,
+      "lng": 18.59995
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 23,
+    "address": "30 Esperance St, Oostersee, Cape Town, 7500",
+    "phone": null,
+    "tags": [
+      "beauty salon",
+      "nail salon",
+      "skin care clinic"
+    ],
+    "blurb": "Beauty Salon in Oostersee."
+  },
+  {
+    "id": "dr-michelle-fourie-aesthetics",
+    "name": "Dr Michelle Fourie Aesthetics",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8254113,
+      "lng": 18.6468249
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 22,
+    "address": "Unit 1.4, first floor, corner of New and, Park Central, 2 Koeberg Rd, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "spa",
+      "health"
+    ],
+    "blurb": "Spa in Durbanville."
+  },
+  {
+    "id": "chick-pulse-beauty-salon-kraaifontein",
+    "name": "Chick Pulse Beauty Salon Kraaifontein",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8357441,
+      "lng": 18.6990226
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 20,
+    "address": "2 Umkomaas Rd, Bonny Brook, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "beauty salon",
+      "massage spa",
+      "nail salon"
+    ],
+    "blurb": "Beauty Salon in Bonny Brook."
+  },
+  {
+    "id": "jacaranda-skincare-salon",
+    "name": "Jacaranda Skincare Salon",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.82202120000001,
+      "lng": 18.6607713
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "address": "15 Mimosa St, Wellway Park, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "massage spa",
+      "beauty salon",
+      "skin care clinic"
+    ],
+    "blurb": "Massage spa in Wellway Park."
+  },
+  {
+    "id": "its-a-hair-circus-hair-nails-beauty",
+    "name": "It's A Hair Circus, Hair, Nails & Beauty",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.878223,
+      "lng": 18.683004699999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 16,
+    "address": "11 Roslyn St, Brackenfell, Cape Town, 7650",
+    "phone": null,
+    "tags": [
+      "nail salon",
+      "beauty salon",
+      "dentist"
+    ],
+    "blurb": "Hair Salon in Brackenfell."
+  },
+  {
+    "id": "corner-deck",
+    "name": "CORNER DECK",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8505032,
+      "lng": 18.6936346
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 3520,
+    "address": "Cape Gate Lifestyle Centre, 25 Okavango Rd, Brackenfell, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "bar"
+    ],
+    "blurb": "Restaurant in Brackenfell."
+  },
+  {
+    "id": "speakeasy-on-oxford",
+    "name": "Speakeasy on Oxford",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8313474,
+      "lng": 18.6499666
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 2649,
+    "address": "20 Oxford St, Durbanville, Cape Town, 7551",
+    "phone": null,
+    "tags": [
+      "pub",
+      "bar"
+    ],
+    "blurb": "Pub in Durbanville."
+  },
+  {
+    "id": "peppa-jacks-tex-mex-grill-bar",
+    "name": "Peppa Jack's Tex-Mex Grill & Bar",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.814847799999995,
+      "lng": 18.621035499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 2564,
+    "address": "19 Thaba Park, Hooggelegen Rd, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "tex mex restaurant",
+      "family restaurant",
+      "steak house"
+    ],
+    "blurb": "Tex-Mex Restaurant in Durbanville."
+  },
+  {
+    "id": "hennies-brackenfell",
+    "name": "Hennie's Brackenfell",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8819948,
+      "lng": 18.685438299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 2341,
+    "address": "Shop 57, Brackenfell Shopping Centre, Old Paarl Rd, Brackenfell South, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "bar and grill",
+      "bar",
+      "restaurant"
+    ],
+    "blurb": "Bar & Grill in Brackenfell South."
+  },
+  {
+    "id": "jackson-and-black-grill-pizzeria-tyger",
+    "name": "Jackson and Black Grill & Pizzeria | TYGER",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8770853,
+      "lng": 18.6345231
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 1910,
+    "address": "Gihon Buidling Corner Bill Bezuidenhout &, Sportica Cres, Tygervalley, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "pizza restaurant",
+      "steak house",
+      "italian restaurant"
+    ],
+    "blurb": "Pizza Restaurant in Tygervalley."
+  },
+  {
+    "id": "sk-l-bar-and-eatery",
+    "name": "Skål Bar and Eatery",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.859952,
+      "lng": 18.682861499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 1239,
+    "address": "Shop 16 Vredekloof, Centre Dr, Brackenfell, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "bar",
+      "restaurant"
+    ],
+    "blurb": "Bar in Brackenfell."
+  },
+  {
+    "id": "bok-lounge-grill",
+    "name": "Bok Lounge & Grill",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.873737399999996,
+      "lng": 18.6889585
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 1084,
+    "address": "Paradys St, St Michaels, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "pub",
+      "bar"
+    ],
+    "blurb": "Pub in St Michaels."
+  },
+  {
+    "id": "danskraal",
+    "name": "Danskraal",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8893382,
+      "lng": 18.631957600000003
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 807,
+    "address": "Northumberland Rd, Oakdale, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "night club"
+    ],
+    "blurb": "Night Club in Oakdale."
+  },
+  {
+    "id": "gringos-cantina-pizzeria",
+    "name": "Gringo's Cantina & Pizzeria",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.893311499999996,
+      "lng": 18.6210675
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 3.9,
+    "reviewCount": 685,
+    "address": "39 12th Ave, Boston, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "pub",
+      "meal takeaway"
+    ],
+    "blurb": "Restaurant in Boston."
+  },
+  {
+    "id": "the-sports-fan-pub-grill",
+    "name": "The Sports Fan Pub & Grill",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8784086,
+      "lng": 18.67868
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 582,
+    "address": "580 Frans Conradie Dr, Ferndale, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "pub",
+      "bar"
+    ],
+    "blurb": "Pub in Ferndale."
+  },
+  {
+    "id": "pizza-pub-restaurant",
+    "name": "Pizza Pub & Restaurant",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8424377,
+      "lng": 18.7105429
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 4.1,
+    "reviewCount": 471,
+    "address": "Office No.8, Brighton Center, 8 Brighton Rd, Windsor Park, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "pub",
+      "bar",
+      "restaurant"
+    ],
+    "blurb": "Pub in Windsor Park."
+  },
+  {
+    "id": "the-drunken-duck-bellville",
+    "name": "The Drunken Duck Bellville",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.9056486,
+      "lng": 18.6569327
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 435,
+    "address": "Mahenka Centre, Cnr Strand st & Ford Street, Stikland, Cape Town, 7535",
+    "phone": null,
+    "tags": [
+      "pub",
+      "bar",
+      "restaurant"
+    ],
+    "blurb": "Pub in Stikland."
+  },
+  {
+    "id": "highlander-pub-and-venue",
+    "name": "Highlander Pub and venue",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8750237,
+      "lng": 18.702988100000002
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 433,
+    "address": "37 Gemini St, Brackenfell South, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "bar"
+    ],
+    "blurb": "Bar in Brackenfell South."
+  },
+  {
+    "id": "stinos-pub-and-grill",
+    "name": "Stino's Pub and Grill",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.9020309,
+      "lng": 18.6337047
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.9,
+    "reviewCount": 353,
+    "address": "Lareh Court, 70F Voortrekker Rd, Bellville, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "pub",
+      "bar"
+    ],
+    "blurb": "Pub in Bellville."
+  },
+  {
+    "id": "smugglers-sports-pub",
+    "name": "Smugglers Sports Pub",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8566463,
+      "lng": 18.6905796
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 3.9,
+    "reviewCount": 316,
+    "address": "Shopping Centre, De Bron Rd, Brackenfell, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "pub",
+      "bar"
+    ],
+    "blurb": "Pub in Brackenfell."
+  },
+  {
+    "id": "green-fields-pub",
+    "name": "Green Fields Pub",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.881177199999996,
+      "lng": 18.7062196
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 3.9,
+    "reviewCount": 304,
+    "address": "Shop 7 Ruwari Ctr, Kruis Rd, Brackenfell, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "sports bar",
+      "bar"
+    ],
+    "blurb": "Sports Bar in Brackenfell."
+  },
+  {
+    "id": "schwarma-pizza-cafe",
+    "name": "Schwarma& Pizza Cafe",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8757848,
+      "lng": 18.628589299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 263,
+    "address": "3 Waterfront Rd, Tyger Waterfront, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "hookah bar",
+      "bar"
+    ],
+    "blurb": "Restaurant in Tyger Waterfront."
+  },
+  {
+    "id": "planet-sports-bar-bellville",
+    "name": "Planet Sports Bar Bellville",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.9014576,
+      "lng": 18.629987
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.9,
+    "reviewCount": 214,
+    "address": "corner of blankenberg street, and, Voortrekker Rd, Bellville, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "bar",
+      "beer garden",
+      "karaoke"
+    ],
+    "blurb": "Bar in Bellville."
+  },
+  {
+    "id": "uncle-stans-pizza-pub",
+    "name": "Uncle Stan's Pizza & Pub",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.850132099999996,
+      "lng": 18.714838999999998
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 4,
+    "reviewCount": 163,
+    "address": "Peerless Park West, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "bar"
+    ],
+    "blurb": "Restaurant in Peerless Park West."
+  },
+  {
+    "id": "cheers-on-oxford-pub",
+    "name": "Cheers on Oxford Pub",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8289279,
+      "lng": 18.6458901
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 3.9,
+    "reviewCount": 148,
+    "address": "44 Oxford St, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "bar"
+    ],
+    "blurb": "Bar in Durbanville."
+  },
+  {
+    "id": "v-bar-brackenfell",
+    "name": "V Bar Brackenfell",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.873546999999995,
+      "lng": 18.684132299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.7,
+    "reviewCount": 123,
+    "address": "Shop 4 A, Arauna Center, Handel Rd, Brackenfell, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "bar"
+    ],
+    "blurb": "Bar in Brackenfell."
+  },
+  {
+    "id": "meeting-place",
+    "name": "Meeting Place",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8898162,
+      "lng": 18.6388346
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4,
+    "reviewCount": 102,
+    "address": "46 Raglan St, Oakdale, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "bar"
+    ],
+    "blurb": "Bar in Oakdale."
+  },
+  {
+    "id": "pipers-pub",
+    "name": "Pipers Pub",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.815948299999995,
+      "lng": 18.6956438
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 101,
+    "address": "Vatican St, Uitzicht, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "bar"
+    ],
+    "blurb": "Bar in Uitzicht."
+  },
+  {
+    "id": "the-corner-rock-bar",
+    "name": "The Corner Rock Bar",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8328518,
+      "lng": 18.6465235
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 99,
+    "address": "Scher Rd, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "bar"
+    ],
+    "blurb": "Bar in Durbanville."
+  },
+  {
+    "id": "ringos-pub-n-grill",
+    "name": "Ringo's Pub n Grill",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.90985,
+      "lng": 18.646954
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 4.6,
+    "reviewCount": 86,
+    "address": "Ringo, 10 Thermo St, Stikland, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "pub",
+      "bar and grill",
+      "bar"
+    ],
+    "blurb": "Pub in Stikland."
+  },
+  {
+    "id": "stargayzers",
+    "name": "Stargayzers",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.9033252,
+      "lng": 18.6067149
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 4,
+    "reviewCount": 76,
+    "address": "16 Caxton St, Parow East, Cape Town, 7501",
+    "phone": null,
+    "tags": [
+      "night club"
+    ],
+    "blurb": "Night Club in Parow East."
+  },
+  {
+    "id": "forest-tavern",
+    "name": "Forest Tavern",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8592827,
+      "lng": 18.729538899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.9,
+    "reviewCount": 52,
+    "address": "Ntongana Rd, Wallace Dene, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "bar"
+    ],
+    "blurb": "Bar in Wallace Dene."
+  },
+  {
+    "id": "papa-joes",
+    "name": "Papa Joe's",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.881200199999995,
+      "lng": 18.689468299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 47,
+    "address": "42B Kruis Rd, Protea Hoogte, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "pizza restaurant",
+      "bar",
+      "restaurant"
+    ],
+    "blurb": "Pizza Restaurant in Protea Hoogte."
+  },
+  {
+    "id": "fives-sports-bar-grill-pinehurst",
+    "name": "Fives Sports bar & Grill Pinehurst",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8318322,
+      "lng": 18.6861606
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 31,
+    "address": "Corner of sirocco drive, and, Pinehurst Dr, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "bar and grill",
+      "bar",
+      "restaurant"
+    ],
+    "blurb": "Bar & Grill in Durbanville."
+  },
+  {
+    "id": "dantes-premiere-lounge",
+    "name": "Dante's Premiere Lounge",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.9112643,
+      "lng": 18.652623400000003
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 31,
+    "address": "9 Neutron St, Triangle Farm, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "night club"
+    ],
+    "blurb": "Night Club in Triangle Farm."
+  },
+  {
+    "id": "livingroom",
+    "name": "Livingroom",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.900805399999996,
+      "lng": 18.625545100000004
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 26,
+    "address": "105 Voortrekker Rd, Bellville, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "night club"
+    ],
+    "blurb": "Night Club in Bellville."
+  },
+  {
+    "id": "kraaifontein-jukskei-klub",
+    "name": "Kraaifontein Jukskei Klub",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8248337,
+      "lng": 18.7051651
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 19,
+    "address": "Sarel Van Deventer Rd, Bonnie Brae, Cape Town, 7569",
+    "phone": null,
+    "tags": [
+      "bar"
+    ],
+    "blurb": "Bar in Bonnie Brae."
+  },
+  {
+    "id": "down-the-hatch",
+    "name": "Down the Hatch",
+    "category": "bars",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8645279,
+      "lng": 18.7116822
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 16,
+    "address": "Northpine, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "bar"
+    ],
+    "blurb": "Bar in Northpine."
+  },
+  {
+    "id": "jack-muller-danie-uys-district-park",
+    "name": "Jack Muller & Danie Uys District Park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8914201,
+      "lng": 18.6274498
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.4,
+    "reviewCount": 2446,
+    "address": "Frans Conradie Dr, Boston, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "park",
+      "tourist attraction"
+    ],
+    "blurb": "Park in Boston."
+  },
+  {
+    "id": "bracken-nature-reserve",
+    "name": "Bracken Nature Reserve",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8782956,
+      "lng": 18.7084679
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4,
+    "reviewCount": 311,
+    "address": "2 Reservoir St, Brackenfell South, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "nature preserve",
+      "tourist attraction",
+      "park"
+    ],
+    "blurb": "Nature Preserve in Brackenfell South."
+  },
+  {
+    "id": "durbanville-nature-reserve",
+    "name": "Durbanville Nature Reserve",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8409154,
+      "lng": 18.643465799999998
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.1,
+    "reviewCount": 288,
+    "address": "Race Course Rd, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "nature preserve",
+      "tourist attraction",
+      "park"
+    ],
+    "blurb": "Nature Preserve in Durbanville."
+  },
+  {
+    "id": "boland-dam-park",
+    "name": "Boland Dam Park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8092057,
+      "lng": 18.6593965
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.6,
+    "reviewCount": 233,
+    "address": "Vierlanden, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Park in Vierlanden."
+  },
+  {
+    "id": "uitzicht-greenbelt-body-of-water",
+    "name": "Uitzicht Greenbelt Body of Water",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.815379199999995,
+      "lng": 18.690038299999998
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.4,
+    "reviewCount": 165,
+    "address": "25 St Peters St, Uitzicht, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Park in Uitzicht."
+  },
+  {
+    "id": "zoo-dog-park",
+    "name": "Zoo dog park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8405927,
+      "lng": 18.699773999999998
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4,
+    "reviewCount": 128,
+    "address": "Zoo Park, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "dog park",
+      "park"
+    ],
+    "blurb": "Dog Park in Zoo Park."
+  },
+  {
+    "id": "botterblom-nature-reserve",
+    "name": "Botterblom Nature Reserve",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.805506699999995,
+      "lng": 18.6576685
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.4,
+    "reviewCount": 101,
+    "address": "Botterblom Street, Vierlanden Heights, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "nature preserve",
+      "tourist attraction",
+      "park"
+    ],
+    "blurb": "Nature Preserve in Vierlanden Heights."
+  },
+  {
+    "id": "aurora-park",
+    "name": "Aurora Park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8321916,
+      "lng": 18.6284797
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.5,
+    "reviewCount": 61,
+    "address": "Aurora, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "city park",
+      "park"
+    ],
+    "blurb": "City Park in Aurora."
+  },
+  {
+    "id": "crown-crescent-park",
+    "name": "Crown Crescent Park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8324024,
+      "lng": 18.7168867
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4,
+    "reviewCount": 61,
+    "address": "East-Rural, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Park in East-Rural."
+  },
+  {
+    "id": "dalsig-park",
+    "name": "Dalsig Park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8456361,
+      "lng": 18.654314499999998
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.7,
+    "reviewCount": 60,
+    "address": "&nbsp, Durbanville, Kaapstad, 7550",
+    "phone": null,
+    "tags": [
+      "city park",
+      "park"
+    ],
+    "blurb": "City Park in Durbanville."
+  },
+  {
+    "id": "thibault-inclusive-play-park",
+    "name": "Thibault Inclusive Play Park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8678753,
+      "lng": 18.690776
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.3,
+    "reviewCount": 55,
+    "address": "32-6 Thibault St, Arauna, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Park in Arauna."
+  },
+  {
+    "id": "horak-city-park",
+    "name": "Horak City Park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8462199,
+      "lng": 18.7198369
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 3.5,
+    "reviewCount": 46,
+    "address": "Horak St, Kraaifontein, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Park in Kraaifontein."
+  },
+  {
+    "id": "suikerbossie-park-community-garden",
+    "name": "Suikerbossie Park Community Garden",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8832704,
+      "lng": 18.715590499999998
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.6,
+    "reviewCount": 44,
+    "address": "23, 11 Suikerbos St, Protea Village, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Park in Protea Village."
+  },
+  {
+    "id": "george-starke-park",
+    "name": "George Starke Park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.896046,
+      "lng": 18.602033
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4,
+    "reviewCount": 42,
+    "address": "Friesland St, Parow, Cape Town, 7500",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Park in Parow."
+  },
+  {
+    "id": "uitkamp-wetland-nature-reserve",
+    "name": "Uitkamp Wetland Nature Reserve",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8213732,
+      "lng": 18.6411837
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 3.8,
+    "reviewCount": 35,
+    "address": "D`urbanvale, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "nature preserve",
+      "tourist attraction",
+      "park"
+    ],
+    "blurb": "Nature Preserve in D`urbanvale."
+  },
+  {
+    "id": "boland-park",
+    "name": "Boland Park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8177278,
+      "lng": 18.6620911
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "address": "Boland Way, Vierlanden, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Park in Vierlanden."
+  },
+  {
+    "id": "odendaal-park",
+    "name": "Odendaal Park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8297273,
+      "lng": 18.6263191
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 3.8,
+    "reviewCount": 28,
+    "address": "70 Odendaal Rd, Aurora, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "city park",
+      "park"
+    ],
+    "blurb": "City Park in Aurora."
+  },
+  {
+    "id": "tielman-marais-park",
+    "name": "Tielman Marais Park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8959828,
+      "lng": 18.6285924
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 3.7,
+    "reviewCount": 25,
+    "address": "16 Alexandra St, Oakdale, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Park in Oakdale."
+  },
+  {
+    "id": "henlo-park",
+    "name": "Henlo Park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8347846,
+      "lng": 18.6979041
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4,
+    "reviewCount": 23,
+    "address": "Hennop Rd, Langeberg Glen, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Park in Langeberg Glen."
+  },
+  {
+    "id": "stonewood-estate-park",
+    "name": "Stonewood Estate Park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8271757,
+      "lng": 18.7014951
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.6,
+    "reviewCount": 21,
+    "address": "8 Basswood Rd, Kraaifontein, Cape Town, 7569",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Park in Kraaifontein."
+  },
+  {
+    "id": "8-th-avenue-park",
+    "name": "8 th Avenue park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8968223,
+      "lng": 18.6145303
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 3.9,
+    "reviewCount": 15,
+    "address": "70 8th Ave, Boston, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Park in Boston."
+  },
+  {
+    "id": "leroux-park",
+    "name": "Leroux Park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8345306,
+      "lng": 18.7045308
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.1,
+    "reviewCount": 15,
+    "address": "11 Stormberg Cres, Bonnie Brae, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Park in Bonnie Brae."
+  },
+  {
+    "id": "neilson-cycles",
+    "name": "Neilson Cycles",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.831274199999996,
+      "lng": 18.6497466
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4,
+    "reviewCount": 1535,
+    "address": "Shop 2, 22 on, Oxford St, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "bicycle store",
+      "car repair",
+      "sporting goods store"
+    ],
+    "blurb": "Services in Durbanville."
+  },
+  {
+    "id": "durbanville-golf-club",
+    "name": "Durbanville Golf Club",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8342222,
+      "lng": 18.659029399999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 1187,
+    "address": "Sport Way, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "sports club",
+      "association or organization"
+    ],
+    "blurb": "Sports Club in Durbanville."
+  },
+  {
+    "id": "brackenfell-action-sports-arena",
+    "name": "Brackenfell Action Sports Arena",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.881873899999995,
+      "lng": 18.6855661
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 904,
+    "address": "48, Brackenfell Shopping Centre, Old Paarl Rd, Brackenfell, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "sports complex",
+      "sports activity location"
+    ],
+    "blurb": "Sports Complex in Brackenfell."
+  },
+  {
+    "id": "oakdale-club-klub-conference-and-functio",
+    "name": "Oakdale Club / Klub | Conference and Function Venue",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8822423,
+      "lng": 18.645561500000003
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 799,
+    "address": "80a Bloemhof Rd, Bloemhof, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "wedding venue",
+      "bar",
+      "sports club"
+    ],
+    "blurb": "Association / Organization in Bloemhof."
+  },
+  {
+    "id": "fives-futbol-pinehurst",
+    "name": "Fives Futbol Pinehurst",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8317954,
+      "lng": 18.686187
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 548,
+    "address": "Cnr Pinehurst Drive and, Sirocco Dr, Pinehurst, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "athletic field",
+      "sports activity location"
+    ],
+    "blurb": "Athletic Field in Pinehurst."
+  },
+  {
+    "id": "the-bellville-velodrome",
+    "name": "The Bellville Velodrome",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.880292499999996,
+      "lng": 18.6328925
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.8,
+    "reviewCount": 520,
+    "address": "Carl Cronje Dr, Bellville Park, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "stadium",
+      "sports complex",
+      "race course"
+    ],
+    "blurb": "Racecourse in Bellville Park."
+  },
+  {
+    "id": "ellingtons-saloon",
+    "name": "Ellington's Saloon",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8891688,
+      "lng": 18.631567300000004
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 4.2,
+    "reviewCount": 465,
+    "address": "&, Pioneer Street, 31 Northumberland St, Oakdale, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "sports complex",
+      "event venue",
+      "sports activity location"
+    ],
+    "blurb": "Sports Complex in Oakdale."
+  },
+  {
+    "id": "sessions-billiard-and-darts-tygervalley",
+    "name": "Sessions Billiard and Darts Tygervalley",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.876219899999995,
+      "lng": 18.6371108
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 446,
+    "address": "Unit 12 & 13 Tyger Manor Centre Cnr Durban road, Bill Bezuidenhout, amd, Willie Van Schoor Ave, Bellville, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "sports club",
+      "sports complex",
+      "bar"
+    ],
+    "blurb": "Sports Club in Bellville."
+  },
+  {
+    "id": "eagle-golf-ranges-previously-known-as-th",
+    "name": "Eagle Golf Ranges previously known as The Golf Village Tygervalley",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8859914,
+      "lng": 18.6300533
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3,
+    "reviewCount": 430,
+    "address": "Carl Cronje Dr, Bellville, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "miniature golf course",
+      "sports coaching",
+      "sports activity location"
+    ],
+    "blurb": "Sports Activity Location in Bellville."
+  },
+  {
+    "id": "hollywoodbets-durbanville-racecourse",
+    "name": "Hollywoodbets Durbanville Racecourse",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8402124,
+      "lng": 18.6391247
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 411,
+    "address": "Bowlers Ave, Durbanville, Cape Town, 7551",
+    "phone": null,
+    "tags": [
+      "race course",
+      "event venue",
+      "sports activity location"
+    ],
+    "blurb": "Racecourse in Durbanville."
+  },
+  {
+    "id": "golden-oldies-sports-bar",
+    "name": "Golden Oldies Sports Bar",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.9021481,
+      "lng": 18.642301099999997
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 4.2,
+    "reviewCount": 277,
+    "address": "Next to Goldwagen, 5 Strand Rd, Belgravia, Kaapstad, 7530",
+    "phone": null,
+    "tags": [
+      "sports bar",
+      "karaoke",
+      "night club"
+    ],
+    "blurb": "Sports Bar in Belgravia."
+  },
+  {
+    "id": "avalon-lifestyle-centre",
+    "name": "Avalon Lifestyle Centre",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8229038,
+      "lng": 18.6930913
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 241,
+    "address": "Narvik Street, Durbanville, Kaapstad, 7569",
+    "phone": null,
+    "tags": [
+      "sports activity location"
+    ],
+    "blurb": "Sports Activity Location in Durbanville."
+  },
+  {
+    "id": "brackenfell-cricket-club",
+    "name": "Brackenfell Cricket Club",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8653729,
+      "lng": 18.6856954
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 228,
+    "address": "Witels St, Brackenfell North, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "sports complex",
+      "sports club",
+      "sports activity location"
+    ],
+    "blurb": "Sports Club in Brackenfell North."
+  },
+  {
+    "id": "bellville-hockey-club",
+    "name": "Bellville Hockey Club",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.902609999999996,
+      "lng": 18.6194404
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4,
+    "reviewCount": 209,
+    "address": "Bellville Astro Corner of Landros &, Voortrekker Rd, Bellville, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "sports complex",
+      "sports club",
+      "sports activity location"
+    ],
+    "blurb": "Sports Club in Bellville."
+  },
+  {
+    "id": "purpose-fit-fitness-studio",
+    "name": "Purpose Fit Fitness Studio",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8264074,
+      "lng": 18.703878
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 199,
+    "address": "Unit 3 Tanzanite crescent, Stonewood Dr, Kraaifontein, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "fitness center",
+      "gym",
+      "sports activity location"
+    ],
+    "blurb": "Fitness center in Kraaifontein."
+  },
+  {
+    "id": "durbanville-soccer-club",
+    "name": "Durbanville Soccer Club",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.832262,
+      "lng": 18.6567234
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 193,
+    "address": "De Villiers Dr, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "sports club",
+      "association or organization"
+    ],
+    "blurb": "Sports Club in Durbanville."
+  },
+  {
+    "id": "kraaifontein-sport-shooting-club",
+    "name": "Kraaifontein Sport Shooting Club",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8189717,
+      "lng": 18.7029122
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 186,
+    "address": "Amadeus Dr, Kraaifontein, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "sports complex",
+      "sports activity location"
+    ],
+    "blurb": "Sports Complex in Kraaifontein."
+  },
+  {
+    "id": "bowtime-archery-supplies-and-shooting-ra",
+    "name": "BOWTIME: Archery Supplies and Shooting Range",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8766781,
+      "lng": 18.7039777
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 186,
+    "address": "52B Gemini St, Brackenfell Industrial, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "sporting goods store",
+      "sports club",
+      "sports activity location"
+    ],
+    "blurb": "Sports Club in Brackenfell Industrial."
+  },
+  {
+    "id": "bellville-cricket-club",
+    "name": "Bellville Cricket Club",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8787613,
+      "lng": 18.638292699999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 174,
+    "address": "PP Smit Sportsfields, Durban Rd, Bellville, Kaapstad, 7530",
+    "phone": null,
+    "tags": [
+      "sports club",
+      "association or organization"
+    ],
+    "blurb": "Sports Club in Bellville."
+  },
+  {
+    "id": "iron-grip-martial-arts-brazilian-jiu-jit",
+    "name": "Iron Grip Martial Arts - Brazilian Jiu-Jitsu",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.82579140000001,
+      "lng": 18.6994744
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 172,
+    "address": "Stonewood Business Park, 6 Tanzanite Cres, Pinehurst, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "gym",
+      "sports school",
+      "sports activity location"
+    ],
+    "blurb": "Sports School in Pinehurst."
+  },
+  {
+    "id": "northpine-united-fc",
+    "name": "Northpine United FC",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8708114,
+      "lng": 18.7222172
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.8,
+    "reviewCount": 163,
+    "address": "Eoan Ave, Scottsdene, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "sports club",
+      "association or organization"
+    ],
+    "blurb": "Sports Club in Scottsdene."
+  },
+  {
+    "id": "dave-sheer-guns-cape-town",
+    "name": "Dave Sheer Guns Cape Town",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8023822,
+      "lng": 18.6843129
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 137,
+    "address": "Klipheuwel Road &, Okavango Rd, durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "sports complex",
+      "sporting goods store",
+      "supplier"
+    ],
+    "blurb": "Sporting Goods Store in durbanville."
+  },
+  {
+    "id": "foreverstrong-brackenfell",
+    "name": "ForeverStrong Brackenfell",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8652413,
+      "lng": 18.6804944
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 122,
+    "address": "7 Vredekloof Rd, Vredekloof, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "fitness center",
+      "gym",
+      "sports activity location"
+    ],
+    "blurb": "Health in Vredekloof."
+  },
+  {
+    "id": "ipic-active",
+    "name": "Ipic Active",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8337293,
+      "lng": 18.6310538
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 94,
+    "address": "Corner of Burton &, Aurora St, Aurora, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "fitness center",
+      "gym",
+      "sports activity location"
+    ],
+    "blurb": "Fitness center in Aurora."
+  },
+  {
+    "id": "chrismar-tennis-club",
+    "name": "Chrismar Tennis Club",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8934603,
+      "lng": 18.6445535
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4,
+    "reviewCount": 89,
+    "address": "22 Glanville Rd, Chrismar, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "sports club",
+      "association or organization"
+    ],
+    "blurb": "Sports Club in Chrismar."
+  },
+  {
+    "id": "camelot-riding-school",
+    "name": "Camelot Riding School",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8159464,
+      "lng": 18.650558099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 80,
+    "address": "Herta Erna Road, Schoongesig, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "sports coaching",
+      "sports activity location",
+      "sports school"
+    ],
+    "blurb": "Sports School in Durbanville."
+  },
+  {
+    "id": "taurus-indoor-shooting-range",
+    "name": "Taurus Indoor Shooting Range",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.9032759,
+      "lng": 18.6082213
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 80,
+    "address": "3 Boompies St, Parow East, Cape Town, 7500",
+    "phone": null,
+    "tags": [
+      "sports complex",
+      "sports activity location"
+    ],
+    "blurb": "Sports Complex in Parow East."
+  },
+  {
+    "id": "bio-health",
+    "name": "Bio-health",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8330552,
+      "lng": 18.6434894
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 73,
+    "address": "Abbeydale House, 4 Queen St, Durbanville, 7550",
+    "phone": null,
+    "tags": [
+      "fitness center",
+      "gym",
+      "sports activity location"
+    ],
+    "blurb": "Fitness center in 4 Queen St."
+  },
+  {
+    "id": "stormers-rugby-high-performance-centre",
+    "name": "Stormers Rugby High Performance Centre",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.9027555,
+      "lng": 18.6160511
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 70,
+    "address": "Corner of &, Voortrekker Rd &, Duminy St, Bellville, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "sports club",
+      "association or organization"
+    ],
+    "blurb": "Sports Club in Bellville."
+  },
+  {
+    "id": "cindys-academy-of-swimming",
+    "name": "Cindy's Academy of Swimming",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8681999,
+      "lng": 18.6932601
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 53,
+    "address": "12 Marais St, Brackenfell, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "sports activity location",
+      "sports school"
+    ],
+    "blurb": "Sports School in Brackenfell."
+  },
+  {
+    "id": "kraaifontein-cricket-club",
+    "name": "Kraaifontein Cricket Club",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8239559,
+      "lng": 18.705988899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.9,
+    "reviewCount": 52,
+    "address": "Sarel Van Deventer Rd, Bonnie Brae, Cape Town, 7569",
+    "phone": null,
+    "tags": [
+      "sports complex",
+      "sports club",
+      "sports activity location"
+    ],
+    "blurb": "Sports Club in Bonnie Brae."
+  },
+  {
+    "id": "durbanville-tennis-club",
+    "name": "Durbanville Tennis Club",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8285894,
+      "lng": 18.647415
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 50,
+    "address": "Biccard St, Durbanville, Cape Town, 7551",
+    "phone": null,
+    "tags": [
+      "sports club",
+      "association or organization"
+    ],
+    "blurb": "Sports Club in Durbanville."
+  },
+  {
+    "id": "superswim-academy-durbanville",
+    "name": "Superswim Academy Durbanville",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.822792899999996,
+      "lng": 18.6448114
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 42,
+    "address": "2 Slangkop Way, Skoongesig, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "sports activity location",
+      "sports school"
+    ],
+    "blurb": "Sports School in Skoongesig."
+  },
+  {
+    "id": "crossfit-relentless-heart",
+    "name": "CrossFit Relentless Heart",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.862527799999995,
+      "lng": 18.703356199999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 39,
+    "address": "Unit 2, 25 Tarentaal Cres, Okavango Park, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "fitness center",
+      "gym",
+      "sports activity location"
+    ],
+    "blurb": "Fitness center in Okavango Park."
+  },
+  {
+    "id": "olympians-wrestling-club-stoei-klub",
+    "name": "Olympians -Wrestling Club -Stoei Klub",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.834031599999996,
+      "lng": 18.6361192
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "address": "Durbanville, Cape Town, 7551",
+    "phone": null,
+    "tags": [
+      "sports club",
+      "association or organization"
+    ],
+    "blurb": "Sports Club in Durbanville."
+  },
+  {
+    "id": "tricore-mma-gym",
+    "name": "Tricore MMA Gym",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8435414,
+      "lng": 18.7044463
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 28,
+    "address": "103 Edward Rd, Windsor Park, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "sports school",
+      "sports activity location",
+      "health"
+    ],
+    "blurb": "Sports School in Windsor Park."
+  },
+  {
+    "id": "morningstar-swimming-pool",
+    "name": "Morningstar Swimming Pool",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8285716,
+      "lng": 18.655772499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4,
+    "reviewCount": 26,
+    "address": "9 Pikkewyn St, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "swimming pool",
+      "sports activity location"
+    ],
+    "blurb": "Swimming Pool in Durbanville."
+  },
+  {
+    "id": "hands-and-hearts-eikendal-sports-club",
+    "name": "Hands and Hearts Eikendal Sports club",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.853199499999995,
+      "lng": 18.719758199999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.9,
+    "reviewCount": 25,
+    "address": "Eighth Ave, Eikendal, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "sports club",
+      "sports complex",
+      "association or organization"
+    ],
+    "blurb": "Sports Club in Eikendal."
+  },
+  {
+    "id": "truekrav-durbanville",
+    "name": "Truekrav Durbanville",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8139555,
+      "lng": 18.6205239
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 19,
+    "address": "Unit 7, Thaba Park, Hooggelegen Rd, Durbanville, 7550",
+    "phone": null,
+    "tags": [
+      "fitness center",
+      "gym",
+      "sports club"
+    ],
+    "blurb": "Sports School in Hooggelegen Rd."
+  },
+  {
+    "id": "aqua-skills-swimming-school",
+    "name": "Aqua Skills Swimming School",
+    "category": "classes",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8373546,
+      "lng": 18.6282915
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 17,
+    "address": "40 Parker St, Vergesig, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "swimming pool",
+      "school",
+      "educational institution"
+    ],
+    "blurb": "Sports School in Vergesig."
+  },
+  {
+    "id": "oom-vossie-voortrekkers",
+    "name": "Oom Vossie Voortrekkers",
+    "category": "arts",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8831214,
+      "lng": 18.6457479
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 105,
+    "address": "Disa Cres, Blomtuin, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "cultural center"
+    ],
+    "blurb": "Cultural Center in Blomtuin."
+  },
+  {
+    "id": "the-framed-feather-artshopper",
+    "name": "The Framed Feather & Artshopper",
+    "category": "arts",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8937139,
+      "lng": 18.614346299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 101,
+    "address": "93 12th Ave, Boston, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "art gallery",
+      "service"
+    ],
+    "blurb": "Store in Boston."
+  },
+  {
+    "id": "rust-en-vrede-gallery-and-clay-museum",
+    "name": "Rust-en-vrede Gallery and Clay Museum",
+    "category": "arts",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8317759,
+      "lng": 18.6490714
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 98,
+    "address": "10 Wellington Rd, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "art gallery",
+      "art museum",
+      "tourist attraction"
+    ],
+    "blurb": "Art Gallery in Durbanville."
+  },
+  {
+    "id": "art-b-gallery",
+    "name": "Art B Gallery",
+    "category": "arts",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.9023761,
+      "lng": 18.6245024
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 79,
+    "address": "The Library Centre, Carl Van Aswegen St, Bellville, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "art gallery"
+    ],
+    "blurb": "Art Gallery in Bellville."
+  },
+  {
+    "id": "villa-pascal-guest-house",
+    "name": "Villa Pascal Guest House",
+    "category": "arts",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8365639,
+      "lng": 18.6557358
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 56,
+    "address": "28 Van Der Westhuizen Ave, Valmary Park, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "guest house",
+      "performing arts theater",
+      "bed and breakfast"
+    ],
+    "blurb": "Guest House in Valmary Park."
+  },
+  {
+    "id": "kingsbridge-art",
+    "name": "Kingsbridge Art",
+    "category": "arts",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.9010801,
+      "lng": 18.6103087
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 50,
+    "address": "Bellville Business Park, 15A Mike Pienaar Blvd, Bellville West, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "art studio",
+      "art gallery",
+      "service"
+    ],
+    "blurb": "Store in Bellville West."
+  },
+  {
+    "id": "frame-gallery",
+    "name": "FRAME GALLERY",
+    "category": "arts",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8890023,
+      "lng": 18.6316565
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 26,
+    "address": "35 Northumberland St, Oakdale, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "art gallery",
+      "service"
+    ],
+    "blurb": "Store in Oakdale."
   }
 ]

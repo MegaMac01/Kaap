@@ -615,6 +615,7 @@ export const SPOTS: Spot[] = allSeed.map((s) => {
 
 export const AREAS: Area[] = [
   { id: "blouberg", name: "Blouberg" },
+  { id: "durbanville", name: "Durbanville" },
   { id: "waterfront", name: "V&A Waterfront" },
   { id: "bokaap", name: "Bo-Kaap" },
   { id: "citybowl", name: "City Bowl" },

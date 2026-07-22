@@ -62,6 +62,14 @@ const AREA_TILES: Partial<Record<AreaId, Circle[]>> = {
     { lat: -33.8065, lng: 18.489, radius: 1700 }, // Parklands
     { lat: -33.853, lng: 18.4915, radius: 1500 }, // Sunset Beach
   ],
+  durbanville: [
+    { lat: -33.8305, lng: 18.6501, radius: 1800 }, // Durbanville town centre
+    { lat: -33.825, lng: 18.635, radius: 2000 }, // Sonstraal / Vergesig / Uitzicht
+    { lat: -33.815, lng: 18.68, radius: 3000 }, // Durbanville wine valley (Hills, Nitida, De Grendel)
+    { lat: -33.9, lng: 18.629, radius: 2800 }, // Bellville
+    { lat: -33.845, lng: 18.708, radius: 2800 }, // Kraaifontein
+    { lat: -33.868, lng: 18.7, radius: 2800 }, // Brackenfell
+  ],
 };
 
 /** Google place types → our categories. Order = priority when a venue

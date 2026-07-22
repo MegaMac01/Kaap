@@ -26,6 +26,7 @@ export const AREA_IDS = [
   "houtbay",
   "muizenberg",
   "blouberg",
+  "durbanville",
 ] as const;
 export type AreaId = (typeof AREA_IDS)[number];
 

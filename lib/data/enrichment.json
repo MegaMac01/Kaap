@@ -7,7 +7,7 @@
       "lng": 18.4226889
     },
     "rating": 4.5,
-    "reviewCount": 5809,
+    "reviewCount": 5810,
     "phone": "+27 21 201 7000",
     "website": "https://www.truth.capetown/",
     "address": "36 Buitenkant St, Cape Town City Centre, Cape Town, 8000",
@@ -574,7 +574,7 @@
       "lng": 18.4503585
     },
     "rating": 4.6,
-    "reviewCount": 28543,
+    "reviewCount": 28544,
     "phone": "+27 21 786 2329",
     "website": "https://www.sanparks.org/parks/table_mountain/tourism/attractions.php#boulders",
     "address": "Simon's Town, Cape Town, 7995",
@@ -6357,6 +6357,7970 @@
         {
           "open": "09:00",
           "close": "17:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "toboggan-family-park-pty-ltd-t-a-cool-ru": {
+    "placeId": "ChIJUWybPLtQzB0RnW2g9TZm59A",
+    "googleName": "Toboggan Family Park (Pty) Ltd., t/a Cool Runnings",
+    "coords": {
+      "lat": -33.8802328,
+      "lng": 18.629963999999998
+    },
+    "rating": 4.6,
+    "reviewCount": 5698,
+    "phone": "+27 21 949 4439",
+    "website": "https://coolrunnings.capetown/",
+    "address": "Off Carl Cronje Dr, Tygervalley, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "ster-kinekor-cape-gate": {
+    "placeId": "ChIJn_2T1pBWzB0RKqFpiG_YNyk",
+    "googleName": "Ster-Kinekor Cape Gate",
+    "coords": {
+      "lat": -33.8519705,
+      "lng": 18.697569599999998
+    },
+    "rating": 4.1,
+    "reviewCount": 2914,
+    "phone": "+27 86 166 8437",
+    "website": "https://www.sterkinekor.com/?utm_source=GMB&utm_medium=Search&utm_campaign=Ster-Kinekor-Capegate",
+    "address": "Cape Gate Shopping Centre Okavango Rd &, De Bron Rd, Cape Gate, Cape Town, 7560",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "11:45",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:45",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:45",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:45",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:45",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:45",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "ipic-play": {
+    "placeId": "ChIJVxeJ55RXzB0R7E6yEOW5x1Y",
+    "googleName": "Ipic Play",
+    "coords": {
+      "lat": -33.8335668,
+      "lng": 18.6309886
+    },
+    "rating": 4.4,
+    "reviewCount": 1604,
+    "phone": "+27 21 205 3844",
+    "website": "http://www.ipicplay.co.za/",
+    "address": "Corner of Burton and, Aurora St, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "playalot-indoor-adventure-park-pinehurst": {
+    "placeId": "ChIJNV5nEVRRzB0RvoL4RXQepBM",
+    "googleName": "Playalot Indoor Adventure Park - Pinehurst - Durbanville",
+    "coords": {
+      "lat": -33.8263235,
+      "lng": 18.7004695
+    },
+    "rating": 4.4,
+    "reviewCount": 1429,
+    "phone": "+27 87 138 7529",
+    "website": "http://playalot.co.za/",
+    "address": "3 Tanzanite Cres, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "dairy-exchange-brackenfell": {
+    "placeId": "ChIJcz2g8xNRzB0RBDzyJLwlsvA",
+    "googleName": "Dairy Exchange Brackenfell",
+    "coords": {
+      "lat": -33.8807389,
+      "lng": 18.684112
+    },
+    "rating": 4.5,
+    "reviewCount": 782,
+    "phone": "+27 60 577 7515",
+    "website": "http://www.dairyexchange.co.za/",
+    "address": "Shop 5, Aroma Village Centre, Old Paarl Rd, Brackenfell, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "the-creamery-caf-durbanville": {
+    "placeId": "ChIJyy5Ag0dXzB0R34AVuNgqXeY",
+    "googleName": "The Creamery Café Durbanville",
+    "coords": {
+      "lat": -33.8298017,
+      "lng": 18.6483643
+    },
+    "rating": 4.4,
+    "reviewCount": 740,
+    "phone": "+27 87 803 0844",
+    "website": "http://www.thecreamery.co.za/",
+    "address": "Shop 18, 36 Oxford St, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "whats-the-scoop": {
+    "placeId": "ChIJcXibc3VXzB0RK44QRdjQIFo",
+    "googleName": "What's The Scoop?",
+    "coords": {
+      "lat": -33.8462801,
+      "lng": 18.6927791
+    },
+    "rating": 4.8,
+    "reviewCount": 331,
+    "phone": "+27 82 331 3996",
+    "website": "http://www.facebook.com/whatsthescoopSA",
+    "address": "Shop 2, Langeberg Ridge centre, 43 Ridge Rd, Langeberg Ridge, Cape Town, 7570",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "polar-ice-cream-brackenfell": {
+    "placeId": "ChIJ-7j-cPRRzB0R2efsfY5w1UU",
+    "googleName": "Polar Ice Cream Brackenfell",
+    "coords": {
+      "lat": -33.8764588,
+      "lng": 18.686182
+    },
+    "rating": 4.3,
+    "reviewCount": 47,
+    "phone": "+27 21 914 5288",
+    "website": "https://polaricecream.co.za/",
+    "address": "Frans Conradie Dr, Brackenfell South, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "13:00"
+        },
+        {
+          "open": "13:30",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "chocolat-bistro": {
+    "placeId": "ChIJLX2wRhJXzB0RHrJUjBoMo-o",
+    "googleName": "Chocolat Bistro",
+    "coords": {
+      "lat": -33.8288322,
+      "lng": 18.6455248
+    },
+    "rating": 4.5,
+    "reviewCount": 3879,
+    "phone": "+27 21 975 2426",
+    "website": "http://www.chocolatbistro.co.za/",
+    "address": "46 Oxford St, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "bossa-buh-rein": {
+    "placeId": "ChIJF_n9biFUzB0Rjre4FZjJi5U",
+    "googleName": "Bossa Buh-Rein",
+    "coords": {
+      "lat": -33.8232224,
+      "lng": 18.7176746
+    },
+    "rating": 4.3,
+    "reviewCount": 3815,
+    "phone": "+27 21 006 2669",
+    "website": "http://bossagoodtimes.com/",
+    "address": "Buh-Rein Dr &, Zandvliet Dr, East-Rural, Cape Town, 7570",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "01:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "01:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "copper-club-tyger-waterfront": {
+    "placeId": "ChIJ51lvN7tQzB0Rh6uU5nuRA_M",
+    "googleName": "Copper Club Tyger Waterfront",
+    "coords": {
+      "lat": -33.876449199999996,
+      "lng": 18.63014
+    },
+    "rating": 4.4,
+    "reviewCount": 3052,
+    "phone": "+27 21 914 6236",
+    "website": "https://coppercollection.co.za/copper-club/",
+    "address": "18-19, Tyger Waterfront, Carl Cronje Dr, Bellville, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "bossa-vredekloof": {
+    "placeId": "ChIJnR7oUblRzB0RB2yiOMH9AtQ",
+    "googleName": "Bossa Vredekloof",
+    "coords": {
+      "lat": -33.8598271,
+      "lng": 18.6827117
+    },
+    "rating": 4.4,
+    "reviewCount": 2230,
+    "phone": "+27 21 201 7003",
+    "website": "http://bossagoodtimes.com/",
+    "address": "Shop 10, Vredekloof Centre Corner Brackenfell Boulevard, De Bron Rd, Vredekloof, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "kapstadt-brauhaus-durbanville": {
+    "placeId": "ChIJUTSwE5dXzB0RRG26MQLaaqQ",
+    "googleName": "Kapstadt Brauhaus Durbanville",
+    "coords": {
+      "lat": -33.83309250000001,
+      "lng": 18.6462205
+    },
+    "rating": 4.3,
+    "reviewCount": 1802,
+    "phone": "+27 21 569 2501",
+    "website": "https://www.kapstadtbrauhaus.co.za/",
+    "address": "C/O, Gladstone and, Heritage Square, Vrede St, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "die-boer-restaurant-durbanville": {
+    "placeId": "ChIJa78f6BBXzB0Rt7xVB07jjjM",
+    "googleName": "Die Boer Restaurant Durbanville",
+    "coords": {
+      "lat": -33.8300875,
+      "lng": 18.6505237
+    },
+    "rating": 4.7,
+    "reviewCount": 1802,
+    "phone": "+27 21 979 1911",
+    "website": "http://www.dieboer.com/",
+    "address": "6 Chenoweth St, Durbanville, 7551",
+    "hours": {
+      "mon": [
+        {
+          "open": "18:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "18:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "18:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "18:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "18:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "18:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:30",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "boston-coffee-roasters": {
+    "placeId": "ChIJVW9X95xQzB0RVjBwK9abKoQ",
+    "googleName": "Boston Coffee Roasters",
+    "coords": {
+      "lat": -33.893266,
+      "lng": 18.621321200000004
+    },
+    "rating": 4.7,
+    "reviewCount": 1723,
+    "phone": "+27 66 374 2420",
+    "website": "http://www.bostoncoffee.co.za/",
+    "address": "Cleveland St, Boston, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "13:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "boathouse-sushi": {
+    "placeId": "ChIJtzuBysFWzB0RhDzjtsdlhs0",
+    "googleName": "Boathouse Sushi",
+    "coords": {
+      "lat": -33.8328625,
+      "lng": 18.685366
+    },
+    "rating": 4.3,
+    "reviewCount": 1536,
+    "phone": "+27 21 975 4206",
+    "website": "http://www.boathousesushi.co.za/",
+    "address": "Shop 27, Pinehurst Shopping Centre, Brackenfell Blvd, Durbanville, Cape Town, 7569",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "romans-pizza-bellville": {
+    "placeId": "ChIJ63uB2YpQzB0RniNaMRbiIO0",
+    "googleName": "Roman's Pizza Bellville",
+    "coords": {
+      "lat": -33.9012147,
+      "lng": 18.6407448
+    },
+    "rating": 4.2,
+    "reviewCount": 1358,
+    "phone": "+27 21 201 6999",
+    "website": "https://romanspizza.co.za/store-locator/2f619f4c-ebce-4751-9f2a-7af6cd3d84ad?utm_source=google-places&utm_medium=search&utm_campaign=romans-pizza-bellville",
+    "address": "Cnr Quarry &, Mazzur Rd, Bellville, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "cab-foods-bellville": {
+    "placeId": "ChIJ42_B1ZBQzB0RH4B1Id5VU9c",
+    "googleName": "CAB Foods Bellville",
+    "coords": {
+      "lat": -33.88865500000001,
+      "lng": 18.632389
+    },
+    "rating": 4.4,
+    "reviewCount": 1216,
+    "phone": "+27 21 948 6644",
+    "website": "http://www.cabfoods.co.za/",
+    "address": "34A Northumberland St, Bellville, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "17:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "17:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "17:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "17:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "17:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "14:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "cab-foods-brackenfell": {
+    "placeId": "ChIJf0AOn1pRzB0RtQ4zOkJnRlk",
+    "googleName": "CAB Foods Brackenfell",
+    "coords": {
+      "lat": -33.861123299999996,
+      "lng": 18.7024409
+    },
+    "rating": 4.5,
+    "reviewCount": 1123,
+    "phone": "+27 21 982 5095",
+    "website": "http://www.cabfoods.co.za/",
+    "address": "Frans Conradie Dr &, Kenwill Dr, Okavango Park, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "14:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "ruslamere-hotel-and-conference-centre": {
+    "placeId": "ChIJP4Xr5R1XzB0RAZWfph0um_4",
+    "googleName": "Ruslamere Hotel and Conference Centre",
+    "coords": {
+      "lat": -33.8292038,
+      "lng": 18.6640724
+    },
+    "rating": 4.1,
+    "reviewCount": 1107,
+    "phone": "+27 67 692 4325",
+    "website": "https://www.ruslamere.co.za/",
+    "address": "14 Langeberg Rd, Durbanville, Cape Town, 7550",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "boere-sjiek-gifts": {
+    "placeId": "ChIJj8e8YDdRzB0R2LStNthugUs",
+    "googleName": "Boere Sjiek Gifts",
+    "coords": {
+      "lat": -33.8601248,
+      "lng": 18.697662299999998
+    },
+    "rating": 4.5,
+    "reviewCount": 865,
+    "phone": "+27 21 982 2023",
+    "website": "http://www.boeresjiek.co.za/",
+    "address": "12 Kiewiet Cl, Okavango Park, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "the-home-of-mondvol-cookies": {
+    "placeId": "ChIJK53ESN5RzB0RLRc9xjjkI2k",
+    "googleName": "The home of Mondvol Cookies",
+    "coords": {
+      "lat": -33.8267096,
+      "lng": 18.7035031
+    },
+    "rating": 4.9,
+    "reviewCount": 863,
+    "phone": "+27 82 696 4492",
+    "website": "https://mondvol.co/",
+    "address": "30 Tanzanite Cres, Stonewood Dr, Bonnie Brae, Cape Town, 7570",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "blou-winkel": {
+    "placeId": "ChIJrR99y-RTzB0RTekJ_Mq9NRc",
+    "googleName": "Blou Winkel",
+    "coords": {
+      "lat": -33.8588545,
+      "lng": 18.7203896
+    },
+    "rating": 3.9,
+    "reviewCount": 827,
+    "phone": "+27 21 988 2174",
+    "website": null,
+    "address": "254 Voortrekker Rd, Kraaifontein, Cape Town, 7570",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "12:00"
+        },
+        {
+          "open": "14:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "heroes-live": {
+    "placeId": "ChIJV8BVcTNXzB0RB4_cFdv6WiE",
+    "googleName": "HEROES LIVE",
+    "coords": {
+      "lat": -33.8501317,
+      "lng": 18.6946938
+    },
+    "rating": 4.4,
+    "reviewCount": 771,
+    "phone": "+27 84 747 6027",
+    "website": "https://www.heroeslive.net/",
+    "address": "Unit 1A, Cape Gate Corner, Nitida Ave, Kleinbron Estate, Cape Town, 7560",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "the-bloemhof-grill-and-guesthouse": {
+    "placeId": "ChIJNVoZQOhRzB0RqlmCq58jR2U",
+    "googleName": "The Bloemhof Grill and Guesthouse",
+    "coords": {
+      "lat": -33.88133,
+      "lng": 18.6440284
+    },
+    "rating": 4.6,
+    "reviewCount": 755,
+    "phone": "+27 21 919 8315",
+    "website": "http://www.the-bloemhof-grill-and-guesthouse.com/",
+    "address": "76 Bloemhof Rd, Oakdale, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "groot-phesantekraal-wines-restaurant": {
+    "placeId": "ChIJjSB0A0xWzB0RcMQqsD63QwE",
+    "googleName": "Groot Phesantekraal Wines & Restaurant",
+    "coords": {
+      "lat": -33.7966049,
+      "lng": 18.6707812
+    },
+    "rating": 4.5,
+    "reviewCount": 745,
+    "phone": "+27 21 825 0060",
+    "website": "http://www.grootphesantekraal.co.za/",
+    "address": "Klipheuwel Rd, R302, Cape Town, 7550",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "fat-cactus-tygervalley": {
+    "placeId": "ChIJ32_F4ylRzB0RZCrQ4jY3baY",
+    "googleName": "Fat Cactus Tygervalley",
+    "coords": {
+      "lat": -33.8831829,
+      "lng": 18.6322743
+    },
+    "rating": 4.4,
+    "reviewCount": 646,
+    "phone": "+27 21 201 5068",
+    "website": "https://www.fatcactus.co.za/",
+    "address": "21 Mispel Rd, Bellville Park, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "cafe-grano": {
+    "placeId": "ChIJGRdzpflWzB0Rwhslg8fQLsg",
+    "googleName": "Cafe Grano",
+    "coords": {
+      "lat": -33.8147611,
+      "lng": 18.673951
+    },
+    "rating": 4.4,
+    "reviewCount": 562,
+    "phone": "+27 21 975 6657",
+    "website": "https://m.facebook.com/CafeGranoSA/",
+    "address": "Shop 5 Graanendal Shopping Centre, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "14:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "new-national-hotel": {
+    "placeId": "ChIJ1Xny0l1azB0RJlKN4Vcczxk",
+    "googleName": "New National Hotel",
+    "coords": {
+      "lat": -33.9032413,
+      "lng": 18.603250199999998
+    },
+    "rating": 3.9,
+    "reviewCount": 424,
+    "phone": "+27 21 939 7140",
+    "website": "http://www.thenewnational.co.za/",
+    "address": "352 Voortrekker Rd, Fairfield Estate, Cape Town, 7500",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "license-to-grill-restaurant-durbanville": {
+    "placeId": "ChIJvebmWeJXzB0RDxNQcOvavY0",
+    "googleName": "License to Grill Restaurant Durbanville",
+    "coords": {
+      "lat": -33.8022644,
+      "lng": 18.6842634
+    },
+    "rating": 4.2,
+    "reviewCount": 414,
+    "phone": "+27 21 007 2942",
+    "website": "https://www.facebook.com/share/18aW2Miywm/",
+    "address": "Shop 35a-d Klipheuwel Road &, Okavango Rd, Durbanville, Cape Town, 5770",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:30",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "bossa-phesantekraal": {
+    "placeId": "ChIJXZUAFT1XzB0RSVQaTm1MuuU",
+    "googleName": "Bossa Phesantekraal",
+    "coords": {
+      "lat": -33.8005439,
+      "lng": 18.686780799999998
+    },
+    "rating": 4.2,
+    "reviewCount": 331,
+    "phone": "+27 21 213 1216",
+    "website": "https://www.bossagoodtimes.com/",
+    "address": "Shop 36, Groot Phesantekraal Shopping Centre Cnr of Klipheuwel Road &, Okavango Rd, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:30",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "tygerberg-student-centre": {
+    "placeId": "ChIJa_txXIdazB0RH_WbKBP9eAo",
+    "googleName": "Tygerberg Student Centre",
+    "coords": {
+      "lat": -33.9084091,
+      "lng": 18.6101959
+    },
+    "rating": 4,
+    "reviewCount": 313,
+    "phone": null,
+    "website": null,
+    "address": "3JR6+M2, Tygerberg Hospital, Cape Town, 7505",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "vierlanden-kwikspar": {
+    "placeId": "ChIJ5f0ZHgFXzB0RbrMruknXmUg",
+    "googleName": "Vierlanden Kwikspar",
+    "coords": {
+      "lat": -33.8168763,
+      "lng": 18.660429999999998
+    },
+    "rating": 4.4,
+    "reviewCount": 302,
+    "phone": "+27 21 975 0711",
+    "website": "https://www.spar.co.za/Home/Store-View/KWIKSPAR-Vierlanden-Western-Cape",
+    "address": "Protea Way, Vierlanden, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "petes-pizza-uitzicht": {
+    "placeId": "ChIJtQzNnI5WzB0R6bgjIVWvLQY",
+    "googleName": "Pete's Pizza Uitzicht",
+    "coords": {
+      "lat": -33.8160387,
+      "lng": 18.6949762
+    },
+    "rating": 4.4,
+    "reviewCount": 216,
+    "phone": "+27 21 975 4332",
+    "website": "https://www.petespizzas.co.za/",
+    "address": "10 Uitzicht Centre, Vatican St, Uitzicht, Cape Town, 7570",
+    "hours": {
+      "mon": [
+        {
+          "open": "14:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "14:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "14:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "14:00",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "omalleys-sports-ale": {
+    "placeId": "ChIJwY7hqe9RzB0Ra1BJVuqvcH4",
+    "googleName": "O'Malleys Sports & Ale",
+    "coords": {
+      "lat": -33.865173299999995,
+      "lng": 18.6858514
+    },
+    "rating": 4.4,
+    "reviewCount": 161,
+    "phone": "+27 21 493 7879",
+    "website": "https://www.omalleys.co.za/",
+    "address": "Witels St, Arauna, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "12:00",
+          "close": "23:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "23:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "23:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "23:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "00:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "00:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "20:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "plat-coffee-brackenfell": {
+    "placeId": "ChIJQY2kYWJRzB0RiWTHJp8p3ac",
+    "googleName": "Platō Coffee - Brackenfell",
+    "coords": {
+      "lat": -33.880108299999996,
+      "lng": 18.6851493
+    },
+    "rating": 4.6,
+    "reviewCount": 112,
+    "phone": "+27 74 775 5070",
+    "website": "https://plato.coffee/",
+    "address": "Essential Health Building C/O Old Paarl, and, Jeanette St, Springbokpark, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "coco-vogue-eco-health-beauty-eco-emporiu": {
+    "placeId": "ChIJRUVRB5ZQzB0RvJ9f_0FGHMA",
+    "googleName": "Coco Vogue Eco Health & Beauty Eco Emporium & Coco Vogue Revive Lounge",
+    "coords": {
+      "lat": -33.883169099999996,
+      "lng": 18.6352304
+    },
+    "rating": 4.4,
+    "reviewCount": 3718,
+    "phone": "+27 21 010 0229",
+    "website": "https://cocovogue.co.za/",
+    "address": "Suite 102 shop 75, building 111, Edward building, Tyger Valley, 11 Edward Rd, Bo Oakdale, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "absolute-beauty": {
+    "placeId": "ChIJW8K0QHBRzB0R7W8P4ejQy-A",
+    "googleName": "Absolute Beauty",
+    "coords": {
+      "lat": -33.8848341,
+      "lng": 18.6988521
+    },
+    "rating": 4.9,
+    "reviewCount": 693,
+    "phone": "+27 73 961 1857",
+    "website": "https://absolutebeauty.co.za/",
+    "address": "43 Protea Rd, Brackenfell, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "gem-beauty": {
+    "placeId": "ChIJT0fKPm9XzB0RnUPVnrmVssg",
+    "googleName": "Gem Beauty",
+    "coords": {
+      "lat": -33.8336052,
+      "lng": 18.6314077
+    },
+    "rating": 4.9,
+    "reviewCount": 244,
+    "phone": "+27 21 976 3115",
+    "website": "http://gembeauty.co.za/",
+    "address": "28 Aurora St, Aurora, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "pure-day-spa-durbanville": {
+    "placeId": "ChIJr7sX3h1XzB0Rl04O0Cfanw0",
+    "googleName": "Pure Day Spa - Durbanville",
+    "coords": {
+      "lat": -33.8312948,
+      "lng": 18.6498784
+    },
+    "rating": 4.5,
+    "reviewCount": 232,
+    "phone": "+27 76 094 9458",
+    "website": "http://www.puredayspa.co.za/",
+    "address": "Unit 15, Sir Benjamin Promenade, 20A Oxford St, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "empath-hands": {
+    "placeId": "ChIJieYa1YlujQMRR1AQFT6SCWM",
+    "googleName": "Empath Hands",
+    "coords": {
+      "lat": -33.835234299999996,
+      "lng": 18.7038683
+    },
+    "rating": 5,
+    "reviewCount": 215,
+    "phone": "+27 66 266 5339",
+    "website": "https://www.empathhands.co.za/",
+    "address": "20 Tygerberg Rd, Kraaifontein, Cape Town, 7570",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "18:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "18:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "18:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "18:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "la-mai-massage-and-wellness-spa": {
+    "placeId": "ChIJv4ddEZFQzB0ROQFuE0HeA9M",
+    "googleName": "La Mai Massage and Wellness Spa",
+    "coords": {
+      "lat": -33.8900553,
+      "lng": 18.6336019
+    },
+    "rating": 4.5,
+    "reviewCount": 183,
+    "phone": "+27 67 099 9909",
+    "website": "https://www.lamaimassage.co.za/",
+    "address": "200 Durban Rd, Oakdale, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "aesthetics-dr-nardus-le-grange": {
+    "placeId": "ChIJU1VfTbtQzB0RiMtfkkOh7JU",
+    "googleName": "Aesthetics (Dr Nardus le Grange)",
+    "coords": {
+      "lat": -33.8774832,
+      "lng": 18.6292777
+    },
+    "rating": 4.9,
+    "reviewCount": 79,
+    "phone": "+27 81 246 4393",
+    "website": "http://botoxcape.co.za/",
+    "address": "Suite 2, Canal Edge 3, Tyger Waterfont, Carl Cronje Dr, Bellville, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "ljs-ancient-healing-centre": {
+    "placeId": "ChIJdcO9jCBRzB0RGb7Gwf66RuY",
+    "googleName": "LJS Ancient Healing Centre",
+    "coords": {
+      "lat": -33.88079,
+      "lng": 18.63955
+    },
+    "rating": 4.8,
+    "reviewCount": 69,
+    "phone": "+27 21 910 1742",
+    "website": "https://ljsancienthealingcentre.co.za/",
+    "address": "34 Bloemhof Rd, Bo Oakdale, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "beyond-wellness": {
+    "placeId": "ChIJpcdtIulQzB0Rx6wmOyqXzoE",
+    "googleName": "Beyond Wellness",
+    "coords": {
+      "lat": -33.8902,
+      "lng": 18.64198
+    },
+    "rating": 4.7,
+    "reviewCount": 59,
+    "phone": "+27 21 823 9939",
+    "website": "http://www.beyondwellness.co.za/",
+    "address": "81 Raglan St, Oakdale, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "hidden-gem-self-catering": {
+    "placeId": "ChIJ4ywYH3RRzB0RKRQkMuvJyEc",
+    "googleName": "Hidden Gem Self-Catering",
+    "coords": {
+      "lat": -33.8816677,
+      "lng": 18.7090758
+    },
+    "rating": 4.7,
+    "reviewCount": 49,
+    "phone": "+27 82 336 7280",
+    "website": null,
+    "address": "3 STEENBOK STREET RUWARI, Brackenfell, Cape Town, 7560",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "flawless-beauty-spa": {
+    "placeId": "ChIJQ2usLPdRzB0Rnot7RbdrY44",
+    "googleName": "Flawless Beauty Spa",
+    "coords": {
+      "lat": -33.8498006,
+      "lng": 18.6932291
+    },
+    "rating": 4.4,
+    "reviewCount": 40,
+    "phone": "+27 21 975 0624",
+    "website": "http://www.flawlessbeauty.co.za/",
+    "address": "Shop UL02A Cape Gate Lifestyle Centre Corner Okovango and, Tanner St, Brackenfell, Cape Town, 7570",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "salon-on-nutans": {
+    "placeId": "ChIJm6WB_5BXzB0RoYWMiJMIlYY",
+    "googleName": "Salon On Nutans",
+    "coords": {
+      "lat": -33.8181607,
+      "lng": 18.6546408
+    },
+    "rating": 5,
+    "reviewCount": 39,
+    "phone": "+27 83 390 7440",
+    "website": "https://www.salononnutans.co.za/",
+    "address": "2 Nutans Ave, Proteaville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "de-oude-caab-country-house": {
+    "placeId": "ChIJ8yPyyxVXzB0Rvw0roLWQXAg",
+    "googleName": "De Oude CAAB Country House",
+    "coords": {
+      "lat": -33.8355307,
+      "lng": 18.64603
+    },
+    "rating": 4.3,
+    "reviewCount": 36,
+    "phone": null,
+    "website": null,
+    "address": "3 Church St, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "shalom-hair-and-beauty-spa": {
+    "placeId": "ChIJ69Ob_UZRzB0Rxebo5L4WY0o",
+    "googleName": "Shalom Hair and Beauty Spa",
+    "coords": {
+      "lat": -33.866237,
+      "lng": 18.69182
+    },
+    "rating": 4.7,
+    "reviewCount": 34,
+    "phone": "+27 84 208 6339",
+    "website": "http://shalombeauty.co.za/",
+    "address": "Shop 2 Shawn St, Arauna, Cape Town, 7560",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "lymph-draining-plus": {
+    "placeId": "ChIJ36qajegnLUQRCas3VXpmw_w",
+    "googleName": "Lymph Draining Plus",
+    "coords": {
+      "lat": -33.8259414,
+      "lng": 18.6531909
+    },
+    "rating": 5,
+    "reviewCount": 25,
+    "phone": null,
+    "website": "https://www.lymphdrainingplus.co.za/",
+    "address": "Unit 1, 39 Wellington Rd, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "exclusive-plants": {
+    "placeId": "ChIJr3jhyd5WzB0RWdL4EeZWsIM",
+    "googleName": "Exclusive Plants",
+    "coords": {
+      "lat": -33.8391266,
+      "lng": 18.669517799999998
+    },
+    "rating": 4.7,
+    "reviewCount": 24,
+    "phone": "+27 82 802 7184",
+    "website": null,
+    "address": "1 Krisant St, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "beauty-by-hanna": {
+    "placeId": "ChIJfa8cQAdbzB0RQ5rJZ6qMqd0",
+    "googleName": "Beauty by Hanna",
+    "coords": {
+      "lat": -33.897639999999996,
+      "lng": 18.59995
+    },
+    "rating": 5,
+    "reviewCount": 23,
+    "phone": "+27 72 177 7300",
+    "website": "https://www.fresha.com/a/beauty-by-hanna-cape-town-30-esperance-street-vvir01ha",
+    "address": "30 Esperance St, Oostersee, Cape Town, 7500",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "dr-michelle-fourie-aesthetics": {
+    "placeId": "ChIJs_7BGyBXzB0R0nMNcAAM4AE",
+    "googleName": "Dr Michelle Fourie Aesthetics",
+    "coords": {
+      "lat": -33.8254113,
+      "lng": 18.6468249
+    },
+    "rating": 5,
+    "reviewCount": 22,
+    "phone": "+27 82 664 4200",
+    "website": "http://www.drmichellefourie.co.za/",
+    "address": "Unit 1.4, first floor, corner of New and, Park Central, 2 Koeberg Rd, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "chick-pulse-beauty-salon-kraaifontein": {
+    "placeId": "ChIJPYuxEHtvfCARG9i7SZMvqPA",
+    "googleName": "Chick Pulse Beauty Salon Kraaifontein",
+    "coords": {
+      "lat": -33.8357441,
+      "lng": 18.6990226
+    },
+    "rating": 4.7,
+    "reviewCount": 20,
+    "phone": "+27 69 952 0741",
+    "website": "https://www.facebook.com/chickpulsedurbanville/",
+    "address": "2 Umkomaas Rd, Bonny Brook, Cape Town, 7570",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "jacaranda-skincare-salon": {
+    "placeId": "ChIJGwoi0SRXzB0RRB9JE6KOa4M",
+    "googleName": "Jacaranda Skincare Salon",
+    "coords": {
+      "lat": -33.82202120000001,
+      "lng": 18.6607713
+    },
+    "rating": 4.8,
+    "reviewCount": 17,
+    "phone": "+27 72 298 3158",
+    "website": "http://jacaranda-skincare.co.za/",
+    "address": "15 Mimosa St, Wellway Park, Cape Town, 7550",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "16:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "its-a-hair-circus-hair-nails-beauty": {
+    "placeId": "ChIJc5zAZw34wUwRdyxD0T2G9Iw",
+    "googleName": "It's A Hair Circus, Hair, Nails & Beauty",
+    "coords": {
+      "lat": -33.878223,
+      "lng": 18.683004699999998
+    },
+    "rating": 5,
+    "reviewCount": 16,
+    "phone": "+27 62 439 1863",
+    "website": null,
+    "address": "11 Roslyn St, Brackenfell, Cape Town, 7650",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "corner-deck": {
+    "placeId": "ChIJjaLdlbRWzB0RUkcYi9Zcpdo",
+    "googleName": "CORNER DECK",
+    "coords": {
+      "lat": -33.8505032,
+      "lng": 18.6936346
+    },
+    "rating": 4.2,
+    "reviewCount": 3520,
+    "phone": "+27 21 981 0316",
+    "website": "https://cornerdeck.co.za/",
+    "address": "Cape Gate Lifestyle Centre, 25 Okavango Rd, Brackenfell, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "speakeasy-on-oxford": {
+    "placeId": "ChIJX5he9hNXzB0R2U4yTKDEETU",
+    "googleName": "Speakeasy on Oxford",
+    "coords": {
+      "lat": -33.8313474,
+      "lng": 18.6499666
+    },
+    "rating": 4.3,
+    "reviewCount": 2649,
+    "phone": "+27 21 001 7321",
+    "website": "https://m.facebook.com/SpeakeasySaloon/",
+    "address": "20 Oxford St, Durbanville, Cape Town, 7551",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "peppa-jacks-tex-mex-grill-bar": {
+    "placeId": "ChIJQ1DxFRFXzB0RgdDHz9udpDg",
+    "googleName": "Peppa Jack's Tex-Mex Grill & Bar",
+    "coords": {
+      "lat": -33.814847799999995,
+      "lng": 18.621035499999998
+    },
+    "rating": 4.4,
+    "reviewCount": 2564,
+    "phone": "+27 21 975 5606",
+    "website": "http://www.peppajacks.co.za/",
+    "address": "19 Thaba Park, Hooggelegen Rd, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "hennies-brackenfell": {
+    "placeId": "ChIJWW9iQV1RzB0R0IXeSUgbVjE",
+    "googleName": "Hennie's Brackenfell",
+    "coords": {
+      "lat": -33.8819948,
+      "lng": 18.685438299999998
+    },
+    "rating": 4.9,
+    "reviewCount": 2341,
+    "phone": "+27 68 924 7654",
+    "website": "https://www.therealhennies.co.za/branches/hennies-brackenfell?utm_source=google_maps&utm_medium=website_button&utm_campaign=SP&utm_content=SP",
+    "address": "Shop 57, Brackenfell Shopping Centre, Old Paarl Rd, Brackenfell South, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "22:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "22:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "jackson-and-black-grill-pizzeria-tyger": {
+    "placeId": "ChIJq1IFeChRzB0RRtzJ9BK7Exg",
+    "googleName": "Jackson and Black Grill & Pizzeria | TYGER",
+    "coords": {
+      "lat": -33.8770853,
+      "lng": 18.6345231
+    },
+    "rating": 4.4,
+    "reviewCount": 1910,
+    "phone": "+27 21 100 4141",
+    "website": "https://jacksonandblack.co.za/",
+    "address": "Gihon Buidling Corner Bill Bezuidenhout &, Sportica Cres, Tygervalley, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "sk-l-bar-and-eatery": {
+    "placeId": "ChIJrSSoTDFRzB0RW0ZoQShU-vQ",
+    "googleName": "Skål Bar and Eatery",
+    "coords": {
+      "lat": -33.859952,
+      "lng": 18.682861499999998
+    },
+    "rating": 4.4,
+    "reviewCount": 1239,
+    "phone": "+27 72 794 7681",
+    "website": "http://www.skal.co.za/",
+    "address": "Shop 16 Vredekloof, Centre Dr, Brackenfell, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:30",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "bok-lounge-grill": {
+    "placeId": "ChIJb3QwB0BRzB0R4yVJtZSS8Yg",
+    "googleName": "Bok Lounge & Grill",
+    "coords": {
+      "lat": -33.873737399999996,
+      "lng": 18.6889585
+    },
+    "rating": 4.1,
+    "reviewCount": 1084,
+    "phone": "+27 82 469 5855",
+    "website": "https://m.facebook.com/BokLoungeandGrill/",
+    "address": "Paradys St, St Michaels, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "danskraal": {
+    "placeId": "ChIJ7eVM2pBQzB0RKa5peG8AJrw",
+    "googleName": "Danskraal",
+    "coords": {
+      "lat": -33.8893382,
+      "lng": 18.631957600000003
+    },
+    "rating": 4.1,
+    "reviewCount": 807,
+    "phone": "+27 83 778 4078",
+    "website": "https://m.facebook.com/pages/category/Dance---Night-Club/Danskraal-Bellville-2181106505436780/",
+    "address": "Northumberland Rd, Oakdale, Cape Town, 7530",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        {
+          "open": "19:30",
+          "close": "04:00"
+        }
+      ],
+      "thu": [],
+      "fri": [
+        {
+          "open": "19:30",
+          "close": "05:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "19:30",
+          "close": "05:30"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "gringos-cantina-pizzeria": {
+    "placeId": "ChIJIfCg-5xQzB0RbzZ9TWQsDp8",
+    "googleName": "Gringo's Cantina & Pizzeria",
+    "coords": {
+      "lat": -33.893311499999996,
+      "lng": 18.6210675
+    },
+    "rating": 3.9,
+    "reviewCount": 685,
+    "phone": "+27 63 041 4739",
+    "website": null,
+    "address": "39 12th Ave, Boston, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "01:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "01:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "01:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "the-sports-fan-pub-grill": {
+    "placeId": "ChIJoW8L70BRzB0REHh2bOAPTs0",
+    "googleName": "The Sports Fan Pub & Grill",
+    "coords": {
+      "lat": -33.8784086,
+      "lng": 18.67868
+    },
+    "rating": 4.1,
+    "reviewCount": 582,
+    "phone": "+27 21 982 5300",
+    "website": "https://www.facebook.com/Sportsfan-PubGrill-189137051186262/?fref=ts",
+    "address": "580 Frans Conradie Dr, Ferndale, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "01:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "01:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "01:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "01:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "01:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "01:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "pizza-pub-restaurant": {
+    "placeId": "ChIJRcsfvalWzB0RRVjcl1XHTss",
+    "googleName": "Pizza Pub & Restaurant",
+    "coords": {
+      "lat": -33.8424377,
+      "lng": 18.7105429
+    },
+    "rating": 4.1,
+    "reviewCount": 471,
+    "phone": "+27 21 988 7885",
+    "website": "https://m.facebook.com/pizzapubkraaifontein/",
+    "address": "Office No.8, Brighton Center, 8 Brighton Rd, Windsor Park, Cape Town, 7570",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:59"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "23:59"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "the-drunken-duck-bellville": {
+    "placeId": "ChIJq6qqpllQzB0RyORR9tx6uC0",
+    "googleName": "The Drunken Duck Bellville",
+    "coords": {
+      "lat": -33.9056486,
+      "lng": 18.6569327
+    },
+    "rating": 4.1,
+    "reviewCount": 435,
+    "phone": "+27 21 215 1180",
+    "website": "https://advertssa.co.za/listing/the-drunken-duck/",
+    "address": "Mahenka Centre, Cnr Strand st & Ford Street, Stikland, Cape Town, 7535",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "highlander-pub-and-venue": {
+    "placeId": "ChIJyeieUGZRzB0RlfAghtLakao",
+    "googleName": "Highlander Pub and venue",
+    "coords": {
+      "lat": -33.8750237,
+      "lng": 18.702988100000002
+    },
+    "rating": 4.3,
+    "reviewCount": 433,
+    "phone": "+27 76 632 7649",
+    "website": "https://m.facebook.com/Highlander-Pub-Grill-569371033116040/",
+    "address": "37 Gemini St, Brackenfell South, Cape Town, 7570",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "stinos-pub-and-grill": {
+    "placeId": "ChIJjx6CoYlQzB0Rwc12-CT96v8",
+    "googleName": "Stino's Pub and Grill",
+    "coords": {
+      "lat": -33.9020309,
+      "lng": 18.6337047
+    },
+    "rating": 3.9,
+    "reviewCount": 353,
+    "phone": null,
+    "website": null,
+    "address": "Lareh Court, 70F Voortrekker Rd, Bellville, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "smugglers-sports-pub": {
+    "placeId": "ChIJjRRzP0pRzB0Rg4oAXgcvr6o",
+    "googleName": "Smugglers Sports Pub",
+    "coords": {
+      "lat": -33.8566463,
+      "lng": 18.6905796
+    },
+    "rating": 3.9,
+    "reviewCount": 316,
+    "phone": "+27 21 982 5244",
+    "website": null,
+    "address": "Shopping Centre, De Bron Rd, Brackenfell, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "green-fields-pub": {
+    "placeId": "ChIJM3iTvWRRzB0R5ox5L25bkcg",
+    "googleName": "Green Fields Pub",
+    "coords": {
+      "lat": -33.881177199999996,
+      "lng": 18.7062196
+    },
+    "rating": 3.9,
+    "reviewCount": 304,
+    "phone": "+27 21 981 5338",
+    "website": "https://www.munchease.co.za/",
+    "address": "Shop 7 Ruwari Ctr, Kruis Rd, Brackenfell, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "schwarma-pizza-cafe": {
+    "placeId": "ChIJW54V2KRQzB0RbhtvZziZr54",
+    "googleName": "Schwarma& Pizza Cafe",
+    "coords": {
+      "lat": -33.8757848,
+      "lng": 18.628589299999998
+    },
+    "rating": 4.2,
+    "reviewCount": 263,
+    "phone": "+27 21 914 2228",
+    "website": "https://schwarmacaffe.co.za/",
+    "address": "3 Waterfront Rd, Tyger Waterfront, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "00:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "planet-sports-bar-bellville": {
+    "placeId": "ChIJzTJQmohQzB0RqOEyXB_1zUk",
+    "googleName": "Planet Sports Bar Bellville",
+    "coords": {
+      "lat": -33.9014576,
+      "lng": 18.629987
+    },
+    "rating": 3.9,
+    "reviewCount": 214,
+    "phone": "+27 76 773 9535",
+    "website": "https://www.facebook.com/planet.bell.page/?ref=hl",
+    "address": "corner of blankenberg street, and, Voortrekker Rd, Bellville, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "uncle-stans-pizza-pub": {
+    "placeId": "ChIJ5wTm2ghUzB0RQZblLa2zzQg",
+    "googleName": "Uncle Stan's Pizza & Pub",
+    "coords": {
+      "lat": -33.850132099999996,
+      "lng": 18.714838999999998
+    },
+    "rating": 4,
+    "reviewCount": 163,
+    "phone": "+27 21 987 2645",
+    "website": null,
+    "address": "Peerless Park West, Cape Town, 7570",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "cheers-on-oxford-pub": {
+    "placeId": "ChIJ7ZJINxJXzB0RbzLD_y08D9I",
+    "googleName": "Cheers on Oxford Pub",
+    "coords": {
+      "lat": -33.8289279,
+      "lng": 18.6458901
+    },
+    "rating": 3.9,
+    "reviewCount": 148,
+    "phone": "+27 73 267 9656",
+    "website": null,
+    "address": "44 Oxford St, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "v-bar-brackenfell": {
+    "placeId": "ChIJJYvuaj5RzB0ROQxkY-aEqwY",
+    "googleName": "V Bar Brackenfell",
+    "coords": {
+      "lat": -33.873546999999995,
+      "lng": 18.684132299999998
+    },
+    "rating": 3.7,
+    "reviewCount": 123,
+    "phone": "+27 87 255 2951",
+    "website": null,
+    "address": "Shop 4 A, Arauna Center, Handel Rd, Brackenfell, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "meeting-place": {
+    "placeId": "ChIJbW6LA5NQzB0Rak7ZqYWQco4",
+    "googleName": "Meeting Place",
+    "coords": {
+      "lat": -33.8898162,
+      "lng": 18.6388346
+    },
+    "rating": 4,
+    "reviewCount": 102,
+    "phone": "+27 21 839 4050",
+    "website": null,
+    "address": "46 Raglan St, Oakdale, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "pipers-pub": {
+    "placeId": "ChIJN0hjieVXzB0RgfgVy01BMNs",
+    "googleName": "Pipers Pub",
+    "coords": {
+      "lat": -33.815948299999995,
+      "lng": 18.6956438
+    },
+    "rating": 4.1,
+    "reviewCount": 101,
+    "phone": "+27 21 975 8278",
+    "website": null,
+    "address": "Vatican St, Uitzicht, Cape Town, 7570",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "the-corner-rock-bar": {
+    "placeId": "ChIJfx_BFelXzB0R7y9c0OHLqvk",
+    "googleName": "The Corner Rock Bar",
+    "coords": {
+      "lat": -33.8328518,
+      "lng": 18.6465235
+    },
+    "rating": 4.4,
+    "reviewCount": 99,
+    "phone": "+27 64 750 9477",
+    "website": "https://www.instagram.com/cornerrockbar?igsh=c3NtZnlkbXJxZHN0",
+    "address": "Scher Rd, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        {
+          "open": "15:00",
+          "close": "01:45"
+        }
+      ],
+      "thu": [
+        {
+          "open": "15:00",
+          "close": "01:45"
+        }
+      ],
+      "fri": [
+        {
+          "open": "15:00",
+          "close": "01:45"
+        }
+      ],
+      "sat": [
+        {
+          "open": "15:00",
+          "close": "01:45"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "ringos-pub-n-grill": {
+    "placeId": "ChIJY08NDlxQzB0RQx0HLXxLMoI",
+    "googleName": "Ringo's Pub n Grill",
+    "coords": {
+      "lat": -33.90985,
+      "lng": 18.646954
+    },
+    "rating": 4.6,
+    "reviewCount": 86,
+    "phone": "+27 21 948 2103",
+    "website": "https://m.facebook.com/ringospub61/",
+    "address": "Ringo, 10 Thermo St, Stikland, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "stargayzers": {
+    "placeId": "ChIJMbfEWXtazB0RQg-C_ZWPjZI",
+    "googleName": "Stargayzers",
+    "coords": {
+      "lat": -33.9033252,
+      "lng": 18.6067149
+    },
+    "rating": 4,
+    "reviewCount": 76,
+    "phone": null,
+    "website": null,
+    "address": "16 Caxton St, Parow East, Cape Town, 7501",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        {
+          "open": "21:00",
+          "close": "04:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "21:00",
+          "close": "04:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "forest-tavern": {
+    "placeId": "ChIJnctfku5TzB0R6c1u5D7bntA",
+    "googleName": "Forest Tavern",
+    "coords": {
+      "lat": -33.8592827,
+      "lng": 18.729538899999998
+    },
+    "rating": 3.9,
+    "reviewCount": 52,
+    "phone": "+27 73 862 9780",
+    "website": null,
+    "address": "Ntongana Rd, Wallace Dene, Cape Town, 7570",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "papa-joes": {
+    "placeId": "ChIJ6cVu-LhRzB0Rd38rsa6Z-qo",
+    "googleName": "Papa Joe's",
+    "coords": {
+      "lat": -33.881200199999995,
+      "lng": 18.689468299999998
+    },
+    "rating": 4.7,
+    "reviewCount": 47,
+    "phone": null,
+    "website": null,
+    "address": "42B Kruis Rd, Protea Hoogte, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "fives-sports-bar-grill-pinehurst": {
+    "placeId": "ChIJt2hvtZRXzB0RlpKMZ2cIIAo",
+    "googleName": "Fives Sports bar & Grill Pinehurst",
+    "coords": {
+      "lat": -33.8318322,
+      "lng": 18.6861606
+    },
+    "rating": 4.6,
+    "reviewCount": 31,
+    "phone": "+27 21 023 0054",
+    "website": "https://m.facebook.com/fivessportsbarandgrill/",
+    "address": "Corner of sirocco drive, and, Pinehurst Dr, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "dantes-premiere-lounge": {
+    "placeId": "ChIJ4XyMscxRzB0RrU3nekkHpTg",
+    "googleName": "Dante's Premiere Lounge",
+    "coords": {
+      "lat": -33.9112643,
+      "lng": 18.652623400000003
+    },
+    "rating": 4.1,
+    "reviewCount": 31,
+    "phone": "+27 72 199 4827",
+    "website": null,
+    "address": "9 Neutron St, Triangle Farm, Cape Town, 7530",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        {
+          "open": "20:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "20:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "20:00",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "livingroom": {
+    "placeId": "ChIJiZCIXJxRzB0RVgd35x-hm4g",
+    "googleName": "Livingroom",
+    "coords": {
+      "lat": -33.900805399999996,
+      "lng": 18.625545100000004
+    },
+    "rating": 4.5,
+    "reviewCount": 26,
+    "phone": "+27 68 676 1150",
+    "website": null,
+    "address": "105 Voortrekker Rd, Bellville, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "kraaifontein-jukskei-klub": {
+    "placeId": "ChIJVcHau4hXzB0RZGyZId-Yc54",
+    "googleName": "Kraaifontein Jukskei Klub",
+    "coords": {
+      "lat": -33.8248337,
+      "lng": 18.7051651
+    },
+    "rating": 4.3,
+    "reviewCount": 19,
+    "phone": "+27 71 885 0336",
+    "website": null,
+    "address": "Sarel Van Deventer Rd, Bonnie Brae, Cape Town, 7569",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "down-the-hatch": {
+    "placeId": "ChIJN_-Fwr5RzB0RVXHH0J2oGTo",
+    "googleName": "Down the Hatch",
+    "coords": {
+      "lat": -33.8645279,
+      "lng": 18.7116822
+    },
+    "rating": 4.1,
+    "reviewCount": 16,
+    "phone": "+27 84 722 5600",
+    "website": null,
+    "address": "Northpine, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "jack-muller-danie-uys-district-park": {
+    "placeId": "ChIJZxWlW5pQzB0RCd-FNh8R7eE",
+    "googleName": "Jack Muller & Danie Uys District Park",
+    "coords": {
+      "lat": -33.8914201,
+      "lng": 18.6274498
+    },
+    "rating": 4.4,
+    "reviewCount": 2446,
+    "phone": "+27 21 400 5769",
+    "website": "https://www.google.co.za/url?sa=t&source=web&rct=j&url=http://www.capetown.gov.za/Family%20and%20home/see-all-city-facilities/our-recreational-facilities/District%20parks/Jack%20Muller%20Park&ved=0ahUKEwiGgoip2KPVAhXFLcAKHZwgDUAQFgh1MA4&usg=AFQjCNEJQh13yKeSA7gCPByr1h5Zk_1C1g",
+    "address": "Frans Conradie Dr, Boston, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "bracken-nature-reserve": {
+    "placeId": "ChIJAU8ecthTzB0RU9G0sdZdXc0",
+    "googleName": "Bracken Nature Reserve",
+    "coords": {
+      "lat": -33.8782956,
+      "lng": 18.7084679
+    },
+    "rating": 4,
+    "reviewCount": 311,
+    "phone": "+27 21 444 7548",
+    "website": "https://www.brackennaturereserve.co.za/",
+    "address": "2 Reservoir St, Brackenfell South, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "durbanville-nature-reserve": {
+    "placeId": "ChIJc8xpnz9XzB0RL5-oAXlrKyw",
+    "googleName": "Durbanville Nature Reserve",
+    "coords": {
+      "lat": -33.8409154,
+      "lng": 18.643465799999998
+    },
+    "rating": 4.1,
+    "reviewCount": 288,
+    "phone": null,
+    "website": "http://www.capetown.gov.za/Family%20and%20home/see-all-city-facilities/our-recreational-facilities/Nature%20reserves/Durbanville%20Nature%20Reserve",
+    "address": "Race Course Rd, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "13:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "boland-dam-park": {
+    "placeId": "ChIJrTDzCyNXzB0RxmjAY7k4q2A",
+    "googleName": "Boland Dam Park",
+    "coords": {
+      "lat": -33.8092057,
+      "lng": 18.6593965
+    },
+    "rating": 4.6,
+    "reviewCount": 233,
+    "phone": null,
+    "website": null,
+    "address": "Vierlanden, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "uitzicht-greenbelt-body-of-water": {
+    "placeId": "ChIJZw4Vo4xWzB0RxSDQEzDQQuI",
+    "googleName": "Uitzicht Greenbelt Body of Water",
+    "coords": {
+      "lat": -33.815379199999995,
+      "lng": 18.690038299999998
+    },
+    "rating": 4.4,
+    "reviewCount": 165,
+    "phone": "+27 21 444 9736",
+    "website": "https://www.capetown.gov.za/",
+    "address": "25 St Peters St, Uitzicht, Cape Town, 7570",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "zoo-dog-park": {
+    "placeId": "ChIJSWL60alXzB0RknBzZ0aUHDk",
+    "googleName": "Zoo dog park",
+    "coords": {
+      "lat": -33.8405927,
+      "lng": 18.699773999999998
+    },
+    "rating": 4,
+    "reviewCount": 128,
+    "phone": null,
+    "website": null,
+    "address": "Zoo Park, Cape Town, 7570",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "botterblom-nature-reserve": {
+    "placeId": "ChIJKYH2m0NXzB0R2UYTYK3wD2w",
+    "googleName": "Botterblom Nature Reserve",
+    "coords": {
+      "lat": -33.805506699999995,
+      "lng": 18.6576685
+    },
+    "rating": 4.4,
+    "reviewCount": 101,
+    "phone": "+27 21 979 0060",
+    "website": "https://www.capetowngreenmap.co.za/cape-town-green-map-online-map/nature/nature-reserve/botterblom-nature-reserve",
+    "address": "Botterblom Street, Vierlanden Heights, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "aurora-park": {
+    "placeId": "ChIJa5HQdmVXzB0RCCj3HNsfYxI",
+    "googleName": "Aurora Park",
+    "coords": {
+      "lat": -33.8321916,
+      "lng": 18.6284797
+    },
+    "rating": 4.5,
+    "reviewCount": 61,
+    "phone": null,
+    "website": null,
+    "address": "Aurora, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "crown-crescent-park": {
+    "placeId": "ChIJl7CZIRxUzB0RReTFXLP4lUQ",
+    "googleName": "Crown Crescent Park",
+    "coords": {
+      "lat": -33.8324024,
+      "lng": 18.7168867
+    },
+    "rating": 4,
+    "reviewCount": 61,
+    "phone": null,
+    "website": null,
+    "address": "East-Rural, Cape Town, 7570",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "dalsig-park": {
+    "placeId": "ChIJE5LvP95XzB0R9yk-t7vynrQ",
+    "googleName": "Dalsig Park",
+    "coords": {
+      "lat": -33.8456361,
+      "lng": 18.654314499999998
+    },
+    "rating": 4.7,
+    "reviewCount": 60,
+    "phone": null,
+    "website": null,
+    "address": "&nbsp, Durbanville, Kaapstad, 7550",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "thibault-inclusive-play-park": {
+    "placeId": "ChIJ3cvqr1dRzB0RdAlWTcXni-Y",
+    "googleName": "Thibault Inclusive Play Park",
+    "coords": {
+      "lat": -33.8678753,
+      "lng": 18.690776
+    },
+    "rating": 4.3,
+    "reviewCount": 55,
+    "phone": null,
+    "website": "https://www.capetowngreenmap.co.za/blog/newly-upgraded-play-park-brackenfell",
+    "address": "32-6 Thibault St, Arauna, Cape Town, 7560",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "horak-city-park": {
+    "placeId": "ChIJ69hgPgdUzB0RK8gI6ZpzP24",
+    "googleName": "Horak City Park",
+    "coords": {
+      "lat": -33.8462199,
+      "lng": 18.7198369
+    },
+    "rating": 3.5,
+    "reviewCount": 46,
+    "phone": "+27 21 980 1249",
+    "website": null,
+    "address": "Horak St, Kraaifontein, Cape Town, 7570",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "suikerbossie-park-community-garden": {
+    "placeId": "ChIJYy4qYoBTzB0R_tQTtg7Piog",
+    "googleName": "Suikerbossie Park Community Garden",
+    "coords": {
+      "lat": -33.8832704,
+      "lng": 18.715590499999998
+    },
+    "rating": 4.6,
+    "reviewCount": 44,
+    "phone": null,
+    "website": null,
+    "address": "23, 11 Suikerbos St, Protea Village, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "george-starke-park": {
+    "placeId": "ChIJ0bUlA29azB0R-x8fgUda6KY",
+    "googleName": "George Starke Park",
+    "coords": {
+      "lat": -33.896046,
+      "lng": 18.602033
+    },
+    "rating": 4,
+    "reviewCount": 42,
+    "phone": "+27 21 936 8788",
+    "website": null,
+    "address": "Friesland St, Parow, Cape Town, 7500",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "uitkamp-wetland-nature-reserve": {
+    "placeId": "ChIJqbGFOvZXzB0RYWLeIKwk0Rg",
+    "googleName": "Uitkamp Wetland Nature Reserve",
+    "coords": {
+      "lat": -33.8213732,
+      "lng": 18.6411837
+    },
+    "rating": 3.8,
+    "reviewCount": 35,
+    "phone": null,
+    "website": null,
+    "address": "D`urbanvale, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "boland-park": {
+    "placeId": "ChIJH3qOb81XzB0R39PUHzi6m2Y",
+    "googleName": "Boland Park",
+    "coords": {
+      "lat": -33.8177278,
+      "lng": 18.6620911
+    },
+    "rating": 4.8,
+    "reviewCount": 29,
+    "phone": null,
+    "website": null,
+    "address": "Boland Way, Vierlanden, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "odendaal-park": {
+    "placeId": "ChIJ8aCZKXtXzB0Rs8f5Jg_03hY",
+    "googleName": "Odendaal Park",
+    "coords": {
+      "lat": -33.8297273,
+      "lng": 18.6263191
+    },
+    "rating": 3.8,
+    "reviewCount": 28,
+    "phone": "+27 21 444 7367",
+    "website": null,
+    "address": "70 Odendaal Rd, Aurora, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "tielman-marais-park": {
+    "placeId": "ChIJh3fqaIVQzB0RcfzMusV1338",
+    "googleName": "Tielman Marais Park",
+    "coords": {
+      "lat": -33.8959828,
+      "lng": 18.6285924
+    },
+    "rating": 3.7,
+    "reviewCount": 25,
+    "phone": null,
+    "website": "https://www.fyi.africa/",
+    "address": "16 Alexandra St, Oakdale, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "henlo-park": {
+    "placeId": "ChIJsV4EEbxWzB0RCblBw0-N0OU",
+    "googleName": "Henlo Park",
+    "coords": {
+      "lat": -33.8347846,
+      "lng": 18.6979041
+    },
+    "rating": 4,
+    "reviewCount": 23,
+    "phone": null,
+    "website": null,
+    "address": "Hennop Rd, Langeberg Glen, Cape Town, 7570",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "stonewood-estate-park": {
+    "placeId": "ChIJU9hWvmxXzB0R_w7ZAgZ4jEQ",
+    "googleName": "Stonewood Estate Park",
+    "coords": {
+      "lat": -33.8271757,
+      "lng": 18.7014951
+    },
+    "rating": 4.6,
+    "reviewCount": 21,
+    "phone": null,
+    "website": null,
+    "address": "8 Basswood Rd, Kraaifontein, Cape Town, 7569",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "8-th-avenue-park": {
+    "placeId": "ChIJt1Xw7RRbzB0R7kJUIWZuwno",
+    "googleName": "8 th Avenue park",
+    "coords": {
+      "lat": -33.8968223,
+      "lng": 18.6145303
+    },
+    "rating": 3.9,
+    "reviewCount": 15,
+    "phone": null,
+    "website": null,
+    "address": "70 8th Ave, Boston, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "leroux-park": {
+    "placeId": "ChIJ-WGPcqRWzB0RgTwFSrQ1nmQ",
+    "googleName": "Leroux Park",
+    "coords": {
+      "lat": -33.8345306,
+      "lng": 18.7045308
+    },
+    "rating": 4.1,
+    "reviewCount": 15,
+    "phone": null,
+    "website": null,
+    "address": "11 Stormberg Cres, Bonnie Brae, Cape Town, 7570",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "neilson-cycles": {
+    "placeId": "ChIJn2Eu8M9WzB0RvgevP5BV8UE",
+    "googleName": "Neilson Cycles",
+    "coords": {
+      "lat": -33.831274199999996,
+      "lng": 18.6497466
+    },
+    "rating": 4,
+    "reviewCount": 1535,
+    "phone": "+27 78 311 8745",
+    "website": null,
+    "address": "Shop 2, 22 on, Oxford St, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "durbanville-golf-club": {
+    "placeId": "ChIJdYM1TB9XzB0Ro_UYR0oh5Jg",
+    "googleName": "Durbanville Golf Club",
+    "coords": {
+      "lat": -33.8342222,
+      "lng": 18.659029399999998
+    },
+    "rating": 4.4,
+    "reviewCount": 1187,
+    "phone": "+27 21 976 8120",
+    "website": "http://www.durbanvillegolfclub.co.za/",
+    "address": "Sport Way, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "brackenfell-action-sports-arena": {
+    "placeId": "ChIJ4ckVpxNRzB0RvmYiqPUPgfs",
+    "googleName": "Brackenfell Action Sports Arena",
+    "coords": {
+      "lat": -33.881873899999995,
+      "lng": 18.6855661
+    },
+    "rating": 4.3,
+    "reviewCount": 904,
+    "phone": "+27 21 981 6100",
+    "website": "http://www.brackenfellarena.co.za",
+    "address": "48, Brackenfell Shopping Centre, Old Paarl Rd, Brackenfell, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "oakdale-club-klub-conference-and-functio": {
+    "placeId": "ChIJa3U-ZOpQzB0RYyj9p0QD7pU",
+    "googleName": "Oakdale Club / Klub | Conference and Function Venue",
+    "coords": {
+      "lat": -33.8822423,
+      "lng": 18.645561500000003
+    },
+    "rating": 4.3,
+    "reviewCount": 799,
+    "phone": "+27 21 919 1168",
+    "website": "https://www.oakdaleclub.co.za/",
+    "address": "80a Bloemhof Rd, Bloemhof, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "23:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "23:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "23:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "23:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "23:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "23:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "fives-futbol-pinehurst": {
+    "placeId": "ChIJzWCda75XzB0RSTSxvIwhPvM",
+    "googleName": "Fives Futbol Pinehurst",
+    "coords": {
+      "lat": -33.8317954,
+      "lng": 18.686187
+    },
+    "rating": 4.6,
+    "reviewCount": 548,
+    "phone": "+27 21 555 1707",
+    "website": "http://www.fivesfutbol.co.za/",
+    "address": "Cnr Pinehurst Drive and, Sirocco Dr, Pinehurst, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "the-bellville-velodrome": {
+    "placeId": "ChIJtUGzTLxQzB0RxOhx46PJkDU",
+    "googleName": "The Bellville Velodrome",
+    "coords": {
+      "lat": -33.880292499999996,
+      "lng": 18.6328925
+    },
+    "rating": 3.8,
+    "reviewCount": 520,
+    "phone": "+27 21 949 7465",
+    "website": null,
+    "address": "Carl Cronje Dr, Bellville Park, Cape Town, 7530",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "ellingtons-saloon": {
+    "placeId": "ChIJzWbsz5BQzB0R0vDMfu5kz54",
+    "googleName": "Ellington's Saloon",
+    "coords": {
+      "lat": -33.8891688,
+      "lng": 18.631567300000004
+    },
+    "rating": 4.2,
+    "reviewCount": 465,
+    "phone": "+27 21 948 8835",
+    "website": null,
+    "address": "&, Pioneer Street, 31 Northumberland St, Oakdale, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "sessions-billiard-and-darts-tygervalley": {
+    "placeId": "ChIJbWO65SpRzB0Rr5aKvXV9KPU",
+    "googleName": "Sessions Billiard and Darts Tygervalley",
+    "coords": {
+      "lat": -33.876219899999995,
+      "lng": 18.6371108
+    },
+    "rating": 4.8,
+    "reviewCount": 446,
+    "phone": "+27 71 614 0958",
+    "website": "https://sessionsbc.co.za/",
+    "address": "Unit 12 & 13 Tyger Manor Centre Cnr Durban road, Bill Bezuidenhout, amd, Willie Van Schoor Ave, Bellville, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "13:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "13:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "13:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "13:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "13:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "eagle-golf-ranges-previously-known-as-th": {
+    "placeId": "ChIJWWncg5dQzB0RdSPEjocn-CA",
+    "googleName": "Eagle Golf Ranges previously known as The Golf Village Tygervalley",
+    "coords": {
+      "lat": -33.8859914,
+      "lng": 18.6300533
+    },
+    "rating": 3,
+    "reviewCount": 430,
+    "phone": "+27 81 630 7125",
+    "website": null,
+    "address": "Carl Cronje Dr, Bellville, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "hollywoodbets-durbanville-racecourse": {
+    "placeId": "ChIJ3Z6hTkBXzB0RrM1dk6Y0NsA",
+    "googleName": "Hollywoodbets Durbanville Racecourse",
+    "coords": {
+      "lat": -33.8402124,
+      "lng": 18.6391247
+    },
+    "rating": 4.2,
+    "reviewCount": 411,
+    "phone": "+27 21 700 1600",
+    "website": null,
+    "address": "Bowlers Ave, Durbanville, Cape Town, 7551",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "golden-oldies-sports-bar": {
+    "placeId": "ChIJq1aoRfVQzB0R3IB4UV5PTt8",
+    "googleName": "Golden Oldies Sports Bar",
+    "coords": {
+      "lat": -33.9021481,
+      "lng": 18.642301099999997
+    },
+    "rating": 4.2,
+    "reviewCount": 277,
+    "phone": "+27 21 949 6161",
+    "website": "https://m.facebook.com/golden.oldies.3",
+    "address": "Next to Goldwagen, 5 Strand Rd, Belgravia, Kaapstad, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "avalon-lifestyle-centre": {
+    "placeId": "ChIJB0NhupNWzB0RS3YZZ4Dmm7k",
+    "googleName": "Avalon Lifestyle Centre",
+    "coords": {
+      "lat": -33.8229038,
+      "lng": 18.6930913
+    },
+    "rating": 4.6,
+    "reviewCount": 241,
+    "phone": "+27 21 023 4650",
+    "website": null,
+    "address": "Narvik Street, Durbanville, Kaapstad, 7569",
+    "hours": {
+      "mon": [
+        {
+          "open": "05:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "05:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "05:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "05:00",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "05:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "brackenfell-cricket-club": {
+    "placeId": "ChIJFySIyTlRzB0RaNLehnYL52U",
+    "googleName": "Brackenfell Cricket Club",
+    "coords": {
+      "lat": -33.8653729,
+      "lng": 18.6856954
+    },
+    "rating": 4.4,
+    "reviewCount": 228,
+    "phone": "+27 82 376 2147",
+    "website": "http://brackenfellcc.co.za/",
+    "address": "Witels St, Brackenfell North, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "14:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "14:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "14:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "14:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "14:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "bellville-hockey-club": {
+    "placeId": "ChIJJelDvIFQzB0RbeETG6mCUk4",
+    "googleName": "Bellville Hockey Club",
+    "coords": {
+      "lat": -33.902609999999996,
+      "lng": 18.6194404
+    },
+    "rating": 4,
+    "reviewCount": 209,
+    "phone": null,
+    "website": "http://www.bellville.hockey/",
+    "address": "Bellville Astro Corner of Landros &, Voortrekker Rd, Bellville, Cape Town, 7530",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "purpose-fit-fitness-studio": {
+    "placeId": "ChIJq5ZxLPlXzB0ReHa5OhQq0hM",
+    "googleName": "Purpose Fit Fitness Studio",
+    "coords": {
+      "lat": -33.8264074,
+      "lng": 18.703878
+    },
+    "rating": 5,
+    "reviewCount": 199,
+    "phone": "+27 84 629 6974",
+    "website": "https://www.purpose-fit.co.za/",
+    "address": "Unit 3 Tanzanite crescent, Stonewood Dr, Kraaifontein, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "05:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "05:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "05:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "05:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "05:00",
+          "close": "18:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "06:30",
+          "close": "09:30"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "durbanville-soccer-club": {
+    "placeId": "ChIJrZ_iDBlXzB0RFY3FKsl_5Uo",
+    "googleName": "Durbanville Soccer Club",
+    "coords": {
+      "lat": -33.832262,
+      "lng": 18.6567234
+    },
+    "rating": 4.4,
+    "reviewCount": 193,
+    "phone": "+27 21 976 4111",
+    "website": "http://durbanvillefc.co.za/",
+    "address": "De Villiers Dr, Durbanville, Cape Town, 7550",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "kraaifontein-sport-shooting-club": {
+    "placeId": "ChIJv1xy0ppWzB0RBbINRCylv6E",
+    "googleName": "Kraaifontein Sport Shooting Club",
+    "coords": {
+      "lat": -33.8189717,
+      "lng": 18.7029122
+    },
+    "rating": 4.6,
+    "reviewCount": 186,
+    "phone": "+27 66 374 9258",
+    "website": "http://www.kraaifonteinssc.co.za/",
+    "address": "Amadeus Dr, Kraaifontein, Cape Town, 7570",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "bowtime-archery-supplies-and-shooting-ra": {
+    "placeId": "ChIJscv8hWZRzB0RFNvk0mXYEj8",
+    "googleName": "BOWTIME: Archery Supplies and Shooting Range",
+    "coords": {
+      "lat": -33.8766781,
+      "lng": 18.7039777
+    },
+    "rating": 4.8,
+    "reviewCount": 186,
+    "phone": "+27 21 981 1188",
+    "website": "https://bowtime.co.za/",
+    "address": "52B Gemini St, Brackenfell Industrial, Cape Town, 7560",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "bellville-cricket-club": {
+    "placeId": "ChIJ0Th87b5QzB0R-yI5rVYrGXE",
+    "googleName": "Bellville Cricket Club",
+    "coords": {
+      "lat": -33.8787613,
+      "lng": 18.638292699999997
+    },
+    "rating": 4.4,
+    "reviewCount": 174,
+    "phone": "+27 82 534 9572",
+    "website": "https://www.bellvillecricketclub.co.za/",
+    "address": "PP Smit Sportsfields, Durban Rd, Bellville, Kaapstad, 7530",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "iron-grip-martial-arts-brazilian-jiu-jit": {
+    "placeId": "ChIJAylrAkdRzB0RMSkS7jN9Ang",
+    "googleName": "Iron Grip Martial Arts - Brazilian Jiu-Jitsu",
+    "coords": {
+      "lat": -33.82579140000001,
+      "lng": 18.6994744
+    },
+    "rating": 5,
+    "reviewCount": 172,
+    "phone": "+27 60 011 6644",
+    "website": "https://irongrip.co.za/",
+    "address": "Stonewood Business Park, 6 Tanzanite Cres, Pinehurst, Cape Town, 7570",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "northpine-united-fc": {
+    "placeId": "ChIJNfJhsudTzB0RQJ5iB4HeKlg",
+    "googleName": "Northpine United FC",
+    "coords": {
+      "lat": -33.8708114,
+      "lng": 18.7222172
+    },
+    "rating": 3.8,
+    "reviewCount": 163,
+    "phone": "+27 83 495 7372",
+    "website": "https://northpineunitedafc.co.za/",
+    "address": "Eoan Ave, Scottsdene, Cape Town, 7570",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "dave-sheer-guns-cape-town": {
+    "placeId": "ChIJTUP4WRFXzB0RAzrbTdb1uu8",
+    "googleName": "Dave Sheer Guns Cape Town",
+    "coords": {
+      "lat": -33.8023822,
+      "lng": 18.6843129
+    },
+    "rating": 4.5,
+    "reviewCount": 137,
+    "phone": "+27 21 007 2920",
+    "website": "https://chat.whatsapp.com/GnVdfbmt35768uQFZrmjDt",
+    "address": "Klipheuwel Road &, Okavango Rd, durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "foreverstrong-brackenfell": {
+    "placeId": "ChIJwbwzUzFRzB0R7mpbV_Eespk",
+    "googleName": "ForeverStrong Brackenfell",
+    "coords": {
+      "lat": -33.8652413,
+      "lng": 18.6804944
+    },
+    "rating": 4.9,
+    "reviewCount": 122,
+    "phone": "+27 21 982 7927",
+    "website": "https://bit.ly/ForeverStrongInquiry",
+    "address": "7 Vredekloof Rd, Vredekloof, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "18:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "09:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "ipic-active": {
+    "placeId": "ChIJ_6fZIVFXzB0RwTIpHSmSCCs",
+    "googleName": "Ipic Active",
+    "coords": {
+      "lat": -33.8337293,
+      "lng": 18.6310538
+    },
+    "rating": 4.3,
+    "reviewCount": 94,
+    "phone": "+27 21 205 3844",
+    "website": "https://www.ipicactive.com/",
+    "address": "Corner of Burton &, Aurora St, Aurora, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "05:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "05:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "05:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "05:00",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "05:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "chrismar-tennis-club": {
+    "placeId": "ChIJJUgsXPJQzB0RIdNF9dKBdrM",
+    "googleName": "Chrismar Tennis Club",
+    "coords": {
+      "lat": -33.8934603,
+      "lng": 18.6445535
+    },
+    "rating": 4,
+    "reviewCount": 89,
+    "phone": "+27 64 995 4266",
+    "website": "http://www.chrismartennis.co.za/",
+    "address": "22 Glanville Rd, Chrismar, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "camelot-riding-school": {
+    "placeId": "ChIJUY4ALAhXzB0R6t7Hi8E7xpQ",
+    "googleName": "Camelot Riding School",
+    "coords": {
+      "lat": -33.8159464,
+      "lng": 18.650558099999998
+    },
+    "rating": 4.8,
+    "reviewCount": 80,
+    "phone": "+27 83 261 7656",
+    "website": "http://www.camelothorseridingschool.co.za/",
+    "address": "Herta Erna Road, Schoongesig, Durbanville, Cape Town, 7550",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "taurus-indoor-shooting-range": {
+    "placeId": "ChIJ3YoPentazB0RT5l6k1p0DGg",
+    "googleName": "Taurus Indoor Shooting Range",
+    "coords": {
+      "lat": -33.9032759,
+      "lng": 18.6082213
+    },
+    "rating": 4.6,
+    "reviewCount": 80,
+    "phone": "+27 21 823 4582",
+    "website": "https://m.facebook.com/Taurus-Indoor-Shooting-Range-338287852920314/",
+    "address": "3 Boompies St, Parow East, Cape Town, 7500",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "15:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "15:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "15:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "15:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "14:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "12:30"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "bio-health": {
+    "placeId": "ChIJvZJuu6BXzB0ROmJLNXnM0CI",
+    "googleName": "Bio-health",
+    "coords": {
+      "lat": -33.8330552,
+      "lng": 18.6434894
+    },
+    "rating": 5,
+    "reviewCount": 73,
+    "phone": "+27 21 975 8332",
+    "website": "http://www.bio-health.co.za/",
+    "address": "Abbeydale House, 4 Queen St, Durbanville, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "stormers-rugby-high-performance-centre": {
+    "placeId": "ChIJL3oBUX9azB0RnEbpJpvjkSI",
+    "googleName": "Stormers Rugby High Performance Centre",
+    "coords": {
+      "lat": -33.9027555,
+      "lng": 18.6160511
+    },
+    "rating": 4.5,
+    "reviewCount": 70,
+    "phone": "+27 21 659 4600",
+    "website": "http://stormers.co.za/",
+    "address": "Corner of &, Voortrekker Rd &, Duminy St, Bellville, Cape Town, 7530",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "cindys-academy-of-swimming": {
+    "placeId": "ChIJxfHVykZRzB0Ra_2R4_hZQMc",
+    "googleName": "Cindy's Academy of Swimming",
+    "coords": {
+      "lat": -33.8681999,
+      "lng": 18.6932601
+    },
+    "rating": 4.9,
+    "reviewCount": 53,
+    "phone": "+27 81 374 5716",
+    "website": "http://cindysacademyofswimming.co.za/",
+    "address": "12 Marais St, Brackenfell, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:10"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:10"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:10"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "19:10"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:10"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "kraaifontein-cricket-club": {
+    "placeId": "ChIJ7bR2RZlWzB0Rm2XaTgcgVNg",
+    "googleName": "Kraaifontein Cricket Club",
+    "coords": {
+      "lat": -33.8239559,
+      "lng": 18.705988899999998
+    },
+    "rating": 3.9,
+    "reviewCount": 52,
+    "phone": null,
+    "website": null,
+    "address": "Sarel Van Deventer Rd, Bonnie Brae, Cape Town, 7569",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "durbanville-tennis-club": {
+    "placeId": "ChIJk1OiiRFXzB0RRkNH5Tnhuzg",
+    "googleName": "Durbanville Tennis Club",
+    "coords": {
+      "lat": -33.8285894,
+      "lng": 18.647415
+    },
+    "rating": 4.6,
+    "reviewCount": 50,
+    "phone": "+27 21 976 2923",
+    "website": "http://www.durbanvilletennisclub.co.za/",
+    "address": "Biccard St, Durbanville, Cape Town, 7551",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "superswim-academy-durbanville": {
+    "placeId": "ChIJwbdoU5FXzB0R8RauTGNS6sI",
+    "googleName": "Superswim Academy Durbanville",
+    "coords": {
+      "lat": -33.822792899999996,
+      "lng": 18.6448114
+    },
+    "rating": 4.9,
+    "reviewCount": 42,
+    "phone": "+27 60 985 0899",
+    "website": "https://www.superswimacademy.co.za/",
+    "address": "2 Slangkop Way, Skoongesig, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "13:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "crossfit-relentless-heart": {
+    "placeId": "ChIJhXxMO1BRzB0R9oBigJuzj88",
+    "googleName": "CrossFit Relentless Heart",
+    "coords": {
+      "lat": -33.862527799999995,
+      "lng": 18.703356199999998
+    },
+    "rating": 5,
+    "reviewCount": 39,
+    "phone": "+27 68 642 0318",
+    "website": "https://wearerelentless.co.za/",
+    "address": "Unit 2, 25 Tarentaal Cres, Okavango Park, Cape Town, 7560",
+    "hours": {
+      "mon": [
+        {
+          "open": "05:00",
+          "close": "20:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "05:00",
+          "close": "20:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "05:00",
+          "close": "20:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "05:00",
+          "close": "20:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "05:00",
+          "close": "20:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "olympians-wrestling-club-stoei-klub": {
+    "placeId": "ChIJu9dcffpXzB0RJI3lX4Rjtb8",
+    "googleName": "Olympians -Wrestling Club -Stoei Klub",
+    "coords": {
+      "lat": -33.834031599999996,
+      "lng": 18.6361192
+    },
+    "rating": 4.8,
+    "reviewCount": 33,
+    "phone": "+27 76 256 5506",
+    "website": "https://wpwrestling.co.za/",
+    "address": "Durbanville, Cape Town, 7551",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "tricore-mma-gym": {
+    "placeId": "ChIJMUwJBltRzB0RlBFP4nefb8A",
+    "googleName": "Tricore MMA Gym",
+    "coords": {
+      "lat": -33.8435414,
+      "lng": 18.7044463
+    },
+    "rating": 4.9,
+    "reviewCount": 28,
+    "phone": "+27 84 229 0248",
+    "website": "http://www.tricore.co.za/",
+    "address": "103 Edward Rd, Windsor Park, Cape Town, 7570",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "20:15"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "20:15"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "20:15"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "20:15"
+        }
+      ],
+      "fri": [
+        {
+          "open": "18:00",
+          "close": "20:15"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:30",
+          "close": "12:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "morningstar-swimming-pool": {
+    "placeId": "ChIJS3lYURpXzB0RPNk0_mNf0Gs",
+    "googleName": "Morningstar Swimming Pool",
+    "coords": {
+      "lat": -33.8285716,
+      "lng": 18.655772499999998
+    },
+    "rating": 4,
+    "reviewCount": 26,
+    "phone": "+27 21 970 3607",
+    "website": null,
+    "address": "9 Pikkewyn St, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "hands-and-hearts-eikendal-sports-club": {
+    "placeId": "ChIJNcGQQ_xTzB0R7wsDcy7hbO0",
+    "googleName": "Hands and Hearts Eikendal Sports club",
+    "coords": {
+      "lat": -33.853199499999995,
+      "lng": 18.719758199999998
+    },
+    "rating": 3.9,
+    "reviewCount": 25,
+    "phone": null,
+    "website": null,
+    "address": "Eighth Ave, Eikendal, Cape Town, 7570",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "truekrav-durbanville": {
+    "placeId": "ChIJo5-9J_JXzB0RdKJWOfQOC7w",
+    "googleName": "Truekrav Durbanville",
+    "coords": {
+      "lat": -33.8139555,
+      "lng": 18.6205239
+    },
+    "rating": 4.9,
+    "reviewCount": 19,
+    "phone": "+27 83 685 7164",
+    "website": "http://www.truekravtraining.com/",
+    "address": "Unit 7, Thaba Park, Hooggelegen Rd, Durbanville, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "18:30",
+          "close": "19:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "18:30",
+          "close": "19:30"
+        }
+      ],
+      "wed": [],
+      "thu": [
+        {
+          "open": "18:30",
+          "close": "19:30"
+        }
+      ],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "aqua-skills-swimming-school": {
+    "placeId": "ChIJH_esN2ZXzB0RA1iRv7taEnw",
+    "googleName": "Aqua Skills Swimming School",
+    "coords": {
+      "lat": -33.8373546,
+      "lng": 18.6282915
+    },
+    "rating": 4.9,
+    "reviewCount": 17,
+    "phone": "+27 83 446 6000",
+    "website": "http://www.aquaskills.co.za/",
+    "address": "40 Parker St, Vergesig, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "oom-vossie-voortrekkers": {
+    "placeId": "ChIJ7TJcVupQzB0RF2C5-h7IRec",
+    "googleName": "Oom Vossie Voortrekkers",
+    "coords": {
+      "lat": -33.8831214,
+      "lng": 18.6457479
+    },
+    "rating": 4.6,
+    "reviewCount": 105,
+    "phone": null,
+    "website": null,
+    "address": "Disa Cres, Blomtuin, Cape Town, 7530",
+    "hours": null,
+    "checkedAt": "2026-07-22"
+  },
+  "the-framed-feather-artshopper": {
+    "placeId": "ChIJI8rZhk7ztAERnKeSC4elzsI",
+    "googleName": "The Framed Feather & Artshopper",
+    "coords": {
+      "lat": -33.8937139,
+      "lng": 18.614346299999998
+    },
+    "rating": 4.6,
+    "reviewCount": 101,
+    "phone": "+27 81 756 7116",
+    "website": "http://www.theframedfeather.co.za/",
+    "address": "93 12th Ave, Boston, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "rust-en-vrede-gallery-and-clay-museum": {
+    "placeId": "ChIJdQNZNBFXzB0R_rUIAwYC-i4",
+    "googleName": "Rust-en-vrede Gallery and Clay Museum",
+    "coords": {
+      "lat": -33.8317759,
+      "lng": 18.6490714
+    },
+    "rating": 4.7,
+    "reviewCount": 98,
+    "phone": "+27 68 457 8589",
+    "website": "http://www.rust-en-vrede.com/",
+    "address": "10 Wellington Rd, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "art-b-gallery": {
+    "placeId": "ChIJ8_gzxIZQzB0RFdneoTMgwtk",
+    "googleName": "Art B Gallery",
+    "coords": {
+      "lat": -33.9023761,
+      "lng": 18.6245024
+    },
+    "rating": 4.5,
+    "reviewCount": 79,
+    "phone": "+27 21 444 6500",
+    "website": "http://www.artb.co.za/",
+    "address": "The Library Centre, Carl Van Aswegen St, Bellville, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "villa-pascal-guest-house": {
+    "placeId": "ChIJtf5rgSJXzB0RaUxrWnv43Cc",
+    "googleName": "Villa Pascal Guest House",
+    "coords": {
+      "lat": -33.8365639,
+      "lng": 18.6557358
+    },
+    "rating": 4.4,
+    "reviewCount": 56,
+    "phone": "+27 82 569 4147",
+    "website": "http://www.villapascal.co.za/",
+    "address": "28 Van Der Westhuizen Ave, Valmary Park, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "16:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "15:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "kingsbridge-art": {
+    "placeId": "ChIJAwL8wHtazB0RiN-kT-sZK10",
+    "googleName": "Kingsbridge Art",
+    "coords": {
+      "lat": -33.9010801,
+      "lng": 18.6103087
+    },
+    "rating": 4.9,
+    "reviewCount": 50,
+    "phone": "+27 82 812 8545",
+    "website": "http://www.kingsbridgeart.co.za/",
+    "address": "Bellville Business Park, 15A Mike Pienaar Blvd, Bellville West, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-22"
+  },
+  "frame-gallery": {
+    "placeId": "ChIJC2ca25BQzB0RogL1JwaABO8",
+    "googleName": "FRAME GALLERY",
+    "coords": {
+      "lat": -33.8890023,
+      "lng": 18.6316565
+    },
+    "rating": 4.6,
+    "reviewCount": 26,
+    "phone": "+27 82 087 0097",
+    "website": "http://www.framegallery.co.za/",
+    "address": "35 Northumberland St, Oakdale, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "13:00"
         }
       ],
       "sun": []
