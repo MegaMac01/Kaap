@@ -111,6 +111,9 @@ export interface Activity {
   label: string;
   /** Tag that marks a spot as offering this activity. */
   tag: string;
+  /** Kept for sweeps/tagging but not shown as its own chip (e.g. the camping
+   *  umbrella tag, split into subtype chips). */
+  hidden?: boolean;
 }
 
 export type SortKey = "rec" | "near" | "rating" | "price";

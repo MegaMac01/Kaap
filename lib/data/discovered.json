@@ -12293,7 +12293,8 @@
       "hiking",
       "campground",
       "lodging",
-      "camping"
+      "camping",
+      "tent camping"
     ],
     "blurb": "Riverside campsite in Bainskloof Pass, deep in the Limietberg mountains."
   },
@@ -15717,7 +15718,8 @@
     "tags": [
       "camping",
       "resort hotel",
-      "campground"
+      "campground",
+      "caravan park"
     ],
     "blurb": "Big Paarl riverside resort with camping, chalets, pools and canoeing on the Berg River."
   },
@@ -15739,7 +15741,8 @@
     "tags": [
       "camping",
       "hotel",
-      "campground"
+      "campground",
+      "caravan park"
     ],
     "blurb": "Sprawling ATKV holiday resort at Hartenbos: caravan sites, chalets and the beachfront a walk away."
   },
@@ -15761,7 +15764,8 @@
     "tags": [
       "camping",
       "resort hotel",
-      "hotel"
+      "hotel",
+      "caravan park"
     ],
     "blurb": "Oudtshoorn caravan-and-chalet resort, a handy Klein Karoo base for the Cango Caves."
   },
@@ -15783,7 +15787,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Shady municipal caravan park in Montagu, a walk from the town's hot springs."
   },
@@ -15805,7 +15810,8 @@
     "tags": [
       "camping",
       "rv park",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Caravan and camping park at Groot-Jongensfontein."
   },
@@ -15827,7 +15833,8 @@
     "tags": [
       "camping",
       "resort hotel",
-      "hotel"
+      "hotel",
+      "caravan park"
     ],
     "blurb": "Breede Valley mountain resort near Rawsonville with camping, pools and vineyard views."
   },
@@ -15849,7 +15856,8 @@
     "tags": [
       "camping",
       "resort hotel",
-      "adventure sports center"
+      "adventure sports center",
+      "glamping"
     ],
     "blurb": "Luxury vintage-trailer glamping on an Elgin apple farm, design-magazine cool."
   },
@@ -15871,7 +15879,8 @@
     "tags": [
       "camping",
       "rv park",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Riverside caravan and camping park near Onrusrivier."
   },
@@ -15893,7 +15902,8 @@
     "tags": [
       "camping",
       "rv park",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Caravan and camping park at Yzerfontein."
   },
@@ -15915,7 +15925,8 @@
     "tags": [
       "camping",
       "resort hotel",
-      "hotel"
+      "hotel",
+      "caravan park"
     ],
     "blurb": "West Coast municipal resort at Grotto Bay with camping above the rocks and rock pools below."
   },
@@ -15937,7 +15948,8 @@
     "tags": [
       "camping",
       "campground",
-      "resort hotel"
+      "resort hotel",
+      "caravan park"
     ],
     "blurb": "Riverside resort with camping and AfriCamps glamping near Swellendam."
   },
@@ -15959,7 +15971,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "rest camp"
     ],
     "blurb": "SANParks rest camp on the Touw River in Wilderness: canoes, forest trails and riverside sites."
   },
@@ -15981,7 +15994,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Farm campsite near Porterville."
   },
@@ -16003,7 +16017,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Riverside campsite near Great Brak River."
   },
@@ -16025,7 +16040,8 @@
     "tags": [
       "camping",
       "resort hotel",
-      "campground"
+      "campground",
+      "caravan park"
     ],
     "blurb": "Keurbooms riverside resort near Plett with camping, chalets and lagoon swimming."
   },
@@ -16047,7 +16063,8 @@
     "tags": [
       "camping",
       "campground",
-      "coffee shop"
+      "coffee shop",
+      "caravan park"
     ],
     "blurb": "Caravan and camping park near Philadelphia, north of the city."
   },
@@ -16069,7 +16086,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Caravan and camping park at Kleinmond."
   },
@@ -16091,7 +16109,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "rest camp"
     ],
     "blurb": "Forest-and-lagoon SANParks camp at Nature's Valley, the end of the Otter Trail."
   },
@@ -16113,7 +16132,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Mountain campsite near Worcester."
   },
@@ -16135,7 +16155,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Coastal municipal resort and caravan park on the West Coast near Melkbosstrand."
   },
@@ -16157,7 +16178,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Coastal caravan and camping park at Mossel Bay."
   },
@@ -16179,7 +16201,8 @@
     "tags": [
       "camping",
       "resort hotel",
-      "campground"
+      "campground",
+      "caravan park"
     ],
     "blurb": "Holiday resort with camping at George."
   },
@@ -16201,7 +16224,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Camp on the Keurbooms lagoon near Plett, with kayaks and swimming at the door."
   },
@@ -16223,7 +16247,8 @@
     "tags": [
       "camping",
       "campground",
-      "non profit organization"
+      "non profit organization",
+      "tent camping"
     ],
     "blurb": "Retreat and campground in Murdock Valley near Simon's Town."
   },
@@ -16245,7 +16270,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Riverside caravan and camping park near Great Brak River."
   },
@@ -16267,7 +16293,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Beachfront caravan park at Buffalo Bay near Knysna, surf and swim off the sand."
   },
@@ -16289,7 +16316,8 @@
     "tags": [
       "camping",
       "campground",
-      "tourist attraction"
+      "tourist attraction",
+      "caravan park"
     ],
     "blurb": "Coastal holiday resort with camping at Strand."
   },
@@ -16311,7 +16339,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Campsite by the water near Oudtshoorn."
   },
@@ -16333,7 +16362,8 @@
     "tags": [
       "camping",
       "resort hotel",
-      "hotel"
+      "hotel",
+      "caravan park"
     ],
     "blurb": "Caravan and camping park by the water near Sedgefield."
   },
@@ -16355,7 +16385,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Riverside holiday resort with camping near Mossel Bay."
   },
@@ -16377,7 +16408,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Kommetjie caravan park near the beach and Imhoff Farm on the Cape Peninsula."
   },
@@ -16399,7 +16431,8 @@
     "tags": [
       "camping",
       "farmstay",
-      "cottage"
+      "cottage",
+      "tent camping"
     ],
     "blurb": "Farm campsite near Greyton."
   },
@@ -16421,7 +16454,8 @@
     "tags": [
       "camping",
       "campground",
-      "dog park"
+      "dog park",
+      "tent camping"
     ],
     "blurb": "Riverside campsite near Worcester."
   },
@@ -16443,7 +16477,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Mountain campsite near Piketberg."
   },
@@ -16465,7 +16500,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Rugged municipal coastal camping at Kommetjie, with tidal pools and the lighthouse nearby."
   },
@@ -16487,7 +16523,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Caravan and camping park in Kuils River."
   },
@@ -16509,7 +16546,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Riverside campsite near Greyton."
   },
@@ -16531,7 +16569,8 @@
     "tags": [
       "camping",
       "rv park",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Coastal caravan and camping park at St Helena Bay."
   },
@@ -16553,7 +16592,8 @@
     "tags": [
       "camping",
       "resort hotel",
-      "hotel"
+      "hotel",
+      "caravan park"
     ],
     "blurb": "Holiday resort with camping at Knysna."
   },
@@ -16575,7 +16615,8 @@
     "tags": [
       "camping",
       "campground",
-      "wedding venue"
+      "wedding venue",
+      "tent camping"
     ],
     "blurb": "Forest campsite near Citrusdal."
   },
@@ -16597,7 +16638,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Coastal caravan and camping park at Gansbaai."
   },
@@ -16619,7 +16661,8 @@
     "tags": [
       "camping",
       "campground",
-      "wedding venue"
+      "wedding venue",
+      "caravan park"
     ],
     "blurb": "Coastal caravan and camping park at Gansbaai."
   },
@@ -16641,7 +16684,8 @@
     "tags": [
       "camping",
       "rv park",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Caravan and camping park in Bellville."
   },
@@ -16663,7 +16707,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Caravan and camping park at Kleinmond."
   },
@@ -16685,7 +16730,8 @@
     "tags": [
       "camping",
       "resort hotel",
-      "hotel"
+      "hotel",
+      "caravan park"
     ],
     "blurb": "Holiday resort with camping at Froggy Pond near Simon's Town."
   },
@@ -16707,7 +16753,8 @@
     "tags": [
       "camping",
       "resort hotel",
-      "hotel"
+      "hotel",
+      "caravan park"
     ],
     "blurb": "Mountain holiday resort with camping near Prince Albert."
   },
@@ -16729,7 +16776,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Riverside campsite near Riviersonderend."
   },
@@ -16751,7 +16799,8 @@
     "tags": [
       "camping",
       "rv park",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Caravan and camping park at Langebaan."
   },
@@ -16773,7 +16822,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Campsite at Koue Bokkeveld."
   },
@@ -16794,7 +16844,8 @@
     "phone": null,
     "tags": [
       "camping",
-      "childrens camp"
+      "childrens camp",
+      "tent camping"
     ],
     "blurb": "Quirky riverside camping villages on the Olifants River at Citrusdal, tube down to your tent."
   },
@@ -16816,7 +16867,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Caravan and camping park at Velddrif."
   },
@@ -16838,7 +16890,8 @@
     "tags": [
       "camping",
       "resort hotel",
-      "hotel"
+      "hotel",
+      "caravan park"
     ],
     "blurb": "Holiday resort with camping by the water near Wilderness."
   },
@@ -16860,7 +16913,8 @@
     "tags": [
       "camping",
       "resort hotel",
-      "hotel"
+      "hotel",
+      "caravan park"
     ],
     "blurb": "Coastal resort with camping at Miller's Point near Simon's Town."
   },
@@ -16882,7 +16936,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Campsite at Rawsonville."
   },
@@ -16904,7 +16959,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Coastal campsite at Betty's Bay."
   },
@@ -16926,7 +16982,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Campsite at Worcester."
   },
@@ -16948,7 +17005,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Campsite at Greyton."
   },
@@ -16970,7 +17028,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Caravan and camping park by the water near Swellendam."
   },
@@ -16992,7 +17051,8 @@
     "tags": [
       "camping",
       "guest house",
-      "farmstay"
+      "farmstay",
+      "tent camping"
     ],
     "blurb": "Riverside eco-camping near Albertinia."
   },
@@ -17014,7 +17074,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Tiny camping site right above the surf at Victoria Bay near George."
   },
@@ -17036,7 +17097,8 @@
     "tags": [
       "camping",
       "rv park",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Coastal holiday resort with camping at Langebaan."
   },
@@ -17057,7 +17119,8 @@
     "phone": null,
     "tags": [
       "camping",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Caravan and camping park at Langebaan."
   },
@@ -17079,7 +17142,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Riverside caravan and camping park near Klein Brak River."
   },
@@ -17101,7 +17165,8 @@
     "tags": [
       "camping",
       "camping cabin",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Riverside camping on the Berg River near Franschhoek, canoes included."
   },
@@ -17123,7 +17188,8 @@
     "tags": [
       "camping",
       "hiking area",
-      "campground"
+      "campground",
+      "tent camping"
     ],
     "blurb": "Riverside campsite near Breerivier."
   },
@@ -17145,7 +17211,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Riverside campsite near Laingsburg."
   },
@@ -17167,7 +17234,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Riverside campsite near Bonnievale."
   },
@@ -17189,7 +17257,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Campsite at Greyton."
   },
@@ -17211,7 +17280,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "The scout campsite on Signal Hill, a rare place to pitch a tent right above the city."
   },
@@ -17233,7 +17303,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Mountain campsite near Rawsonville."
   },
@@ -17255,7 +17326,8 @@
     "tags": [
       "camping",
       "campground",
-      "tourist information center"
+      "tourist information center",
+      "rest camp"
     ],
     "blurb": "Rest camp by the water near Laingsburg."
   },
@@ -17277,7 +17349,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Riverside holiday resort with camping near Velddrif."
   },
@@ -17298,7 +17371,8 @@
     "phone": null,
     "tags": [
       "camping",
-      "lodging"
+      "lodging",
+      "glamping"
     ],
     "blurb": "Off-grid glamping and camping in the Overberg hills near Caledon."
   },
@@ -17320,7 +17394,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Bush camp in the West Coast strandveld near Darling."
   },
@@ -17342,7 +17417,8 @@
     "tags": [
       "camping",
       "national park",
-      "tourist attraction"
+      "tourist attraction",
+      "rest camp"
     ],
     "blurb": "The rest camp inside Bontebok National Park at Swellendam, on the Breede River."
   },
@@ -17364,7 +17440,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Caravan and camping park in Kuils River."
   },
@@ -17386,7 +17463,8 @@
     "tags": [
       "camping",
       "hotel",
-      "campground"
+      "campground",
+      "glamping"
     ],
     "blurb": "Glamping tents on an Elgin cherry farm, with fruit to pick in season."
   },
@@ -17408,7 +17486,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Campsite at Citrusdal."
   },
@@ -17429,7 +17508,8 @@
     "phone": null,
     "tags": [
       "camping",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Mountain lodge with camping near Oudtshoorn."
   },
@@ -17451,7 +17531,8 @@
     "tags": [
       "camping",
       "campground",
-      "camping cabin"
+      "camping cabin",
+      "caravan park"
     ],
     "blurb": "Coastal holiday resort with camping at Gordon's Bay."
   },
@@ -17472,7 +17553,8 @@
     "phone": null,
     "tags": [
       "camping",
-      "lodging"
+      "lodging",
+      "glamping"
     ],
     "blurb": "Permanent tented camp on the Hoerikwaggo trail below the Slangkop lighthouse at Kommetjie."
   },
@@ -17494,7 +17576,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Coastal campsite at a WWII gun battery above Llandudno, Atlantic sunsets included."
   },
@@ -17516,7 +17599,8 @@
     "tags": [
       "camping",
       "campground",
-      "hiking area"
+      "hiking area",
+      "tent camping"
     ],
     "blurb": "Riverside campsite near Bonnievale."
   },
@@ -17538,7 +17622,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Riverside campsite near Wolseley."
   },
@@ -17560,7 +17645,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Mountain campsite near Rawsonville."
   },
@@ -17582,7 +17668,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Campsite at George."
   },
@@ -17604,7 +17691,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Coastal caravan and camping park at Buffels Bay."
   },
@@ -17626,7 +17714,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Mountain campsite in the Slanghoek valley near Rawsonville."
   },
@@ -17648,7 +17737,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Riverside campsite near Worcester."
   },
@@ -17670,7 +17760,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Camping and chalets on the Zandvlei estuary at Muizenberg, sheltered water for kids."
   },
@@ -17692,7 +17783,8 @@
     "tags": [
       "camping",
       "campground",
-      "wedding venue"
+      "wedding venue",
+      "tent camping"
     ],
     "blurb": "Riverside campsite near Stanford."
   },
@@ -17714,7 +17806,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Farm eco-camping near Wilderness."
   },
@@ -17736,7 +17829,8 @@
     "tags": [
       "camping",
       "campground",
-      "playground"
+      "playground",
+      "tent camping"
     ],
     "blurb": "Camping at a berry farm near Swellendam."
   },
@@ -17758,7 +17852,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Campsite at La Motte near Franschhoek."
   },
@@ -17780,7 +17875,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Riverside bush camp near Great Brak River."
   },
@@ -17802,7 +17898,8 @@
     "tags": [
       "camping",
       "campground",
-      "farmstay"
+      "farmstay",
+      "tent camping"
     ],
     "blurb": "Riverside campsite near Laingsburg."
   },
@@ -17824,7 +17921,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "caravan park"
     ],
     "blurb": "Caravan and camping park on Swartvlei lake at Sedgefield."
   },
@@ -17846,7 +17944,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Riverside campsite near Swellendam."
   },
@@ -17868,7 +17967,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Valley campsite in the Hemel-en-Aarde near Hermanus."
   },
@@ -17890,7 +17990,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Riverside campsite near Great Brak River."
   },
@@ -17912,7 +18013,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Campsite at Tulbagh."
   },
@@ -17934,7 +18036,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Farm campsite near Koringberg in the Swartland."
   },
@@ -17956,7 +18059,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "rest camp"
     ],
     "blurb": "Campsite at Wilderness."
   },
@@ -17977,7 +18081,8 @@
     "phone": null,
     "tags": [
       "camping",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Campsite at Sedgefield."
   },
@@ -17999,7 +18104,8 @@
     "tags": [
       "camping",
       "campground",
-      "adventure sports center"
+      "adventure sports center",
+      "tent camping"
     ],
     "blurb": "Campsite at Grabouw."
   },
@@ -18021,7 +18127,8 @@
     "tags": [
       "camping",
       "campground",
-      "farmstay"
+      "farmstay",
+      "tent camping"
     ],
     "blurb": "Forest campsite near Greyton."
   },
@@ -18042,7 +18149,8 @@
     "phone": null,
     "tags": [
       "camping",
-      "barbecue area"
+      "barbecue area",
+      "tent camping"
     ],
     "blurb": "Simple camp on Paarl Mountain's slopes with picnic spots and mountain walks."
   },
@@ -18064,7 +18172,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Riverside bush camp at Op-die-Berg in the Koue Bokkeveld."
   },
@@ -18086,7 +18195,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Forest campsite near George."
   },
@@ -18108,7 +18218,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Riverside campsite near Swellendam."
   },
@@ -18130,7 +18241,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Campsite by the water near Caledon."
   },
@@ -18152,7 +18264,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "rest camp"
     ],
     "blurb": "Camp among zebra and bontebok in De Hoop reserve, whales off the coast in season."
   },
@@ -18174,7 +18287,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Riverside campsite near Bonnievale."
   },
@@ -18196,7 +18310,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Caravan and camping park near Velddrif on the West Coast."
   },
@@ -18218,7 +18333,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "glamping"
     ],
     "blurb": "Glamping in the green Schoemanshoek valley outside Oudtshoorn."
   },
@@ -18240,7 +18356,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Farm campsite near Citrusdal."
   },
@@ -18262,7 +18379,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Remote coastal campsite on the West Coast."
   },
@@ -18284,7 +18402,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Coastal campsite at Plettenberg Bay."
   },
@@ -18306,7 +18425,8 @@
     "tags": [
       "camping",
       "campground",
-      "lodging"
+      "lodging",
+      "tent camping"
     ],
     "blurb": "Bush camp at Wellington."
   }

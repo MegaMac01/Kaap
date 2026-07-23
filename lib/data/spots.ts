@@ -746,7 +746,13 @@ export const ACTIVITIES: Activity[] = [
   { key: "fruitpick", label: "Fruit picking", tag: "fruit picking" },
   { key: "flowerpick", label: "Flower picking", tag: "flower picking" },
   { key: "hike", label: "Hiking trails", tag: "hiking" },
-  { key: "camp", label: "Camping", tag: "camping" },
+  // Camping split into subtypes; "camp" stays hidden as the umbrella tag the
+  // sweep stamps, then reclassified into these chips.
+  { key: "camp", label: "Camping", tag: "camping", hidden: true },
+  { key: "tentcamp", label: "Tent camping", tag: "tent camping" },
+  { key: "caravan", label: "Caravan parks", tag: "caravan park" },
+  { key: "glamping", label: "Glamping", tag: "glamping" },
+  { key: "restcamp", label: "Rest camps", tag: "rest camp" },
 ];
 
 export const INTERESTS: Interest[] = [

@@ -134,10 +134,12 @@ export function DiscoverView({ spots }: { spots: Spot[] }) {
 
         <div className="min-w-[280px] flex-[1_1_460px]">
           <FilterSortBar
+            area={f.area}
             openNow={f.openNow}
             freeOnly={f.freeOnly}
             sort={f.sort}
             hasLocation={!!origin}
+            onArea={(id) => setF((p) => ({ ...p, area: id }))}
             onToggleOpenNow={() => setF((p) => ({ ...p, openNow: !p.openNow }))}
             onToggleFreeOnly={() => setF((p) => ({ ...p, freeOnly: !p.freeOnly }))}
             onSort={(sort: SortKey) => setF((p) => ({ ...p, sort }))}

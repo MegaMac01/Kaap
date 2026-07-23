@@ -17,7 +17,7 @@ export function ActivityChips({
   counts: Record<string, number>;
   onToggle: (key: string) => void;
 }) {
-  const available = ACTIVITIES.filter((a) => (counts[a.key] ?? 0) > 0);
+  const available = ACTIVITIES.filter((a) => !a.hidden && (counts[a.key] ?? 0) > 0);
   if (!available.length) return null;
   return (
     <div className="mb-[6px]">
