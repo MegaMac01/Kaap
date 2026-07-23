@@ -1,0 +1,2969 @@
+[
+  {
+    "placeId": "ChIJWVakJNuozR0Rhh_ftAMxapw",
+    "name": "Berg River Resort",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7958144,
+      "lng": 18.961626499999998
+    },
+    "address": "R45 Franschhoek Rd, Paarl South, 7624",
+    "rating": 4.2,
+    "reviewCount": 1852,
+    "priceLevel": null,
+    "summary": "Down-to-earth chalets with kitchens & patios in a riverfront resort with an Olympic-size pool.",
+    "primaryType": "Resort hotel",
+    "types": [
+      "resort_hotel",
+      "campground",
+      "hotel",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ4fQJxjBp1h0RXizsOdb2_fI",
+    "name": "ATKV Hartenbos",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1249438,
+      "lng": 22.1124355
+    },
+    "address": "Corner of Cape of Good Hope &, Majuba Ave, Hartenbos, Mossel Bay, 6520",
+    "rating": 4.3,
+    "reviewCount": 1424,
+    "priceLevel": null,
+    "summary": "Straightforward quarters in a casual beachfront resort with a water park, a museum & a restaurant.",
+    "primaryType": "Hotel",
+    "types": [
+      "hotel",
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJp9hqVJDB1R0RBnOLPwnTQ8Y",
+    "name": "Kleinplaas Resort",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5758187,
+      "lng": 22.205891599999998
+    },
+    "address": "171 Baron Van Reede St & North St, Oudtshoorn, 6620",
+    "rating": 4.4,
+    "reviewCount": 1252,
+    "priceLevel": null,
+    "summary": "Modest accommodations in a low-key hotel featuring a restaurant & an outdoor pool.",
+    "primaryType": "Resort hotel",
+    "types": [
+      "resort_hotel",
+      "hotel",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJE4vvg95F0h0R-T5qpu7RS90",
+    "name": "Montagu Caravan Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.787450899999996,
+      "lng": 20.112955
+    },
+    "address": "4 Middel St, Montagu, 6720",
+    "rating": 4.2,
+    "reviewCount": 954,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJw4ZE0YPG1h0RJzrNJkrlI1w",
+    "name": "Jongensfontein Caravan Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.4260818,
+      "lng": 21.338609899999998
+    },
+    "address": "Kamposig Terrace, Jongensfontein, Groot-Jongensfontein, 6675",
+    "rating": 4.5,
+    "reviewCount": 883,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "RV Park",
+    "types": [
+      "rv_park",
+      "lodging",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJT4vQTPp0zR0RFEXWDxNyNqk",
+    "name": "Slanghoek Mountain Resort",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.6294177,
+      "lng": 19.227365
+    },
+    "address": "Slanghoek Rd, Rawsonville, 6845",
+    "rating": 4.1,
+    "reviewCount": 838,
+    "priceLevel": null,
+    "summary": "Laid-back resort offering simple chalets & tents with patios, plus a restaurant & 4 outdoor pools.",
+    "primaryType": "Resort hotel",
+    "types": [
+      "resort_hotel",
+      "hotel",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJYVF_28DczR0RGD8-Yi6B1lQ",
+    "name": "Old Mac Daddy",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.2306289,
+      "lng": 19.1185379
+    },
+    "address": "Elgin Valley Rd Elgin, 7160",
+    "rating": 4.5,
+    "reviewCount": 824,
+    "priceLevel": null,
+    "summary": "Eclectic resort on a working farm with an outdoor pool, a beach & a spa, plus a bar & dining.",
+    "primaryType": "Resort hotel",
+    "types": [
+      "resort_hotel",
+      "adventure_sports_center",
+      "wedding_venue",
+      "sports_complex",
+      "event_venue",
+      "hotel",
+      "lodging",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJa0Y1tCZ1zh0RJiKg0EYFbiA",
+    "name": "Onrus Caravan Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.4150969,
+      "lng": 19.1708101
+    },
+    "address": "De Villiers St, Onrusrivier, 7201",
+    "rating": 4.2,
+    "reviewCount": 791,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "RV Park",
+    "types": [
+      "rv_park",
+      "lodging",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ4_hfcvKlzB0RNiAB2WDQT6c",
+    "name": "Yzerfontein Caravan Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.338453799999996,
+      "lng": 18.1623241
+    },
+    "address": "Park St, Yzerfontein, 7350",
+    "rating": 4.1,
+    "reviewCount": 774,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "RV Park",
+    "types": [
+      "rv_park",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJWzPL8YiWzB0RAT4A3MGVEvo",
+    "name": "Ganzekraal Coastal Resort",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5229399,
+      "lng": 18.3207754
+    },
+    "address": "R27, Grotto Bay, 7310",
+    "rating": 4.2,
+    "reviewCount": 755,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Resort hotel",
+    "types": [
+      "resort_hotel",
+      "hotel",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJdTj_tPUs0h0RXSlFGxbBcNY",
+    "name": "Kam'Bati",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.104823599999996,
+      "lng": 20.2870618
+    },
+    "address": "Kam'Bati, 20km before, N2, 6740",
+    "rating": 4.3,
+    "reviewCount": 752,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "resort_hotel",
+      "store",
+      "hotel",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ98MEs4Qd1h0R0AlqTC7r8SQ",
+    "name": "Ebb-and-Flow Rest Camp (Garden Route National Park - Wilderness Section))",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.990018899999995,
+      "lng": 22.6084829
+    },
+    "address": "Dumbelton Rd, Wilderness, 6550",
+    "rating": 4.5,
+    "reviewCount": 747,
+    "priceLevel": null,
+    "summary": "No-frills rondavels & rustic cabins, some with kitchenettes & satellite TV, in a national park.",
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJf0ssRAzNMhwRRxldcUgIs6c",
+    "name": "22 Watervalle Campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.985518899999995,
+      "lng": 19.0256609
+    },
+    "address": "R64 Road, Waterval Farm, Porterville, 6810",
+    "rating": 4.3,
+    "reviewCount": 674,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ8dte1bMT1h0RJN67ZXWhq9Q",
+    "name": "Dwarswegstrandoord",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0506263,
+      "lng": 22.273852299999998
+    },
+    "address": "2 Dwarswegstrandoord, Kloof St, Bothastrand, Great Brak River, 6525",
+    "rating": 4.6,
+    "reviewCount": 657,
+    "priceLevel": null,
+    "summary": "Simple oceanfront resort offering no-nonsense apartments & cottages, plus a campground.",
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJDavwLR_ieB4RS-KDouTNcSc",
+    "name": "Plettenberg Bay, A Forever Resort",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.000419,
+      "lng": 23.398865
+    },
+    "address": "N2 Route Keurboomsriver, Plettenberg Bay, 6600",
+    "rating": 4.5,
+    "reviewCount": 580,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Resort hotel",
+    "types": [
+      "resort_hotel",
+      "campground",
+      "swimming_pool",
+      "athletic_field",
+      "hotel",
+      "lodging",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJg3PQXGL2zB0RAZWvYrEaQ1w",
+    "name": "Zonnekus Holiday Resort and Caravan Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7484223,
+      "lng": 18.538054799999998
+    },
+    "address": "9 Zonnekus Road, 13 141 Morningstar, Cape Farms, Philadelphia, 7304",
+    "rating": 3.6,
+    "reviewCount": 576,
+    "priceLevel": null,
+    "summary": "Basic chalets in a modest resort offering a cafe, plus an outdoor pool, a kids' pool & playgrounds.",
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "coffee_shop",
+      "cafe",
+      "bar_and_grill",
+      "bar",
+      "lodging",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJxS_gTKDZzR0Rl8jw2O_gLjM",
+    "name": "Palmiet Caravan Park Kleinmond",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.3422921,
+      "lng": 18.9976397
+    },
+    "address": "1 Harbour Rd, Kleinmond, 7195",
+    "rating": 4,
+    "reviewCount": 561,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJEWtteI0YeR4RAkjdY62J_1A",
+    "name": "Wild Spirit Backpackers Lodge",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9484901,
+      "lng": 23.521118100000002
+    },
+    "address": "Wild Spirit Lodge on Heidehof Farm R102 Nature's Valley Road The Crags, Plettenberg Bay, 6602",
+    "rating": 4.6,
+    "reviewCount": 511,
+    "priceLevel": null,
+    "summary": "Rustic lodging within a national park, offering organic dining, a shared kitchen & a yoga room.",
+    "primaryType": "Lodging",
+    "types": [
+      "hostel",
+      "hotel",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJb9nRx1UMzR0R-3laVrMgzkQ",
+    "name": "Tweede Tol",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5702281,
+      "lng": 19.1382121
+    },
+    "address": "S33.5697023, E19.1382486 R301, Bainskloof Pass",
+    "rating": 4.3,
+    "reviewCount": 500,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ9aK08doZeR4Ra9NlGMVpwYE",
+    "name": "Nature's Valley Rest Camp",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9706812,
+      "lng": 23.562208899999998
+    },
+    "address": "Tsitsikamma National Park, Forest Drive, Kurland, 6820",
+    "rating": 4.4,
+    "reviewCount": 475,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJhecjxyGHzR0RDHxP8kRVTFQ",
+    "name": "Klipkrans Camping Site",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7443606,
+      "lng": 19.4947314
+    },
+    "address": "Scherpenheuwel Road, Worcester, 6850",
+    "rating": 4.5,
+    "reviewCount": 464,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJs_dM_bmTzB0Re9-mPT-kFQs",
+    "name": "Silwerstroom Resort and Caravan Camping",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.587884599999995,
+      "lng": 18.3641906
+    },
+    "address": "Silwerstroom Road, off the West Coast Road (R27, Cape Farms, Cape Town",
+    "rating": 4.2,
+    "reviewCount": 448,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJVZ3PqA9q1h0RQg3hwL5org0",
+    "name": "Punt Karavaanpark",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1842772,
+      "lng": 22.1573079
+    },
+    "address": "11 Point Rd, Mossel Bay, 6500",
+    "rating": 4.2,
+    "reviewCount": 437,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJf4kva7ZBzB0RI58STVcoQc0",
+    "name": "Go Camp Cape Town",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.042927999999996,
+      "lng": 18.478313699999998
+    },
+    "address": "30 Estmil Rd, Diep River, Cape Town, 7800",
+    "rating": 5,
+    "reviewCount": 424,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Store",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJpU_52X4b1h0RJuoiYBELaTY",
+    "name": "George Country Resort",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9929415,
+      "lng": 22.5200545
+    },
+    "address": "Main Rd, George",
+    "rating": 3.9,
+    "reviewCount": 423,
+    "priceLevel": null,
+    "summary": "Low-key property offering streamlined dorms & chalets, plus an outdoor pool & a kids' play area.",
+    "primaryType": "Resort hotel",
+    "types": [
+      "resort_hotel",
+      "campground",
+      "hotel",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJk3APQf_heB4R5qSc-UW5G2c",
+    "name": "Keurbooms Lagoon",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.03804,
+      "lng": 23.3782357
+    },
+    "address": "N2, Plettenberg Bay, 6600",
+    "rating": 4.7,
+    "reviewCount": 411,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJnbtPjGg-zB0RjBWFzffPbLA",
+    "name": "Rocklands Centre",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.2172297,
+      "lng": 18.462451700000003
+    },
+    "address": "77 Rocklands Rd, Murdock Valley, Cape Town, 7975",
+    "rating": 4.6,
+    "reviewCount": 396,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "non_profit_organization",
+      "event_venue",
+      "lodging",
+      "association_or_organization",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJBfMF6cYT1h0RkmLeVR39U3E",
+    "name": "Glentana Caravan Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0502511,
+      "lng": 22.313915299999998
+    },
+    "address": "Glentana, Great Brak River, 6525",
+    "rating": 4.4,
+    "reviewCount": 396,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJrw0TYzxt1h0Rc8YNa_s7sxI",
+    "name": "Pine Creek Privaat Vakansie-Oord Great Brak River",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0402446,
+      "lng": 22.2196411
+    },
+    "address": "Amy Searle St, Wolwedans, Great Brak River, 6525",
+    "rating": 4.4,
+    "reviewCount": 372,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Children's camp",
+    "types": [
+      "childrens_camp",
+      "rv_park",
+      "lodging",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJR8O7OeiUeB4RBgzL6UWFPDg",
+    "name": "Buffalo Bay Caravan Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.089100699999996,
+      "lng": 22.976248500000004
+    },
+    "address": "Buffels Bay, 6570",
+    "rating": 4.6,
+    "reviewCount": 371,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ0xaF3ObKzR0RuUg83D8mF7Q",
+    "name": "Voortrekker Park Resorts Strand",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1243057,
+      "lng": 18.8357354
+    },
+    "address": "Beach Rd & Hofmeyer Road, Strand, Cape Town, 7140",
+    "rating": 3.8,
+    "reviewCount": 358,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "tourist_attraction",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJJSOxnZbB1R0R0AT7BPlx0Ws",
+    "name": "Home Oppi Dam",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.474889,
+      "lng": 22.2495209
+    },
+    "address": "N Oppi dam in Schoemanshoek, R328 N, Oudtshoorn, 6620",
+    "rating": 4.6,
+    "reviewCount": 336,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJqVeWhyG9eB4RttkoLwb_xKQ",
+    "name": "Lake Pleasant Caravan Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0251643,
+      "lng": 22.8335419
+    },
+    "address": "Lake Pleasant Resort, Area, 1 Groenvlei Rd, Groenvlei, Sedgefield, 6573",
+    "rating": 4.5,
+    "reviewCount": 328,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Resort hotel",
+    "types": [
+      "resort_hotel",
+      "hotel",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJnyyAu81u1h0Rt5X47S5oPqg",
+    "name": "Hartenbos River Resort",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1130543,
+      "lng": 22.108899700000002
+    },
+    "address": "Plot 217 Hartenbosh Farm, Hartenbos, Mossel Bay, 6520",
+    "rating": 4.1,
+    "reviewCount": 324,
+    "priceLevel": null,
+    "summary": "Unpretentious riverside complex offering modest dorms, rooms & chalets, plus a pool & BBQ areas.",
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJmUcHxGNrzB0RW-c3u17IExM",
+    "name": "Imhoff Caravan Park Kommetjie",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1325777,
+      "lng": 18.3374383
+    },
+    "address": "54 Wireless Rd, Kommetjie, Cape Town, 7975",
+    "rating": 4,
+    "reviewCount": 307,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ7dVxFEoP0h0Rgm3QPWx70Us",
+    "name": "Oewerzicht Farm Cottages & Campsite Greyton",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.100465899999996,
+      "lng": 19.6658051
+    },
+    "address": "Oewerzicht Farm, Greyton",
+    "rating": 4.3,
+    "reviewCount": 297,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farmstay",
+    "types": [
+      "farmstay",
+      "cottage",
+      "hiking_area",
+      "campground",
+      "lodging",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJR3tpTU2GzR0RCxscedP-_G8",
+    "name": "Rivierplaas Campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7740759,
+      "lng": 19.5212109
+    },
+    "address": "Rivierplaas, Scherpenheuwel, Worcester, 6849",
+    "rating": 4.5,
+    "reviewCount": 295,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "dog_park",
+      "park",
+      "lodging",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJyT2IGB0vMxwR0amPMiXLn30",
+    "name": "Kleine Paradys Piketberg",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.9452254,
+      "lng": 18.6823881
+    },
+    "address": "Morawia, 15km West of, R399 Road, Broodkraal, Piketberg, 7320",
+    "rating": 4.6,
+    "reviewCount": 289,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJw2UIBa8UzB0RiBXhfBmkMP0",
+    "name": "Soetwater Resort Kommetjie",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1581225,
+      "lng": 18.328531599999998
+    },
+    "address": "Lighthouse Rd, Kommetjie, Cape Town",
+    "rating": 4,
+    "reviewCount": 288,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJXxIjQB9OzB0Rc8tcHszGVxc",
+    "name": "Kuilsrivier Caravan Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9426524,
+      "lng": 18.690198
+    },
+    "address": "131 Van Riebeeck Rd, St Dumas, Cape Town, 7580",
+    "rating": 3.9,
+    "reviewCount": 277,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJd9zLA6IJ0h0RjOUIj-9D55c",
+    "name": "Greyton Twin Rivers Campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.069763,
+      "lng": 19.609492
+    },
+    "address": "Krige Road, Greyton, 7233",
+    "rating": 4.4,
+    "reviewCount": 273,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJg_sWj4OeNBwR9Ffh3NH_tFM",
+    "name": "Midwest Caravan Park St Helena Bay",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.730535599999996,
+      "lng": 17.9902652
+    },
+    "address": "Midwest, St Helena Bay, 7390",
+    "rating": 4.4,
+    "reviewCount": 270,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "RV Park",
+    "types": [
+      "rv_park",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJbYNhe7vreB4RStk0BcBAeto",
+    "name": "Woodbourne Resort",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.071537,
+      "lng": 23.0690517
+    },
+    "address": "6571 George Rex Dr, The Heads, Knysna, 6571",
+    "rating": 4.3,
+    "reviewCount": 264,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Resort hotel",
+    "types": [
+      "resort_hotel",
+      "hotel",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJsUkr0ona0x0RfuzTZc-XOyA",
+    "name": "Umshanti",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0186735,
+      "lng": 20.5396087
+    },
+    "address": "Buffalo Creek, Buffeljagsrivier, 6742",
+    "rating": 4.5,
+    "reviewCount": 259,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Lodging",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJwWg5jRv9MhwRiCQBHB-mCHo",
+    "name": "Koningskop Campsite | Self-Catering Cottages | Hiking Trail | 4x4 Route | Cycling Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.498512000000005,
+      "lng": 18.848577
+    },
+    "address": "Wilgerbosdrif Farm, Paleisheuwel Road, Citrusdal, 7340",
+    "rating": 4.5,
+    "reviewCount": 254,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "wedding_venue",
+      "bar",
+      "event_venue",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJu9t43ukQzh0R8nlNbHajuFs",
+    "name": "Gansbaai Caravan Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.5820112,
+      "lng": 19.3473516
+    },
+    "address": "75 Kus Rd, Gansbaai, 7220",
+    "rating": 4.1,
+    "reviewCount": 249,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJv4MsYdsbzh0R_N9aOvKq7oA",
+    "name": "Strandskloof Caravan Park - Gansbaai",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.578192,
+      "lng": 19.4417154
+    },
+    "address": "Strandskloof Plaas, Gansbaai, 7220",
+    "rating": 4.7,
+    "reviewCount": 244,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "wedding_venue",
+      "event_venue",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJu6EGH4JQzB0R9XUPMcTy208",
+    "name": "Hardekraaltjie Caravan Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.902792999999996,
+      "lng": 18.614383999999998
+    },
+    "address": "4 Voortrekker Rd, Boston, Cape Town, 7530",
+    "rating": 3.7,
+    "reviewCount": 242,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "RV Park",
+    "types": [
+      "rv_park",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJzRgcx8DZzR0RZQZZGrxWJKc",
+    "name": "Kleinmond Caravan Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.3340757,
+      "lng": 19.03961
+    },
+    "address": "39 Geelhout Ave, Kleinmond, 7195",
+    "rating": 3.9,
+    "reviewCount": 237,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJORt-_0I-zB0Rr8rxQNVIxxI",
+    "name": "Froggy Pond Resort",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.2040217,
+      "lng": 18.4552261
+    },
+    "address": "358 Main Rd, Froggy Pond, Cape Town, 7975",
+    "rating": 4.2,
+    "reviewCount": 229,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Resort hotel",
+    "types": [
+      "resort_hotel",
+      "hotel",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJd8pF2oql1R0RvBLJyHA5cgM",
+    "name": "De Hoek Mountain Resort",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.3684638,
+      "lng": 22.177670199999998
+    },
+    "address": "R328 & Oudtshoorn, Western Cape, Prince Albert, 6930",
+    "rating": 4.3,
+    "reviewCount": 228,
+    "priceLevel": null,
+    "summary": "Simple accommodations in a relaxed property featuring mountain views, plus a kids' pool.",
+    "primaryType": "Resort hotel",
+    "types": [
+      "resort_hotel",
+      "hotel",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJjw0KlS4a0h0R9MDYcsuZEfE",
+    "name": "Khomeesdrif Camping Site",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.130651799999995,
+      "lng": 19.849467999999998
+    },
+    "address": "Kleinplasie, Riviersonderend, 7250",
+    "rating": 4.4,
+    "reviewCount": 222,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJhXHhOuWpNBwRoShzzL44TQs",
+    "name": "Seebries Caravan Park Langebaan",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.0753586,
+      "lng": 18.0380246
+    },
+    "address": "157 Main St, Langebaan, 7357",
+    "rating": 4,
+    "reviewCount": 199,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "RV Park",
+    "types": [
+      "rv_park",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJacKGpyC4MhwRpU1XroUHs3M",
+    "name": "Schoongezicht Campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.817702,
+      "lng": 19.216836
+    },
+    "address": "Koue Bokkeveld, 6836",
+    "rating": 4.7,
+    "reviewCount": 195,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJXzrtXXnEMhwRXdRrDHoHgyA",
+    "name": "Wolfkop Camping Villages",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.7593254,
+      "lng": 19.069730699999997
+    },
+    "address": "59 Voortrekker St, Citrusdal, 7340",
+    "rating": 4.3,
+    "reviewCount": 190,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Children's camp",
+    "types": [
+      "childrens_camp",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJtae83-ByzR0RlI7ffr3F0n0",
+    "name": "Môreson River Cottages and Campsites - CLOSED FOR FLOOD REPAIRS",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5559097,
+      "lng": 19.2061492
+    },
+    "address": "Moreson Farm, Slanghoek Rd, Slanghoek, 6858",
+    "rating": 4.6,
+    "reviewCount": 184,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Lodging",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJVek2YhhnMxwRBovYF5Njjs8",
+    "name": "Stywelyne Caravan Park Velddrif",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.7668958,
+      "lng": 18.1509791
+    },
+    "address": "Perlemoen St, Laaiplek, Velddrif, 7365",
+    "rating": 4.2,
+    "reviewCount": 181,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJU1tG9m6neB4RjBcz9oLqfJE",
+    "name": "Island Lake Holiday Resort",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.98793,
+      "lng": 22.635759999999998
+    },
+    "address": "Hoekwil Rd, Wilderness, 6560",
+    "rating": 4.3,
+    "reviewCount": 179,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Resort hotel",
+    "types": [
+      "resort_hotel",
+      "hotel",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJiaxRlQ9q1h0Rer-XXGLMu1Q",
+    "name": "Point Caravan Resort Mossel Bay",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1834499,
+      "lng": 22.156398
+    },
+    "address": "5 Point Rd, Mossel Bay, 6500",
+    "rating": 4.4,
+    "reviewCount": 178,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJIwc4PH8-zB0RD5E_pvjOkHc",
+    "name": "Miller’s Point Resort",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.228981499999996,
+      "lng": 18.4704931
+    },
+    "address": "Outside, Cape Town",
+    "rating": 4.2,
+    "reviewCount": 177,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Resort hotel",
+    "types": [
+      "resort_hotel",
+      "hotel",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJB1DCwAmdzR0R-tnxEjUzFho",
+    "name": "Stille Waters Campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7163381,
+      "lng": 19.3058968
+    },
+    "address": "Goudyn Rd, Rawsonville",
+    "rating": 4.4,
+    "reviewCount": 173,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJl0nNqL3WzR0RcFmWKE4_xRs",
+    "name": "Disakloof Camping",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.3506889,
+      "lng": 18.923645
+    },
+    "address": "Clarence Dr, Betty's Bay, 7141",
+    "rating": 4.5,
+    "reviewCount": 173,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJB4y7lNWdzR0RDPejsCRTPaQ",
+    "name": "Altydwater Campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7111321,
+      "lng": 19.2843415
+    },
+    "address": "R101, Worcester NU, Worcester",
+    "rating": 4.1,
+    "reviewCount": 172,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ1Uyoum4P0h0R_zFak3zvDmM",
+    "name": "Kleine Eike Greyton",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.102586699999996,
+      "lng": 19.6800559
+    },
+    "address": "R406 Road. S34.1037318, E19.6691651, Greyton",
+    "rating": 4.7,
+    "reviewCount": 162,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJh2UHVZXR0x0RutH8AqKyOQs",
+    "name": "Swellendam Caravan Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0128997,
+      "lng": 20.4496655
+    },
+    "address": "34 Glen Barry Rd, Swellendam, 6740",
+    "rating": 3.7,
+    "reviewCount": 153,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJQ-cxnuGO1h0RLBZvooYMC0M",
+    "name": "Gourits River Guest Farm & Eco-camping",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.136406,
+      "lng": 21.717031
+    },
+    "address": "Valsriviermond, Albertinia, 6695",
+    "rating": 4.7,
+    "reviewCount": 152,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Guest House",
+    "types": [
+      "guest_house",
+      "farmstay",
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ7WqIKWgc1h0RgR1hOUf_Y-w",
+    "name": "Victoria Bay Camping Site",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0039403,
+      "lng": 22.5482168
+    },
+    "address": "Victoria Bay",
+    "rating": 4.4,
+    "reviewCount": 150,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJbUHxFOdXMxwRp9uxswaGNRU",
+    "name": "Leentjiesklip Holiday Resort (Caravan Park)",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.0667969,
+      "lng": 18.041794400000004
+    },
+    "address": "Leentjiesklip, Langebaan, 7357",
+    "rating": 4.5,
+    "reviewCount": 148,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "RV Park",
+    "types": [
+      "rv_park",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJMRuuL_apNBwRA771HOJ-sLA",
+    "name": "Oostewal Caravan Park & Holiday Resort Langebaan",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.088698,
+      "lng": 18.0346732
+    },
+    "address": "Oostewal Rd, Langebaan, 7357",
+    "rating": 3.9,
+    "reviewCount": 138,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Lodging",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJx4IcnZxu1h0RJkargRIagnw",
+    "name": "Outeniqua Caravan Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0817973,
+      "lng": 22.137223499999998
+    },
+    "address": "1 Park Ave, Klein Brak River, 6503",
+    "rating": 4.3,
+    "reviewCount": 129,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJP3YKs59NzB0RNOBN8_Dw3yY",
+    "name": "Camp Canoe",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8757764,
+      "lng": 18.973106299999998
+    },
+    "address": "R310 Pniel Road, Groot Drakenstein, Franschhoek, 7680",
+    "rating": 4.9,
+    "reviewCount": 123,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Camping cabin",
+    "types": [
+      "camping_cabin",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJkymSkVMNzR0RkC045rfTQqM",
+    "name": "River Edge Accommodation",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5171925,
+      "lng": 19.1761999
+    },
+    "address": "R301 Bainskloof pass, Breerivier, 6858",
+    "rating": 4.4,
+    "reviewCount": 119,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Lodging",
+    "types": [
+      "hiking_area",
+      "campground",
+      "lodging",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJqakvo1gs0h0RczjsiZxWTVM",
+    "name": "AfriCamps at Kam'Bati",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1045899,
+      "lng": 20.2876328
+    },
+    "address": "Jubileeskraal Farm, Swellendam, 6740",
+    "rating": 4.4,
+    "reviewCount": 118,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Lodging",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJMd2uSqpBzB0REBGgLIlPJZE",
+    "name": "Millers Point Caravan Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.2291301,
+      "lng": 18.470679999999998
+    },
+    "address": "The Row St, Muizenberg, Cape Town, 7950",
+    "rating": 4,
+    "reviewCount": 116,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "RV Park",
+    "types": [
+      "rv_park",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJN7i7Klxp0x0RpxzTzg37Tts",
+    "name": "Buffelsrivier Camping",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.126232099999996,
+      "lng": 20.8850232
+    },
+    "address": "VVFM+CC, Laingsburg",
+    "rating": 4.8,
+    "reviewCount": 116,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ321ogaEw0h0RdGnIu9ghxWo",
+    "name": "River Goose Camp Site Bonnievale",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.977593299999995,
+      "lng": 20.1447631
+    },
+    "address": "Farm Eureka, Gelukshoop Road, Bonnievale, 6730",
+    "rating": 4.4,
+    "reviewCount": 114,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJAcabtwL0zR0R1dUuq1vKMXM",
+    "name": "Champagne Campsite & Cottage",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0676284,
+      "lng": 19.4845375
+    },
+    "address": "Champagne, Greyton, 7233",
+    "rating": 4.5,
+    "reviewCount": 108,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJh1NM6RVnzB0R8FuTE_98ELg",
+    "name": "Appleton Scout Campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9208303,
+      "lng": 18.398488999999998
+    },
+    "address": "Signal Hill Rd, Signal Hill, Cape Town, 8001",
+    "rating": 4.6,
+    "reviewCount": 105,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJDb-BvCydzR0RsZOYm-y-cNs",
+    "name": "Bergenwater Campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7028093,
+      "lng": 19.2902484
+    },
+    "address": "Goudyn Rd, Rawsonville, 6845",
+    "rating": 4.7,
+    "reviewCount": 103,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJISFySDh-1B0Rre0JE18T36o",
+    "name": "Porcupine Rest Camp",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.3711342,
+      "lng": 21.154482299999998
+    },
+    "address": "Route 323, Vleiland, Laingsburg, 6900",
+    "rating": 4.8,
+    "reviewCount": 103,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "tourist_information_center",
+      "bar",
+      "farm",
+      "tour_agency",
+      "travel_agency",
+      "lodging",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJP25T4G1nMxwRfwzzOOxH3DE",
+    "name": "Kliphoek River Resort",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.837007899999996,
+      "lng": 18.2082753
+    },
+    "address": "Kliphoek farm, No street, Velddrif, 7365",
+    "rating": 4.6,
+    "reviewCount": 102,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJa8c8AAYBzh0RvW-VFgh5EIM",
+    "name": "Otium Oasis Glamping and Camping",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.3781843,
+      "lng": 19.509908199999998
+    },
+    "address": "Portion 78 of farm 811, Tesselaarsdal, Caledon District, Tesselaarsdal, 7230",
+    "rating": 4.8,
+    "reviewCount": 102,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Lodging",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJu5zkA8nvzB0Rc1OJZRwcczk",
+    "name": "ihlati bush camp",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.603705,
+      "lng": 18.562997
+    },
+    "address": "Rondeberg Rd, Cape Farms, Cape Town, 7350",
+    "rating": 4.5,
+    "reviewCount": 96,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJX7KhyzTR0x0RaQyVsKWcS2s",
+    "name": "Lang Elsie's Kraal Rest Camp",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0761434,
+      "lng": 20.454889400000003
+    },
+    "address": "Swellendam, 6740",
+    "rating": 4.5,
+    "reviewCount": 96,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "National Park",
+    "types": [
+      "national_park",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJi60_u3hRzB0RKczpDFTUNms",
+    "name": "Van Zylsrus Caravan Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9035216,
+      "lng": 18.7069625
+    },
+    "address": "Bottelary Rd, Kuils River, Cape Town, 7579",
+    "rating": 4.5,
+    "reviewCount": 92,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ64IBOGHDzR0RnPkhk1SMAfg",
+    "name": "Cherry Glamping",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1858376,
+      "lng": 19.1075206
+    },
+    "address": "N2 N2 Elgin, Elgin Valley, 7180",
+    "rating": 4.6,
+    "reviewCount": 92,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hotel",
+    "types": [
+      "hotel",
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJCxZsHF7rMhwRBM31te7j-wQ",
+    "name": "Blinkwater Camping & Cottages",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.6316579,
+      "lng": 19.102673499999998
+    },
+    "address": "Citrusdal, 7340",
+    "rating": 4.7,
+    "reviewCount": 91,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ7c3mTKWyeB4RjP6ImKdslhY",
+    "name": "Eagle Falls Country Lodge (and camping)",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7211445,
+      "lng": 22.8165862
+    },
+    "address": "Kammanassie Rd",
+    "rating": 4.2,
+    "reviewCount": 82,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Lodging",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ51XeoIbLzR0R443D9J5SRLs",
+    "name": "Wild Wind Family Resort",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1456924,
+      "lng": 18.892343699999998
+    },
+    "address": "156 Sir Lowry's Pass Rd, Gordon's Bay, Cape Town, 7140",
+    "rating": 3.8,
+    "reviewCount": 79,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "camping_cabin",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJh7nf_JdszB0Rsi0-49ltJV4",
+    "name": "Slangkop Tented Camp (Hoerikwaggo Trail)",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1462462,
+      "lng": 18.320236899999998
+    },
+    "address": "46-44, 46 Lighthouse Rd, Cape Peninsula, Cape Town, 7976",
+    "rating": 4.5,
+    "reviewCount": 78,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Lodging",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJu2OAwrtozB0RVLhLqbqnJHU",
+    "name": "Apostle Battery Campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.006859,
+      "lng": 18.348969999999998
+    },
+    "address": "Victoria Rd, Llandudno, Cape Town, 7806",
+    "rating": 4.3,
+    "reviewCount": 73,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5yuo1hwx0h0RmUcWlxhWZ6Q",
+    "name": "Breede Escape River Camp",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9805463,
+      "lng": 20.197746
+    },
+    "address": "Breede Escape, Bonnievale, 6730",
+    "rating": 4.8,
+    "reviewCount": 73,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "hiking_area",
+      "farmstay",
+      "lodging",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ1dwq1l_XzR0RQV0rRAa0IfE",
+    "name": "Palmiet Lagoon Day Camp",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.3408375,
+      "lng": 18.9953493
+    },
+    "address": "1 Harbour Rd, Kleinmond, 7195",
+    "rating": 4.3,
+    "reviewCount": 71,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Children's camp",
+    "types": [
+      "childrens_camp",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJT_r75pNrzR0R-7n7xYZjfeM",
+    "name": "Noah - Farm Campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.3816221,
+      "lng": 19.223960800000004
+    },
+    "address": "Boontjiesrivier, Wolseley, 6830",
+    "rating": 4.9,
+    "reviewCount": 70,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJQ6jjZyGdzR0R7eXPTFEMICQ",
+    "name": "Wolvenberg & Stille Waters Campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7235851,
+      "lng": 19.302687499999998
+    },
+    "address": "Old N1 Rd, Rawsonville, 6845",
+    "rating": 4.5,
+    "reviewCount": 70,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJc4FqmfgZ1h0RFVBQR2rJWfM",
+    "name": "Aqua Eden Camp Ground George",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.054817199999995,
+      "lng": 22.4368397
+    },
+    "address": "Camping Spot: S34.054745 E22.436761, George",
+    "rating": 4.3,
+    "reviewCount": 68,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJccY9pPyUeB4Re64cJujbfiE",
+    "name": "Buffelskop Caravan Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.083843,
+      "lng": 22.964265899999997
+    },
+    "address": "WX87+84, Main Street, Buffels Bay, 6500",
+    "rating": 4.3,
+    "reviewCount": 68,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJl3Et2BJ0zR0R4HR33VlQmzo",
+    "name": "Skilpadfontein Private Campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.6029966,
+      "lng": 19.2601688
+    },
+    "address": "R43 Road Slanghoek, 7624",
+    "rating": 3.6,
+    "reviewCount": 65,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJY-KxTvp50h0Rb-oMdsd1hfw",
+    "name": "Breede Otter Campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7748744,
+      "lng": 19.5892911
+    },
+    "address": "Unnamed Road, scherpenheuwel, Worcester, 6849",
+    "rating": 4.5,
+    "reviewCount": 65,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJNwiQrKtBzB0RVQTs6O505Gc",
+    "name": "Zandvlei Resort and Chalets Muizenberg",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0985162,
+      "lng": 18.4723403
+    },
+    "address": "35 The Row St, Muizenberg, Cape Town, 7950",
+    "rating": 3.7,
+    "reviewCount": 60,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJu4E8mcUFzh0RRIkLx7GtfMM",
+    "name": "Rivers End Farm Stanford",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.4269511,
+      "lng": 19.3891584
+    },
+    "address": "Wortelgat Rd, Stanford, 7210",
+    "rating": 4.3,
+    "reviewCount": 59,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Lodging",
+    "types": [
+      "campground",
+      "wedding_venue",
+      "event_venue",
+      "hotel",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJO_HUsWuneB4R3wPjTruegbI",
+    "name": "Afri Eco Resorts - Wilderness",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0025051,
+      "lng": 22.6960616
+    },
+    "address": "XMWW+XC, Wilderness, 6560",
+    "rating": 4.8,
+    "reviewCount": 58,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJiUfC4WLT0x0RfGekUn_-5iY",
+    "name": "The Berry Guest Farm - Camping",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0070143,
+      "lng": 20.423344699999998
+    },
+    "address": "The Berry Guest Farm, N6, Swellendam, 6740",
+    "rating": 4.6,
+    "reviewCount": 57,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "playground",
+      "rv_park",
+      "lodging",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ46e7eKO7zR0RcOSvuZxjo1w",
+    "name": "Franschhoek Camping",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.879787199999996,
+      "lng": 19.0817093
+    },
+    "address": "La Motte Station Road La Motte Frasnchhoek, 7690",
+    "rating": 4.6,
+    "reviewCount": 56,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJBff7gq5x1h0RY9d2Kbph0OE",
+    "name": "Butterfly Creek Bush Camp",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.961255,
+      "lng": 22.1320715
+    },
+    "address": "Rural, Beneke Rd, Friemersheim, Great Brak River, 6525",
+    "rating": 4.9,
+    "reviewCount": 55,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJo88MDA5_1B0Rk1ub64xKFuI",
+    "name": "At the farm Camping",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.361671199999996,
+      "lng": 21.3271065
+    },
+    "address": "R323 Sandrivier Farm Seweweekspoort, Laingsburg, 6900",
+    "rating": 4.8,
+    "reviewCount": 53,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "farmstay",
+      "event_venue",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJeb80KY-jeB4RL4WgWBlU7zA",
+    "name": "Swartvlei Caravan Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0230416,
+      "lng": 22.7744835
+    },
+    "address": "Swartvlei Beach Rd",
+    "rating": 4,
+    "reviewCount": 49,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJK6-awYPR0x0RGTEW2CAwpbk",
+    "name": "Falcon River Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.069647599999996,
+      "lng": 20.4108922
+    },
+    "address": "N2, Swellendam, 6740",
+    "rating": 4.8,
+    "reviewCount": 47,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Lodging",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJG2rdjVdzzR0Rrt4Lk9cVwOY",
+    "name": "Kraalskloof Accomodation",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.576917099999996,
+      "lng": 19.189187999999998
+    },
+    "address": "Unnamed Road",
+    "rating": 4.9,
+    "reviewCount": 45,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJYz9LRQ3jzR0Rv8AKChjshvk",
+    "name": "Hemels in the Valley",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.34225860000001,
+      "lng": 19.302975399999998
+    },
+    "address": "Ertjiesvlei Farm, Hemel and Aarde Valley, Hermanus, 7200",
+    "rating": 5,
+    "reviewCount": 45,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ_U9j9Cdz1h0Ryz3GHy-m3m8",
+    "name": "MOLENRIVIER",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9725095,
+      "lng": 22.180930399999998
+    },
+    "address": "Molenrivier farm, Great Brak River, 6525",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJBXVyRUA5zR0RleV52OmybM4",
+    "name": "Die Eike - Private Camping",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.215485,
+      "lng": 19.1494171
+    },
+    "address": "Winterhoek Rd, Tulbagh, 6820",
+    "rating": 4.6,
+    "reviewCount": 43,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJb-FgMIwtMxwRp3IBAVCAKRk",
+    "name": "Die Ark Campground and Rooms",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.0504823,
+      "lng": 18.6951328
+    },
+    "address": "Hooggelee farm, Koringberg, 7312",
+    "rating": 4.4,
+    "reviewCount": 43,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJUeg7JQAd1h0Rp3VMZ4HcZTM",
+    "name": "Ebb & Flow North Campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9858294,
+      "lng": 22.608166399999998
+    },
+    "address": "2J75+M7, Hoekwil, Wilderness, 6538",
+    "rating": 4.7,
+    "reviewCount": 39,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJSXEYx4qpNBwRtXh8Yl1WsUQ",
+    "name": "Oostewal Caravan Park Langebaan",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.0866394,
+      "lng": 18.0324778
+    },
+    "address": "20-26 Suffren St, Langebaan, 7357",
+    "rating": 4.1,
+    "reviewCount": 38,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "RV Park",
+    "types": [
+      "rv_park",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJRdY-1GineB4R4lFezk_HdYg",
+    "name": "Island Lake",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9904752,
+      "lng": 22.6345055
+    },
+    "address": "Wilderness",
+    "rating": 4.5,
+    "reviewCount": 38,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "National Park",
+    "types": [
+      "national_park",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJc66cjMq8eB4R718qp6piN1w",
+    "name": "Bushbuck Camp",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0043285,
+      "lng": 22.813179599999998
+    },
+    "address": "Cloud 9 Road e, Sedgefield",
+    "rating": 4.7,
+    "reviewCount": 34,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Lodging",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJSbNbmaHDMhwRMAEKSj3uV-4",
+    "name": "Cedar Escape Citrusdal",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.7330429,
+      "lng": 19.050119
+    },
+    "address": "Karnemelksvlei, 7340",
+    "rating": 4.7,
+    "reviewCount": 32,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJq6qqqv7FzR0RWw_qbj_xkXg",
+    "name": "Back 2 Basics Adventure Campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1909725,
+      "lng": 19.0945021
+    },
+    "address": "N2, Grabouw, 7160",
+    "rating": 4,
+    "reviewCount": 31,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "adventure_sports_center",
+      "sports_complex",
+      "lodging",
+      "sports_activity_location",
+      "educational_institution",
+      "child_care_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJKckkeSH4zR0RvOAqm9-gPsI",
+    "name": "Eikebos Campground Caledon",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1516802,
+      "lng": 19.5424527
+    },
+    "address": "Dwaalhoek Farm, Eikebos Cottage & Campsite, R406, Greyton, 7230",
+    "rating": 4.6,
+    "reviewCount": 30,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "farmstay",
+      "cottage",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ-SqI9B-pzR0R3T8p0Z08pTY",
+    "name": "Meulwater Camp",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.734732,
+      "lng": 18.9471349
+    },
+    "address": "Jan Phillips Bergpad, Paarl, 7620",
+    "rating": 4.5,
+    "reviewCount": 29,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Barbecue area",
+    "types": [
+      "barbecue_area",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJHxxyzcOvMhwRokqN-zkdHV8",
+    "name": "MOON RIVER BUSH CAMP",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.8124804,
+      "lng": 19.4513824
+    },
+    "address": "Die Dorp Op Die Berg, 6836",
+    "rating": 4.8,
+    "reviewCount": 27,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJlX04_qkN1h0RvpeQ0dp73T8",
+    "name": "ArendsRus Campsite / Kamp",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9278563,
+      "lng": 22.3233706
+    },
+    "address": "Farm 28, Koesterbos Road Geelhoutboom, George, 6537",
+    "rating": 4.7,
+    "reviewCount": 27,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJP9BaRVoJzR0RzICRZQtlLio",
+    "name": "Zielenrust",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.665430199999996,
+      "lng": 19.074622299999998
+    },
+    "address": "R301, Wellington, 7654",
+    "rating": 5,
+    "reviewCount": 26,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Lodging",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJX9oVAllj0R0RYLwDIAnbGpc",
+    "name": "Fish Eagle River Camp",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.2185249,
+      "lng": 20.517793599999997
+    },
+    "address": "Swellendam",
+    "rating": 4.1,
+    "reviewCount": 23,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJvS_LoBr7zR0RJvyQ76lSoRY",
+    "name": "BietjieDam",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.2268492,
+      "lng": 19.4786444
+    },
+    "address": "Voorhoede Plaas, Caledon, 7230",
+    "rating": 4.9,
+    "reviewCount": 20,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJR_J7O8110R0RO-2CylAFa20",
+    "name": "De Hoop Nature Reserve campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.452131699999995,
+      "lng": 20.4020455
+    },
+    "address": "GCX2+4R, Ouplaas",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJKZG5bB090h0R5fCxmqOh2QE",
+    "name": "Nightsky Camping",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.012133299999995,
+      "lng": 19.9948689
+    },
+    "address": "Oudekraal Farm, Boesmansrivier, Bonnievale, 6730",
+    "rating": 4.4,
+    "reviewCount": 20,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJdw_OSo5dMxwRtynM8PJTHEM",
+    "name": "Happy Campers Campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.8420065,
+      "lng": 18.2374646
+    },
+    "address": "R399 Piketberg road Velddrif, 7365",
+    "rating": 4.5,
+    "reviewCount": 18,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJU_MY-ZKV1R0RZyfzK726qs4",
+    "name": "Schoemanshoek Glamping",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.480601,
+      "lng": 22.242727
+    },
+    "address": "Die Fonteine Schoemanshoek, Oudtshoorn, 6620",
+    "rating": 4.9,
+    "reviewCount": 17,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJIc-BtP3FMhwRnf_ovzPLBW4",
+    "name": "Leopard's Tree Campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.760290499999996,
+      "lng": 19.077086899999998
+    },
+    "address": "Karnemelksvlei plaas, 7340",
+    "rating": 4.7,
+    "reviewCount": 15,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ2-ea4hSZNBwRkop0eSPXAcs",
+    "name": "Birthday Bay",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.8384871,
+      "lng": 17.8584303
+    },
+    "address": "West Coast Peninsula",
+    "rating": 4.3,
+    "reviewCount": 12,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJt8AubQbneB4RCaUhDxJQ3cA",
+    "name": "Oriole Camp Site",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0085961,
+      "lng": 23.2254251
+    },
+    "address": "Fisantehoek, Fisanthoek Road, Plettenberg Bay, 6600",
+    "rating": 5,
+    "reviewCount": 11,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJJTIGYlARzR0R_NFuqdLIpSk",
+    "name": "Soetendal Bushcamp",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5021807,
+      "lng": 19.004341
+    },
+    "address": "Soetendal Rd, Wellington, Cape Town, 7654",
+    "rating": 4.8,
+    "reviewCount": 9,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJAZdKy19t1h0RC3WZc_p6dmQ",
+    "name": "Vorentoe Holiday Camping",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.048725399999995,
+      "lng": 22.215231
+    },
+    "address": "Lang St, Bergsig, Great Brak River, 6525",
+    "rating": 4.7,
+    "reviewCount": 6,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJbRK0TACnzR0RfNnzSu1qCXM",
+    "name": "Wolwehok kampterrein",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7526795,
+      "lng": 19.0360142
+    },
+    "address": "722M+VX, Paarl",
+    "rating": 4.7,
+    "reviewCount": 3,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ4yQQGGzfzR0RCal1GCeC8rc",
+    "name": "Hermanus River Farm Campsite",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.3073062,
+      "lng": 19.13834
+    },
+    "address": "Hermanus River Farm, Kleinmond, 7195",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

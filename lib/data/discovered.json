@@ -12292,9 +12292,10 @@
     "tags": [
       "hiking",
       "campground",
-      "lodging"
+      "lodging",
+      "camping"
     ],
-    "blurb": "Hiking trails near S33.5697023."
+    "blurb": "Riverside campsite in Bainskloof Pass, deep in the Limietberg mountains."
   },
   {
     "id": "st-blaize-hiking-trail",
@@ -15697,5 +15698,2616 @@
       "gift shop"
     ],
     "blurb": "Sea Point gallery and gift space for accessible original art."
+  },
+  {
+    "id": "berg-river-resort",
+    "name": "Berg River Resort",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7958144,
+      "lng": 18.961626499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 1852,
+    "address": "R45 Franschhoek Rd, Paarl South, 7624",
+    "phone": null,
+    "tags": [
+      "camping",
+      "resort hotel",
+      "campground"
+    ],
+    "blurb": "Big Paarl riverside resort with camping, chalets, pools and canoeing on the Berg River."
+  },
+  {
+    "id": "atkv-hartenbos",
+    "name": "ATKV Hartenbos",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.1249438,
+      "lng": 22.1124355
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 1424,
+    "address": "Corner of Cape of Good Hope &, Majuba Ave, Hartenbos, Mossel Bay, 6520",
+    "phone": null,
+    "tags": [
+      "camping",
+      "hotel",
+      "campground"
+    ],
+    "blurb": "Sprawling ATKV holiday resort at Hartenbos: caravan sites, chalets and the beachfront a walk away."
+  },
+  {
+    "id": "kleinplaas-resort",
+    "name": "Kleinplaas Resort",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.5758187,
+      "lng": 22.205891599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 1252,
+    "address": "171 Baron Van Reede St & North St, Oudtshoorn, 6620",
+    "phone": null,
+    "tags": [
+      "camping",
+      "resort hotel",
+      "hotel"
+    ],
+    "blurb": "Oudtshoorn caravan-and-chalet resort, a handy Klein Karoo base for the Cango Caves."
+  },
+  {
+    "id": "montagu-caravan-park",
+    "name": "Montagu Caravan Park",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.787450899999996,
+      "lng": 20.112955
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 954,
+    "address": "4 Middel St, Montagu, 6720",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Shady municipal caravan park in Montagu, a walk from the town's hot springs."
+  },
+  {
+    "id": "jongensfontein-caravan-park",
+    "name": "Jongensfontein Caravan Park",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.4260818,
+      "lng": 21.338609899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 883,
+    "address": "Kamposig Terrace, Jongensfontein, Groot-Jongensfontein, 6675",
+    "phone": null,
+    "tags": [
+      "camping",
+      "rv park",
+      "lodging"
+    ],
+    "blurb": "Caravan and camping park at Groot-Jongensfontein."
+  },
+  {
+    "id": "slanghoek-mountain-resort",
+    "name": "Slanghoek Mountain Resort",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.6294177,
+      "lng": 19.227365
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.1,
+    "reviewCount": 838,
+    "address": "Slanghoek Rd, Rawsonville, 6845",
+    "phone": null,
+    "tags": [
+      "camping",
+      "resort hotel",
+      "hotel"
+    ],
+    "blurb": "Breede Valley mountain resort near Rawsonville with camping, pools and vineyard views."
+  },
+  {
+    "id": "old-mac-daddy",
+    "name": "Old Mac Daddy",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.2306289,
+      "lng": 19.1185379
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 824,
+    "address": "Elgin Valley Rd Elgin, 7160",
+    "phone": null,
+    "tags": [
+      "camping",
+      "resort hotel",
+      "adventure sports center"
+    ],
+    "blurb": "Luxury vintage-trailer glamping on an Elgin apple farm, design-magazine cool."
+  },
+  {
+    "id": "onrus-caravan-park",
+    "name": "Onrus Caravan Park",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.4150969,
+      "lng": 19.1708101
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 791,
+    "address": "De Villiers St, Onrusrivier, 7201",
+    "phone": null,
+    "tags": [
+      "camping",
+      "rv park",
+      "lodging"
+    ],
+    "blurb": "Riverside caravan and camping park near Onrusrivier."
+  },
+  {
+    "id": "yzerfontein-caravan-park",
+    "name": "Yzerfontein Caravan Park",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -33.338453799999996,
+      "lng": 18.1623241
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.1,
+    "reviewCount": 774,
+    "address": "Park St, Yzerfontein, 7350",
+    "phone": null,
+    "tags": [
+      "camping",
+      "rv park",
+      "lodging"
+    ],
+    "blurb": "Caravan and camping park at Yzerfontein."
+  },
+  {
+    "id": "ganzekraal-coastal-resort",
+    "name": "Ganzekraal Coastal Resort",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.5229399,
+      "lng": 18.3207754
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 755,
+    "address": "R27, Grotto Bay, 7310",
+    "phone": null,
+    "tags": [
+      "camping",
+      "resort hotel",
+      "hotel"
+    ],
+    "blurb": "West Coast municipal resort at Grotto Bay with camping above the rocks and rock pools below."
+  },
+  {
+    "id": "kambati",
+    "name": "Kam'Bati",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.104823599999996,
+      "lng": 20.2870618
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 752,
+    "address": "Kam'Bati, 20km before, N2, 6740",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "resort hotel"
+    ],
+    "blurb": "Riverside resort with camping and AfriCamps glamping near Swellendam."
+  },
+  {
+    "id": "ebb-and-flow-rest-camp-garden-route-nati",
+    "name": "Ebb-and-Flow Rest Camp",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.990018899999995,
+      "lng": 22.6084829
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 747,
+    "address": "Dumbelton Rd, Wilderness, 6550",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "SANParks rest camp on the Touw River in Wilderness: canoes, forest trails and riverside sites."
+  },
+  {
+    "id": "22-watervalle-campsite",
+    "name": "22 Watervalle Campsite",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.985518899999995,
+      "lng": 19.0256609
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 674,
+    "address": "R64 Road, Waterval Farm, Porterville, 6810",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Farm campsite near Porterville."
+  },
+  {
+    "id": "dwarswegstrandoord",
+    "name": "Dwarsweg Strandoord",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0506263,
+      "lng": 22.273852299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 657,
+    "address": "2 Dwarswegstrandoord, Kloof St, Bothastrand, Great Brak River, 6525",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Riverside campsite near Great Brak River."
+  },
+  {
+    "id": "plettenberg-bay-a-forever-resort",
+    "name": "Plettenberg Bay Forever Resort",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.000419,
+      "lng": 23.398865
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 580,
+    "address": "N2 Route Keurboomsriver, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "camping",
+      "resort hotel",
+      "campground"
+    ],
+    "blurb": "Keurbooms riverside resort near Plett with camping, chalets and lagoon swimming."
+  },
+  {
+    "id": "zonnekus-holiday-resort-and-caravan-park",
+    "name": "Zonnekus Holiday Resort and Caravan Park",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7484223,
+      "lng": 18.538054799999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 3.6,
+    "reviewCount": 576,
+    "address": "9 Zonnekus Road, 13 141 Morningstar, Cape Farms, Philadelphia, 7304",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "coffee shop"
+    ],
+    "blurb": "Caravan and camping park near Philadelphia, north of the city."
+  },
+  {
+    "id": "palmiet-caravan-park-kleinmond",
+    "name": "Palmiet Caravan Park Kleinmond",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.3422921,
+      "lng": 18.9976397
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4,
+    "reviewCount": 561,
+    "address": "1 Harbour Rd, Kleinmond, 7195",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Caravan and camping park at Kleinmond."
+  },
+  {
+    "id": "natures-valley-rest-camp",
+    "name": "Nature's Valley Rest Camp",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9706812,
+      "lng": 23.562208899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 475,
+    "address": "Tsitsikamma National Park, Forest Drive, Kurland, 6820",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Forest-and-lagoon SANParks camp at Nature's Valley, the end of the Otter Trail."
+  },
+  {
+    "id": "klipkrans-camping-site",
+    "name": "Klipkrans Camping Site",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7443606,
+      "lng": 19.4947314
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 464,
+    "address": "Scherpenheuwel Road, Worcester, 6850",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Mountain campsite near Worcester."
+  },
+  {
+    "id": "silwerstroom-resort-and-caravan-camping",
+    "name": "Silwerstroom Resort and Caravan Camping",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.587884599999995,
+      "lng": 18.3641906
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 448,
+    "address": "Silwerstroom Road, off the West Coast Road (R27, Cape Farms, Cape Town",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Coastal municipal resort and caravan park on the West Coast near Melkbosstrand."
+  },
+  {
+    "id": "punt-karavaanpark",
+    "name": "Punt Karavaanpark",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.1842772,
+      "lng": 22.1573079
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 437,
+    "address": "11 Point Rd, Mossel Bay, 6500",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Coastal caravan and camping park at Mossel Bay."
+  },
+  {
+    "id": "george-country-resort",
+    "name": "George Country Resort",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9929415,
+      "lng": 22.5200545
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 3.9,
+    "reviewCount": 423,
+    "address": "Main Rd, George",
+    "phone": null,
+    "tags": [
+      "camping",
+      "resort hotel",
+      "campground"
+    ],
+    "blurb": "Holiday resort with camping at George."
+  },
+  {
+    "id": "keurbooms-lagoon",
+    "name": "Keurbooms Lagoon",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.03804,
+      "lng": 23.3782357
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 411,
+    "address": "N2, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Camp on the Keurbooms lagoon near Plett, with kayaks and swimming at the door."
+  },
+  {
+    "id": "rocklands-centre",
+    "name": "Rocklands Centre",
+    "category": "outdoor",
+    "area": "muizenberg",
+    "coords": {
+      "lat": -34.2172297,
+      "lng": 18.462451700000003
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 396,
+    "address": "77 Rocklands Rd, Murdock Valley, Cape Town, 7975",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "non profit organization"
+    ],
+    "blurb": "Retreat and campground in Murdock Valley near Simon's Town."
+  },
+  {
+    "id": "glentana-caravan-park",
+    "name": "Glentana Caravan Park",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0502511,
+      "lng": 22.313915299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 396,
+    "address": "Glentana, Great Brak River, 6525",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Riverside caravan and camping park near Great Brak River."
+  },
+  {
+    "id": "buffalo-bay-caravan-park",
+    "name": "Buffalo Bay Caravan Park",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.089100699999996,
+      "lng": 22.976248500000004
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 371,
+    "address": "Buffels Bay, 6570",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Beachfront caravan park at Buffalo Bay near Knysna, surf and swim off the sand."
+  },
+  {
+    "id": "voortrekker-park-resorts-strand",
+    "name": "Voortrekker Park Resorts Strand",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.1243057,
+      "lng": 18.8357354
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 3.8,
+    "reviewCount": 358,
+    "address": "Beach Rd & Hofmeyer Road, Strand, Cape Town, 7140",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "tourist attraction"
+    ],
+    "blurb": "Coastal holiday resort with camping at Strand."
+  },
+  {
+    "id": "home-oppi-dam",
+    "name": "Home Oppi Dam",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.474889,
+      "lng": 22.2495209
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 336,
+    "address": "N Oppi dam in Schoemanshoek, R328 N, Oudtshoorn, 6620",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Campsite by the water near Oudtshoorn."
+  },
+  {
+    "id": "lake-pleasant-caravan-park",
+    "name": "Lake Pleasant Caravan Park",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0251643,
+      "lng": 22.8335419
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 328,
+    "address": "Lake Pleasant Resort, Area, 1 Groenvlei Rd, Groenvlei, Sedgefield, 6573",
+    "phone": null,
+    "tags": [
+      "camping",
+      "resort hotel",
+      "hotel"
+    ],
+    "blurb": "Caravan and camping park by the water near Sedgefield."
+  },
+  {
+    "id": "hartenbos-river-resort",
+    "name": "Hartenbos River Resort",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.1130543,
+      "lng": 22.108899700000002
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.1,
+    "reviewCount": 324,
+    "address": "Plot 217 Hartenbosh Farm, Hartenbos, Mossel Bay, 6520",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Riverside holiday resort with camping near Mossel Bay."
+  },
+  {
+    "id": "imhoff-caravan-park-kommetjie",
+    "name": "Imhoff Caravan Park Kommetjie",
+    "category": "outdoor",
+    "area": "houtbay",
+    "coords": {
+      "lat": -34.1325777,
+      "lng": 18.3374383
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4,
+    "reviewCount": 307,
+    "address": "54 Wireless Rd, Kommetjie, Cape Town, 7975",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Kommetjie caravan park near the beach and Imhoff Farm on the Cape Peninsula."
+  },
+  {
+    "id": "oewerzicht-farm-cottages-campsite-greyto",
+    "name": "Oewerzicht Farm Campsite",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.100465899999996,
+      "lng": 19.6658051
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 297,
+    "address": "Oewerzicht Farm, Greyton",
+    "phone": null,
+    "tags": [
+      "camping",
+      "farmstay",
+      "cottage"
+    ],
+    "blurb": "Farm campsite near Greyton."
+  },
+  {
+    "id": "rivierplaas-campsite",
+    "name": "Rivierplaas Campsite",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7740759,
+      "lng": 19.5212109
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 295,
+    "address": "Rivierplaas, Scherpenheuwel, Worcester, 6849",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "dog park"
+    ],
+    "blurb": "Riverside campsite near Worcester."
+  },
+  {
+    "id": "kleine-paradys-piketberg",
+    "name": "Kleine Paradys Piketberg",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.9452254,
+      "lng": 18.6823881
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 289,
+    "address": "Morawia, 15km West of, R399 Road, Broodkraal, Piketberg, 7320",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Mountain campsite near Piketberg."
+  },
+  {
+    "id": "soetwater-resort-kommetjie",
+    "name": "Soetwater Resort Kommetjie",
+    "category": "outdoor",
+    "area": "houtbay",
+    "coords": {
+      "lat": -34.1581225,
+      "lng": 18.328531599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4,
+    "reviewCount": 288,
+    "address": "Lighthouse Rd, Kommetjie, Cape Town",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Rugged municipal coastal camping at Kommetjie, with tidal pools and the lighthouse nearby."
+  },
+  {
+    "id": "kuilsrivier-caravan-park",
+    "name": "Kuilsrivier Caravan Park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.9426524,
+      "lng": 18.690198
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 3.9,
+    "reviewCount": 277,
+    "address": "131 Van Riebeeck Rd, St Dumas, Cape Town, 7580",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Caravan and camping park in Kuils River."
+  },
+  {
+    "id": "greyton-twin-rivers-campsite",
+    "name": "Greyton Twin Rivers Campsite",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.069763,
+      "lng": 19.609492
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 273,
+    "address": "Krige Road, Greyton, 7233",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Riverside campsite near Greyton."
+  },
+  {
+    "id": "midwest-caravan-park-st-helena-bay",
+    "name": "Midwest Caravan Park St Helena Bay",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.730535599999996,
+      "lng": 17.9902652
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 270,
+    "address": "Midwest, St Helena Bay, 7390",
+    "phone": null,
+    "tags": [
+      "camping",
+      "rv park",
+      "lodging"
+    ],
+    "blurb": "Coastal caravan and camping park at St Helena Bay."
+  },
+  {
+    "id": "woodbourne-resort",
+    "name": "Woodbourne Resort",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.071537,
+      "lng": 23.0690517
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 264,
+    "address": "6571 George Rex Dr, The Heads, Knysna, 6571",
+    "phone": null,
+    "tags": [
+      "camping",
+      "resort hotel",
+      "hotel"
+    ],
+    "blurb": "Holiday resort with camping at Knysna."
+  },
+  {
+    "id": "koningskop-campsite-self-catering-cottag",
+    "name": "Koningskop Campsite",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.498512000000005,
+      "lng": 18.848577
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 254,
+    "address": "Wilgerbosdrif Farm, Paleisheuwel Road, Citrusdal, 7340",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "wedding venue"
+    ],
+    "blurb": "Forest campsite near Citrusdal."
+  },
+  {
+    "id": "gansbaai-caravan-park",
+    "name": "Gansbaai Caravan Park",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.5820112,
+      "lng": 19.3473516
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.1,
+    "reviewCount": 249,
+    "address": "75 Kus Rd, Gansbaai, 7220",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Coastal caravan and camping park at Gansbaai."
+  },
+  {
+    "id": "strandskloof-caravan-park-gansbaai",
+    "name": "Strandskloof Caravan Park - Gansbaai",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.578192,
+      "lng": 19.4417154
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 244,
+    "address": "Strandskloof Plaas, Gansbaai, 7220",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "wedding venue"
+    ],
+    "blurb": "Coastal caravan and camping park at Gansbaai."
+  },
+  {
+    "id": "hardekraaltjie-caravan-park",
+    "name": "Hardekraaltjie Caravan Park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.902792999999996,
+      "lng": 18.614383999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 3.7,
+    "reviewCount": 242,
+    "address": "4 Voortrekker Rd, Boston, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "camping",
+      "rv park",
+      "lodging"
+    ],
+    "blurb": "Caravan and camping park in Bellville."
+  },
+  {
+    "id": "kleinmond-caravan-park",
+    "name": "Kleinmond Caravan Park",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.3340757,
+      "lng": 19.03961
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 3.9,
+    "reviewCount": 237,
+    "address": "39 Geelhout Ave, Kleinmond, 7195",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Caravan and camping park at Kleinmond."
+  },
+  {
+    "id": "froggy-pond-resort",
+    "name": "Froggy Pond Resort",
+    "category": "outdoor",
+    "area": "muizenberg",
+    "coords": {
+      "lat": -34.2040217,
+      "lng": 18.4552261
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 229,
+    "address": "358 Main Rd, Froggy Pond, Cape Town, 7975",
+    "phone": null,
+    "tags": [
+      "camping",
+      "resort hotel",
+      "hotel"
+    ],
+    "blurb": "Holiday resort with camping at Froggy Pond near Simon's Town."
+  },
+  {
+    "id": "de-hoek-mountain-resort",
+    "name": "De Hoek Mountain Resort",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.3684638,
+      "lng": 22.177670199999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 228,
+    "address": "R328 & Oudtshoorn, Western Cape, Prince Albert, 6930",
+    "phone": null,
+    "tags": [
+      "camping",
+      "resort hotel",
+      "hotel"
+    ],
+    "blurb": "Mountain holiday resort with camping near Prince Albert."
+  },
+  {
+    "id": "khomeesdrif-camping-site",
+    "name": "Khomeesdrif Camping Site",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.130651799999995,
+      "lng": 19.849467999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 222,
+    "address": "Kleinplasie, Riviersonderend, 7250",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Riverside campsite near Riviersonderend."
+  },
+  {
+    "id": "seebries-caravan-park-langebaan",
+    "name": "Seebries Caravan Park Langebaan",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -33.0753586,
+      "lng": 18.0380246
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4,
+    "reviewCount": 199,
+    "address": "157 Main St, Langebaan, 7357",
+    "phone": null,
+    "tags": [
+      "camping",
+      "rv park",
+      "lodging"
+    ],
+    "blurb": "Caravan and camping park at Langebaan."
+  },
+  {
+    "id": "schoongezicht-campsite",
+    "name": "Schoongezicht Campsite",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.817702,
+      "lng": 19.216836
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 195,
+    "address": "Koue Bokkeveld, 6836",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Campsite at Koue Bokkeveld."
+  },
+  {
+    "id": "wolfkop-camping-villages",
+    "name": "Wolfkop Camping Villages",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.7593254,
+      "lng": 19.069730699999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 190,
+    "address": "59 Voortrekker St, Citrusdal, 7340",
+    "phone": null,
+    "tags": [
+      "camping",
+      "childrens camp"
+    ],
+    "blurb": "Quirky riverside camping villages on the Olifants River at Citrusdal, tube down to your tent."
+  },
+  {
+    "id": "stywelyne-caravan-park-velddrif",
+    "name": "Stywelyne Caravan Park Velddrif",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.7668958,
+      "lng": 18.1509791
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 181,
+    "address": "Perlemoen St, Laaiplek, Velddrif, 7365",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Caravan and camping park at Velddrif."
+  },
+  {
+    "id": "island-lake-holiday-resort",
+    "name": "Island Lake Holiday Resort",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.98793,
+      "lng": 22.635759999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 179,
+    "address": "Hoekwil Rd, Wilderness, 6560",
+    "phone": null,
+    "tags": [
+      "camping",
+      "resort hotel",
+      "hotel"
+    ],
+    "blurb": "Holiday resort with camping by the water near Wilderness."
+  },
+  {
+    "id": "millers-point-resort",
+    "name": "Miller's Point Resort",
+    "category": "outdoor",
+    "area": "muizenberg",
+    "coords": {
+      "lat": -34.228981499999996,
+      "lng": 18.4704931
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 177,
+    "address": "Outside, Cape Town",
+    "phone": null,
+    "tags": [
+      "camping",
+      "resort hotel",
+      "hotel"
+    ],
+    "blurb": "Coastal resort with camping at Miller's Point near Simon's Town."
+  },
+  {
+    "id": "stille-waters-campsite",
+    "name": "Stille Waters Campsite",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7163381,
+      "lng": 19.3058968
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 173,
+    "address": "Goudyn Rd, Rawsonville",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Campsite at Rawsonville."
+  },
+  {
+    "id": "disakloof-camping",
+    "name": "Disakloof Camping",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.3506889,
+      "lng": 18.923645
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 173,
+    "address": "Clarence Dr, Betty's Bay, 7141",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Coastal campsite at Betty's Bay."
+  },
+  {
+    "id": "altydwater-campsite",
+    "name": "Altydwater Campsite",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7111321,
+      "lng": 19.2843415
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.1,
+    "reviewCount": 172,
+    "address": "R101, Worcester NU, Worcester",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Campsite at Worcester."
+  },
+  {
+    "id": "kleine-eike-greyton",
+    "name": "Kleine Eike Greyton",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.102586699999996,
+      "lng": 19.6800559
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 162,
+    "address": "R406 Road. S34.1037318, E19.6691651, Greyton",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Campsite at Greyton."
+  },
+  {
+    "id": "swellendam-caravan-park",
+    "name": "Swellendam Caravan Park",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.0128997,
+      "lng": 20.4496655
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 3.7,
+    "reviewCount": 153,
+    "address": "34 Glen Barry Rd, Swellendam, 6740",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Caravan and camping park by the water near Swellendam."
+  },
+  {
+    "id": "gourits-river-guest-farm-eco-camping",
+    "name": "Gourits River Guest Farm & Eco-camping",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.136406,
+      "lng": 21.717031
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 152,
+    "address": "Valsriviermond, Albertinia, 6695",
+    "phone": null,
+    "tags": [
+      "camping",
+      "guest house",
+      "farmstay"
+    ],
+    "blurb": "Riverside eco-camping near Albertinia."
+  },
+  {
+    "id": "victoria-bay-camping-site",
+    "name": "Victoria Bay Camping Site",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0039403,
+      "lng": 22.5482168
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 150,
+    "address": "Victoria Bay",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Tiny camping site right above the surf at Victoria Bay near George."
+  },
+  {
+    "id": "leentjiesklip-holiday-resort-caravan-par",
+    "name": "Leentjiesklip Holiday Resort",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -33.0667969,
+      "lng": 18.041794400000004
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 148,
+    "address": "Leentjiesklip, Langebaan, 7357",
+    "phone": null,
+    "tags": [
+      "camping",
+      "rv park",
+      "lodging"
+    ],
+    "blurb": "Coastal holiday resort with camping at Langebaan."
+  },
+  {
+    "id": "oostewal-caravan-park-holiday-resort-lan",
+    "name": "Oostewal Caravan Park",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -33.088698,
+      "lng": 18.0346732
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 3.9,
+    "reviewCount": 138,
+    "address": "Oostewal Rd, Langebaan, 7357",
+    "phone": null,
+    "tags": [
+      "camping",
+      "lodging"
+    ],
+    "blurb": "Caravan and camping park at Langebaan."
+  },
+  {
+    "id": "outeniqua-caravan-park",
+    "name": "Outeniqua Caravan Park",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0817973,
+      "lng": 22.137223499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 129,
+    "address": "1 Park Ave, Klein Brak River, 6503",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Riverside caravan and camping park near Klein Brak River."
+  },
+  {
+    "id": "camp-canoe",
+    "name": "Camp Canoe",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8757764,
+      "lng": 18.973106299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 123,
+    "address": "R310 Pniel Road, Groot Drakenstein, Franschhoek, 7680",
+    "phone": null,
+    "tags": [
+      "camping",
+      "camping cabin",
+      "lodging"
+    ],
+    "blurb": "Riverside camping on the Berg River near Franschhoek, canoes included."
+  },
+  {
+    "id": "river-edge-accommodation",
+    "name": "River Edge Accommodation",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.5171925,
+      "lng": 19.1761999
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 119,
+    "address": "R301 Bainskloof pass, Breerivier, 6858",
+    "phone": null,
+    "tags": [
+      "camping",
+      "hiking area",
+      "campground"
+    ],
+    "blurb": "Riverside campsite near Breerivier."
+  },
+  {
+    "id": "buffelsrivier-camping",
+    "name": "Buffelsrivier Camping",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.126232099999996,
+      "lng": 20.8850232
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 116,
+    "address": "VVFM+CC, Laingsburg",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Riverside campsite near Laingsburg."
+  },
+  {
+    "id": "river-goose-camp-site-bonnievale",
+    "name": "River Goose Camp Site Bonnievale",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.977593299999995,
+      "lng": 20.1447631
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 114,
+    "address": "Farm Eureka, Gelukshoop Road, Bonnievale, 6730",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Riverside campsite near Bonnievale."
+  },
+  {
+    "id": "champagne-campsite-cottage",
+    "name": "Champagne Campsite & Cottage",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.0676284,
+      "lng": 19.4845375
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 108,
+    "address": "Champagne, Greyton, 7233",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Campsite at Greyton."
+  },
+  {
+    "id": "appleton-scout-campsite",
+    "name": "Appleton Scout Campsite",
+    "category": "outdoor",
+    "area": "bokaap",
+    "coords": {
+      "lat": -33.9208303,
+      "lng": 18.398488999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 105,
+    "address": "Signal Hill Rd, Signal Hill, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "The scout campsite on Signal Hill, a rare place to pitch a tent right above the city."
+  },
+  {
+    "id": "bergenwater-campsite",
+    "name": "Bergenwater Campsite",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7028093,
+      "lng": 19.2902484
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 103,
+    "address": "Goudyn Rd, Rawsonville, 6845",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Mountain campsite near Rawsonville."
+  },
+  {
+    "id": "porcupine-rest-camp",
+    "name": "Porcupine Rest Camp",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.3711342,
+      "lng": 21.154482299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 103,
+    "address": "Route 323, Vleiland, Laingsburg, 6900",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "tourist information center"
+    ],
+    "blurb": "Rest camp by the water near Laingsburg."
+  },
+  {
+    "id": "kliphoek-river-resort",
+    "name": "Kliphoek River Resort",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.837007899999996,
+      "lng": 18.2082753
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 102,
+    "address": "Kliphoek farm, No street, Velddrif, 7365",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Riverside holiday resort with camping near Velddrif."
+  },
+  {
+    "id": "otium-oasis-glamping-and-camping",
+    "name": "Otium Oasis Glamping and Camping",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.3781843,
+      "lng": 19.509908199999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 102,
+    "address": "Portion 78 of farm 811, Tesselaarsdal, Caledon District, Tesselaarsdal, 7230",
+    "phone": null,
+    "tags": [
+      "camping",
+      "lodging"
+    ],
+    "blurb": "Off-grid glamping and camping in the Overberg hills near Caledon."
+  },
+  {
+    "id": "ihlati-bush-camp",
+    "name": "ihlati bush camp",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.603705,
+      "lng": 18.562997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 96,
+    "address": "Rondeberg Rd, Cape Farms, Cape Town, 7350",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Bush camp in the West Coast strandveld near Darling."
+  },
+  {
+    "id": "lang-elsies-kraal-rest-camp",
+    "name": "Lang Elsie's Kraal Rest Camp",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.0761434,
+      "lng": 20.454889400000003
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 96,
+    "address": "Swellendam, 6740",
+    "phone": null,
+    "tags": [
+      "camping",
+      "national park",
+      "tourist attraction"
+    ],
+    "blurb": "The rest camp inside Bontebok National Park at Swellendam, on the Breede River."
+  },
+  {
+    "id": "van-zylsrus-caravan-park",
+    "name": "Van Zylsrus Caravan Park",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.9035216,
+      "lng": 18.7069625
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 92,
+    "address": "Bottelary Rd, Kuils River, Cape Town, 7579",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Caravan and camping park in Kuils River."
+  },
+  {
+    "id": "cherry-glamping",
+    "name": "Cherry Glamping",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.1858376,
+      "lng": 19.1075206
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 92,
+    "address": "N2 N2 Elgin, Elgin Valley, 7180",
+    "phone": null,
+    "tags": [
+      "camping",
+      "hotel",
+      "campground"
+    ],
+    "blurb": "Glamping tents on an Elgin cherry farm, with fruit to pick in season."
+  },
+  {
+    "id": "blinkwater-camping-cottages",
+    "name": "Blinkwater Camping & Cottages",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.6316579,
+      "lng": 19.102673499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 91,
+    "address": "Citrusdal, 7340",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Campsite at Citrusdal."
+  },
+  {
+    "id": "eagle-falls-country-lodge-and-camping",
+    "name": "Eagle Falls Country Lodge (and camping)",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.7211445,
+      "lng": 22.8165862
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 82,
+    "address": "Kammanassie Rd",
+    "phone": null,
+    "tags": [
+      "camping",
+      "lodging"
+    ],
+    "blurb": "Mountain lodge with camping near Oudtshoorn."
+  },
+  {
+    "id": "wild-wind-family-resort",
+    "name": "Wild Wind Family Resort",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.1456924,
+      "lng": 18.892343699999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 3.8,
+    "reviewCount": 79,
+    "address": "156 Sir Lowry's Pass Rd, Gordon's Bay, Cape Town, 7140",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "camping cabin"
+    ],
+    "blurb": "Coastal holiday resort with camping at Gordon's Bay."
+  },
+  {
+    "id": "slangkop-tented-camp-hoerikwaggo-trail",
+    "name": "Slangkop Tented Camp (Hoerikwaggo Trail)",
+    "category": "outdoor",
+    "area": "houtbay",
+    "coords": {
+      "lat": -34.1462462,
+      "lng": 18.320236899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 78,
+    "address": "46-44, 46 Lighthouse Rd, Cape Peninsula, Cape Town, 7976",
+    "phone": null,
+    "tags": [
+      "camping",
+      "lodging"
+    ],
+    "blurb": "Permanent tented camp on the Hoerikwaggo trail below the Slangkop lighthouse at Kommetjie."
+  },
+  {
+    "id": "apostle-battery-campsite",
+    "name": "Apostle Battery Campsite",
+    "category": "outdoor",
+    "area": "houtbay",
+    "coords": {
+      "lat": -34.006859,
+      "lng": 18.348969999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 73,
+    "address": "Victoria Rd, Llandudno, Cape Town, 7806",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Coastal campsite at a WWII gun battery above Llandudno, Atlantic sunsets included."
+  },
+  {
+    "id": "breede-escape-river-camp",
+    "name": "Breede Escape River Camp",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.9805463,
+      "lng": 20.197746
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 73,
+    "address": "Breede Escape, Bonnievale, 6730",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "hiking area"
+    ],
+    "blurb": "Riverside campsite near Bonnievale."
+  },
+  {
+    "id": "noah-farm-campsite",
+    "name": "Noah - Farm Campsite",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.3816221,
+      "lng": 19.223960800000004
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 70,
+    "address": "Boontjiesrivier, Wolseley, 6830",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Riverside campsite near Wolseley."
+  },
+  {
+    "id": "wolvenberg-stille-waters-campsite",
+    "name": "Wolvenberg & Stille Waters Campsite",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7235851,
+      "lng": 19.302687499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 70,
+    "address": "Old N1 Rd, Rawsonville, 6845",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Mountain campsite near Rawsonville."
+  },
+  {
+    "id": "aqua-eden-camp-ground-george",
+    "name": "Aqua Eden Campground",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.054817199999995,
+      "lng": 22.4368397
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 68,
+    "address": "Camping Spot: S34.054745 E22.436761, George",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Campsite at George."
+  },
+  {
+    "id": "buffelskop-caravan-park",
+    "name": "Buffelskop Caravan Park",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.083843,
+      "lng": 22.964265899999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 68,
+    "address": "WX87+84, Main Street, Buffels Bay, 6500",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Coastal caravan and camping park at Buffels Bay."
+  },
+  {
+    "id": "skilpadfontein-private-campsite",
+    "name": "Skilpadfontein Private Campsite",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.6029966,
+      "lng": 19.2601688
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 3.6,
+    "reviewCount": 65,
+    "address": "R43 Road Slanghoek, 7624",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Mountain campsite in the Slanghoek valley near Rawsonville."
+  },
+  {
+    "id": "breede-otter-campsite",
+    "name": "Breede Otter Campsite",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7748744,
+      "lng": 19.5892911
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 65,
+    "address": "Unnamed Road, scherpenheuwel, Worcester, 6849",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Riverside campsite near Worcester."
+  },
+  {
+    "id": "zandvlei-resort-and-chalets-muizenberg",
+    "name": "Zandvlei Resort and Chalets Muizenberg",
+    "category": "outdoor",
+    "area": "muizenberg",
+    "coords": {
+      "lat": -34.0985162,
+      "lng": 18.4723403
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 3.7,
+    "reviewCount": 60,
+    "address": "35 The Row St, Muizenberg, Cape Town, 7950",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Camping and chalets on the Zandvlei estuary at Muizenberg, sheltered water for kids."
+  },
+  {
+    "id": "rivers-end-farm-stanford",
+    "name": "Rivers End Farm Stanford",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.4269511,
+      "lng": 19.3891584
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 59,
+    "address": "Wortelgat Rd, Stanford, 7210",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "wedding venue"
+    ],
+    "blurb": "Riverside campsite near Stanford."
+  },
+  {
+    "id": "afri-eco-resorts-wilderness",
+    "name": "Afri Eco Resorts - Wilderness",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0025051,
+      "lng": 22.6960616
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 58,
+    "address": "XMWW+XC, Wilderness, 6560",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Farm eco-camping near Wilderness."
+  },
+  {
+    "id": "the-berry-guest-farm-camping",
+    "name": "The Berry Guest Farm - Camping",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.0070143,
+      "lng": 20.423344699999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 57,
+    "address": "The Berry Guest Farm, N6, Swellendam, 6740",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "playground"
+    ],
+    "blurb": "Camping at a berry farm near Swellendam."
+  },
+  {
+    "id": "franschhoek-camping",
+    "name": "Franschhoek Camping",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.879787199999996,
+      "lng": 19.0817093
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 56,
+    "address": "La Motte Station Road La Motte Frasnchhoek, 7690",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Campsite at La Motte near Franschhoek."
+  },
+  {
+    "id": "butterfly-creek-bush-camp",
+    "name": "Butterfly Creek Bush Camp",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.961255,
+      "lng": 22.1320715
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 55,
+    "address": "Rural, Beneke Rd, Friemersheim, Great Brak River, 6525",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Riverside bush camp near Great Brak River."
+  },
+  {
+    "id": "at-the-farm-camping",
+    "name": "At the farm Camping",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.361671199999996,
+      "lng": 21.3271065
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 53,
+    "address": "R323 Sandrivier Farm Seweweekspoort, Laingsburg, 6900",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "farmstay"
+    ],
+    "blurb": "Riverside campsite near Laingsburg."
+  },
+  {
+    "id": "swartvlei-caravan-park",
+    "name": "Swartvlei Caravan Park",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0230416,
+      "lng": 22.7744835
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4,
+    "reviewCount": 49,
+    "address": "Swartvlei Beach Rd",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Caravan and camping park on Swartvlei lake at Sedgefield."
+  },
+  {
+    "id": "falcon-river-reserve",
+    "name": "Falcon River Reserve",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.069647599999996,
+      "lng": 20.4108922
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 47,
+    "address": "N2, Swellendam, 6740",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Riverside campsite near Swellendam."
+  },
+  {
+    "id": "hemels-in-the-valley",
+    "name": "Hemels in the Valley",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.34225860000001,
+      "lng": 19.302975399999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 45,
+    "address": "Ertjiesvlei Farm, Hemel and Aarde Valley, Hermanus, 7200",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Valley campsite in the Hemel-en-Aarde near Hermanus."
+  },
+  {
+    "id": "molenrivier",
+    "name": "MOLENRIVIER",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9725095,
+      "lng": 22.180930399999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "address": "Molenrivier farm, Great Brak River, 6525",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Riverside campsite near Great Brak River."
+  },
+  {
+    "id": "die-eike-private-camping",
+    "name": "Die Eike - Private Camping",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.215485,
+      "lng": 19.1494171
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 43,
+    "address": "Winterhoek Rd, Tulbagh, 6820",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Campsite at Tulbagh."
+  },
+  {
+    "id": "die-ark-campground-and-rooms",
+    "name": "Die Ark Campground and Rooms",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -33.0504823,
+      "lng": 18.6951328
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 43,
+    "address": "Hooggelee farm, Koringberg, 7312",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Farm campsite near Koringberg in the Swartland."
+  },
+  {
+    "id": "ebb-flow-north-campsite",
+    "name": "Ebb & Flow North Campsite",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9858294,
+      "lng": 22.608166399999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 39,
+    "address": "2J75+M7, Hoekwil, Wilderness, 6538",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Campsite at Wilderness."
+  },
+  {
+    "id": "bushbuck-camp",
+    "name": "Bushbuck Camp",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0043285,
+      "lng": 22.813179599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 34,
+    "address": "Cloud 9 Road e, Sedgefield",
+    "phone": null,
+    "tags": [
+      "camping",
+      "lodging"
+    ],
+    "blurb": "Campsite at Sedgefield."
+  },
+  {
+    "id": "back-2-basics-adventure-campsite",
+    "name": "Back 2 Basics Adventure Campsite",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.1909725,
+      "lng": 19.0945021
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4,
+    "reviewCount": 31,
+    "address": "N2, Grabouw, 7160",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "adventure sports center"
+    ],
+    "blurb": "Campsite at Grabouw."
+  },
+  {
+    "id": "eikebos-campground-caledon",
+    "name": "Eikebos Campground Caledon",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.1516802,
+      "lng": 19.5424527
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 30,
+    "address": "Dwaalhoek Farm, Eikebos Cottage & Campsite, R406, Greyton, 7230",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "farmstay"
+    ],
+    "blurb": "Forest campsite near Greyton."
+  },
+  {
+    "id": "meulwater-camp",
+    "name": "Meulwater Camp",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.734732,
+      "lng": 18.9471349
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 29,
+    "address": "Jan Phillips Bergpad, Paarl, 7620",
+    "phone": null,
+    "tags": [
+      "camping",
+      "barbecue area"
+    ],
+    "blurb": "Simple camp on Paarl Mountain's slopes with picnic spots and mountain walks."
+  },
+  {
+    "id": "moon-river-bush-camp",
+    "name": "MOON RIVER BUSH CAMP",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.8124804,
+      "lng": 19.4513824
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 27,
+    "address": "Die Dorp Op Die Berg, 6836",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Riverside bush camp at Op-die-Berg in the Koue Bokkeveld."
+  },
+  {
+    "id": "arendsrus-campsite-kamp",
+    "name": "ArendsRus Campsite",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9278563,
+      "lng": 22.3233706
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 27,
+    "address": "Farm 28, Koesterbos Road Geelhoutboom, George, 6537",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Forest campsite near George."
+  },
+  {
+    "id": "fish-eagle-river-camp",
+    "name": "Fish Eagle River Camp",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.2185249,
+      "lng": 20.517793599999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.1,
+    "reviewCount": 23,
+    "address": "Swellendam",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Riverside campsite near Swellendam."
+  },
+  {
+    "id": "bietjiedam",
+    "name": "BietjieDam",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.2268492,
+      "lng": 19.4786444
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 20,
+    "address": "Voorhoede Plaas, Caledon, 7230",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Campsite by the water near Caledon."
+  },
+  {
+    "id": "de-hoop-nature-reserve-campsite",
+    "name": "De Hoop Nature Reserve campsite",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.452131699999995,
+      "lng": 20.4020455
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "address": "GCX2+4R, Ouplaas",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Camp among zebra and bontebok in De Hoop reserve, whales off the coast in season."
+  },
+  {
+    "id": "nightsky-camping",
+    "name": "Nightsky Camping",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.012133299999995,
+      "lng": 19.9948689
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 20,
+    "address": "Oudekraal Farm, Boesmansrivier, Bonnievale, 6730",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Riverside campsite near Bonnievale."
+  },
+  {
+    "id": "happy-campers-campsite",
+    "name": "Happy Campers Campsite",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.8420065,
+      "lng": 18.2374646
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 18,
+    "address": "R399 Piketberg road Velddrif, 7365",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Caravan and camping park near Velddrif on the West Coast."
+  },
+  {
+    "id": "schoemanshoek-glamping",
+    "name": "Schoemanshoek Glamping",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.480601,
+      "lng": 22.242727
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 17,
+    "address": "Die Fonteine Schoemanshoek, Oudtshoorn, 6620",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Glamping in the green Schoemanshoek valley outside Oudtshoorn."
+  },
+  {
+    "id": "leopards-tree-campsite",
+    "name": "Leopard's Tree Campsite",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.760290499999996,
+      "lng": 19.077086899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 15,
+    "address": "Karnemelksvlei plaas, 7340",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Farm campsite near Citrusdal."
+  },
+  {
+    "id": "birthday-bay",
+    "name": "Birthday Bay",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.8384871,
+      "lng": 17.8584303
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 12,
+    "address": "West Coast Peninsula",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Remote coastal campsite on the West Coast."
+  },
+  {
+    "id": "oriole-camp-site",
+    "name": "Oriole Camp Site",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0085961,
+      "lng": 23.2254251
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 11,
+    "address": "Fisantehoek, Fisanthoek Road, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Coastal campsite at Plettenberg Bay."
+  },
+  {
+    "id": "soetendal-bushcamp",
+    "name": "Soetendal Bushcamp",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.5021807,
+      "lng": 19.004341
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 9,
+    "address": "Soetendal Rd, Wellington, Cape Town, 7654",
+    "phone": null,
+    "tags": [
+      "camping",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Bush camp at Wellington."
   }
 ]

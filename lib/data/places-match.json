@@ -3776,5 +3776,600 @@
     "placeId": "ChIJY7XY_ehnzB0ROgvXyoHwvtw",
     "googleName": "Art HAUS Sea Point Art Gallery",
     "address": "3 Clarens Rd, Sea Point, Cape Town, 8060"
+  },
+  "berg-river-resort": {
+    "placeId": "ChIJWVakJNuozR0Rhh_ftAMxapw",
+    "googleName": "Berg River Resort",
+    "address": "R45 Franschhoek Rd, Paarl South, 7624"
+  },
+  "atkv-hartenbos": {
+    "placeId": "ChIJ4fQJxjBp1h0RXizsOdb2_fI",
+    "googleName": "ATKV Hartenbos",
+    "address": "Corner of Cape of Good Hope &, Majuba Ave, Hartenbos, Mossel Bay, 6520"
+  },
+  "kleinplaas-resort": {
+    "placeId": "ChIJp9hqVJDB1R0RBnOLPwnTQ8Y",
+    "googleName": "Kleinplaas Resort",
+    "address": "171 Baron Van Reede St & North St, Oudtshoorn, 6620"
+  },
+  "montagu-caravan-park": {
+    "placeId": "ChIJE4vvg95F0h0R-T5qpu7RS90",
+    "googleName": "Montagu Caravan Park",
+    "address": "4 Middel St, Montagu, 6720"
+  },
+  "jongensfontein-caravan-park": {
+    "placeId": "ChIJw4ZE0YPG1h0RJzrNJkrlI1w",
+    "googleName": "Jongensfontein Caravan Park",
+    "address": "Kamposig Terrace, Jongensfontein, Groot-Jongensfontein, 6675"
+  },
+  "slanghoek-mountain-resort": {
+    "placeId": "ChIJT4vQTPp0zR0RFEXWDxNyNqk",
+    "googleName": "Slanghoek Mountain Resort",
+    "address": "Slanghoek Rd, Rawsonville, 6845"
+  },
+  "old-mac-daddy": {
+    "placeId": "ChIJYVF_28DczR0RGD8-Yi6B1lQ",
+    "googleName": "Old Mac Daddy",
+    "address": "Elgin Valley Rd Elgin, 7160"
+  },
+  "onrus-caravan-park": {
+    "placeId": "ChIJa0Y1tCZ1zh0RJiKg0EYFbiA",
+    "googleName": "Onrus Caravan Park",
+    "address": "De Villiers St, Onrusrivier, 7201"
+  },
+  "yzerfontein-caravan-park": {
+    "placeId": "ChIJ4_hfcvKlzB0RNiAB2WDQT6c",
+    "googleName": "Yzerfontein Caravan Park",
+    "address": "Park St, Yzerfontein, 7350"
+  },
+  "ganzekraal-coastal-resort": {
+    "placeId": "ChIJWzPL8YiWzB0RAT4A3MGVEvo",
+    "googleName": "Ganzekraal Coastal Resort",
+    "address": "R27, Grotto Bay, 7310"
+  },
+  "kambati": {
+    "placeId": "ChIJdTj_tPUs0h0RXSlFGxbBcNY",
+    "googleName": "Kam'Bati",
+    "address": "Kam'Bati, 20km before, N2, 6740"
+  },
+  "ebb-and-flow-rest-camp-garden-route-nati": {
+    "placeId": "ChIJ98MEs4Qd1h0R0AlqTC7r8SQ",
+    "googleName": "Ebb-and-Flow Rest Camp (Garden Route National Park - Wilderness Section))",
+    "address": "Dumbelton Rd, Wilderness, 6550"
+  },
+  "22-watervalle-campsite": {
+    "placeId": "ChIJf0ssRAzNMhwRRxldcUgIs6c",
+    "googleName": "22 Watervalle Campsite",
+    "address": "R64 Road, Waterval Farm, Porterville, 6810"
+  },
+  "dwarswegstrandoord": {
+    "placeId": "ChIJ8dte1bMT1h0RJN67ZXWhq9Q",
+    "googleName": "Dwarswegstrandoord",
+    "address": "2 Dwarswegstrandoord, Kloof St, Bothastrand, Great Brak River, 6525"
+  },
+  "plettenberg-bay-a-forever-resort": {
+    "placeId": "ChIJDavwLR_ieB4RS-KDouTNcSc",
+    "googleName": "Plettenberg Bay, A Forever Resort",
+    "address": "N2 Route Keurboomsriver, Plettenberg Bay, 6600"
+  },
+  "zonnekus-holiday-resort-and-caravan-park": {
+    "placeId": "ChIJg3PQXGL2zB0RAZWvYrEaQ1w",
+    "googleName": "Zonnekus Holiday Resort and Caravan Park",
+    "address": "9 Zonnekus Road, 13 141 Morningstar, Cape Farms, Philadelphia, 7304"
+  },
+  "palmiet-caravan-park-kleinmond": {
+    "placeId": "ChIJxS_gTKDZzR0Rl8jw2O_gLjM",
+    "googleName": "Palmiet Caravan Park Kleinmond",
+    "address": "1 Harbour Rd, Kleinmond, 7195"
+  },
+  "natures-valley-rest-camp": {
+    "placeId": "ChIJ9aK08doZeR4Ra9NlGMVpwYE",
+    "googleName": "Nature's Valley Rest Camp",
+    "address": "Tsitsikamma National Park, Forest Drive, Kurland, 6820"
+  },
+  "klipkrans-camping-site": {
+    "placeId": "ChIJhecjxyGHzR0RDHxP8kRVTFQ",
+    "googleName": "Klipkrans Camping Site",
+    "address": "Scherpenheuwel Road, Worcester, 6850"
+  },
+  "silwerstroom-resort-and-caravan-camping": {
+    "placeId": "ChIJs_dM_bmTzB0Re9-mPT-kFQs",
+    "googleName": "Silwerstroom Resort and Caravan Camping",
+    "address": "Silwerstroom Road, off the West Coast Road (R27, Cape Farms, Cape Town"
+  },
+  "punt-karavaanpark": {
+    "placeId": "ChIJVZ3PqA9q1h0RQg3hwL5org0",
+    "googleName": "Punt Karavaanpark",
+    "address": "11 Point Rd, Mossel Bay, 6500"
+  },
+  "george-country-resort": {
+    "placeId": "ChIJpU_52X4b1h0RJuoiYBELaTY",
+    "googleName": "George Country Resort",
+    "address": "Main Rd, George"
+  },
+  "keurbooms-lagoon": {
+    "placeId": "ChIJk3APQf_heB4R5qSc-UW5G2c",
+    "googleName": "Keurbooms Lagoon",
+    "address": "N2, Plettenberg Bay, 6600"
+  },
+  "rocklands-centre": {
+    "placeId": "ChIJnbtPjGg-zB0RjBWFzffPbLA",
+    "googleName": "Rocklands Centre",
+    "address": "77 Rocklands Rd, Murdock Valley, Cape Town, 7975"
+  },
+  "glentana-caravan-park": {
+    "placeId": "ChIJBfMF6cYT1h0RkmLeVR39U3E",
+    "googleName": "Glentana Caravan Park",
+    "address": "Glentana, Great Brak River, 6525"
+  },
+  "buffalo-bay-caravan-park": {
+    "placeId": "ChIJR8O7OeiUeB4RBgzL6UWFPDg",
+    "googleName": "Buffalo Bay Caravan Park",
+    "address": "Buffels Bay, 6570"
+  },
+  "voortrekker-park-resorts-strand": {
+    "placeId": "ChIJ0xaF3ObKzR0RuUg83D8mF7Q",
+    "googleName": "Voortrekker Park Resorts Strand",
+    "address": "Beach Rd & Hofmeyer Road, Strand, Cape Town, 7140"
+  },
+  "home-oppi-dam": {
+    "placeId": "ChIJJSOxnZbB1R0R0AT7BPlx0Ws",
+    "googleName": "Home Oppi Dam",
+    "address": "N Oppi dam in Schoemanshoek, R328 N, Oudtshoorn, 6620"
+  },
+  "lake-pleasant-caravan-park": {
+    "placeId": "ChIJqVeWhyG9eB4RttkoLwb_xKQ",
+    "googleName": "Lake Pleasant Caravan Park",
+    "address": "Lake Pleasant Resort, Area, 1 Groenvlei Rd, Groenvlei, Sedgefield, 6573"
+  },
+  "hartenbos-river-resort": {
+    "placeId": "ChIJnyyAu81u1h0Rt5X47S5oPqg",
+    "googleName": "Hartenbos River Resort",
+    "address": "Plot 217 Hartenbosh Farm, Hartenbos, Mossel Bay, 6520"
+  },
+  "imhoff-caravan-park-kommetjie": {
+    "placeId": "ChIJmUcHxGNrzB0RW-c3u17IExM",
+    "googleName": "Imhoff Caravan Park Kommetjie",
+    "address": "54 Wireless Rd, Kommetjie, Cape Town, 7975"
+  },
+  "oewerzicht-farm-cottages-campsite-greyto": {
+    "placeId": "ChIJ7dVxFEoP0h0Rgm3QPWx70Us",
+    "googleName": "Oewerzicht Farm Cottages & Campsite Greyton",
+    "address": "Oewerzicht Farm, Greyton"
+  },
+  "rivierplaas-campsite": {
+    "placeId": "ChIJR3tpTU2GzR0RCxscedP-_G8",
+    "googleName": "Rivierplaas Campsite",
+    "address": "Rivierplaas, Scherpenheuwel, Worcester, 6849"
+  },
+  "kleine-paradys-piketberg": {
+    "placeId": "ChIJyT2IGB0vMxwR0amPMiXLn30",
+    "googleName": "Kleine Paradys Piketberg",
+    "address": "Morawia, 15km West of, R399 Road, Broodkraal, Piketberg, 7320"
+  },
+  "soetwater-resort-kommetjie": {
+    "placeId": "ChIJw2UIBa8UzB0RiBXhfBmkMP0",
+    "googleName": "Soetwater Resort Kommetjie",
+    "address": "Lighthouse Rd, Kommetjie, Cape Town"
+  },
+  "kuilsrivier-caravan-park": {
+    "placeId": "ChIJXxIjQB9OzB0Rc8tcHszGVxc",
+    "googleName": "Kuilsrivier Caravan Park",
+    "address": "131 Van Riebeeck Rd, St Dumas, Cape Town, 7580"
+  },
+  "greyton-twin-rivers-campsite": {
+    "placeId": "ChIJd9zLA6IJ0h0RjOUIj-9D55c",
+    "googleName": "Greyton Twin Rivers Campsite",
+    "address": "Krige Road, Greyton, 7233"
+  },
+  "midwest-caravan-park-st-helena-bay": {
+    "placeId": "ChIJg_sWj4OeNBwR9Ffh3NH_tFM",
+    "googleName": "Midwest Caravan Park St Helena Bay",
+    "address": "Midwest, St Helena Bay, 7390"
+  },
+  "woodbourne-resort": {
+    "placeId": "ChIJbYNhe7vreB4RStk0BcBAeto",
+    "googleName": "Woodbourne Resort",
+    "address": "6571 George Rex Dr, The Heads, Knysna, 6571"
+  },
+  "koningskop-campsite-self-catering-cottag": {
+    "placeId": "ChIJwWg5jRv9MhwRiCQBHB-mCHo",
+    "googleName": "Koningskop Campsite | Self-Catering Cottages | Hiking Trail | 4x4 Route | Cycling Trail",
+    "address": "Wilgerbosdrif Farm, Paleisheuwel Road, Citrusdal, 7340"
+  },
+  "gansbaai-caravan-park": {
+    "placeId": "ChIJu9t43ukQzh0R8nlNbHajuFs",
+    "googleName": "Gansbaai Caravan Park",
+    "address": "75 Kus Rd, Gansbaai, 7220"
+  },
+  "strandskloof-caravan-park-gansbaai": {
+    "placeId": "ChIJv4MsYdsbzh0R_N9aOvKq7oA",
+    "googleName": "Strandskloof Caravan Park - Gansbaai",
+    "address": "Strandskloof Plaas, Gansbaai, 7220"
+  },
+  "hardekraaltjie-caravan-park": {
+    "placeId": "ChIJu6EGH4JQzB0R9XUPMcTy208",
+    "googleName": "Hardekraaltjie Caravan Park",
+    "address": "4 Voortrekker Rd, Boston, Cape Town, 7530"
+  },
+  "kleinmond-caravan-park": {
+    "placeId": "ChIJzRgcx8DZzR0RZQZZGrxWJKc",
+    "googleName": "Kleinmond Caravan Park",
+    "address": "39 Geelhout Ave, Kleinmond, 7195"
+  },
+  "froggy-pond-resort": {
+    "placeId": "ChIJORt-_0I-zB0Rr8rxQNVIxxI",
+    "googleName": "Froggy Pond Resort",
+    "address": "358 Main Rd, Froggy Pond, Cape Town, 7975"
+  },
+  "de-hoek-mountain-resort": {
+    "placeId": "ChIJd8pF2oql1R0RvBLJyHA5cgM",
+    "googleName": "De Hoek Mountain Resort",
+    "address": "R328 & Oudtshoorn, Western Cape, Prince Albert, 6930"
+  },
+  "khomeesdrif-camping-site": {
+    "placeId": "ChIJjw0KlS4a0h0R9MDYcsuZEfE",
+    "googleName": "Khomeesdrif Camping Site",
+    "address": "Kleinplasie, Riviersonderend, 7250"
+  },
+  "seebries-caravan-park-langebaan": {
+    "placeId": "ChIJhXHhOuWpNBwRoShzzL44TQs",
+    "googleName": "Seebries Caravan Park Langebaan",
+    "address": "157 Main St, Langebaan, 7357"
+  },
+  "schoongezicht-campsite": {
+    "placeId": "ChIJacKGpyC4MhwRpU1XroUHs3M",
+    "googleName": "Schoongezicht Campsite",
+    "address": "Koue Bokkeveld, 6836"
+  },
+  "wolfkop-camping-villages": {
+    "placeId": "ChIJXzrtXXnEMhwRXdRrDHoHgyA",
+    "googleName": "Wolfkop Camping Villages",
+    "address": "59 Voortrekker St, Citrusdal, 7340"
+  },
+  "stywelyne-caravan-park-velddrif": {
+    "placeId": "ChIJVek2YhhnMxwRBovYF5Njjs8",
+    "googleName": "Stywelyne Caravan Park Velddrif",
+    "address": "Perlemoen St, Laaiplek, Velddrif, 7365"
+  },
+  "island-lake-holiday-resort": {
+    "placeId": "ChIJU1tG9m6neB4RjBcz9oLqfJE",
+    "googleName": "Island Lake Holiday Resort",
+    "address": "Hoekwil Rd, Wilderness, 6560"
+  },
+  "millers-point-resort": {
+    "placeId": "ChIJIwc4PH8-zB0RD5E_pvjOkHc",
+    "googleName": "Miller’s Point Resort",
+    "address": "Outside, Cape Town"
+  },
+  "stille-waters-campsite": {
+    "placeId": "ChIJB1DCwAmdzR0R-tnxEjUzFho",
+    "googleName": "Stille Waters Campsite",
+    "address": "Goudyn Rd, Rawsonville"
+  },
+  "disakloof-camping": {
+    "placeId": "ChIJl0nNqL3WzR0RcFmWKE4_xRs",
+    "googleName": "Disakloof Camping",
+    "address": "Clarence Dr, Betty's Bay, 7141"
+  },
+  "altydwater-campsite": {
+    "placeId": "ChIJB4y7lNWdzR0RDPejsCRTPaQ",
+    "googleName": "Altydwater Campsite",
+    "address": "R101, Worcester NU, Worcester"
+  },
+  "kleine-eike-greyton": {
+    "placeId": "ChIJ1Uyoum4P0h0R_zFak3zvDmM",
+    "googleName": "Kleine Eike Greyton",
+    "address": "R406 Road. S34.1037318, E19.6691651, Greyton"
+  },
+  "swellendam-caravan-park": {
+    "placeId": "ChIJh2UHVZXR0x0RutH8AqKyOQs",
+    "googleName": "Swellendam Caravan Park",
+    "address": "34 Glen Barry Rd, Swellendam, 6740"
+  },
+  "gourits-river-guest-farm-eco-camping": {
+    "placeId": "ChIJQ-cxnuGO1h0RLBZvooYMC0M",
+    "googleName": "Gourits River Guest Farm & Eco-camping",
+    "address": "Valsriviermond, Albertinia, 6695"
+  },
+  "victoria-bay-camping-site": {
+    "placeId": "ChIJ7WqIKWgc1h0RgR1hOUf_Y-w",
+    "googleName": "Victoria Bay Camping Site",
+    "address": "Victoria Bay"
+  },
+  "leentjiesklip-holiday-resort-caravan-par": {
+    "placeId": "ChIJbUHxFOdXMxwRp9uxswaGNRU",
+    "googleName": "Leentjiesklip Holiday Resort (Caravan Park)",
+    "address": "Leentjiesklip, Langebaan, 7357"
+  },
+  "oostewal-caravan-park-holiday-resort-lan": {
+    "placeId": "ChIJMRuuL_apNBwRA771HOJ-sLA",
+    "googleName": "Oostewal Caravan Park & Holiday Resort Langebaan",
+    "address": "Oostewal Rd, Langebaan, 7357"
+  },
+  "outeniqua-caravan-park": {
+    "placeId": "ChIJx4IcnZxu1h0RJkargRIagnw",
+    "googleName": "Outeniqua Caravan Park",
+    "address": "1 Park Ave, Klein Brak River, 6503"
+  },
+  "camp-canoe": {
+    "placeId": "ChIJP3YKs59NzB0RNOBN8_Dw3yY",
+    "googleName": "Camp Canoe",
+    "address": "R310 Pniel Road, Groot Drakenstein, Franschhoek, 7680"
+  },
+  "river-edge-accommodation": {
+    "placeId": "ChIJkymSkVMNzR0RkC045rfTQqM",
+    "googleName": "River Edge Accommodation",
+    "address": "R301 Bainskloof pass, Breerivier, 6858"
+  },
+  "buffelsrivier-camping": {
+    "placeId": "ChIJN7i7Klxp0x0RpxzTzg37Tts",
+    "googleName": "Buffelsrivier Camping",
+    "address": "VVFM+CC, Laingsburg"
+  },
+  "river-goose-camp-site-bonnievale": {
+    "placeId": "ChIJ321ogaEw0h0RdGnIu9ghxWo",
+    "googleName": "River Goose Camp Site Bonnievale",
+    "address": "Farm Eureka, Gelukshoop Road, Bonnievale, 6730"
+  },
+  "champagne-campsite-cottage": {
+    "placeId": "ChIJAcabtwL0zR0R1dUuq1vKMXM",
+    "googleName": "Champagne Campsite & Cottage",
+    "address": "Champagne, Greyton, 7233"
+  },
+  "appleton-scout-campsite": {
+    "placeId": "ChIJh1NM6RVnzB0R8FuTE_98ELg",
+    "googleName": "Appleton Scout Campsite",
+    "address": "Signal Hill Rd, Signal Hill, Cape Town, 8001"
+  },
+  "bergenwater-campsite": {
+    "placeId": "ChIJDb-BvCydzR0RsZOYm-y-cNs",
+    "googleName": "Bergenwater Campsite",
+    "address": "Goudyn Rd, Rawsonville, 6845"
+  },
+  "porcupine-rest-camp": {
+    "placeId": "ChIJISFySDh-1B0Rre0JE18T36o",
+    "googleName": "Porcupine Rest Camp",
+    "address": "Route 323, Vleiland, Laingsburg, 6900"
+  },
+  "kliphoek-river-resort": {
+    "placeId": "ChIJP25T4G1nMxwRfwzzOOxH3DE",
+    "googleName": "Kliphoek River Resort",
+    "address": "Kliphoek farm, No street, Velddrif, 7365"
+  },
+  "otium-oasis-glamping-and-camping": {
+    "placeId": "ChIJa8c8AAYBzh0RvW-VFgh5EIM",
+    "googleName": "Otium Oasis Glamping and Camping",
+    "address": "Portion 78 of farm 811, Tesselaarsdal, Caledon District, Tesselaarsdal, 7230"
+  },
+  "ihlati-bush-camp": {
+    "placeId": "ChIJu5zkA8nvzB0Rc1OJZRwcczk",
+    "googleName": "ihlati bush camp",
+    "address": "Rondeberg Rd, Cape Farms, Cape Town, 7350"
+  },
+  "lang-elsies-kraal-rest-camp": {
+    "placeId": "ChIJX7KhyzTR0x0RaQyVsKWcS2s",
+    "googleName": "Lang Elsie's Kraal Rest Camp",
+    "address": "Swellendam, 6740"
+  },
+  "van-zylsrus-caravan-park": {
+    "placeId": "ChIJi60_u3hRzB0RKczpDFTUNms",
+    "googleName": "Van Zylsrus Caravan Park",
+    "address": "Bottelary Rd, Kuils River, Cape Town, 7579"
+  },
+  "cherry-glamping": {
+    "placeId": "ChIJ64IBOGHDzR0RnPkhk1SMAfg",
+    "googleName": "Cherry Glamping",
+    "address": "N2 N2 Elgin, Elgin Valley, 7180"
+  },
+  "blinkwater-camping-cottages": {
+    "placeId": "ChIJCxZsHF7rMhwRBM31te7j-wQ",
+    "googleName": "Blinkwater Camping & Cottages",
+    "address": "Citrusdal, 7340"
+  },
+  "eagle-falls-country-lodge-and-camping": {
+    "placeId": "ChIJ7c3mTKWyeB4RjP6ImKdslhY",
+    "googleName": "Eagle Falls Country Lodge (and camping)",
+    "address": "Kammanassie Rd"
+  },
+  "wild-wind-family-resort": {
+    "placeId": "ChIJ51XeoIbLzR0R443D9J5SRLs",
+    "googleName": "Wild Wind Family Resort",
+    "address": "156 Sir Lowry's Pass Rd, Gordon's Bay, Cape Town, 7140"
+  },
+  "slangkop-tented-camp-hoerikwaggo-trail": {
+    "placeId": "ChIJh7nf_JdszB0Rsi0-49ltJV4",
+    "googleName": "Slangkop Tented Camp (Hoerikwaggo Trail)",
+    "address": "46-44, 46 Lighthouse Rd, Cape Peninsula, Cape Town, 7976"
+  },
+  "apostle-battery-campsite": {
+    "placeId": "ChIJu2OAwrtozB0RVLhLqbqnJHU",
+    "googleName": "Apostle Battery Campsite",
+    "address": "Victoria Rd, Llandudno, Cape Town, 7806"
+  },
+  "breede-escape-river-camp": {
+    "placeId": "ChIJ5yuo1hwx0h0RmUcWlxhWZ6Q",
+    "googleName": "Breede Escape River Camp",
+    "address": "Breede Escape, Bonnievale, 6730"
+  },
+  "noah-farm-campsite": {
+    "placeId": "ChIJT_r75pNrzR0R-7n7xYZjfeM",
+    "googleName": "Noah - Farm Campsite",
+    "address": "Boontjiesrivier, Wolseley, 6830"
+  },
+  "wolvenberg-stille-waters-campsite": {
+    "placeId": "ChIJQ6jjZyGdzR0R7eXPTFEMICQ",
+    "googleName": "Wolvenberg & Stille Waters Campsite",
+    "address": "Old N1 Rd, Rawsonville, 6845"
+  },
+  "aqua-eden-camp-ground-george": {
+    "placeId": "ChIJc4FqmfgZ1h0RFVBQR2rJWfM",
+    "googleName": "Aqua Eden Camp Ground George",
+    "address": "Camping Spot: S34.054745 E22.436761, George"
+  },
+  "buffelskop-caravan-park": {
+    "placeId": "ChIJccY9pPyUeB4Re64cJujbfiE",
+    "googleName": "Buffelskop Caravan Park",
+    "address": "WX87+84, Main Street, Buffels Bay, 6500"
+  },
+  "skilpadfontein-private-campsite": {
+    "placeId": "ChIJl3Et2BJ0zR0R4HR33VlQmzo",
+    "googleName": "Skilpadfontein Private Campsite",
+    "address": "R43 Road Slanghoek, 7624"
+  },
+  "breede-otter-campsite": {
+    "placeId": "ChIJY-KxTvp50h0Rb-oMdsd1hfw",
+    "googleName": "Breede Otter Campsite",
+    "address": "Unnamed Road, scherpenheuwel, Worcester, 6849"
+  },
+  "zandvlei-resort-and-chalets-muizenberg": {
+    "placeId": "ChIJNwiQrKtBzB0RVQTs6O505Gc",
+    "googleName": "Zandvlei Resort and Chalets Muizenberg",
+    "address": "35 The Row St, Muizenberg, Cape Town, 7950"
+  },
+  "rivers-end-farm-stanford": {
+    "placeId": "ChIJu4E8mcUFzh0RRIkLx7GtfMM",
+    "googleName": "Rivers End Farm Stanford",
+    "address": "Wortelgat Rd, Stanford, 7210"
+  },
+  "afri-eco-resorts-wilderness": {
+    "placeId": "ChIJO_HUsWuneB4R3wPjTruegbI",
+    "googleName": "Afri Eco Resorts - Wilderness",
+    "address": "XMWW+XC, Wilderness, 6560"
+  },
+  "the-berry-guest-farm-camping": {
+    "placeId": "ChIJiUfC4WLT0x0RfGekUn_-5iY",
+    "googleName": "The Berry Guest Farm - Camping",
+    "address": "The Berry Guest Farm, N6, Swellendam, 6740"
+  },
+  "franschhoek-camping": {
+    "placeId": "ChIJ46e7eKO7zR0RcOSvuZxjo1w",
+    "googleName": "Franschhoek Camping",
+    "address": "La Motte Station Road La Motte Frasnchhoek, 7690"
+  },
+  "butterfly-creek-bush-camp": {
+    "placeId": "ChIJBff7gq5x1h0RY9d2Kbph0OE",
+    "googleName": "Butterfly Creek Bush Camp",
+    "address": "Rural, Beneke Rd, Friemersheim, Great Brak River, 6525"
+  },
+  "at-the-farm-camping": {
+    "placeId": "ChIJo88MDA5_1B0Rk1ub64xKFuI",
+    "googleName": "At the farm Camping",
+    "address": "R323 Sandrivier Farm Seweweekspoort, Laingsburg, 6900"
+  },
+  "swartvlei-caravan-park": {
+    "placeId": "ChIJeb80KY-jeB4RL4WgWBlU7zA",
+    "googleName": "Swartvlei Caravan Park",
+    "address": "Swartvlei Beach Rd"
+  },
+  "falcon-river-reserve": {
+    "placeId": "ChIJK6-awYPR0x0RGTEW2CAwpbk",
+    "googleName": "Falcon River Reserve",
+    "address": "N2, Swellendam, 6740"
+  },
+  "hemels-in-the-valley": {
+    "placeId": "ChIJYz9LRQ3jzR0Rv8AKChjshvk",
+    "googleName": "Hemels in the Valley",
+    "address": "Ertjiesvlei Farm, Hemel and Aarde Valley, Hermanus, 7200"
+  },
+  "molenrivier": {
+    "placeId": "ChIJ_U9j9Cdz1h0Ryz3GHy-m3m8",
+    "googleName": "MOLENRIVIER",
+    "address": "Molenrivier farm, Great Brak River, 6525"
+  },
+  "die-eike-private-camping": {
+    "placeId": "ChIJBXVyRUA5zR0RleV52OmybM4",
+    "googleName": "Die Eike - Private Camping",
+    "address": "Winterhoek Rd, Tulbagh, 6820"
+  },
+  "die-ark-campground-and-rooms": {
+    "placeId": "ChIJb-FgMIwtMxwRp3IBAVCAKRk",
+    "googleName": "Die Ark Campground and Rooms",
+    "address": "Hooggelee farm, Koringberg, 7312"
+  },
+  "ebb-flow-north-campsite": {
+    "placeId": "ChIJUeg7JQAd1h0Rp3VMZ4HcZTM",
+    "googleName": "Ebb & Flow North Campsite",
+    "address": "2J75+M7, Hoekwil, Wilderness, 6538"
+  },
+  "bushbuck-camp": {
+    "placeId": "ChIJc66cjMq8eB4R718qp6piN1w",
+    "googleName": "Bushbuck Camp",
+    "address": "Cloud 9 Road e, Sedgefield"
+  },
+  "back-2-basics-adventure-campsite": {
+    "placeId": "ChIJq6qqqv7FzR0RWw_qbj_xkXg",
+    "googleName": "Back 2 Basics Adventure Campsite",
+    "address": "N2, Grabouw, 7160"
+  },
+  "eikebos-campground-caledon": {
+    "placeId": "ChIJKckkeSH4zR0RvOAqm9-gPsI",
+    "googleName": "Eikebos Campground Caledon",
+    "address": "Dwaalhoek Farm, Eikebos Cottage & Campsite, R406, Greyton, 7230"
+  },
+  "meulwater-camp": {
+    "placeId": "ChIJ-SqI9B-pzR0R3T8p0Z08pTY",
+    "googleName": "Meulwater Camp",
+    "address": "Jan Phillips Bergpad, Paarl, 7620"
+  },
+  "moon-river-bush-camp": {
+    "placeId": "ChIJHxxyzcOvMhwRokqN-zkdHV8",
+    "googleName": "MOON RIVER BUSH CAMP",
+    "address": "Die Dorp Op Die Berg, 6836"
+  },
+  "arendsrus-campsite-kamp": {
+    "placeId": "ChIJlX04_qkN1h0RvpeQ0dp73T8",
+    "googleName": "ArendsRus Campsite / Kamp",
+    "address": "Farm 28, Koesterbos Road Geelhoutboom, George, 6537"
+  },
+  "fish-eagle-river-camp": {
+    "placeId": "ChIJX9oVAllj0R0RYLwDIAnbGpc",
+    "googleName": "Fish Eagle River Camp",
+    "address": "Swellendam"
+  },
+  "bietjiedam": {
+    "placeId": "ChIJvS_LoBr7zR0RJvyQ76lSoRY",
+    "googleName": "BietjieDam",
+    "address": "Voorhoede Plaas, Caledon, 7230"
+  },
+  "de-hoop-nature-reserve-campsite": {
+    "placeId": "ChIJR_J7O8110R0RO-2CylAFa20",
+    "googleName": "De Hoop Nature Reserve campsite",
+    "address": "GCX2+4R, Ouplaas"
+  },
+  "nightsky-camping": {
+    "placeId": "ChIJKZG5bB090h0R5fCxmqOh2QE",
+    "googleName": "Nightsky Camping",
+    "address": "Oudekraal Farm, Boesmansrivier, Bonnievale, 6730"
+  },
+  "happy-campers-campsite": {
+    "placeId": "ChIJdw_OSo5dMxwRtynM8PJTHEM",
+    "googleName": "Happy Campers Campsite",
+    "address": "R399 Piketberg road Velddrif, 7365"
+  },
+  "schoemanshoek-glamping": {
+    "placeId": "ChIJU_MY-ZKV1R0RZyfzK726qs4",
+    "googleName": "Schoemanshoek Glamping",
+    "address": "Die Fonteine Schoemanshoek, Oudtshoorn, 6620"
+  },
+  "leopards-tree-campsite": {
+    "placeId": "ChIJIc-BtP3FMhwRnf_ovzPLBW4",
+    "googleName": "Leopard's Tree Campsite",
+    "address": "Karnemelksvlei plaas, 7340"
+  },
+  "birthday-bay": {
+    "placeId": "ChIJ2-ea4hSZNBwRkop0eSPXAcs",
+    "googleName": "Birthday Bay",
+    "address": "West Coast Peninsula"
+  },
+  "oriole-camp-site": {
+    "placeId": "ChIJt8AubQbneB4RCaUhDxJQ3cA",
+    "googleName": "Oriole Camp Site",
+    "address": "Fisantehoek, Fisanthoek Road, Plettenberg Bay, 6600"
+  },
+  "soetendal-bushcamp": {
+    "placeId": "ChIJJTIGYlARzR0R_NFuqdLIpSk",
+    "googleName": "Soetendal Bushcamp",
+    "address": "Soetendal Rd, Wellington, Cape Town, 7654"
   }
 }

@@ -196,6 +196,13 @@ const ACTIVITY_SWEEPS: Record<string, { query: string; category: Category; sig: 
     category: "outdoor",
     sig: /\bhik|\btrail|kloof|gorge|ravine|\bpeak\b|summit|\bnek\b|waterfall|nature reserve|forest|buttress|contour|pipe track|mountain\b/i,
   },
+  // Campgrounds are a real Google type; the signature catches caravan parks
+  // and Afrikaans "kamp/-plaas" naming that the type alone can miss.
+  camp: {
+    query: "camping",
+    category: "outdoor",
+    sig: /camp|caravan|\btent|glamp|\bkamp|resort\b/i,
+  },
 };
 
 /** Retail masquerading as activity results (board shops, repair benches). */

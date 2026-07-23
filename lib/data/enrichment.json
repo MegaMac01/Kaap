@@ -138,7 +138,7 @@
       "lng": 18.4488229
     },
     "rating": 4.2,
-    "reviewCount": 2460,
+    "reviewCount": 2461,
     "phone": "+27 21 788 1726",
     "website": "https://www.eatout.co.za/venue/kalkys/",
     "address": "Harbour, Cape Town, 7990",
@@ -18425,7 +18425,7 @@
       "lng": 18.9621207
     },
     "rating": 4.2,
-    "reviewCount": 2480,
+    "reviewCount": 2481,
     "phone": "+27 21 872 9861",
     "website": "http://www.bossa.co.za/",
     "address": "166 Main Road, Omnipark Building, Paarl, 7620, Hoog-En-Droog, Paarl, 7646",
@@ -18599,7 +18599,7 @@
       "lng": 18.9613931
     },
     "rating": 4.6,
-    "reviewCount": 1093,
+    "reviewCount": 1094,
     "phone": "+27 21 872 9283",
     "website": "https://jacksonandblack.co.za/",
     "address": "Frater Square, 40A Main Rd, Suider, Paarl, 7646",
@@ -20292,7 +20292,7 @@
       "lng": 18.8569477
     },
     "rating": 4.8,
-    "reviewCount": 3809,
+    "reviewCount": 3812,
     "phone": "+27 67 185 5858",
     "website": "http://www.vendettas.co.za/",
     "address": "15 Hamman St, Stellenbosch Central, Stellenbosch, 7600",
@@ -34603,7 +34603,7 @@
       "lng": 18.4160272
     },
     "rating": 4.7,
-    "reviewCount": 1448,
+    "reviewCount": 1449,
     "phone": "+27 63 710 4742",
     "website": "https://www.thewoodlandseatery.com/",
     "address": "8 Breda St, Oranjezicht, Cape Town, 8001",
@@ -37904,6 +37904,4353 @@
         {
           "open": "10:30",
           "close": "14:30"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "berg-river-resort": {
+    "placeId": "ChIJWVakJNuozR0Rhh_ftAMxapw",
+    "googleName": "Berg River Resort",
+    "coords": {
+      "lat": -33.7958144,
+      "lng": 18.961626499999998
+    },
+    "rating": 4.2,
+    "reviewCount": 1852,
+    "phone": "+27 21 007 1852",
+    "website": "http://www.bergriverresort.co.za/",
+    "address": "R45 Franschhoek Rd, Paarl South, 7624",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "atkv-hartenbos": {
+    "placeId": "ChIJ4fQJxjBp1h0RXizsOdb2_fI",
+    "googleName": "ATKV Hartenbos",
+    "coords": {
+      "lat": -34.1249438,
+      "lng": 22.1124355
+    },
+    "rating": 4.3,
+    "reviewCount": 1424,
+    "phone": "+27 44 601 7200",
+    "website": "https://hartenbos.co.za/",
+    "address": "Corner of Cape of Good Hope &, Majuba Ave, Hartenbos, Mossel Bay, 6520",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "kleinplaas-resort": {
+    "placeId": "ChIJp9hqVJDB1R0RBnOLPwnTQ8Y",
+    "googleName": "Kleinplaas Resort",
+    "coords": {
+      "lat": -33.5758187,
+      "lng": 22.205891599999998
+    },
+    "rating": 4.4,
+    "reviewCount": 1252,
+    "phone": "+27 44 272 5811",
+    "website": "http://www.kleinplaas.co.za/",
+    "address": "171 Baron Van Reede St & North St, Oudtshoorn, 6620",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "montagu-caravan-park": {
+    "placeId": "ChIJE4vvg95F0h0R-T5qpu7RS90",
+    "googleName": "Montagu Caravan Park",
+    "coords": {
+      "lat": -33.787450899999996,
+      "lng": 20.112955
+    },
+    "rating": 4.2,
+    "reviewCount": 954,
+    "phone": "+27 23 614 3034",
+    "website": "http://www.montagucaravanpark.co.za/",
+    "address": "4 Middel St, Montagu, 6720",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "jongensfontein-caravan-park": {
+    "placeId": "ChIJw4ZE0YPG1h0RJzrNJkrlI1w",
+    "googleName": "Jongensfontein Caravan Park",
+    "coords": {
+      "lat": -34.4260818,
+      "lng": 21.338609899999998
+    },
+    "rating": 4.5,
+    "reviewCount": 883,
+    "phone": "+27 28 713 7851",
+    "website": "http://www.explorersgardenroute.co.za/",
+    "address": "Kamposig Terrace, Jongensfontein, Groot-Jongensfontein, 6675",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "slanghoek-mountain-resort": {
+    "placeId": "ChIJT4vQTPp0zR0RFEXWDxNyNqk",
+    "googleName": "Slanghoek Mountain Resort",
+    "coords": {
+      "lat": -33.6294177,
+      "lng": 19.227365
+    },
+    "rating": 4.1,
+    "reviewCount": 838,
+    "phone": "+27 23 344 3138",
+    "website": "http://www.slanghoekresort.co.za/",
+    "address": "Slanghoek Rd, Rawsonville, 6845",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "05:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "05:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "13:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "old-mac-daddy": {
+    "placeId": "ChIJYVF_28DczR0RGD8-Yi6B1lQ",
+    "googleName": "Old Mac Daddy",
+    "coords": {
+      "lat": -34.2306289,
+      "lng": 19.1185379
+    },
+    "rating": 4.5,
+    "reviewCount": 824,
+    "phone": "+27 21 844 0241",
+    "website": "https://www.oldmacdaddy.co.za/",
+    "address": "Elgin Valley Rd Elgin, 7160",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "onrus-caravan-park": {
+    "placeId": "ChIJa0Y1tCZ1zh0RJiKg0EYFbiA",
+    "googleName": "Onrus Caravan Park",
+    "coords": {
+      "lat": -34.4150969,
+      "lng": 19.1708101
+    },
+    "rating": 4.2,
+    "reviewCount": 791,
+    "phone": null,
+    "website": "https://www.overstrand.gov.za/en/onrus-caravan-park",
+    "address": "De Villiers St, Onrusrivier, 7201",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:45",
+          "close": "16:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:45",
+          "close": "16:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:45",
+          "close": "16:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:45",
+          "close": "16:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:45",
+          "close": "15:15"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "yzerfontein-caravan-park": {
+    "placeId": "ChIJ4_hfcvKlzB0RNiAB2WDQT6c",
+    "googleName": "Yzerfontein Caravan Park",
+    "coords": {
+      "lat": -33.338453799999996,
+      "lng": 18.1623241
+    },
+    "rating": 4.1,
+    "reviewCount": 774,
+    "phone": "+27 22 451 2211",
+    "website": null,
+    "address": "Park St, Yzerfontein, 7350",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "ganzekraal-coastal-resort": {
+    "placeId": "ChIJWzPL8YiWzB0RAT4A3MGVEvo",
+    "googleName": "Ganzekraal Coastal Resort",
+    "coords": {
+      "lat": -33.5229399,
+      "lng": 18.3207754
+    },
+    "rating": 4.2,
+    "reviewCount": 755,
+    "phone": "+27 22 433 8547",
+    "website": "http://westcoastdm.co.za/resorts/ganzekraal-coastal-resort/",
+    "address": "R27, Grotto Bay, 7310",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "kambati": {
+    "placeId": "ChIJdTj_tPUs0h0RXSlFGxbBcNY",
+    "googleName": "Kam'Bati",
+    "coords": {
+      "lat": -34.104823599999996,
+      "lng": 20.2870618
+    },
+    "rating": 4.3,
+    "reviewCount": 752,
+    "phone": "+27 79 200 9098",
+    "website": "https://www.kambati.co.za/",
+    "address": "Kam'Bati, 20km before, N2, 6740",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "ebb-and-flow-rest-camp-garden-route-nati": {
+    "placeId": "ChIJ98MEs4Qd1h0R0AlqTC7r8SQ",
+    "googleName": "Ebb-and-Flow Rest Camp (Garden Route National Park - Wilderness Section))",
+    "coords": {
+      "lat": -33.990018899999995,
+      "lng": 22.6084829
+    },
+    "rating": 4.5,
+    "reviewCount": 747,
+    "phone": "+27 44 877 1197",
+    "website": "https://www.sanparks.org/parks/garden_route/camps/wilderness/tourism/accommodation.php",
+    "address": "Dumbelton Rd, Wilderness, 6550",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "22-watervalle-campsite": {
+    "placeId": "ChIJf0ssRAzNMhwRRxldcUgIs6c",
+    "googleName": "22 Watervalle Campsite",
+    "coords": {
+      "lat": -32.985518899999995,
+      "lng": 19.0256609
+    },
+    "rating": 4.3,
+    "reviewCount": 674,
+    "phone": "+27 82 878 1358",
+    "website": "http://22waterfalls.co.za/",
+    "address": "R64 Road, Waterval Farm, Porterville, 6810",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "dwarswegstrandoord": {
+    "placeId": "ChIJ8dte1bMT1h0RJN67ZXWhq9Q",
+    "googleName": "Dwarswegstrandoord",
+    "coords": {
+      "lat": -34.0506263,
+      "lng": 22.273852299999998
+    },
+    "rating": 4.6,
+    "reviewCount": 657,
+    "phone": "+27 44 879 1010",
+    "website": "http://dwarswegstrandoord.co.za/",
+    "address": "2 Dwarswegstrandoord, Kloof St, Bothastrand, Great Brak River, 6525",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "plettenberg-bay-a-forever-resort": {
+    "placeId": "ChIJDavwLR_ieB4RS-KDouTNcSc",
+    "googleName": "Plettenberg Bay, A Forever Resort",
+    "coords": {
+      "lat": -34.000419,
+      "lng": 23.398865
+    },
+    "rating": 4.5,
+    "reviewCount": 580,
+    "phone": "+27 44 535 9309",
+    "website": "http://www.foreverplettenberg.co.za/",
+    "address": "N2 Route Keurboomsriver, Plettenberg Bay, 6600",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "zonnekus-holiday-resort-and-caravan-park": {
+    "placeId": "ChIJg3PQXGL2zB0RAZWvYrEaQ1w",
+    "googleName": "Zonnekus Holiday Resort and Caravan Park",
+    "coords": {
+      "lat": -33.7484223,
+      "lng": 18.538054799999998
+    },
+    "rating": 3.6,
+    "reviewCount": 576,
+    "phone": "+27 21 972 1833",
+    "website": "http://www.zonnekusresort.co.za/",
+    "address": "9 Zonnekus Road, 13 141 Morningstar, Cape Farms, Philadelphia, 7304",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "palmiet-caravan-park-kleinmond": {
+    "placeId": "ChIJxS_gTKDZzR0Rl8jw2O_gLjM",
+    "googleName": "Palmiet Caravan Park Kleinmond",
+    "coords": {
+      "lat": -34.3422921,
+      "lng": 18.9976397
+    },
+    "rating": 4,
+    "reviewCount": 561,
+    "phone": "+27 28 271 8458",
+    "website": "https://www.overstrand.gov.za/en/palmiet-caravan-park",
+    "address": "1 Harbour Rd, Kleinmond, 7195",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "natures-valley-rest-camp": {
+    "placeId": "ChIJ9aK08doZeR4Ra9NlGMVpwYE",
+    "googleName": "Nature's Valley Rest Camp",
+    "coords": {
+      "lat": -33.9706812,
+      "lng": 23.562208899999998
+    },
+    "rating": 4.4,
+    "reviewCount": 475,
+    "phone": "+27 44 531 6700",
+    "website": "https://www.sanparks.org/",
+    "address": "Tsitsikamma National Park, Forest Drive, Kurland, 6820",
+    "hours": {
+      "mon": [
+        {
+          "open": "05:30",
+          "close": "21:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "05:30",
+          "close": "21:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "05:30",
+          "close": "21:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "05:30",
+          "close": "21:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "05:30",
+          "close": "21:30"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "klipkrans-camping-site": {
+    "placeId": "ChIJhecjxyGHzR0RDHxP8kRVTFQ",
+    "googleName": "Klipkrans Camping Site",
+    "coords": {
+      "lat": -33.7443606,
+      "lng": 19.4947314
+    },
+    "rating": 4.5,
+    "reviewCount": 464,
+    "phone": "+27 23 004 0868",
+    "website": "http://www.klipkrans.co.za/",
+    "address": "Scherpenheuwel Road, Worcester, 6850",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "silwerstroom-resort-and-caravan-camping": {
+    "placeId": "ChIJs_dM_bmTzB0Re9-mPT-kFQs",
+    "googleName": "Silwerstroom Resort and Caravan Camping",
+    "coords": {
+      "lat": -33.587884599999995,
+      "lng": 18.3641906
+    },
+    "rating": 4.2,
+    "reviewCount": 448,
+    "phone": "+27 21 444 3605",
+    "website": null,
+    "address": "Silwerstroom Road, off the West Coast Road (R27, Cape Farms, Cape Town",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "punt-karavaanpark": {
+    "placeId": "ChIJVZ3PqA9q1h0RQg3hwL5org0",
+    "googleName": "Punt Karavaanpark",
+    "coords": {
+      "lat": -34.1842772,
+      "lng": 22.1573079
+    },
+    "rating": 4.2,
+    "reviewCount": 437,
+    "phone": "+27 44 690 3501",
+    "website": null,
+    "address": "11 Point Rd, Mossel Bay, 6500",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "george-country-resort": {
+    "placeId": "ChIJpU_52X4b1h0RJuoiYBELaTY",
+    "googleName": "George Country Resort",
+    "coords": {
+      "lat": -33.9929415,
+      "lng": 22.5200545
+    },
+    "rating": 3.9,
+    "reviewCount": 423,
+    "phone": "+27 71 193 2802",
+    "website": "http://www.georgeresort.co.za/",
+    "address": "Main Rd, George",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "keurbooms-lagoon": {
+    "placeId": "ChIJk3APQf_heB4R5qSc-UW5G2c",
+    "googleName": "Keurbooms Lagoon",
+    "coords": {
+      "lat": -34.03804,
+      "lng": 23.3782357
+    },
+    "rating": 4.7,
+    "reviewCount": 411,
+    "phone": "+27 44 533 2567",
+    "website": "http://www.keurboomslagoon.co.za/",
+    "address": "N2, Plettenberg Bay, 6600",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "rocklands-centre": {
+    "placeId": "ChIJnbtPjGg-zB0RjBWFzffPbLA",
+    "googleName": "Rocklands Centre",
+    "coords": {
+      "lat": -34.2172297,
+      "lng": 18.462451700000003
+    },
+    "rating": 4.6,
+    "reviewCount": 396,
+    "phone": "+27 21 786 2501",
+    "website": "http://www.rocklandscentre.co.za/",
+    "address": "77 Rocklands Rd, Murdock Valley, Cape Town, 7975",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "glentana-caravan-park": {
+    "placeId": "ChIJBfMF6cYT1h0RkmLeVR39U3E",
+    "googleName": "Glentana Caravan Park",
+    "coords": {
+      "lat": -34.0502511,
+      "lng": 22.313915299999998
+    },
+    "rating": 4.4,
+    "reviewCount": 396,
+    "phone": "+27 44 879 1536",
+    "website": "http://www.glentanaresort.co.za/",
+    "address": "Glentana, Great Brak River, 6525",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "buffalo-bay-caravan-park": {
+    "placeId": "ChIJR8O7OeiUeB4RBgzL6UWFPDg",
+    "googleName": "Buffalo Bay Caravan Park",
+    "coords": {
+      "lat": -34.089100699999996,
+      "lng": 22.976248500000004
+    },
+    "rating": 4.6,
+    "reviewCount": 371,
+    "phone": "+27 44 383 0045",
+    "website": "http://www.buffalobay.co.za/",
+    "address": "Buffels Bay, 6570",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "voortrekker-park-resorts-strand": {
+    "placeId": "ChIJ0xaF3ObKzR0RuUg83D8mF7Q",
+    "googleName": "Voortrekker Park Resorts Strand",
+    "coords": {
+      "lat": -34.1243057,
+      "lng": 18.8357354
+    },
+    "rating": 3.8,
+    "reviewCount": 358,
+    "phone": "+27 21 444 6918",
+    "website": "https://www.capetown.gov.za/Family%20and%20home/See-all-city-facilities/Our-recreational-facilities/Resorts/Voortrekker%20Park%20Resort",
+    "address": "Beach Rd & Hofmeyer Road, Strand, Cape Town, 7140",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "home-oppi-dam": {
+    "placeId": "ChIJJSOxnZbB1R0R0AT7BPlx0Ws",
+    "googleName": "Home Oppi Dam",
+    "coords": {
+      "lat": -33.474889,
+      "lng": 22.2495209
+    },
+    "rating": 4.6,
+    "reviewCount": 336,
+    "phone": "+27 78 331 5871",
+    "website": "http://www.oppi-dam.co.za/",
+    "address": "N Oppi dam in Schoemanshoek, R328 N, Oudtshoorn, 6620",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "lake-pleasant-caravan-park": {
+    "placeId": "ChIJqVeWhyG9eB4RttkoLwb_xKQ",
+    "googleName": "Lake Pleasant Caravan Park",
+    "coords": {
+      "lat": -34.0251643,
+      "lng": 22.8335419
+    },
+    "rating": 4.5,
+    "reviewCount": 328,
+    "phone": "+27 44 343 2661",
+    "website": "http://lakepleasantresort.co.za/",
+    "address": "Lake Pleasant Resort, Area, 1 Groenvlei Rd, Groenvlei, Sedgefield, 6573",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "hartenbos-river-resort": {
+    "placeId": "ChIJnyyAu81u1h0Rt5X47S5oPqg",
+    "googleName": "Hartenbos River Resort",
+    "coords": {
+      "lat": -34.1130543,
+      "lng": 22.108899700000002
+    },
+    "rating": 4.1,
+    "reviewCount": 324,
+    "phone": "+27 44 695 1520",
+    "website": "http://www.hartenbosriverresort.co.za/",
+    "address": "Plot 217 Hartenbosh Farm, Hartenbos, Mossel Bay, 6520",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "05:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "05:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "05:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "sat": [],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "imhoff-caravan-park-kommetjie": {
+    "placeId": "ChIJmUcHxGNrzB0RW-c3u17IExM",
+    "googleName": "Imhoff Caravan Park Kommetjie",
+    "coords": {
+      "lat": -34.1325777,
+      "lng": 18.3374383
+    },
+    "rating": 4,
+    "reviewCount": 307,
+    "phone": "+27 21 783 1634",
+    "website": "https://www.imhoff.co.za/",
+    "address": "54 Wireless Rd, Kommetjie, Cape Town, 7975",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "oewerzicht-farm-cottages-campsite-greyto": {
+    "placeId": "ChIJ7dVxFEoP0h0Rgm3QPWx70Us",
+    "googleName": "Oewerzicht Farm Cottages & Campsite Greyton",
+    "coords": {
+      "lat": -34.100465899999996,
+      "lng": 19.6658051
+    },
+    "rating": 4.3,
+    "reviewCount": 297,
+    "phone": "+27 28 254 9831",
+    "website": "http://www.oewerzicht.co.za/",
+    "address": "Oewerzicht Farm, Greyton",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "rivierplaas-campsite": {
+    "placeId": "ChIJR3tpTU2GzR0RCxscedP-_G8",
+    "googleName": "Rivierplaas Campsite",
+    "coords": {
+      "lat": -33.7740759,
+      "lng": 19.5212109
+    },
+    "rating": 4.5,
+    "reviewCount": 295,
+    "phone": "+27 84 710 0139",
+    "website": "http://www.rivierplaas.co.za/",
+    "address": "Rivierplaas, Scherpenheuwel, Worcester, 6849",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "kleine-paradys-piketberg": {
+    "placeId": "ChIJyT2IGB0vMxwR0amPMiXLn30",
+    "googleName": "Kleine Paradys Piketberg",
+    "coords": {
+      "lat": -32.9452254,
+      "lng": 18.6823881
+    },
+    "rating": 4.6,
+    "reviewCount": 289,
+    "phone": "+27 84 206 3190",
+    "website": "http://kleineparadys.co.za/",
+    "address": "Morawia, 15km West of, R399 Road, Broodkraal, Piketberg, 7320",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "soetwater-resort-kommetjie": {
+    "placeId": "ChIJw2UIBa8UzB0RiBXhfBmkMP0",
+    "googleName": "Soetwater Resort Kommetjie",
+    "coords": {
+      "lat": -34.1581225,
+      "lng": 18.328531599999998
+    },
+    "rating": 4,
+    "reviewCount": 288,
+    "phone": "+27 21 783 1747",
+    "website": null,
+    "address": "Lighthouse Rd, Kommetjie, Cape Town",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "kuilsrivier-caravan-park": {
+    "placeId": "ChIJXxIjQB9OzB0Rc8tcHszGVxc",
+    "googleName": "Kuilsrivier Caravan Park",
+    "coords": {
+      "lat": -33.9426524,
+      "lng": 18.690198
+    },
+    "rating": 3.9,
+    "reviewCount": 277,
+    "phone": "+27 21 417 4912",
+    "website": null,
+    "address": "131 Van Riebeeck Rd, St Dumas, Cape Town, 7580",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "greyton-twin-rivers-campsite": {
+    "placeId": "ChIJd9zLA6IJ0h0RjOUIj-9D55c",
+    "googleName": "Greyton Twin Rivers Campsite",
+    "coords": {
+      "lat": -34.069763,
+      "lng": 19.609492
+    },
+    "rating": 4.4,
+    "reviewCount": 273,
+    "phone": "+27 60 901 9708",
+    "website": "http://greytontwinriverscampsite.co.za/",
+    "address": "Krige Road, Greyton, 7233",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:30",
+          "close": "18:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:30",
+          "close": "18:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:30",
+          "close": "18:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:30",
+          "close": "18:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:30",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:30",
+          "close": "18:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:30",
+          "close": "18:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "midwest-caravan-park-st-helena-bay": {
+    "placeId": "ChIJg_sWj4OeNBwR9Ffh3NH_tFM",
+    "googleName": "Midwest Caravan Park St Helena Bay",
+    "coords": {
+      "lat": -32.730535599999996,
+      "lng": 17.9902652
+    },
+    "rating": 4.4,
+    "reviewCount": 270,
+    "phone": "+27 84 781 8933",
+    "website": "https://m.facebook.com/pages/category/Interest/Midwest-Karavaan-Park-615341615543085/",
+    "address": "Midwest, St Helena Bay, 7390",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "woodbourne-resort": {
+    "placeId": "ChIJbYNhe7vreB4RStk0BcBAeto",
+    "googleName": "Woodbourne Resort",
+    "coords": {
+      "lat": -34.071537,
+      "lng": 23.0690517
+    },
+    "rating": 4.3,
+    "reviewCount": 264,
+    "phone": "+27 44 384 0316",
+    "website": "http://www.woodbourneknysna.com/",
+    "address": "6571 George Rex Dr, The Heads, Knysna, 6571",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "koningskop-campsite-self-catering-cottag": {
+    "placeId": "ChIJwWg5jRv9MhwRiCQBHB-mCHo",
+    "googleName": "Koningskop Campsite | Self-Catering Cottages | Hiking Trail | 4x4 Route | Cycling Trail",
+    "coords": {
+      "lat": -32.498512000000005,
+      "lng": 18.848577
+    },
+    "rating": 4.5,
+    "reviewCount": 254,
+    "phone": "+27 22 125 0619",
+    "website": "https://koningskop.co.za/",
+    "address": "Wilgerbosdrif Farm, Paleisheuwel Road, Citrusdal, 7340",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "gansbaai-caravan-park": {
+    "placeId": "ChIJu9t43ukQzh0R8nlNbHajuFs",
+    "googleName": "Gansbaai Caravan Park",
+    "coords": {
+      "lat": -34.5820112,
+      "lng": 19.3473516
+    },
+    "rating": 4.1,
+    "reviewCount": 249,
+    "phone": null,
+    "website": "https://xplorio.com/gansbaai/gansbaai-caravan-park/?utm_source=google&utm_campaign=business-listing&utm_medium=organic&utm_content=15354&utm_term=gansbaai-caravan-park",
+    "address": "75 Kus Rd, Gansbaai, 7220",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "16:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "16:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "16:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "16:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "16:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "16:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "strandskloof-caravan-park-gansbaai": {
+    "placeId": "ChIJv4MsYdsbzh0R_N9aOvKq7oA",
+    "googleName": "Strandskloof Caravan Park - Gansbaai",
+    "coords": {
+      "lat": -34.578192,
+      "lng": 19.4417154
+    },
+    "rating": 4.7,
+    "reviewCount": 244,
+    "phone": "+27 82 721 4381",
+    "website": "https://xplorio.com/gansbaai/strandskloof-caravan-park/?utm_source=google&utm_campaign=business-listing&utm_medium=organic&utm_content=5379&utm_term=strandskloof-caravan-park",
+    "address": "Strandskloof Plaas, Gansbaai, 7220",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "hardekraaltjie-caravan-park": {
+    "placeId": "ChIJu6EGH4JQzB0R9XUPMcTy208",
+    "googleName": "Hardekraaltjie Caravan Park",
+    "coords": {
+      "lat": -33.902792999999996,
+      "lng": 18.614383999999998
+    },
+    "rating": 3.7,
+    "reviewCount": 242,
+    "phone": "+27 82 647 7201",
+    "website": null,
+    "address": "4 Voortrekker Rd, Boston, Cape Town, 7530",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "13:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:30",
+          "close": "13:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "kleinmond-caravan-park": {
+    "placeId": "ChIJzRgcx8DZzR0RZQZZGrxWJKc",
+    "googleName": "Kleinmond Caravan Park",
+    "coords": {
+      "lat": -34.3340757,
+      "lng": 19.03961
+    },
+    "rating": 3.9,
+    "reviewCount": 237,
+    "phone": "+27 79 312 1614",
+    "website": "https://kleinmondcaravanpark.co.za/",
+    "address": "39 Geelhout Ave, Kleinmond, 7195",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "16:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "16:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "16:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "16:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "16:30"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "froggy-pond-resort": {
+    "placeId": "ChIJORt-_0I-zB0Rr8rxQNVIxxI",
+    "googleName": "Froggy Pond Resort",
+    "coords": {
+      "lat": -34.2040217,
+      "lng": 18.4552261
+    },
+    "rating": 4.2,
+    "reviewCount": 229,
+    "phone": "+27 21 786 1281",
+    "website": "http://www.froggypondresort.co.za/",
+    "address": "358 Main Rd, Froggy Pond, Cape Town, 7975",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "13:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "de-hoek-mountain-resort": {
+    "placeId": "ChIJd8pF2oql1R0RvBLJyHA5cgM",
+    "googleName": "De Hoek Mountain Resort",
+    "coords": {
+      "lat": -33.3684638,
+      "lng": 22.177670199999998
+    },
+    "rating": 4.3,
+    "reviewCount": 228,
+    "phone": "+27 44 272 8214",
+    "website": "https://dehoekmountainresort.co.za/",
+    "address": "R328 & Oudtshoorn, Western Cape, Prince Albert, 6930",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "khomeesdrif-camping-site": {
+    "placeId": "ChIJjw0KlS4a0h0R9MDYcsuZEfE",
+    "googleName": "Khomeesdrif Camping Site",
+    "coords": {
+      "lat": -34.130651799999995,
+      "lng": 19.849467999999998
+    },
+    "rating": 4.4,
+    "reviewCount": 222,
+    "phone": "+27 82 937 0053",
+    "website": "https://xplorio.com/riviersonderend/khomeesdrif/?utm_source=google&utm_campaign=business-listing&utm_medium=organic&utm_content=36069&utm_term=khomeesdrif",
+    "address": "Kleinplasie, Riviersonderend, 7250",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "seebries-caravan-park-langebaan": {
+    "placeId": "ChIJhXHhOuWpNBwRoShzzL44TQs",
+    "googleName": "Seebries Caravan Park Langebaan",
+    "coords": {
+      "lat": -33.0753586,
+      "lng": 18.0380246
+    },
+    "rating": 4,
+    "reviewCount": 199,
+    "phone": "+27 22 772 2477",
+    "website": null,
+    "address": "157 Main St, Langebaan, 7357",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "schoongezicht-campsite": {
+    "placeId": "ChIJacKGpyC4MhwRpU1XroUHs3M",
+    "googleName": "Schoongezicht Campsite",
+    "coords": {
+      "lat": -32.817702,
+      "lng": 19.216836
+    },
+    "rating": 4.7,
+    "reviewCount": 195,
+    "phone": "+27 82 855 4573",
+    "website": "http://www.schoongezichtkamp.co.za/",
+    "address": "Koue Bokkeveld, 6836",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "wolfkop-camping-villages": {
+    "placeId": "ChIJXzrtXXnEMhwRXdRrDHoHgyA",
+    "googleName": "Wolfkop Camping Villages",
+    "coords": {
+      "lat": -32.7593254,
+      "lng": 19.069730699999997
+    },
+    "rating": 4.3,
+    "reviewCount": 190,
+    "phone": "+27 83 260 4822",
+    "website": "http://www.wolfkopcampingvillages.co.za/",
+    "address": "59 Voortrekker St, Citrusdal, 7340",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "stywelyne-caravan-park-velddrif": {
+    "placeId": "ChIJVek2YhhnMxwRBovYF5Njjs8",
+    "googleName": "Stywelyne Caravan Park Velddrif",
+    "coords": {
+      "lat": -32.7668958,
+      "lng": 18.1509791
+    },
+    "rating": 4.2,
+    "reviewCount": 181,
+    "phone": "+27 22 783 0408",
+    "website": "http://www.velddriftourism.co.za/?q=content/stywelyne-beach-resort",
+    "address": "Perlemoen St, Laaiplek, Velddrif, 7365",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "island-lake-holiday-resort": {
+    "placeId": "ChIJU1tG9m6neB4RjBcz9oLqfJE",
+    "googleName": "Island Lake Holiday Resort",
+    "coords": {
+      "lat": -33.98793,
+      "lng": 22.635759999999998
+    },
+    "rating": 4.3,
+    "reviewCount": 179,
+    "phone": "+27 44 877 1194",
+    "website": "http://www.islandlake.co.za/",
+    "address": "Hoekwil Rd, Wilderness, 6560",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "millers-point-resort": {
+    "placeId": "ChIJIwc4PH8-zB0RD5E_pvjOkHc",
+    "googleName": "Miller’s Point Resort",
+    "coords": {
+      "lat": -34.228981499999996,
+      "lng": 18.4704931
+    },
+    "rating": 4.2,
+    "reviewCount": 177,
+    "phone": "+27 21 444 6769",
+    "website": "http://www.capetown.gov.za/Family%20and%20home/See-all-city-facilities/Our-recreational-facilities/Resorts/Miller's%20Point%20Resort",
+    "address": "Outside, Cape Town",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "stille-waters-campsite": {
+    "placeId": "ChIJB1DCwAmdzR0R-tnxEjUzFho",
+    "googleName": "Stille Waters Campsite",
+    "coords": {
+      "lat": -33.7163381,
+      "lng": 19.3058968
+    },
+    "rating": 4.4,
+    "reviewCount": 173,
+    "phone": "+27 76 496 2033",
+    "website": "https://campsites.1r.co.za/69-breede-river-valley/126-stille-waters-campsite",
+    "address": "Goudyn Rd, Rawsonville",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "disakloof-camping": {
+    "placeId": "ChIJl0nNqL3WzR0RcFmWKE4_xRs",
+    "googleName": "Disakloof Camping",
+    "coords": {
+      "lat": -34.3506889,
+      "lng": 18.923645
+    },
+    "rating": 4.5,
+    "reviewCount": 173,
+    "phone": "+27 84 829 0665",
+    "website": "https://disakloof.co.za/",
+    "address": "Clarence Dr, Betty's Bay, 7141",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "altydwater-campsite": {
+    "placeId": "ChIJB4y7lNWdzR0RDPejsCRTPaQ",
+    "googleName": "Altydwater Campsite",
+    "coords": {
+      "lat": -33.7111321,
+      "lng": 19.2843415
+    },
+    "rating": 4.1,
+    "reviewCount": 172,
+    "phone": "+27 83 682 2844",
+    "website": "https://www.facebook.com/AltydWaterCampingSite/timeline",
+    "address": "R101, Worcester NU, Worcester",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "kleine-eike-greyton": {
+    "placeId": "ChIJ1Uyoum4P0h0R_zFak3zvDmM",
+    "googleName": "Kleine Eike Greyton",
+    "coords": {
+      "lat": -34.102586699999996,
+      "lng": 19.6800559
+    },
+    "rating": 4.7,
+    "reviewCount": 162,
+    "phone": "+27 82 809 9896",
+    "website": "https://www.kleineeike.com/",
+    "address": "R406 Road. S34.1037318, E19.6691651, Greyton",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "swellendam-caravan-park": {
+    "placeId": "ChIJh2UHVZXR0x0RutH8AqKyOQs",
+    "googleName": "Swellendam Caravan Park",
+    "coords": {
+      "lat": -34.0128997,
+      "lng": 20.4496655
+    },
+    "rating": 3.7,
+    "reviewCount": 153,
+    "phone": "+27 28 514 8575",
+    "website": "https://www.westerncape.gov.za/service/swellendam-municipality-cultural-sport-and-recreational-facilities",
+    "address": "34 Glen Barry Rd, Swellendam, 6740",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "gourits-river-guest-farm-eco-camping": {
+    "placeId": "ChIJQ-cxnuGO1h0RLBZvooYMC0M",
+    "googleName": "Gourits River Guest Farm & Eco-camping",
+    "coords": {
+      "lat": -34.136406,
+      "lng": 21.717031
+    },
+    "rating": 4.7,
+    "reviewCount": 152,
+    "phone": "+27 76 398 0892",
+    "website": "http://www.grguestfarm.com/",
+    "address": "Valsriviermond, Albertinia, 6695",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "victoria-bay-camping-site": {
+    "placeId": "ChIJ7WqIKWgc1h0RgR1hOUf_Y-w",
+    "googleName": "Victoria Bay Camping Site",
+    "coords": {
+      "lat": -34.0039403,
+      "lng": 22.5482168
+    },
+    "rating": 4.4,
+    "reviewCount": 150,
+    "phone": "+27 44 889 0081",
+    "website": "https://www.victoriabaycaravanpark.co.za/",
+    "address": "Victoria Bay",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "leentjiesklip-holiday-resort-caravan-par": {
+    "placeId": "ChIJbUHxFOdXMxwRp9uxswaGNRU",
+    "googleName": "Leentjiesklip Holiday Resort (Caravan Park)",
+    "coords": {
+      "lat": -33.0667969,
+      "lng": 18.041794400000004
+    },
+    "rating": 4.5,
+    "reviewCount": 148,
+    "phone": "+27 22 772 2461",
+    "website": "https://sbm.gov.za/leentjiesklip-resort/",
+    "address": "Leentjiesklip, Langebaan, 7357",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "oostewal-caravan-park-holiday-resort-lan": {
+    "placeId": "ChIJMRuuL_apNBwRA771HOJ-sLA",
+    "googleName": "Oostewal Caravan Park & Holiday Resort Langebaan",
+    "coords": {
+      "lat": -33.088698,
+      "lng": 18.0346732
+    },
+    "rating": 3.9,
+    "reviewCount": 138,
+    "phone": "+27 22 772 2442",
+    "website": "https://sbm.gov.za/oostewal-caravan-park-and-holiday-resort/",
+    "address": "Oostewal Rd, Langebaan, 7357",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "outeniqua-caravan-park": {
+    "placeId": "ChIJx4IcnZxu1h0RJkargRIagnw",
+    "googleName": "Outeniqua Caravan Park",
+    "coords": {
+      "lat": -34.0817973,
+      "lng": 22.137223499999998
+    },
+    "rating": 4.3,
+    "reviewCount": 129,
+    "phone": "+27 79 274 4408",
+    "website": "https://www.outeniquacaravanpark.co.za/",
+    "address": "1 Park Ave, Klein Brak River, 6503",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "camp-canoe": {
+    "placeId": "ChIJP3YKs59NzB0RNOBN8_Dw3yY",
+    "googleName": "Camp Canoe",
+    "coords": {
+      "lat": -33.8757764,
+      "lng": 18.973106299999998
+    },
+    "rating": 4.9,
+    "reviewCount": 123,
+    "phone": "+27 66 120 1717",
+    "website": "http://www.campcanoe.co.za/",
+    "address": "R310 Pniel Road, Groot Drakenstein, Franschhoek, 7680",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "river-edge-accommodation": {
+    "placeId": "ChIJkymSkVMNzR0RkC045rfTQqM",
+    "googleName": "River Edge Accommodation",
+    "coords": {
+      "lat": -33.5171925,
+      "lng": 19.1761999
+    },
+    "rating": 4.4,
+    "reviewCount": 119,
+    "phone": "+27 23 004 0054",
+    "website": "http://www.riveredgeaccom.co.za/",
+    "address": "R301 Bainskloof pass, Breerivier, 6858",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "13:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "13:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "13:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "buffelsrivier-camping": {
+    "placeId": "ChIJN7i7Klxp0x0RpxzTzg37Tts",
+    "googleName": "Buffelsrivier Camping",
+    "coords": {
+      "lat": -33.126232099999996,
+      "lng": 20.8850232
+    },
+    "rating": 4.8,
+    "reviewCount": 116,
+    "phone": "+27 82 929 3091",
+    "website": "http://www.buffelsrivier.co.za/",
+    "address": "VVFM+CC, Laingsburg",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "river-goose-camp-site-bonnievale": {
+    "placeId": "ChIJ321ogaEw0h0RdGnIu9ghxWo",
+    "googleName": "River Goose Camp Site Bonnievale",
+    "coords": {
+      "lat": -33.977593299999995,
+      "lng": 20.1447631
+    },
+    "rating": 4.4,
+    "reviewCount": 114,
+    "phone": "+27 82 759 5727",
+    "website": "http://www.rivergoosecampsite.co.za/",
+    "address": "Farm Eureka, Gelukshoop Road, Bonnievale, 6730",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "champagne-campsite-cottage": {
+    "placeId": "ChIJAcabtwL0zR0R1dUuq1vKMXM",
+    "googleName": "Champagne Campsite & Cottage",
+    "coords": {
+      "lat": -34.0676284,
+      "lng": 19.4845375
+    },
+    "rating": 4.5,
+    "reviewCount": 108,
+    "phone": "+27 84 242 4042",
+    "website": "https://farmchampagne.com/",
+    "address": "Champagne, Greyton, 7233",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "appleton-scout-campsite": {
+    "placeId": "ChIJh1NM6RVnzB0R8FuTE_98ELg",
+    "googleName": "Appleton Scout Campsite",
+    "coords": {
+      "lat": -33.9208303,
+      "lng": 18.398488999999998
+    },
+    "rating": 4.6,
+    "reviewCount": 105,
+    "phone": "+27 21 685 8420",
+    "website": "http://westerncape.scouts.org.za/bookings/",
+    "address": "Signal Hill Rd, Signal Hill, Cape Town, 8001",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "bergenwater-campsite": {
+    "placeId": "ChIJDb-BvCydzR0RsZOYm-y-cNs",
+    "googleName": "Bergenwater Campsite",
+    "coords": {
+      "lat": -33.7028093,
+      "lng": 19.2902484
+    },
+    "rating": 4.7,
+    "reviewCount": 103,
+    "phone": "+27 82 341 1178",
+    "website": "http://www.bergenwater.co.za/",
+    "address": "Goudyn Rd, Rawsonville, 6845",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "porcupine-rest-camp": {
+    "placeId": "ChIJISFySDh-1B0Rre0JE18T36o",
+    "googleName": "Porcupine Rest Camp",
+    "coords": {
+      "lat": -33.3711342,
+      "lng": 21.154482299999998
+    },
+    "rating": 4.8,
+    "reviewCount": 103,
+    "phone": "+27 72 448 2016",
+    "website": "http://www.porcupinerestcamp.co.za/",
+    "address": "Route 323, Vleiland, Laingsburg, 6900",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "kliphoek-river-resort": {
+    "placeId": "ChIJP25T4G1nMxwRfwzzOOxH3DE",
+    "googleName": "Kliphoek River Resort",
+    "coords": {
+      "lat": -32.837007899999996,
+      "lng": 18.2082753
+    },
+    "rating": 4.6,
+    "reviewCount": 102,
+    "phone": "+27 76 344 2891",
+    "website": "http://www.kliphoek.co.za/",
+    "address": "Kliphoek farm, No street, Velddrif, 7365",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "otium-oasis-glamping-and-camping": {
+    "placeId": "ChIJa8c8AAYBzh0RvW-VFgh5EIM",
+    "googleName": "Otium Oasis Glamping and Camping",
+    "coords": {
+      "lat": -34.3781843,
+      "lng": 19.509908199999998
+    },
+    "rating": 4.8,
+    "reviewCount": 102,
+    "phone": "+27 79 538 8072",
+    "website": "https://www.otiumoasis.com/",
+    "address": "Portion 78 of farm 811, Tesselaarsdal, Caledon District, Tesselaarsdal, 7230",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "ihlati-bush-camp": {
+    "placeId": "ChIJu5zkA8nvzB0Rc1OJZRwcczk",
+    "googleName": "ihlati bush camp",
+    "coords": {
+      "lat": -33.603705,
+      "lng": 18.562997
+    },
+    "rating": 4.5,
+    "reviewCount": 96,
+    "phone": "+27 82 572 6059",
+    "website": "http://www.ihlatibushcamp.co.za/",
+    "address": "Rondeberg Rd, Cape Farms, Cape Town, 7350",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "21:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "21:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "21:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "21:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "21:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "21:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:30",
+          "close": "21:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "lang-elsies-kraal-rest-camp": {
+    "placeId": "ChIJX7KhyzTR0x0RaQyVsKWcS2s",
+    "googleName": "Lang Elsie's Kraal Rest Camp",
+    "coords": {
+      "lat": -34.0761434,
+      "lng": 20.454889400000003
+    },
+    "rating": 4.5,
+    "reviewCount": 96,
+    "phone": "+27 12 428 9111",
+    "website": "https://www.sanparks.org/parks/bontebok/tourism/accommodation.php",
+    "address": "Swellendam, 6740",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "van-zylsrus-caravan-park": {
+    "placeId": "ChIJi60_u3hRzB0RKczpDFTUNms",
+    "googleName": "Van Zylsrus Caravan Park",
+    "coords": {
+      "lat": -33.9035216,
+      "lng": 18.7069625
+    },
+    "rating": 4.5,
+    "reviewCount": 92,
+    "phone": "+27 21 903 1991",
+    "website": null,
+    "address": "Bottelary Rd, Kuils River, Cape Town, 7579",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "cherry-glamping": {
+    "placeId": "ChIJ64IBOGHDzR0RnPkhk1SMAfg",
+    "googleName": "Cherry Glamping",
+    "coords": {
+      "lat": -34.1858376,
+      "lng": 19.1075206
+    },
+    "rating": 4.6,
+    "reviewCount": 92,
+    "phone": "+27 82 788 9837",
+    "website": "http://www.cherryglamping.co.za/",
+    "address": "N2 N2 Elgin, Elgin Valley, 7180",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "blinkwater-camping-cottages": {
+    "placeId": "ChIJCxZsHF7rMhwRBM31te7j-wQ",
+    "googleName": "Blinkwater Camping & Cottages",
+    "coords": {
+      "lat": -32.6316579,
+      "lng": 19.102673499999998
+    },
+    "rating": 4.7,
+    "reviewCount": 91,
+    "phone": "+27 72 624 8659",
+    "website": "https://www.blinkwatercamping.com/",
+    "address": "Citrusdal, 7340",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "eagle-falls-country-lodge-and-camping": {
+    "placeId": "ChIJ7c3mTKWyeB4RjP6ImKdslhY",
+    "googleName": "Eagle Falls Country Lodge (and camping)",
+    "coords": {
+      "lat": -33.7211445,
+      "lng": 22.8165862
+    },
+    "rating": 4.2,
+    "reviewCount": 82,
+    "phone": "+27 44 745 1122",
+    "website": "https://www.eaglefalls.co.za/",
+    "address": "Kammanassie Rd",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "wild-wind-family-resort": {
+    "placeId": "ChIJ51XeoIbLzR0R443D9J5SRLs",
+    "googleName": "Wild Wind Family Resort",
+    "coords": {
+      "lat": -34.1456924,
+      "lng": 18.892343699999998
+    },
+    "rating": 3.8,
+    "reviewCount": 79,
+    "phone": "+27 79 911 4668",
+    "website": null,
+    "address": "156 Sir Lowry's Pass Rd, Gordon's Bay, Cape Town, 7140",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "slangkop-tented-camp-hoerikwaggo-trail": {
+    "placeId": "ChIJh7nf_JdszB0Rsi0-49ltJV4",
+    "googleName": "Slangkop Tented Camp (Hoerikwaggo Trail)",
+    "coords": {
+      "lat": -34.1462462,
+      "lng": 18.320236899999998
+    },
+    "rating": 4.5,
+    "reviewCount": 78,
+    "phone": "+27 21 712 7471",
+    "website": "https://www.sanparks.org/parks/table_mountain/tourism/accommodation.php#slangkop",
+    "address": "46-44, 46 Lighthouse Rd, Cape Peninsula, Cape Town, 7976",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "apostle-battery-campsite": {
+    "placeId": "ChIJu2OAwrtozB0RVLhLqbqnJHU",
+    "googleName": "Apostle Battery Campsite",
+    "coords": {
+      "lat": -34.006859,
+      "lng": 18.348969999999998
+    },
+    "rating": 4.3,
+    "reviewCount": 73,
+    "phone": "+27 66 418 7817",
+    "website": null,
+    "address": "Victoria Rd, Llandudno, Cape Town, 7806",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "breede-escape-river-camp": {
+    "placeId": "ChIJ5yuo1hwx0h0RmUcWlxhWZ6Q",
+    "googleName": "Breede Escape River Camp",
+    "coords": {
+      "lat": -33.9805463,
+      "lng": 20.197746
+    },
+    "rating": 4.8,
+    "reviewCount": 73,
+    "phone": "+27 82 895 7951",
+    "website": "http://breedeescape.co.za/",
+    "address": "Breede Escape, Bonnievale, 6730",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "noah-farm-campsite": {
+    "placeId": "ChIJT_r75pNrzR0R-7n7xYZjfeM",
+    "googleName": "Noah - Farm Campsite",
+    "coords": {
+      "lat": -33.3816221,
+      "lng": 19.223960800000004
+    },
+    "rating": 4.9,
+    "reviewCount": 70,
+    "phone": "+27 76 847 7950",
+    "website": "https://www.noahfarm.co.za/",
+    "address": "Boontjiesrivier, Wolseley, 6830",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "wolvenberg-stille-waters-campsite": {
+    "placeId": "ChIJQ6jjZyGdzR0R7eXPTFEMICQ",
+    "googleName": "Wolvenberg & Stille Waters Campsite",
+    "coords": {
+      "lat": -33.7235851,
+      "lng": 19.302687499999998
+    },
+    "rating": 4.5,
+    "reviewCount": 70,
+    "phone": "+27 76 496 2033",
+    "website": "https://campsites.1r.co.za/69-breede-river-valley/62-wolvenberg-campsite",
+    "address": "Old N1 Rd, Rawsonville, 6845",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "14:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "aqua-eden-camp-ground-george": {
+    "placeId": "ChIJc4FqmfgZ1h0RFVBQR2rJWfM",
+    "googleName": "Aqua Eden Camp Ground George",
+    "coords": {
+      "lat": -34.054817199999995,
+      "lng": 22.4368397
+    },
+    "rating": 4.3,
+    "reviewCount": 68,
+    "phone": "+27 44 802 2900",
+    "website": null,
+    "address": "Camping Spot: S34.054745 E22.436761, George",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "buffelskop-caravan-park": {
+    "placeId": "ChIJccY9pPyUeB4Re64cJujbfiE",
+    "googleName": "Buffelskop Caravan Park",
+    "coords": {
+      "lat": -34.083843,
+      "lng": 22.964265899999997
+    },
+    "rating": 4.3,
+    "reviewCount": 68,
+    "phone": "+27 60 998 6999",
+    "website": "https://www.knysna.gov.za/play-here/buffelskop-caravan-park/",
+    "address": "WX87+84, Main Street, Buffels Bay, 6500",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "16:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "16:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "16:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "16:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "13:30"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "skilpadfontein-private-campsite": {
+    "placeId": "ChIJl3Et2BJ0zR0R4HR33VlQmzo",
+    "googleName": "Skilpadfontein Private Campsite",
+    "coords": {
+      "lat": -33.6029966,
+      "lng": 19.2601688
+    },
+    "rating": 3.6,
+    "reviewCount": 65,
+    "phone": "+27 64 780 9086",
+    "website": "http://www.skilpadfontein.co.za/",
+    "address": "R43 Road Slanghoek, 7624",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "12:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "12:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "12:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "12:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "12:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "breede-otter-campsite": {
+    "placeId": "ChIJY-KxTvp50h0Rb-oMdsd1hfw",
+    "googleName": "Breede Otter Campsite",
+    "coords": {
+      "lat": -33.7748744,
+      "lng": 19.5892911
+    },
+    "rating": 4.5,
+    "reviewCount": 65,
+    "phone": "+27 82 773 9956",
+    "website": "https://www.facebook.com/debreedeotter/",
+    "address": "Unnamed Road, scherpenheuwel, Worcester, 6849",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "zandvlei-resort-and-chalets-muizenberg": {
+    "placeId": "ChIJNwiQrKtBzB0RVQTs6O505Gc",
+    "googleName": "Zandvlei Resort and Chalets Muizenberg",
+    "coords": {
+      "lat": -34.0985162,
+      "lng": 18.4723403
+    },
+    "rating": 3.7,
+    "reviewCount": 60,
+    "phone": "+27 21 444 6811",
+    "website": "http://www.capetown.gov.za/Family%20and%20home/See-all-city-facilities/Our-recreational-facilities/Resorts/Zandvlei%20Resort",
+    "address": "35 The Row St, Muizenberg, Cape Town, 7950",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "rivers-end-farm-stanford": {
+    "placeId": "ChIJu4E8mcUFzh0RRIkLx7GtfMM",
+    "googleName": "Rivers End Farm Stanford",
+    "coords": {
+      "lat": -34.4269511,
+      "lng": 19.3891584
+    },
+    "rating": 4.3,
+    "reviewCount": 59,
+    "phone": "+27 78 111 6652",
+    "website": "https://riversendfarm.co.za/",
+    "address": "Wortelgat Rd, Stanford, 7210",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "afri-eco-resorts-wilderness": {
+    "placeId": "ChIJO_HUsWuneB4R3wPjTruegbI",
+    "googleName": "Afri Eco Resorts - Wilderness",
+    "coords": {
+      "lat": -34.0025051,
+      "lng": 22.6960616
+    },
+    "rating": 4.8,
+    "reviewCount": 58,
+    "phone": "+27 76 609 6529",
+    "website": "http://www.afriecoresorts.co.za/",
+    "address": "XMWW+XC, Wilderness, 6560",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "the-berry-guest-farm-camping": {
+    "placeId": "ChIJiUfC4WLT0x0RfGekUn_-5iY",
+    "googleName": "The Berry Guest Farm - Camping",
+    "coords": {
+      "lat": -34.0070143,
+      "lng": 20.423344699999998
+    },
+    "rating": 4.6,
+    "reviewCount": 57,
+    "phone": "+27 82 078 5541",
+    "website": "https://www.theberryguestfarm.com/camping-1",
+    "address": "The Berry Guest Farm, N6, Swellendam, 6740",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "franschhoek-camping": {
+    "placeId": "ChIJ46e7eKO7zR0RcOSvuZxjo1w",
+    "googleName": "Franschhoek Camping",
+    "coords": {
+      "lat": -33.879787199999996,
+      "lng": 19.0817093
+    },
+    "rating": 4.6,
+    "reviewCount": 56,
+    "phone": "+27 82 959 5836",
+    "website": "http://www.franschhoekcamping.co.za/",
+    "address": "La Motte Station Road La Motte Frasnchhoek, 7690",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "butterfly-creek-bush-camp": {
+    "placeId": "ChIJBff7gq5x1h0RY9d2Kbph0OE",
+    "googleName": "Butterfly Creek Bush Camp",
+    "coords": {
+      "lat": -33.961255,
+      "lng": 22.1320715
+    },
+    "rating": 4.9,
+    "reviewCount": 55,
+    "phone": "+27 67 240 1757",
+    "website": "http://www.butterflycreek.co.za/",
+    "address": "Rural, Beneke Rd, Friemersheim, Great Brak River, 6525",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "at-the-farm-camping": {
+    "placeId": "ChIJo88MDA5_1B0Rk1ub64xKFuI",
+    "googleName": "At the farm Camping",
+    "coords": {
+      "lat": -33.361671199999996,
+      "lng": 21.3271065
+    },
+    "rating": 4.8,
+    "reviewCount": 53,
+    "phone": null,
+    "website": "https://seweweekspoort.co.za/op-die-plaas-kamp/",
+    "address": "R323 Sandrivier Farm Seweweekspoort, Laingsburg, 6900",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "19:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "19:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "19:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "19:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "swartvlei-caravan-park": {
+    "placeId": "ChIJeb80KY-jeB4RL4WgWBlU7zA",
+    "googleName": "Swartvlei Caravan Park",
+    "coords": {
+      "lat": -34.0230416,
+      "lng": 22.7744835
+    },
+    "rating": 4,
+    "reviewCount": 49,
+    "phone": "+27 60 288 6436",
+    "website": "https://swartvleicaravanpark.co.za/",
+    "address": "Swartvlei Beach Rd",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "falcon-river-reserve": {
+    "placeId": "ChIJK6-awYPR0x0RGTEW2CAwpbk",
+    "googleName": "Falcon River Reserve",
+    "coords": {
+      "lat": -34.069647599999996,
+      "lng": 20.4108922
+    },
+    "rating": 4.8,
+    "reviewCount": 47,
+    "phone": "+27 64 957 4233",
+    "website": "http://www.falconriver.co.za/",
+    "address": "N2, Swellendam, 6740",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "hemels-in-the-valley": {
+    "placeId": "ChIJYz9LRQ3jzR0Rv8AKChjshvk",
+    "googleName": "Hemels in the Valley",
+    "coords": {
+      "lat": -34.34225860000001,
+      "lng": 19.302975399999998
+    },
+    "rating": 5,
+    "reviewCount": 45,
+    "phone": "+27 81 838 2518",
+    "website": "https://www.hemelsinthevalley.com/",
+    "address": "Ertjiesvlei Farm, Hemel and Aarde Valley, Hermanus, 7200",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "molenrivier": {
+    "placeId": "ChIJ_U9j9Cdz1h0Ryz3GHy-m3m8",
+    "googleName": "MOLENRIVIER",
+    "coords": {
+      "lat": -33.9725095,
+      "lng": 22.180930399999998
+    },
+    "rating": 4.7,
+    "reviewCount": 44,
+    "phone": "+27 82 854 8805",
+    "website": "https://molenrivierfarm.co.za/",
+    "address": "Molenrivier farm, Great Brak River, 6525",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "die-eike-private-camping": {
+    "placeId": "ChIJBXVyRUA5zR0RleV52OmybM4",
+    "googleName": "Die Eike - Private Camping",
+    "coords": {
+      "lat": -33.215485,
+      "lng": 19.1494171
+    },
+    "rating": 4.6,
+    "reviewCount": 43,
+    "phone": "+27 72 555 3782",
+    "website": "https://www.eikecamping.co.za/",
+    "address": "Winterhoek Rd, Tulbagh, 6820",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "die-ark-campground-and-rooms": {
+    "placeId": "ChIJb-FgMIwtMxwRp3IBAVCAKRk",
+    "googleName": "Die Ark Campground and Rooms",
+    "coords": {
+      "lat": -33.0504823,
+      "lng": 18.6951328
+    },
+    "rating": 4.4,
+    "reviewCount": 43,
+    "phone": "+27 83 456 9971",
+    "website": "https://m.facebook.com/DieArkKoringberg/",
+    "address": "Hooggelee farm, Koringberg, 7312",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "ebb-flow-north-campsite": {
+    "placeId": "ChIJUeg7JQAd1h0Rp3VMZ4HcZTM",
+    "googleName": "Ebb & Flow North Campsite",
+    "coords": {
+      "lat": -33.9858294,
+      "lng": 22.608166399999998
+    },
+    "rating": 4.7,
+    "reviewCount": 39,
+    "phone": null,
+    "website": null,
+    "address": "2J75+M7, Hoekwil, Wilderness, 6538",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "bushbuck-camp": {
+    "placeId": "ChIJc66cjMq8eB4R718qp6piN1w",
+    "googleName": "Bushbuck Camp",
+    "coords": {
+      "lat": -34.0043285,
+      "lng": 22.813179599999998
+    },
+    "rating": 4.7,
+    "reviewCount": 34,
+    "phone": "+27 83 440 3552",
+    "website": "https://timberlodgefarm.com/",
+    "address": "Cloud 9 Road e, Sedgefield",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "back-2-basics-adventure-campsite": {
+    "placeId": "ChIJq6qqqv7FzR0RWw_qbj_xkXg",
+    "googleName": "Back 2 Basics Adventure Campsite",
+    "coords": {
+      "lat": -34.1909725,
+      "lng": 19.0945021
+    },
+    "rating": 4,
+    "reviewCount": 31,
+    "phone": "+27 82 373 5162",
+    "website": "https://www.b2bcamps.co.za/",
+    "address": "N2, Grabouw, 7160",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "eikebos-campground-caledon": {
+    "placeId": "ChIJKckkeSH4zR0RvOAqm9-gPsI",
+    "googleName": "Eikebos Campground Caledon",
+    "coords": {
+      "lat": -34.1516802,
+      "lng": 19.5424527
+    },
+    "rating": 4.6,
+    "reviewCount": 30,
+    "phone": "+27 83 275 2308",
+    "website": "http://www.eikebos.co.za/",
+    "address": "Dwaalhoek Farm, Eikebos Cottage & Campsite, R406, Greyton, 7230",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "meulwater-camp": {
+    "placeId": "ChIJ-SqI9B-pzR0R3T8p0Z08pTY",
+    "googleName": "Meulwater Camp",
+    "coords": {
+      "lat": -33.734732,
+      "lng": 18.9471349
+    },
+    "rating": 4.5,
+    "reviewCount": 29,
+    "phone": "+27 81 077 8494",
+    "website": null,
+    "address": "Jan Phillips Bergpad, Paarl, 7620",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "moon-river-bush-camp": {
+    "placeId": "ChIJHxxyzcOvMhwRokqN-zkdHV8",
+    "googleName": "MOON RIVER BUSH CAMP",
+    "coords": {
+      "lat": -32.8124804,
+      "lng": 19.4513824
+    },
+    "rating": 4.8,
+    "reviewCount": 27,
+    "phone": "+27 82 455 4947",
+    "website": null,
+    "address": "Die Dorp Op Die Berg, 6836",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "arendsrus-campsite-kamp": {
+    "placeId": "ChIJlX04_qkN1h0RvpeQ0dp73T8",
+    "googleName": "ArendsRus Campsite / Kamp",
+    "coords": {
+      "lat": -33.9278563,
+      "lng": 22.3233706
+    },
+    "rating": 4.7,
+    "reviewCount": 27,
+    "phone": "+27 44 050 0256",
+    "website": "https://arendsrus.co.za/camping/",
+    "address": "Farm 28, Koesterbos Road Geelhoutboom, George, 6537",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "fish-eagle-river-camp": {
+    "placeId": "ChIJX9oVAllj0R0RYLwDIAnbGpc",
+    "googleName": "Fish Eagle River Camp",
+    "coords": {
+      "lat": -34.2185249,
+      "lng": 20.517793599999997
+    },
+    "rating": 4.1,
+    "reviewCount": 23,
+    "phone": "+27 67 412 3251",
+    "website": "http://www.fisheaglerivercamp.co.za/",
+    "address": "Swellendam",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "bietjiedam": {
+    "placeId": "ChIJvS_LoBr7zR0RJvyQ76lSoRY",
+    "googleName": "BietjieDam",
+    "coords": {
+      "lat": -34.2268492,
+      "lng": 19.4786444
+    },
+    "rating": 4.9,
+    "reviewCount": 20,
+    "phone": "+27 72 313 1007",
+    "website": "https://bietjiedam.co.za/",
+    "address": "Voorhoede Plaas, Caledon, 7230",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "de-hoop-nature-reserve-campsite": {
+    "placeId": "ChIJR_J7O8110R0RO-2CylAFa20",
+    "googleName": "De Hoop Nature Reserve campsite",
+    "coords": {
+      "lat": -34.452131699999995,
+      "lng": 20.4020455
+    },
+    "rating": 4.8,
+    "reviewCount": 20,
+    "phone": "+27 21 422 4522",
+    "website": "https://www.dehoopcollection.com/project/campsite-rondawels/",
+    "address": "GCX2+4R, Ouplaas",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "nightsky-camping": {
+    "placeId": "ChIJKZG5bB090h0R5fCxmqOh2QE",
+    "googleName": "Nightsky Camping",
+    "coords": {
+      "lat": -34.012133299999995,
+      "lng": 19.9948689
+    },
+    "rating": 4.4,
+    "reviewCount": 20,
+    "phone": "+27 84 568 2903",
+    "website": null,
+    "address": "Oudekraal Farm, Boesmansrivier, Bonnievale, 6730",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "happy-campers-campsite": {
+    "placeId": "ChIJdw_OSo5dMxwRtynM8PJTHEM",
+    "googleName": "Happy Campers Campsite",
+    "coords": {
+      "lat": -32.8420065,
+      "lng": 18.2374646
+    },
+    "rating": 4.5,
+    "reviewCount": 18,
+    "phone": "+27 83 989 1984",
+    "website": null,
+    "address": "R399 Piketberg road Velddrif, 7365",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "schoemanshoek-glamping": {
+    "placeId": "ChIJU_MY-ZKV1R0RZyfzK726qs4",
+    "googleName": "Schoemanshoek Glamping",
+    "coords": {
+      "lat": -33.480601,
+      "lng": 22.242727
+    },
+    "rating": 4.9,
+    "reviewCount": 17,
+    "phone": "+27 82 255 5346",
+    "website": "https://www.diefonteine.co.za/",
+    "address": "Die Fonteine Schoemanshoek, Oudtshoorn, 6620",
+    "hours": {
+      "mon": [
+        {
+          "open": "14:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "14:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "14:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "14:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "14:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "14:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "14:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "leopards-tree-campsite": {
+    "placeId": "ChIJIc-BtP3FMhwRnf_ovzPLBW4",
+    "googleName": "Leopard's Tree Campsite",
+    "coords": {
+      "lat": -32.760290499999996,
+      "lng": 19.077086899999998
+    },
+    "rating": 4.7,
+    "reviewCount": 15,
+    "phone": "+27 84 249 9850",
+    "website": "https://www.facebook.com/profile.php?id=100073432353632",
+    "address": "Karnemelksvlei plaas, 7340",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "birthday-bay": {
+    "placeId": "ChIJ2-ea4hSZNBwRkop0eSPXAcs",
+    "googleName": "Birthday Bay",
+    "coords": {
+      "lat": -32.8384871,
+      "lng": 17.8584303
+    },
+    "rating": 4.3,
+    "reviewCount": 12,
+    "phone": null,
+    "website": null,
+    "address": "West Coast Peninsula",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "oriole-camp-site": {
+    "placeId": "ChIJt8AubQbneB4RCaUhDxJQ3cA",
+    "googleName": "Oriole Camp Site",
+    "coords": {
+      "lat": -34.0085961,
+      "lng": 23.2254251
+    },
+    "rating": 5,
+    "reviewCount": 11,
+    "phone": "+27 82 658 3078",
+    "website": null,
+    "address": "Fisantehoek, Fisanthoek Road, Plettenberg Bay, 6600",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "soetendal-bushcamp": {
+    "placeId": "ChIJJTIGYlARzR0R_NFuqdLIpSk",
+    "googleName": "Soetendal Bushcamp",
+    "coords": {
+      "lat": -33.5021807,
+      "lng": 19.004341
+    },
+    "rating": 4.8,
+    "reviewCount": 9,
+    "phone": "+27 66 307 0788",
+    "website": "https://soetendalbushcamp.co.za/",
+    "address": "Soetendal Rd, Wellington, Cape Town, 7654",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "13:00"
         }
       ],
       "sun": []
