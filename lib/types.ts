@@ -115,6 +115,19 @@ export interface Activity {
 
 export type SortKey = "rec" | "near" | "rating" | "price";
 
+/**
+ * A Google review bundled into lib/data/reviews.json by `npm run
+ * places:reviews`, shown on spot pages with attribution. Google caching
+ * policy applies, so re-run the fetch (and redeploy) at least monthly.
+ */
+export interface SpotReview {
+  author: string;
+  rating: number;
+  /** Relative wording from Google, e.g. "2 weeks ago". */
+  when: string;
+  text: string;
+}
+
 export interface Profile {
   name: string;
   interests: string[];

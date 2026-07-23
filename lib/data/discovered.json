@@ -39,7 +39,7 @@
       "historical landmark",
       "historical place"
     ],
-    "blurb": "Restaurant in Melkbosstrand."
+    "blurb": "Historic Melkbosstrand homestead serving long breakfasts and seafood lunches steps from the beach."
   },
   {
     "id": "jerrys-burger-bar-blouberg",
@@ -61,7 +61,7 @@
       "american restaurant",
       "restaurant"
     ],
-    "blurb": "Hamburger Restaurant in Bloubergstrand."
+    "blurb": "Big saucy burgers, craft beer and Table Mountain views from the Blouberg strip."
   },
   {
     "id": "seat-restaurant",
@@ -82,7 +82,7 @@
       "restaurant",
       "family restaurant"
     ],
-    "blurb": "Restaurant in Big Bay."
+    "blurb": "Easygoing Big Bay all-rounder for pizzas, grills and sundowners a stroll from the sand."
   },
   {
     "id": "petiscos",
@@ -103,7 +103,7 @@
       "portuguese restaurant",
       "restaurant"
     ],
-    "blurb": "Portuguese Restaurant in Parklands."
+    "blurb": "Family-run Portuguese spot in Parklands doing peri-peri chicken, trinchado and espetada like home."
   },
   {
     "id": "cape-town-fish-market-bloubergstrand",
@@ -145,7 +145,7 @@
     "tags": [
       "restaurant"
     ],
-    "blurb": "Restaurant in Melkbosstrand."
+    "blurb": "West Coast Road branch of the farm-bakery favourite: pies, roosterkoek and padstal breakfasts."
   },
   {
     "id": "portalia-pizzeria-deli",
@@ -166,7 +166,7 @@
       "pizza restaurant",
       "restaurant"
     ],
-    "blurb": "Pizza Restaurant in Table View."
+    "blurb": "Neighbourhood Table View pizzeria and deli with wood-fired classics and Italian pantry staples."
   },
   {
     "id": "romans-pizza-milnerton",
@@ -208,7 +208,7 @@
     "tags": [
       "restaurant"
     ],
-    "blurb": "Restaurant in West Beach."
+    "blurb": "Polished all-day brasserie in Sandown for breakfasts, steaks and slow weekend brunches."
   },
   {
     "id": "bootlegger-sandown-retail-crossing",
@@ -230,7 +230,7 @@
       "coffee roastery",
       "cafe"
     ],
-    "blurb": "Coffee Shop in Milnerton Rural."
+    "blurb": "Reliable Bootlegger outpost: proper flat whites, all-day breakfasts and laptop-friendly tables."
   },
   {
     "id": "all-in-the-kitchen-deli",
@@ -252,7 +252,7 @@
       "breakfast restaurant",
       "cafe"
     ],
-    "blurb": "Deli in Table View."
+    "blurb": "Homely Table View deli stacking generous breakfasts, toasted sarmies and cabinet bakes."
   },
   {
     "id": "atlantic-beach-hotel-melkbosstrand",
@@ -277,28 +277,6 @@
     "blurb": "Laid-back quarters, some with sea views, in an unassuming hotel offering a bar/restaurant & parking."
   },
   {
-    "id": "andiccio24-sunset-beach",
-    "name": "Andiccio24 Sunset Beach",
-    "category": "eat",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8545267,
-      "lng": 18.4955404
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.3,
-    "reviewCount": 287,
-    "address": "Corner Otto du Plessis Drive &, Ocean Way, Sunset Beach, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "pizza delivery",
-      "pizza restaurant",
-      "meal delivery"
-    ],
-    "blurb": "Pizza Delivery in Sunset Beach."
-  },
-  {
     "id": "the-cinnamon-club",
     "name": "The Cinnamon Club",
     "category": "eat",
@@ -318,7 +296,7 @@
       "wholesaler",
       "bakery"
     ],
-    "blurb": "Cake Shop in West Beach."
+    "blurb": "West Beach cake studio with a local cult following for cinnamon buns and celebration bakes."
   },
   {
     "id": "reach-cafe",
@@ -338,7 +316,7 @@
     "tags": [
       "restaurant"
     ],
-    "blurb": "Restaurant in Table View."
+    "blurb": "Cheerful Table View cafe for unhurried breakfasts and light lunches."
   },
   {
     "id": "waves-restaurant",
@@ -358,7 +336,7 @@
     "tags": [
       "restaurant"
     ],
-    "blurb": "Restaurant in Table View."
+    "blurb": "Beach Boulevard spot with ocean views, seafood plates and lazy afternoon drinks."
   },
   {
     "id": "sunbird-restaurant",
@@ -378,7 +356,7 @@
     "tags": [
       "restaurant"
     ],
-    "blurb": "Restaurant in Melkbosstrand."
+    "blurb": "Relaxed estate restaurant at Atlantic Beach, fairways on one side and Melkbos dunes beyond."
   },
   {
     "id": "romans-pizza-west-coast-village",
@@ -420,7 +398,7 @@
     "tags": [
       "restaurant"
     ],
-    "blurb": "Restaurant in Melkbosstrand."
+    "blurb": "Open-air West Coast seafood boma on Melkbos beach: mussels, snoek and course after braai course."
   },
   {
     "id": "the-coffee-stop",
@@ -442,7 +420,7 @@
       "food store",
       "cafe"
     ],
-    "blurb": "Coffee Shop in Bloubergstrand."
+    "blurb": "Tiny Bloubergstrand coffee shop pouring strong espresso a block from the beach."
   },
   {
     "id": "caffeine-cartel-coffee-truck",
@@ -464,7 +442,7 @@
       "food store",
       "cafe"
     ],
-    "blurb": "Coffee Shop in Table View."
+    "blurb": "Coffee truck parked on the Blouberg beachfront, caffeine with a Table Mountain postcard view."
   },
   {
     "id": "blowfish-restaurant",
@@ -530,7 +508,7 @@
       "bar",
       "restaurant"
     ],
-    "blurb": "Bar & Grill in Sunningdale."
+    "blurb": "Buzzy Bossa branch in Sunningdale for cocktails, shareable plates and big-screen sports nights."
   },
   {
     "id": "fancy-franks-sunset-beach",
@@ -552,7 +530,7 @@
       "pizza restaurant",
       "bar"
     ],
-    "blurb": "Bar & Grill in Sunset Beach."
+    "blurb": "Sunset Beach hangout pairing wood-fired pizza with craft beer and relaxed bar energy."
   },
   {
     "id": "the-hart",
@@ -574,7 +552,7 @@
       "bistro",
       "breakfast restaurant"
     ],
-    "blurb": "Restaurant in Melkbosstrand."
+    "blurb": "All-day Melkbos bistro moving from flat-white breakfasts to bistro dinners and wine."
   },
   {
     "id": "reload-flamingo-square-centre",
@@ -596,7 +574,7 @@
       "pizza restaurant",
       "coffee shop"
     ],
-    "blurb": "Cafe in Table View."
+    "blurb": "Table View cafe-pizzeria locals lean on for coffee, slices and easy catch-ups."
   },
   {
     "id": "the-brazen-head-big-bay",
@@ -618,7 +596,7 @@
       "bar and grill",
       "bar"
     ],
-    "blurb": "Restaurant in Big Bay."
+    "blurb": "Irish-style pub at Seaside Village with pints, pub grub and rugby on the big screens."
   },
   {
     "id": "melkbos-country-club",
@@ -638,7 +616,7 @@
     "tags": [
       "bar"
     ],
-    "blurb": "Bar in Melkbosstrand."
+    "blurb": "Old-school country club bar where Melkbos locals gather after golf, bowls and beach walks."
   },
   {
     "id": "baked-raats",
@@ -660,7 +638,7 @@
       "night club",
       "bar"
     ],
-    "blurb": "Lounge bar in Table View."
+    "blurb": "Late-night Table View lounge with DJs, hookah and a young weekend crowd."
   },
   {
     "id": "time-out-bar",
@@ -680,7 +658,7 @@
     "tags": [
       "bar"
     ],
-    "blurb": "Bar in Table View."
+    "blurb": "No-frills Table View local for cold draughts, pool and sport on the telly."
   },
   {
     "id": "le-petit-cafe-and-bar",
@@ -701,7 +679,7 @@
       "cafe",
       "bar"
     ],
-    "blurb": "Cafe in Blouberg Sands."
+    "blurb": "Small Blouberg Sands cafe-bar doing double duty: coffee by day, casual drinks by night."
   },
   {
     "id": "misthom-lounge-shisha-bar",
@@ -723,7 +701,7 @@
       "bar",
       "restaurant"
     ],
-    "blurb": "Bar & Grill in Parklands."
+    "blurb": "Parklands lounge for shisha, grills and late conversations."
   },
   {
     "id": "heritage-lounge-and-restaurant",
@@ -745,7 +723,7 @@
       "night club",
       "bar"
     ],
-    "blurb": "Lounge bar in Parklands."
+    "blurb": "Parklands nightspot mixing dinner, DJs and dance-floor energy into one late room."
   },
   {
     "id": "blouberg-beachfront",
@@ -766,7 +744,7 @@
       "beach",
       "natural feature"
     ],
-    "blurb": "Beach in Milnerton Rural."
+    "blurb": "The classic stretch: white sand, kitesurfers and that postcard Table Mountain view across the bay."
   },
   {
     "id": "blouberg-kite-surfing-beach",
@@ -788,7 +766,7 @@
       "beach",
       "natural feature"
     ],
-    "blurb": "Beach in Table View."
+    "blurb": "Where the south-easter works for you: Cape Town's kitesurfing mecca off Table View."
   },
   {
     "id": "sunset-beach",
@@ -830,7 +808,7 @@
       "beach",
       "natural feature"
     ],
-    "blurb": "Beach in Bloubergstrand."
+    "blurb": "Sheltered swimming, surf schools and sundowner lawns at Blouberg's family-friendly bay."
   },
   {
     "id": "big-bay-beach",
@@ -872,7 +850,7 @@
       "beach",
       "natural feature"
     ],
-    "blurb": "Beach in Van Riebeeckstrand."
+    "blurb": "Quiet local beach below Van Riebeeckstrand: long sand, few crowds."
   },
   {
     "id": "rietvlei-wetland-reserve",
@@ -894,49 +872,7 @@
       "national park",
       "park"
     ],
-    "blurb": "National Park in Flamingo Vlei."
-  },
-  {
-    "id": "leonardo-dog-park",
-    "name": "Leonardo Dog Park",
-    "category": "outdoor",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8154574,
-      "lng": 18.4979011
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 3.9,
-    "reviewCount": 65,
-    "address": "21 Ravenscourt Rd, Parklands, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "dog park",
-      "park"
-    ],
-    "blurb": "Dog Park in Parklands."
-  },
-  {
-    "id": "regent-park",
-    "name": "Regent Park",
-    "category": "outdoor",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8183925,
-      "lng": 18.5038773
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 3.7,
-    "reviewCount": 52,
-    "address": "Regent Rd, Parklands, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "city park",
-      "park"
-    ],
-    "blurb": "City Park in Parklands."
+    "blurb": "Birding hides, pelicans and flamingos on Table View's big wetland, with watersports on the vlei in summer."
   },
   {
     "id": "little-bay-beach",
@@ -960,48 +896,6 @@
     "blurb": "Beach."
   },
   {
-    "id": "brander-park",
-    "name": "Brander Park",
-    "category": "outdoor",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.817646800000006,
-      "lng": 18.4776869
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 4.6,
-    "reviewCount": 41,
-    "address": "Bloubergrant, Cape Town, 7443",
-    "phone": null,
-    "tags": [
-      "city park",
-      "park"
-    ],
-    "blurb": "City Park in Bloubergrant."
-  },
-  {
-    "id": "sandown-road-park",
-    "name": "Sandown Road Park",
-    "category": "outdoor",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8032581,
-      "lng": 18.478507999999998
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 4.2,
-    "reviewCount": 38,
-    "address": "46 Sail St, Blouberg Sands, Cape Town, 7449",
-    "phone": null,
-    "tags": [
-      "city park",
-      "park"
-    ],
-    "blurb": "City Park in Blouberg Sands."
-  },
-  {
     "id": "teal-bend-park",
     "name": "Teal bend park",
     "category": "outdoor",
@@ -1020,68 +914,6 @@
       "park"
     ],
     "blurb": "Park in 7441."
-  },
-  {
-    "id": "clifton-park",
-    "name": "Clifton Park",
-    "category": "outdoor",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8052618,
-      "lng": 18.5070876
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 4,
-    "reviewCount": 32,
-    "address": "111-113 Dorchester Dr, Parklands, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "city park",
-      "park"
-    ],
-    "blurb": "City Park in Parklands."
-  },
-  {
-    "id": "parkview-park",
-    "name": "Parkview Park",
-    "category": "outdoor",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.812177399999996,
-      "lng": 18.4924946
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 4.3,
-    "reviewCount": 25,
-    "address": "Parkview Cl, Sunningdale, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "park"
-    ],
-    "blurb": "Park in Sunningdale."
-  },
-  {
-    "id": "echium-road-park",
-    "name": "Echium Road Park",
-    "category": "outdoor",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8196997,
-      "lng": 18.493618599999998
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 4.3,
-    "reviewCount": 23,
-    "address": "16 Echium Rd, Table View, Cape Town, 7439",
-    "phone": null,
-    "tags": [
-      "city park",
-      "park"
-    ],
-    "blurb": "City Park in Table View."
   },
   {
     "id": "table-bay-nature-reserve",
@@ -1103,28 +935,7 @@
       "park",
       "tourist attraction"
     ],
-    "blurb": "Nature Preserve in Sunset Beach."
-  },
-  {
-    "id": "melkbos-reserve",
-    "name": "Melkbos RESERVE",
-    "category": "outdoor",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.727606699999995,
-      "lng": 18.442429999999998
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 4.5,
-    "reviewCount": 20,
-    "address": "Melkbos RESERVE, 8 10th Ave, Melkbosstrand, Cape Town, 7437",
-    "phone": null,
-    "tags": [
-      "beach",
-      "natural feature"
-    ],
-    "blurb": "Beach in Melkbosstrand."
+    "blurb": "Dune and wetland reserve behind Sunset Beach with quiet trails and city views."
   },
   {
     "id": "mission-hills-park",
@@ -1187,7 +998,7 @@
       "confectionery",
       "food store"
     ],
-    "blurb": "Movie Theater in Table View."
+    "blurb": "Bayside mall cinema, the West Coast suburbs' easy rainy-day blockbuster fix."
   },
   {
     "id": "milky-lane-total-tableview",
@@ -1231,7 +1042,7 @@
       "dessert shop",
       "confectionery"
     ],
-    "blurb": "Ice Cream Shop in Melkbosstrand."
+    "blurb": "Melkbos ice-cream stop scooping holiday-mode cones a short walk from the beach."
   },
   {
     "id": "small-bay-park",
@@ -1251,7 +1062,7 @@
     "tags": [
       "playground"
     ],
-    "blurb": "Playground in Bloubergstrand."
+    "blurb": "Beachfront playground on Small Bay's lawns, the perfect post-swim energy burner."
   },
   {
     "id": "the-bubble-hub",
@@ -1273,7 +1084,7 @@
       "dessert shop",
       "confectionery"
     ],
-    "blurb": "Ice Cream Shop in Melkbosstrand."
+    "blurb": "Melkbos dessert spot for bubble waffles, soft-serve and sticky-fingered kids."
   },
   {
     "id": "gatti-ice-cream-factory-shop",
@@ -1295,7 +1106,7 @@
       "dessert shop",
       "confectionery"
     ],
-    "blurb": "Ice Cream Shop in Sandown Rd."
+    "blurb": "Factory-shop scoops of the Gatti's ice cream Capetonians grew up on."
   },
   {
     "id": "the-dairy-den-sandown-retail-crossing",
@@ -1317,27 +1128,7 @@
       "dessert shop",
       "confectionery"
     ],
-    "blurb": "Ice Cream Shop in Parklands."
-  },
-  {
-    "id": "dolphin-beach",
-    "name": "Dolphin Beach",
-    "category": "family",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8294248,
-      "lng": 18.481788299999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.8,
-    "reviewCount": 25,
-    "address": "1 Marine Drive, Dolphin Beach, Tafelsig, Kaapstad, 7441",
-    "phone": null,
-    "tags": [
-      "playground"
-    ],
-    "blurb": "Playground in Tafelsig."
+    "blurb": "Soft-serve, milkshakes and quick sweet fixes at Sandown Retail Crossing."
   },
   {
     "id": "sempre-espresso",
@@ -1359,7 +1150,7 @@
       "ice cream shop",
       "dessert shop"
     ],
-    "blurb": "Coffee Stand in Table View."
+    "blurb": "Espresso stand on Otto du Plessis, fuel for the beachfront run."
   },
   {
     "id": "atlantic-beach-links",
@@ -1380,7 +1171,7 @@
       "sports club",
       "association or organization"
     ],
-    "blurb": "Sports Club in Atlantic Beach Golf Estate."
+    "blurb": "Windswept links golf between the Melkbos dunes with Table Mountain behind every green."
   },
   {
     "id": "the-thursty-turtle",
@@ -1402,28 +1193,7 @@
       "sports bar",
       "sports club"
     ],
-    "blurb": "Bar in Table View."
-  },
-  {
-    "id": "sunningdale-sports-complex",
-    "name": "Sunningdale Sports Complex",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8026695,
-      "lng": 18.4868316
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.4,
-    "reviewCount": 326,
-    "address": "Waterville St, Milnerton Rural, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "sports complex",
-      "sports activity location"
-    ],
-    "blurb": "Sports Complex in Milnerton Rural."
+    "blurb": "Table View sports bar with big screens, pool tables and a loud local following."
   },
   {
     "id": "isla-malie-tropical-spa-tableview",
@@ -1445,95 +1215,7 @@
       "yoga studio",
       "juice shop"
     ],
-    "blurb": "Massage spa in Tableview."
-  },
-  {
-    "id": "milnerton-aquatic-club",
-    "name": "Milnerton Aquatic Club",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8365128,
-      "lng": 18.4937141
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.6,
-    "reviewCount": 241,
-    "address": "Grey Ave, Bloubergstrand, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "sports club",
-      "sports complex",
-      "sports activity location"
-    ],
-    "blurb": "Sports Club in Bloubergstrand."
-  },
-  {
-    "id": "tableview-sports-facility",
-    "name": "Tableview Sports Facility",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.829490899999996,
-      "lng": 18.487482099999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.2,
-    "reviewCount": 216,
-    "address": "Birkenhead Rd, Table View, 7441",
-    "phone": null,
-    "tags": [
-      "sports complex",
-      "sports club",
-      "association or organization"
-    ],
-    "blurb": "Sports Complex in Birkenhead Rd."
-  },
-  {
-    "id": "gracie-jiu-jitsu-cape-town",
-    "name": "Gracie Jiu Jitsu Cape Town",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.822456599999995,
-      "lng": 18.491638599999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 160,
-    "address": "Delphi Arch Building, 12 Raats Dr, Table View, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "sports school",
-      "sports activity location",
-      "health"
-    ],
-    "blurb": "Sports School in Table View."
-  },
-  {
-    "id": "maximillian-jiu-jitsu",
-    "name": "Maximillian Jiu Jitsu",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.830987199999996,
-      "lng": 18.5066182
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 151,
-    "address": "Unit 22A, Flamingo Square, 212 Blaauwberg Rd, Table View, Cape Town, 7439",
-    "phone": null,
-    "tags": [
-      "gym",
-      "sports activity location",
-      "sports school"
-    ],
-    "blurb": "Sports School in Table View."
+    "blurb": "Tropical-themed Table View day spa for massages, yoga sessions and fresh juice after."
   },
   {
     "id": "paintball-pyrozone",
@@ -1555,268 +1237,7 @@
       "sports complex",
       "athletic field"
     ],
-    "blurb": "Paintball Center in Robben Rd."
-  },
-  {
-    "id": "khaya-kite-and-yoga-house",
-    "name": "Khaya Kite and Yoga House",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.816728399999995,
-      "lng": 18.4798475
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.9,
-    "reviewCount": 94,
-    "address": "8 Crinum Rd, Table View, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "hostel",
-      "guest house",
-      "sauna"
-    ],
-    "blurb": "Simple dorms & warm rooms in a laid-back hostel offering an outdoor pool, daily yoga & a kitchen."
-  },
-  {
-    "id": "watersports-warehouse",
-    "name": "Watersports Warehouse",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8227674,
-      "lng": 18.477896299999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.7,
-    "reviewCount": 83,
-    "address": "Shop 1, Portico 3, Athens Rd, Bloubergstrand, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "sports coaching",
-      "sporting goods store",
-      "school"
-    ],
-    "blurb": "Store in Bloubergstrand."
-  },
-  {
-    "id": "chaitanya-school-of-yoga",
-    "name": "Chaitanya School of Yoga",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8156949,
-      "lng": 18.4974998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 73,
-    "address": "Unit C11 Leonardo Park Corner Link and, Parklands Main Rd, Parklands, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "yoga studio",
-      "fitness center",
-      "sports complex"
-    ],
-    "blurb": "Yoga Studio in Parklands."
-  },
-  {
-    "id": "united-krav-maga",
-    "name": "United Krav Maga",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8183068,
-      "lng": 18.4965825
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.9,
-    "reviewCount": 69,
-    "address": "Cavalier centre, 2 Parklands Main Rd, Parklands, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "fitness center",
-      "gym",
-      "sports activity location"
-    ],
-    "blurb": "Sports School in Parklands."
-  },
-  {
-    "id": "fitbae-inc",
-    "name": "fitbae inc.",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8240003,
-      "lng": 18.4847993
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 56,
-    "address": "60 Blaauwberg Rd, Table View, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "fitness center",
-      "gym",
-      "sports activity location"
-    ],
-    "blurb": "Fitness center in Table View."
-  },
-  {
-    "id": "boardrooms-kite-coworking-accommodation",
-    "name": "Boardrooms Kite & Coworking Accommodation",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8149678,
-      "lng": 18.4773612
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 50,
-    "address": "16 Spray Rd, Bloubergstrand, Cape Town, 7443",
-    "phone": null,
-    "tags": [
-      "hotel",
-      "coworking space",
-      "gym"
-    ],
-    "blurb": "Hotel in Bloubergstrand."
-  },
-  {
-    "id": "house-of-movement",
-    "name": "House of Movement",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.799822999999996,
-      "lng": 18.460941899999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 49,
-    "address": "34 Sir David Baird Dr, Bloubergstrand, Cape Town, 8001",
-    "phone": null,
-    "tags": [
-      "yoga studio",
-      "fitness center",
-      "gym"
-    ],
-    "blurb": "Yoga Studio in Bloubergstrand."
-  },
-  {
-    "id": "big-bay-events",
-    "name": "Big Bay Events",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.793565,
-      "lng": 18.457278
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.2,
-    "reviewCount": 41,
-    "address": "Otto du Plessis Dr, Big Bay, Cape Town, 7448",
-    "phone": null,
-    "tags": [
-      "sports club",
-      "association or organization"
-    ],
-    "blurb": "Sports Club in Big Bay."
-  },
-  {
-    "id": "ocean-reef-swim-school",
-    "name": "Ocean Reef Swim School",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8190461,
-      "lng": 18.4816045
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 31,
-    "address": "7 Crassula Rd, Table View, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "sports school",
-      "sports activity location"
-    ],
-    "blurb": "Sports School in Table View."
-  },
-  {
-    "id": "giants-gymnastics",
-    "name": "Giants Gymnastics",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8063813,
-      "lng": 18.4995762
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.8,
-    "reviewCount": 30,
-    "address": "Grace Baptist Church, 77 Ringwood Dr, Parklands, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "sports club",
-      "association or organization"
-    ],
-    "blurb": "Sports Club in Parklands."
-  },
-  {
-    "id": "eda-krav-maga-self-defence",
-    "name": "EDA Krav Maga Self Defence",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.742372700000004,
-      "lng": 18.4528885
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 25,
-    "address": "8 Harbour Lights Ln, Melkbosstrand, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "educational institution",
-      "sports school",
-      "sports activity location"
-    ],
-    "blurb": "Sports School in Melkbosstrand."
-  },
-  {
-    "id": "laughing-waters-swim-school-milnerton-ca",
-    "name": "Laughing Waters Swim School - Milnerton, Cape Town",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.856066399999996,
-      "lng": 18.506198599999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.6,
-    "reviewCount": 23,
-    "address": "21 Fairview Cres, Milnerton Ridge, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "school",
-      "educational institution",
-      "sports school"
-    ],
-    "blurb": "Sports School in Milnerton Ridge."
+    "blurb": "Paintball skirmishes in the Melkbos veld: bring closed shoes and a grudge."
   },
   {
     "id": "madx-muay-thai-boxing-fitness",
@@ -1839,50 +1260,6 @@
       "sports complex"
     ],
     "blurb": "Sports Coaching in 26 Santa Cruz Cres."
-  },
-  {
-    "id": "inmotion-create-your-balance",
-    "name": "INMOTION – CREATE YOUR BALANCE",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8506964,
-      "lng": 18.4900692
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.8,
-    "reviewCount": 21,
-    "address": "23 Soluta St, Sunset Beach, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "yoga studio",
-      "fitness center",
-      "tourist attraction"
-    ],
-    "blurb": "Local spot in Sunset Beach."
-  },
-  {
-    "id": "venus-yoga-studio-sunset-beach-cape-town",
-    "name": "Venus Yoga Studio, Sunset Beach, Cape Town",
-    "category": "classes",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.853943099999995,
-      "lng": 18.4899533
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.7,
-    "reviewCount": 15,
-    "address": "7 Volute Cir, Sunset Beach, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "yoga studio",
-      "fitness center",
-      "sports complex"
-    ],
-    "blurb": "Yoga Studio in Sunset Beach."
   },
   {
     "id": "melkbosstrand-oppiesee-cultural-centre",
@@ -1924,7 +1301,7 @@
       "jewelry store",
       "service"
     ],
-    "blurb": "Art Gallery in Bloubergstrand."
+    "blurb": "Bloubergstrand gallery-boutique of local art and handmade jewellery near the beach."
   },
   {
     "id": "ohana-beauty-and-wellness-day-spa",
@@ -1944,7 +1321,7 @@
     "tags": [
       "spa"
     ],
-    "blurb": "Spa in Table View."
+    "blurb": "Day-spa escape inside the Blaauwberg Beach Hotel, massages with the sea over the road."
   },
   {
     "id": "naree-authentic-thai-massage",
@@ -1966,7 +1343,7 @@
       "massage",
       "spa"
     ],
-    "blurb": "Massage in Milnerton."
+    "blurb": "Authentic Thai massage studio in Milnerton: firm pressure, honest prices."
   },
   {
     "id": "sawasdee-thai-spa",
@@ -1988,332 +1365,7 @@
       "spa",
       "service"
     ],
-    "blurb": "Massage in Parklands."
-  },
-  {
-    "id": "wasana-thai-massage",
-    "name": "Wasana Thai Massage",
-    "category": "chill",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8250491,
-      "lng": 18.4916456
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 133,
-    "address": "Blaauwberg Therapy Centre, 103 Blaauwberg Rd, Table View, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "massage spa",
-      "massage",
-      "spa"
-    ],
-    "blurb": "Massage in Table View."
-  },
-  {
-    "id": "asianblendspa-home-of-tranquility",
-    "name": "AsianblendSpa Home of Tranquility",
-    "category": "chill",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.816583699999995,
-      "lng": 18.484010899999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.8,
-    "reviewCount": 116,
-    "address": "55 Porterfield Rd, Bloubergstrand, Cape Town, 7436",
-    "phone": null,
-    "tags": [
-      "massage spa",
-      "massage",
-      "spa"
-    ],
-    "blurb": "Massage spa in Bloubergstrand."
-  },
-  {
-    "id": "nirvana-nook-wellness-spa",
-    "name": "Nirvana Nook Wellness Spa",
-    "category": "chill",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8231542,
-      "lng": 18.505446799999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 100,
-    "address": "12 Merlot Ave, Table View, Cape Town, 7439",
-    "phone": null,
-    "tags": [
-      "massage spa",
-      "beauty salon",
-      "massage"
-    ],
-    "blurb": "Massage spa in Table View."
-  },
-  {
-    "id": "chiang-mai-thai-spa-massage",
-    "name": "Chiang Mai Thai Spa Massage",
-    "category": "chill",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.729932,
-      "lng": 18.439856
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.8,
-    "reviewCount": 81,
-    "address": "17 6th Ave, Melkbosstrand, Cape Town, 7437",
-    "phone": null,
-    "tags": [
-      "spa",
-      "massage",
-      "service"
-    ],
-    "blurb": "Massage in Melkbosstrand."
-  },
-  {
-    "id": "rejuva-spa",
-    "name": "Rejuva Spa",
-    "category": "chill",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.788269,
-      "lng": 18.4575672
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.8,
-    "reviewCount": 68,
-    "address": "39, Seaside Village Centre, Big Bay, Cape Town, 1446",
-    "phone": null,
-    "tags": [
-      "spa"
-    ],
-    "blurb": "Spa in Big Bay."
-  },
-  {
-    "id": "elim-spa-pedicure-products",
-    "name": "Elim Spa Pedicure Products",
-    "category": "chill",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.72712,
-      "lng": 18.44352
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 61,
-    "address": "Elim House, 1 12th Ave, Melkbosstrand, Cape Town, 7437",
-    "phone": null,
-    "tags": [
-      "cosmetics store",
-      "spa",
-      "educational institution"
-    ],
-    "blurb": "Cosmetics Store in Melkbosstrand."
-  },
-  {
-    "id": "lilac-beauty-lashes-skin-brows",
-    "name": "Lilac Beauty. Lashes, Skin & Brows",
-    "category": "chill",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.743769199999996,
-      "lng": 18.4493732
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 47,
-    "address": "18 Atlantic Beach Dr, Melkbosstrand, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "beauty salon",
-      "massage spa",
-      "skin care clinic"
-    ],
-    "blurb": "Beauty Salon in Melkbosstrand."
-  },
-  {
-    "id": "chalila-spa-wellness",
-    "name": "Chalila Spa & Wellness",
-    "category": "chill",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8357596,
-      "lng": 18.4942592
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.8,
-    "reviewCount": 42,
-    "address": "20 Sandpiper Cres, Table View, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "spa",
-      "beauty salon",
-      "massage spa"
-    ],
-    "blurb": "Spa in Table View."
-  },
-  {
-    "id": "basic-touch-health-beauty-clinic-cc",
-    "name": "Basic Touch Health & Beauty Clinic cc",
-    "category": "chill",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8171162,
-      "lng": 18.4975173
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.8,
-    "reviewCount": 42,
-    "address": "Shop 6, 14 Parklands Walk, Parklands, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "spa",
-      "health"
-    ],
-    "blurb": "Spa in Parklands."
-  },
-  {
-    "id": "atlantic-boutique",
-    "name": "Atlantic Boutique",
-    "category": "chill",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.739798799999996,
-      "lng": 18.4523497
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.8,
-    "reviewCount": 36,
-    "address": "1 Fairway Drive Atlantic Beach Golf Estate, Melkbosstrand, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "beauty salon",
-      "massage spa",
-      "nail salon"
-    ],
-    "blurb": "Beauty Salon in Melkbosstrand."
-  },
-  {
-    "id": "the-jacobs-cottage",
-    "name": "The Jacobs Cottage",
-    "category": "chill",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.835049999999995,
-      "lng": 18.497709999999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.8,
-    "reviewCount": 34,
-    "address": "60 Pentz Dr, Flamingo Vlei, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "massage spa",
-      "massage",
-      "spa"
-    ],
-    "blurb": "Massage spa in Flamingo Vlei."
-  },
-  {
-    "id": "blonde-beard",
-    "name": "Blonde&Beard",
-    "category": "chill",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.792498699999996,
-      "lng": 18.4584266
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.5,
-    "reviewCount": 27,
-    "address": "Eden on the Bay Big Bay, Big Bay, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "hair salon",
-      "makeup artist",
-      "nail salon"
-    ],
-    "blurb": "Hair Salon in Big Bay."
-  },
-  {
-    "id": "gaia-guest-house-health-hydro",
-    "name": "Gaia Guest House & Health Hydro",
-    "category": "chill",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8570257,
-      "lng": 18.4941225
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 3.6,
-    "reviewCount": 26,
-    "address": "29 Diluta Dr, Sunset Beach, Milnerton, 7441",
-    "phone": null,
-    "tags": [
-      "guest house",
-      "spa",
-      "lodging"
-    ],
-    "blurb": "Guest House in Sunset Beach."
-  },
-  {
-    "id": "ozone-hocatt-therapy-at-genesis-03-welln",
-    "name": "Ozone Hocatt Therapy at Genesis 03 Wellness",
-    "category": "chill",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8379036,
-      "lng": 18.5090303
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 25,
-    "address": "180 Pentz Dr, Flamingo Vlei, Cape Town, 7411",
-    "phone": null,
-    "tags": [
-      "spa",
-      "health"
-    ],
-    "blurb": "Spa in Flamingo Vlei."
-  },
-  {
-    "id": "blouberg-medi-spa",
-    "name": "Blouberg Medi Spa",
-    "category": "chill",
-    "area": "blouberg",
-    "coords": {
-      "lat": -33.8074654,
-      "lng": 18.4810056
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.6,
-    "reviewCount": 25,
-    "address": "7 Sandown Rd, West Beach, Cape Town, 7441",
-    "phone": null,
-    "tags": [
-      "spa",
-      "health"
-    ],
-    "blurb": "Spa in West Beach."
+    "blurb": "Traditional Thai massage in Parklands for post-kitesurf knots."
   },
   {
     "id": "toboggan-family-park-pty-ltd-t-a-cool-ru",
@@ -2354,7 +1406,7 @@
     "tags": [
       "movie theater"
     ],
-    "blurb": "Movie Theater in Cape Gate."
+    "blurb": "Cape Gate cinema complex, the Brackenfell go-to for big-screen weekends."
   },
   {
     "id": "ipic-play",
@@ -2374,7 +1426,7 @@
     "tags": [
       "amusement center"
     ],
-    "blurb": "Amusement Center in Durbanville."
+    "blurb": "Indoor play maze in Durbanville where kids burn hours while parents drink decent coffee."
   },
   {
     "id": "playalot-indoor-adventure-park-pinehurst",
@@ -2395,7 +1447,7 @@
       "indoor playground",
       "playground"
     ],
-    "blurb": "Indoor Playground in Durbanville."
+    "blurb": "Pinehurst indoor adventure park: jumping castles, slides and rainy-day chaos control."
   },
   {
     "id": "dairy-exchange-brackenfell",
@@ -2417,7 +1469,7 @@
       "dessert shop",
       "confectionery"
     ],
-    "blurb": "Food Store in Brackenfell."
+    "blurb": "Brackenfell soft-serve institution piling toppings tall for the after-school rush."
   },
   {
     "id": "the-creamery-caf-durbanville",
@@ -2439,7 +1491,7 @@
       "dessert shop",
       "confectionery"
     ],
-    "blurb": "Ice Cream Shop in Durbanville."
+    "blurb": "Durbanville branch of the Creamery scooping small-batch ice cream on Oxford Street."
   },
   {
     "id": "whats-the-scoop",
@@ -2461,7 +1513,7 @@
       "dessert shop",
       "confectionery"
     ],
-    "blurb": "Ice Cream Shop in Langeberg Ridge."
+    "blurb": "Langeberg Ridge ice-cream parlour with rotating flavours and generous cones."
   },
   {
     "id": "polar-ice-cream-brackenfell",
@@ -2483,7 +1535,7 @@
       "dessert shop",
       "confectionery"
     ],
-    "blurb": "Ice Cream Shop in Brackenfell South."
+    "blurb": "Polar factory scoop stop for cheap, nostalgic South African ice cream."
   },
   {
     "id": "chocolat-bistro",
@@ -2503,7 +1555,7 @@
     "tags": [
       "restaurant"
     ],
-    "blurb": "Restaurant in Durbanville."
+    "blurb": "Oxford Street bistro known for decadent breakfasts, crepes and serious hot chocolate."
   },
   {
     "id": "bossa-buh-rein",
@@ -2523,7 +1575,7 @@
     "tags": [
       "restaurant"
     ],
-    "blurb": "Restaurant in East-Rural."
+    "blurb": "Buh-Rein estate Bossa for cocktails, shareable plates and sports screens."
   },
   {
     "id": "copper-club-tyger-waterfront",
@@ -2543,7 +1595,7 @@
     "tags": [
       "restaurant"
     ],
-    "blurb": "Restaurant in Bellville."
+    "blurb": "Waterside brasserie at Tyger Waterfront: steaks and sundowners over the canal."
   },
   {
     "id": "bossa-vredekloof",
@@ -2563,7 +1615,7 @@
     "tags": [
       "restaurant"
     ],
-    "blurb": "Restaurant in Vredekloof."
+    "blurb": "Neighbourhood Bossa in Vredekloof, the reliable local for drinks and easy dinners."
   },
   {
     "id": "kapstadt-brauhaus-durbanville",
@@ -2585,7 +1637,7 @@
       "european restaurant",
       "restaurant"
     ],
-    "blurb": "German Restaurant in Durbanville."
+    "blurb": "German brauhaus on Heritage Square: eisbein, weissbier and oompah-level portions."
   },
   {
     "id": "die-boer-restaurant-durbanville",
@@ -2605,7 +1657,7 @@
     "tags": [
       "restaurant"
     ],
-    "blurb": "Live blues bands and other rousing music in relaxed restaurant and theatre with international menu."
+    "blurb": "Intimate Durbanville dinner theatre pairing South African music with hearty boerekos."
   },
   {
     "id": "boston-coffee-roasters",
@@ -2627,7 +1679,7 @@
       "breakfast restaurant",
       "cafe"
     ],
-    "blurb": "Coffee Shop in Boston."
+    "blurb": "Bellville roastery cafe that takes its coffee seriously, beans roasted on site."
   },
   {
     "id": "boathouse-sushi",
@@ -2649,7 +1701,7 @@
       "asian restaurant",
       "buffet restaurant"
     ],
-    "blurb": "Sushi Restaurant in Durbanville."
+    "blurb": "All-you-can-eat sushi buffets and Asian plates in Pinehurst."
   },
   {
     "id": "romans-pizza-bellville",
@@ -2674,50 +1726,6 @@
     "blurb": "Pizza chain offering traditional and specialty pies cooked to order for takeaway or home delivery."
   },
   {
-    "id": "cab-foods-bellville",
-    "name": "CAB Foods Bellville",
-    "category": "eat",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.88865500000001,
-      "lng": 18.632389
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.4,
-    "reviewCount": 1216,
-    "address": "34A Northumberland St, Bellville, Cape Town, 7530",
-    "phone": null,
-    "tags": [
-      "cake shop",
-      "bakery",
-      "wholesaler"
-    ],
-    "blurb": "Store in Bellville."
-  },
-  {
-    "id": "cab-foods-brackenfell",
-    "name": "CAB Foods Brackenfell",
-    "category": "eat",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.861123299999996,
-      "lng": 18.7024409
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.5,
-    "reviewCount": 1123,
-    "address": "Frans Conradie Dr &, Kenwill Dr, Okavango Park, Cape Town, 7560",
-    "phone": null,
-    "tags": [
-      "cake shop",
-      "bakery",
-      "wholesaler"
-    ],
-    "blurb": "Store in Okavango Park."
-  },
-  {
     "id": "ruslamere-hotel-and-conference-centre",
     "name": "Ruslamere Hotel and Conference Centre",
     "category": "eat",
@@ -2740,26 +1748,6 @@
     "blurb": "Straightforward rooms, suites & lofts, plus a casual restaurant, conference spaces & a pool."
   },
   {
-    "id": "boere-sjiek-gifts",
-    "name": "Boere Sjiek Gifts",
-    "category": "eat",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8601248,
-      "lng": 18.697662299999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.5,
-    "reviewCount": 865,
-    "address": "12 Kiewiet Cl, Okavango Park, Cape Town, 7560",
-    "phone": null,
-    "tags": [
-      "restaurant"
-    ],
-    "blurb": "Restaurant in Okavango Park."
-  },
-  {
     "id": "the-home-of-mondvol-cookies",
     "name": "The home of Mondvol Cookies",
     "category": "eat",
@@ -2779,7 +1767,7 @@
       "dessert shop",
       "confectionery"
     ],
-    "blurb": "Bakery in Bonnie Brae."
+    "blurb": "Home-industry bakery whose Mondvol cookies have a cult northern-suburbs following."
   },
   {
     "id": "blou-winkel",
@@ -2801,11 +1789,11 @@
       "hardware store",
       "cafe"
     ],
-    "blurb": "General Store in Kraaifontein."
+    "blurb": "Nostalgic Kraaifontein farm store and cafe stacked with sweets, hardware and padstal charm."
   },
   {
     "id": "heroes-live",
-    "name": "HEROES LIVE",
+    "name": "Heroes Live",
     "category": "eat",
     "area": "durbanville",
     "coords": {
@@ -2822,7 +1810,7 @@
       "family restaurant",
       "restaurant"
     ],
-    "blurb": "Family Restaurant in Kleinbron Estate."
+    "blurb": "Family restaurant and play venue in Cape Gate with weekend entertainment."
   },
   {
     "id": "the-bloemhof-grill-and-guesthouse",
@@ -2842,7 +1830,7 @@
     "tags": [
       "restaurant"
     ],
-    "blurb": "Restaurant in Oakdale."
+    "blurb": "Old-fashioned Bellville grill room plating steaks the way the regulars insist."
   },
   {
     "id": "groot-phesantekraal-wines-restaurant",
@@ -2864,7 +1852,7 @@
       "winery",
       "liquor store"
     ],
-    "blurb": "Restaurant in R302."
+    "blurb": "Working wine farm on Durbanville's edge: tastings, farm lunches and vineyard views."
   },
   {
     "id": "fat-cactus-tygervalley",
@@ -2886,7 +1874,7 @@
       "american restaurant",
       "restaurant"
     ],
-    "blurb": "Tex-Mex Restaurant in Bellville Park."
+    "blurb": "Tex-Mex cantina near Tyger Valley for fajitas, margaritas and loud table energy."
   },
   {
     "id": "cafe-grano",
@@ -2908,29 +1896,7 @@
       "cafe",
       "food store"
     ],
-    "blurb": "Coffee Shop in Durbanville."
-  },
-  {
-    "id": "new-national-hotel",
-    "name": "New National Hotel",
-    "category": "eat",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.9032413,
-      "lng": 18.603250199999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 3.9,
-    "reviewCount": 424,
-    "address": "352 Voortrekker Rd, Fairfield Estate, Cape Town, 7500",
-    "phone": null,
-    "tags": [
-      "hotel",
-      "event venue",
-      "lodging"
-    ],
-    "blurb": "Casual rooms in a straightforward hotel with conference facilities & a restaurant."
+    "blurb": "Graanendal neighbourhood cafe for breakfast meetings and consistent coffee."
   },
   {
     "id": "license-to-grill-restaurant-durbanville",
@@ -2952,7 +1918,7 @@
       "family restaurant",
       "fine dining restaurant"
     ],
-    "blurb": "Restaurant in Durbanville."
+    "blurb": "Durbanville family grill house flame-cooking steaks, ribs and Sunday lunches."
   },
   {
     "id": "bossa-phesantekraal",
@@ -2972,49 +1938,7 @@
     "tags": [
       "restaurant"
     ],
-    "blurb": "Restaurant in Durbanville."
-  },
-  {
-    "id": "tygerberg-student-centre",
-    "name": "Tygerberg Student Centre",
-    "category": "eat",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.9084091,
-      "lng": 18.6101959
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4,
-    "reviewCount": 313,
-    "address": "3JR6+M2, Tygerberg Hospital, Cape Town, 7505",
-    "phone": null,
-    "tags": [
-      "cafe"
-    ],
-    "blurb": "Cafe in Tygerberg Hospital."
-  },
-  {
-    "id": "vierlanden-kwikspar",
-    "name": "Vierlanden Kwikspar",
-    "category": "eat",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8168763,
-      "lng": 18.660429999999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.4,
-    "reviewCount": 302,
-    "address": "Protea Way, Vierlanden, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "grocery store",
-      "butcher shop",
-      "bakery"
-    ],
-    "blurb": "Grocery Store in Vierlanden."
+    "blurb": "Bossa's Phesantekraal corner for after-work drinks and easy dinners."
   },
   {
     "id": "petes-pizza-uitzicht",
@@ -3035,7 +1959,7 @@
       "fast food restaurant",
       "restaurant"
     ],
-    "blurb": "Fast Food Restaurant in Uitzicht."
+    "blurb": "Uitzicht takeaway slinging generous, unfussy pizzas to the neighbourhood."
   },
   {
     "id": "omalleys-sports-ale",
@@ -3055,7 +1979,7 @@
     "tags": [
       "restaurant"
     ],
-    "blurb": "Restaurant in Arauna."
+    "blurb": "Arauna sports pub pouring ales through every rugby weekend."
   },
   {
     "id": "plat-coffee-brackenfell",
@@ -3077,95 +2001,7 @@
       "cafe",
       "food store"
     ],
-    "blurb": "Coffee Shop in Springbokpark."
-  },
-  {
-    "id": "coco-vogue-eco-health-beauty-eco-emporiu",
-    "name": "Coco Vogue Eco Health & Beauty Eco Emporium & Coco Vogue Revive Lounge",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.883169099999996,
-      "lng": 18.6352304
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.4,
-    "reviewCount": 3718,
-    "address": "Suite 102 shop 75, building 111, Edward building, Tyger Valley, 11 Edward Rd, Bo Oakdale, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "spa",
-      "nail salon",
-      "beauty salon"
-    ],
-    "blurb": "Spa in Bo Oakdale."
-  },
-  {
-    "id": "absolute-beauty",
-    "name": "Absolute Beauty",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8848341,
-      "lng": 18.6988521
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.9,
-    "reviewCount": 693,
-    "address": "43 Protea Rd, Brackenfell, Cape Town, 7560",
-    "phone": null,
-    "tags": [
-      "beauty salon",
-      "tanning studio",
-      "nail salon"
-    ],
-    "blurb": "Beauty Salon in Brackenfell."
-  },
-  {
-    "id": "gem-beauty",
-    "name": "Gem Beauty",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8336052,
-      "lng": 18.6314077
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.9,
-    "reviewCount": 244,
-    "address": "28 Aurora St, Aurora, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "beauty salon",
-      "nail salon",
-      "hair care"
-    ],
-    "blurb": "Beauty Salon in Aurora."
-  },
-  {
-    "id": "pure-day-spa-durbanville",
-    "name": "Pure Day Spa - Durbanville",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8312948,
-      "lng": 18.6498784
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.5,
-    "reviewCount": 232,
-    "address": "Unit 15, Sir Benjamin Promenade, 20A Oxford St, Durbanville, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "beauty salon",
-      "beautician",
-      "hair care"
-    ],
-    "blurb": "Spa in Durbanville."
+    "blurb": "Minimalist Platō coffee bar in Brackenfell for single-origin pours on the go."
   },
   {
     "id": "empath-hands",
@@ -3187,7 +2023,7 @@
       "spa",
       "massage"
     ],
-    "blurb": "Massage spa in Kraaifontein."
+    "blurb": "Kraaifontein massage studio with a devoted following for deep-tissue work."
   },
   {
     "id": "la-mai-massage-and-wellness-spa",
@@ -3209,331 +2045,7 @@
       "massage",
       "spa"
     ],
-    "blurb": "Massage spa in Oakdale."
-  },
-  {
-    "id": "aesthetics-dr-nardus-le-grange",
-    "name": "Aesthetics (Dr Nardus le Grange)",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8774832,
-      "lng": 18.6292777
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.9,
-    "reviewCount": 79,
-    "address": "Suite 2, Canal Edge 3, Tyger Waterfont, Carl Cronje Dr, Bellville, Cape Town, 7530",
-    "phone": null,
-    "tags": [
-      "skin care clinic",
-      "beauty salon",
-      "spa"
-    ],
-    "blurb": "Skin Care Clinic in Bellville."
-  },
-  {
-    "id": "ljs-ancient-healing-centre",
-    "name": "LJS Ancient Healing Centre",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.88079,
-      "lng": 18.63955
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.8,
-    "reviewCount": 69,
-    "address": "34 Bloemhof Rd, Bo Oakdale, Cape Town, 7530",
-    "phone": null,
-    "tags": [
-      "massage spa",
-      "massage",
-      "spa"
-    ],
-    "blurb": "Massage spa in Bo Oakdale."
-  },
-  {
-    "id": "beyond-wellness",
-    "name": "Beyond Wellness",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8902,
-      "lng": 18.64198
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.7,
-    "reviewCount": 59,
-    "address": "81 Raglan St, Oakdale, Cape Town, 7530",
-    "phone": null,
-    "tags": [
-      "spa"
-    ],
-    "blurb": "Spa in Oakdale."
-  },
-  {
-    "id": "hidden-gem-self-catering",
-    "name": "Hidden Gem Self-Catering",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8816677,
-      "lng": 18.7090758
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.7,
-    "reviewCount": 49,
-    "address": "3 STEENBOK STREET RUWARI, Brackenfell, Cape Town, 7560",
-    "phone": null,
-    "tags": [
-      "sauna",
-      "public bath",
-      "swimming pool"
-    ],
-    "blurb": "Lodging in Brackenfell."
-  },
-  {
-    "id": "flawless-beauty-spa",
-    "name": "Flawless Beauty Spa",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8498006,
-      "lng": 18.6932291
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.4,
-    "reviewCount": 40,
-    "address": "Shop UL02A Cape Gate Lifestyle Centre Corner Okovango and, Tanner St, Brackenfell, Cape Town, 7570",
-    "phone": null,
-    "tags": [
-      "massage spa",
-      "spa",
-      "massage"
-    ],
-    "blurb": "Massage spa in Brackenfell."
-  },
-  {
-    "id": "salon-on-nutans",
-    "name": "Salon On Nutans",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8181607,
-      "lng": 18.6546408
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 39,
-    "address": "2 Nutans Ave, Proteaville, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "tanning studio",
-      "beauty salon",
-      "hair salon"
-    ],
-    "blurb": "Hair Salon in Proteaville."
-  },
-  {
-    "id": "de-oude-caab-country-house",
-    "name": "De Oude CAAB Country House",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8355307,
-      "lng": 18.64603
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.3,
-    "reviewCount": 36,
-    "address": "3 Church St, Durbanville, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "garden",
-      "service"
-    ],
-    "blurb": "Services in Durbanville."
-  },
-  {
-    "id": "shalom-hair-and-beauty-spa",
-    "name": "Shalom Hair and Beauty Spa",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.866237,
-      "lng": 18.69182
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.7,
-    "reviewCount": 34,
-    "address": "Shop 2 Shawn St, Arauna, Cape Town, 7560",
-    "phone": null,
-    "tags": [
-      "beauty salon",
-      "hair salon",
-      "massage spa"
-    ],
-    "blurb": "Beauty Salon in Arauna."
-  },
-  {
-    "id": "lymph-draining-plus",
-    "name": "Lymph Draining Plus",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8259414,
-      "lng": 18.6531909
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 25,
-    "address": "Unit 1, 39 Wellington Rd, Durbanville, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "massage",
-      "spa",
-      "health"
-    ],
-    "blurb": "Health in Durbanville."
-  },
-  {
-    "id": "exclusive-plants",
-    "name": "Exclusive Plants",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8391266,
-      "lng": 18.669517799999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.7,
-    "reviewCount": 24,
-    "address": "1 Krisant St, Durbanville, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "garden"
-    ],
-    "blurb": "Garden in Durbanville."
-  },
-  {
-    "id": "beauty-by-hanna",
-    "name": "Beauty by Hanna",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.897639999999996,
-      "lng": 18.59995
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 23,
-    "address": "30 Esperance St, Oostersee, Cape Town, 7500",
-    "phone": null,
-    "tags": [
-      "beauty salon",
-      "nail salon",
-      "skin care clinic"
-    ],
-    "blurb": "Beauty Salon in Oostersee."
-  },
-  {
-    "id": "dr-michelle-fourie-aesthetics",
-    "name": "Dr Michelle Fourie Aesthetics",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8254113,
-      "lng": 18.6468249
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 22,
-    "address": "Unit 1.4, first floor, corner of New and, Park Central, 2 Koeberg Rd, Durbanville, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "spa",
-      "health"
-    ],
-    "blurb": "Spa in Durbanville."
-  },
-  {
-    "id": "chick-pulse-beauty-salon-kraaifontein",
-    "name": "Chick Pulse Beauty Salon Kraaifontein",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8357441,
-      "lng": 18.6990226
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.7,
-    "reviewCount": 20,
-    "address": "2 Umkomaas Rd, Bonny Brook, Cape Town, 7570",
-    "phone": null,
-    "tags": [
-      "beauty salon",
-      "massage spa",
-      "nail salon"
-    ],
-    "blurb": "Beauty Salon in Bonny Brook."
-  },
-  {
-    "id": "jacaranda-skincare-salon",
-    "name": "Jacaranda Skincare Salon",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.82202120000001,
-      "lng": 18.6607713
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.8,
-    "reviewCount": 17,
-    "address": "15 Mimosa St, Wellway Park, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "massage spa",
-      "beauty salon",
-      "skin care clinic"
-    ],
-    "blurb": "Massage spa in Wellway Park."
-  },
-  {
-    "id": "its-a-hair-circus-hair-nails-beauty",
-    "name": "It's A Hair Circus, Hair, Nails & Beauty",
-    "category": "chill",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.878223,
-      "lng": 18.683004699999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 16,
-    "address": "11 Roslyn St, Brackenfell, Cape Town, 7650",
-    "phone": null,
-    "tags": [
-      "nail salon",
-      "beauty salon",
-      "dentist"
-    ],
-    "blurb": "Hair Salon in Brackenfell."
+    "blurb": "Thai massage and wellness rooms on Durban Road, Oakdale's midweek reset."
   },
   {
     "id": "corner-deck",
@@ -3554,7 +2066,7 @@
       "restaurant",
       "bar"
     ],
-    "blurb": "Restaurant in Brackenfell."
+    "blurb": "Cape Gate deck restaurant-bar with cocktails, grills and family-friendly afternoons."
   },
   {
     "id": "speakeasy-on-oxford",
@@ -3575,7 +2087,7 @@
       "pub",
       "bar"
     ],
-    "blurb": "Pub in Durbanville."
+    "blurb": "Durbanville's Oxford Street pub: craft taps, a whisky shelf and easy conversation."
   },
   {
     "id": "peppa-jacks-tex-mex-grill-bar",
@@ -3597,7 +2109,7 @@
       "family restaurant",
       "steak house"
     ],
-    "blurb": "Tex-Mex Restaurant in Durbanville."
+    "blurb": "Tex-Mex grill in Durbanville stacking nachos, ribs and frozen margaritas."
   },
   {
     "id": "hennies-brackenfell",
@@ -3619,7 +2131,7 @@
       "bar",
       "restaurant"
     ],
-    "blurb": "Bar & Grill in Brackenfell South."
+    "blurb": "Brackenfell stalwart bar-grill where the neighbourhood watches its rugby."
   },
   {
     "id": "jackson-and-black-grill-pizzeria-tyger",
@@ -3641,7 +2153,7 @@
       "steak house",
       "italian restaurant"
     ],
-    "blurb": "Pizza Restaurant in Tygervalley."
+    "blurb": "Tygervalley grill-pizzeria hybrid: steaks, wood-fired bases and date-night lighting."
   },
   {
     "id": "sk-l-bar-and-eatery",
@@ -3662,7 +2174,7 @@
       "bar",
       "restaurant"
     ],
-    "blurb": "Bar in Brackenfell."
+    "blurb": "Skål's Vredekloof room mixes clean Nordic styling with burgers and gin."
   },
   {
     "id": "bok-lounge-grill",
@@ -3683,7 +2195,7 @@
       "pub",
       "bar"
     ],
-    "blurb": "Pub in St Michaels."
+    "blurb": "St Michaels pub-grill with a braai-side beer garden feel."
   },
   {
     "id": "danskraal",
@@ -3703,7 +2215,7 @@
     "tags": [
       "night club"
     ],
-    "blurb": "Night Club in Oakdale."
+    "blurb": "Northern-suburbs sokkie institution: langarm dancing until late."
   },
   {
     "id": "gringos-cantina-pizzeria",
@@ -3725,7 +2237,7 @@
       "pub",
       "meal takeaway"
     ],
-    "blurb": "Restaurant in Boston."
+    "blurb": "Boston cantina doing pizzas, quesadillas and takeaway-friendly comfort food."
   },
   {
     "id": "the-sports-fan-pub-grill",
@@ -3746,7 +2258,7 @@
       "pub",
       "bar"
     ],
-    "blurb": "Pub in Ferndale."
+    "blurb": "Ferndale pub built for match days, screens in every direction."
   },
   {
     "id": "pizza-pub-restaurant",
@@ -3768,7 +2280,7 @@
       "bar",
       "restaurant"
     ],
-    "blurb": "Pub in Windsor Park."
+    "blurb": "Windsor Park local combining pizza ovens and pub taps under one roof."
   },
   {
     "id": "the-drunken-duck-bellville",
@@ -3790,7 +2302,7 @@
       "bar",
       "restaurant"
     ],
-    "blurb": "Pub in Stikland."
+    "blurb": "Stikland pub with a loyal crowd, pool tables and honest pub food."
   },
   {
     "id": "highlander-pub-and-venue",
@@ -3810,7 +2322,7 @@
     "tags": [
       "bar"
     ],
-    "blurb": "Bar in Brackenfell South."
+    "blurb": "Brackenfell pub and functions venue with live music nights."
   },
   {
     "id": "stinos-pub-and-grill",
@@ -3831,7 +2343,7 @@
       "pub",
       "bar"
     ],
-    "blurb": "Pub in Bellville."
+    "blurb": "Bellville corner pub grilling burgers beside the pool tables."
   },
   {
     "id": "smugglers-sports-pub",
@@ -3852,7 +2364,7 @@
       "pub",
       "bar"
     ],
-    "blurb": "Pub in Brackenfell."
+    "blurb": "Brackenfell sports pub: darts, draughts and derby-day noise."
   },
   {
     "id": "green-fields-pub",
@@ -3873,7 +2385,7 @@
       "sports bar",
       "bar"
     ],
-    "blurb": "Sports Bar in Brackenfell."
+    "blurb": "Ruwari local sports bar where the quiz night and the rugby share the calendar."
   },
   {
     "id": "schwarma-pizza-cafe",
@@ -3895,7 +2407,7 @@
       "hookah bar",
       "bar"
     ],
-    "blurb": "Restaurant in Tyger Waterfront."
+    "blurb": "Tyger Waterfront cafe-bar pairing shawarmas and pizza with hookah on the deck."
   },
   {
     "id": "planet-sports-bar-bellville",
@@ -3917,7 +2429,7 @@
       "beer garden",
       "karaoke"
     ],
-    "blurb": "Bar in Bellville."
+    "blurb": "Bellville beer garden with karaoke nights and big-match screenings."
   },
   {
     "id": "uncle-stans-pizza-pub",
@@ -3938,7 +2450,7 @@
       "restaurant",
       "bar"
     ],
-    "blurb": "Restaurant in Peerless Park West."
+    "blurb": "Peerless Park pizza pub, family-friendly early and livelier late."
   },
   {
     "id": "cheers-on-oxford-pub",
@@ -3958,7 +2470,7 @@
     "tags": [
       "bar"
     ],
-    "blurb": "Bar in Durbanville."
+    "blurb": "Compact Oxford Street pub for after-work pints in Durbanville village."
   },
   {
     "id": "v-bar-brackenfell",
@@ -3978,7 +2490,7 @@
     "tags": [
       "bar"
     ],
-    "blurb": "Bar in Brackenfell."
+    "blurb": "Arauna neighbourhood bar with cold draughts and zero pretence."
   },
   {
     "id": "meeting-place",
@@ -3998,7 +2510,7 @@
     "tags": [
       "bar"
     ],
-    "blurb": "Bar in Oakdale."
+    "blurb": "Oakdale's aptly named local, a meeting place over beers."
   },
   {
     "id": "pipers-pub",
@@ -4018,7 +2530,7 @@
     "tags": [
       "bar"
     ],
-    "blurb": "Bar in Uitzicht."
+    "blurb": "Uitzicht neighbourhood pub where the regulars have their own chairs."
   },
   {
     "id": "the-corner-rock-bar",
@@ -4038,7 +2550,7 @@
     "tags": [
       "bar"
     ],
-    "blurb": "Bar in Durbanville."
+    "blurb": "Durbanville rock bar cranking classics on weekend nights."
   },
   {
     "id": "ringos-pub-n-grill",
@@ -4060,7 +2572,7 @@
       "bar and grill",
       "bar"
     ],
-    "blurb": "Pub in Stikland."
+    "blurb": "Stikland pub 'n grill for steak, eggs and a pint."
   },
   {
     "id": "stargayzers",
@@ -4080,7 +2592,7 @@
     "tags": [
       "night club"
     ],
-    "blurb": "Night Club in Parow East."
+    "blurb": "Parow East's long-running LGBTQ+ club with drag nights and dance floors."
   },
   {
     "id": "forest-tavern",
@@ -4100,7 +2612,7 @@
     "tags": [
       "bar"
     ],
-    "blurb": "Bar in Wallace Dene."
+    "blurb": "Wallace Dene tavern with a lively local crowd."
   },
   {
     "id": "papa-joes",
@@ -4122,7 +2634,7 @@
       "bar",
       "restaurant"
     ],
-    "blurb": "Pizza Restaurant in Protea Hoogte."
+    "blurb": "Protea Hoogte pizza-and-pub corner spot."
   },
   {
     "id": "fives-sports-bar-grill-pinehurst",
@@ -4144,7 +2656,7 @@
       "bar",
       "restaurant"
     ],
-    "blurb": "Bar & Grill in Durbanville."
+    "blurb": "Pinehurst sports bar right beside the five-a-side pitches."
   },
   {
     "id": "dantes-premiere-lounge",
@@ -4164,7 +2676,7 @@
     "tags": [
       "night club"
     ],
-    "blurb": "Night Club in Triangle Farm."
+    "blurb": "Triangle Farm nightclub lounge with DJ line-ups late into Saturday."
   },
   {
     "id": "livingroom",
@@ -4184,27 +2696,7 @@
     "tags": [
       "night club"
     ],
-    "blurb": "Night Club in Bellville."
-  },
-  {
-    "id": "kraaifontein-jukskei-klub",
-    "name": "Kraaifontein Jukskei Klub",
-    "category": "bars",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8248337,
-      "lng": 18.7051651
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.3,
-    "reviewCount": 19,
-    "address": "Sarel Van Deventer Rd, Bonnie Brae, Cape Town, 7569",
-    "phone": null,
-    "tags": [
-      "bar"
-    ],
-    "blurb": "Bar in Bonnie Brae."
+    "blurb": "Bellville club night spot on Voortrekker Road."
   },
   {
     "id": "down-the-hatch",
@@ -4224,7 +2716,7 @@
     "tags": [
       "bar"
     ],
-    "blurb": "Bar in Northpine."
+    "blurb": "Northpine hole-in-the-wall local for a quick cold one."
   },
   {
     "id": "jack-muller-danie-uys-district-park",
@@ -4245,7 +2737,7 @@
       "park",
       "tourist attraction"
     ],
-    "blurb": "Park in Boston."
+    "blurb": "Boston's big green lung: shaded lawns, duck ponds and parkrun-friendly paths."
   },
   {
     "id": "bracken-nature-reserve",
@@ -4267,7 +2759,7 @@
       "tourist attraction",
       "park"
     ],
-    "blurb": "Nature Preserve in Brackenfell South."
+    "blurb": "Fynbos koppie above Brackenfell with short trails and suburb views."
   },
   {
     "id": "durbanville-nature-reserve",
@@ -4289,7 +2781,7 @@
       "tourist attraction",
       "park"
     ],
-    "blurb": "Nature Preserve in Durbanville."
+    "blurb": "Renosterveld remnant in Durbanville with spring-flower walks and picnic lawns."
   },
   {
     "id": "boland-dam-park",
@@ -4309,7 +2801,7 @@
     "tags": [
       "park"
     ],
-    "blurb": "Park in Vierlanden."
+    "blurb": "Vierlanden's dam-side park for duck feeding and easy loops."
   },
   {
     "id": "uitzicht-greenbelt-body-of-water",
@@ -4329,7 +2821,7 @@
     "tags": [
       "park"
     ],
-    "blurb": "Park in Uitzicht."
+    "blurb": "Uitzicht's greenbelt pond and lawns, an easy pram-and-dog loop."
   },
   {
     "id": "zoo-dog-park",
@@ -4350,7 +2842,7 @@
       "dog park",
       "park"
     ],
-    "blurb": "Dog Park in Zoo Park."
+    "blurb": "Fenced Kraaifontein dog park where the hounds socialise off-lead."
   },
   {
     "id": "botterblom-nature-reserve",
@@ -4372,69 +2864,7 @@
       "tourist attraction",
       "park"
     ],
-    "blurb": "Nature Preserve in Vierlanden Heights."
-  },
-  {
-    "id": "aurora-park",
-    "name": "Aurora Park",
-    "category": "outdoor",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8321916,
-      "lng": 18.6284797
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 4.5,
-    "reviewCount": 61,
-    "address": "Aurora, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "city park",
-      "park"
-    ],
-    "blurb": "City Park in Aurora."
-  },
-  {
-    "id": "crown-crescent-park",
-    "name": "Crown Crescent Park",
-    "category": "outdoor",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8324024,
-      "lng": 18.7168867
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 4,
-    "reviewCount": 61,
-    "address": "East-Rural, Cape Town, 7570",
-    "phone": null,
-    "tags": [
-      "park"
-    ],
-    "blurb": "Park in East-Rural."
-  },
-  {
-    "id": "dalsig-park",
-    "name": "Dalsig Park",
-    "category": "outdoor",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8456361,
-      "lng": 18.654314499999998
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 4.7,
-    "reviewCount": 60,
-    "address": "&nbsp, Durbanville, Kaapstad, 7550",
-    "phone": null,
-    "tags": [
-      "city park",
-      "park"
-    ],
-    "blurb": "City Park in Durbanville."
+    "blurb": "Small Durbanville reserve that erupts in botterblom daisies each spring."
   },
   {
     "id": "thibault-inclusive-play-park",
@@ -4454,67 +2884,7 @@
     "tags": [
       "park"
     ],
-    "blurb": "Park in Arauna."
-  },
-  {
-    "id": "horak-city-park",
-    "name": "Horak City Park",
-    "category": "outdoor",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8462199,
-      "lng": 18.7198369
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 3.5,
-    "reviewCount": 46,
-    "address": "Horak St, Kraaifontein, Cape Town, 7570",
-    "phone": null,
-    "tags": [
-      "park"
-    ],
-    "blurb": "Park in Kraaifontein."
-  },
-  {
-    "id": "suikerbossie-park-community-garden",
-    "name": "Suikerbossie Park Community Garden",
-    "category": "outdoor",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8832704,
-      "lng": 18.715590499999998
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 4.6,
-    "reviewCount": 44,
-    "address": "23, 11 Suikerbos St, Protea Village, Cape Town, 7560",
-    "phone": null,
-    "tags": [
-      "park"
-    ],
-    "blurb": "Park in Protea Village."
-  },
-  {
-    "id": "george-starke-park",
-    "name": "George Starke Park",
-    "category": "outdoor",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.896046,
-      "lng": 18.602033
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 4,
-    "reviewCount": 42,
-    "address": "Friesland St, Parow, Cape Town, 7500",
-    "phone": null,
-    "tags": [
-      "park"
-    ],
-    "blurb": "Park in Parow."
+    "blurb": "Purpose-built inclusive playground in Arauna designed for kids of all abilities."
   },
   {
     "id": "uitkamp-wetland-nature-reserve",
@@ -4536,170 +2906,7 @@
       "tourist attraction",
       "park"
     ],
-    "blurb": "Nature Preserve in D`urbanvale."
-  },
-  {
-    "id": "boland-park",
-    "name": "Boland Park",
-    "category": "outdoor",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8177278,
-      "lng": 18.6620911
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 4.8,
-    "reviewCount": 29,
-    "address": "Boland Way, Vierlanden, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "park"
-    ],
-    "blurb": "Park in Vierlanden."
-  },
-  {
-    "id": "odendaal-park",
-    "name": "Odendaal Park",
-    "category": "outdoor",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8297273,
-      "lng": 18.6263191
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 3.8,
-    "reviewCount": 28,
-    "address": "70 Odendaal Rd, Aurora, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "city park",
-      "park"
-    ],
-    "blurb": "City Park in Aurora."
-  },
-  {
-    "id": "tielman-marais-park",
-    "name": "Tielman Marais Park",
-    "category": "outdoor",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8959828,
-      "lng": 18.6285924
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 3.7,
-    "reviewCount": 25,
-    "address": "16 Alexandra St, Oakdale, Cape Town, 7530",
-    "phone": null,
-    "tags": [
-      "park"
-    ],
-    "blurb": "Park in Oakdale."
-  },
-  {
-    "id": "henlo-park",
-    "name": "Henlo Park",
-    "category": "outdoor",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8347846,
-      "lng": 18.6979041
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 4,
-    "reviewCount": 23,
-    "address": "Hennop Rd, Langeberg Glen, Cape Town, 7570",
-    "phone": null,
-    "tags": [
-      "park"
-    ],
-    "blurb": "Park in Langeberg Glen."
-  },
-  {
-    "id": "stonewood-estate-park",
-    "name": "Stonewood Estate Park",
-    "category": "outdoor",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8271757,
-      "lng": 18.7014951
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 4.6,
-    "reviewCount": 21,
-    "address": "8 Basswood Rd, Kraaifontein, Cape Town, 7569",
-    "phone": null,
-    "tags": [
-      "park"
-    ],
-    "blurb": "Park in Kraaifontein."
-  },
-  {
-    "id": "8-th-avenue-park",
-    "name": "8 th Avenue park",
-    "category": "outdoor",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8968223,
-      "lng": 18.6145303
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 3.9,
-    "reviewCount": 15,
-    "address": "70 8th Ave, Boston, Cape Town, 7530",
-    "phone": null,
-    "tags": [
-      "park"
-    ],
-    "blurb": "Park in Boston."
-  },
-  {
-    "id": "leroux-park",
-    "name": "Leroux Park",
-    "category": "outdoor",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8345306,
-      "lng": 18.7045308
-    },
-    "priceBand": 0,
-    "priceEstimate": "Free",
-    "rating": 4.1,
-    "reviewCount": 15,
-    "address": "11 Stormberg Cres, Bonnie Brae, Cape Town, 7570",
-    "phone": null,
-    "tags": [
-      "park"
-    ],
-    "blurb": "Park in Bonnie Brae."
-  },
-  {
-    "id": "neilson-cycles",
-    "name": "Neilson Cycles",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.831274199999996,
-      "lng": 18.6497466
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4,
-    "reviewCount": 1535,
-    "address": "Shop 2, 22 on, Oxford St, Durbanville, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "bicycle store",
-      "car repair",
-      "sporting goods store"
-    ],
-    "blurb": "Services in Durbanville."
+    "blurb": "Wetland boardwalks and frog calls on Durbanville's urban edge."
   },
   {
     "id": "durbanville-golf-club",
@@ -4720,7 +2927,7 @@
       "sports club",
       "association or organization"
     ],
-    "blurb": "Sports Club in Durbanville."
+    "blurb": "Parkland eighteen on Durbanville's wine slopes, visitors welcome."
   },
   {
     "id": "brackenfell-action-sports-arena",
@@ -4741,7 +2948,7 @@
       "sports complex",
       "sports activity location"
     ],
-    "blurb": "Sports Complex in Brackenfell."
+    "blurb": "Indoor action-sports arena for five-a-side, netball and birthday-party mayhem."
   },
   {
     "id": "oakdale-club-klub-conference-and-functio",
@@ -4784,7 +2991,7 @@
       "athletic field",
       "sports activity location"
     ],
-    "blurb": "Athletic Field in Pinehurst."
+    "blurb": "Book-a-pitch five-a-side football under Pinehurst floodlights."
   },
   {
     "id": "the-bellville-velodrome",
@@ -4806,7 +3013,7 @@
       "sports complex",
       "race course"
     ],
-    "blurb": "Racecourse in Bellville Park."
+    "blurb": "Bellville's indoor arena hosting expos, concerts and track cycling."
   },
   {
     "id": "ellingtons-saloon",
@@ -4828,7 +3035,7 @@
       "event venue",
       "sports activity location"
     ],
-    "blurb": "Sports Complex in Oakdale."
+    "blurb": "Country-and-western saloon in Oakdale: line dancing and live bands."
   },
   {
     "id": "sessions-billiard-and-darts-tygervalley",
@@ -4850,11 +3057,11 @@
       "sports complex",
       "bar"
     ],
-    "blurb": "Sports Club in Bellville."
+    "blurb": "Pool, snooker and darts hall near Tyger Valley, chalk up and settle in."
   },
   {
     "id": "eagle-golf-ranges-previously-known-as-th",
-    "name": "Eagle Golf Ranges previously known as The Golf Village Tygervalley",
+    "name": "Eagle Golf Ranges",
     "category": "classes",
     "area": "durbanville",
     "coords": {
@@ -4872,7 +3079,7 @@
       "sports coaching",
       "sports activity location"
     ],
-    "blurb": "Sports Activity Location in Bellville."
+    "blurb": "Driving range and mini golf beside Tyger Valley for casual swings."
   },
   {
     "id": "hollywoodbets-durbanville-racecourse",
@@ -4894,7 +3101,7 @@
       "event venue",
       "sports activity location"
     ],
-    "blurb": "Racecourse in Durbanville."
+    "blurb": "Race-day outings on Durbanville's country racecourse, hats optional."
   },
   {
     "id": "golden-oldies-sports-bar",
@@ -4916,7 +3123,7 @@
       "karaoke",
       "night club"
     ],
-    "blurb": "Sports Bar in Belgravia."
+    "blurb": "Belgravia karaoke-and-sports bar where the oldies sing along."
   },
   {
     "id": "avalon-lifestyle-centre",
@@ -4936,119 +3143,11 @@
     "tags": [
       "sports activity location"
     ],
-    "blurb": "Sports Activity Location in Durbanville."
-  },
-  {
-    "id": "brackenfell-cricket-club",
-    "name": "Brackenfell Cricket Club",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8653729,
-      "lng": 18.6856954
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.4,
-    "reviewCount": 228,
-    "address": "Witels St, Brackenfell North, Cape Town, 7560",
-    "phone": null,
-    "tags": [
-      "sports complex",
-      "sports club",
-      "sports activity location"
-    ],
-    "blurb": "Sports Club in Brackenfell North."
-  },
-  {
-    "id": "bellville-hockey-club",
-    "name": "Bellville Hockey Club",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.902609999999996,
-      "lng": 18.6194404
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4,
-    "reviewCount": 209,
-    "address": "Bellville Astro Corner of Landros &, Voortrekker Rd, Bellville, Cape Town, 7530",
-    "phone": null,
-    "tags": [
-      "sports complex",
-      "sports club",
-      "sports activity location"
-    ],
-    "blurb": "Sports Club in Bellville."
-  },
-  {
-    "id": "purpose-fit-fitness-studio",
-    "name": "Purpose Fit Fitness Studio",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8264074,
-      "lng": 18.703878
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 199,
-    "address": "Unit 3 Tanzanite crescent, Stonewood Dr, Kraaifontein, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "fitness center",
-      "gym",
-      "sports activity location"
-    ],
-    "blurb": "Fitness center in Kraaifontein."
-  },
-  {
-    "id": "durbanville-soccer-club",
-    "name": "Durbanville Soccer Club",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.832262,
-      "lng": 18.6567234
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.4,
-    "reviewCount": 193,
-    "address": "De Villiers Dr, Durbanville, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "sports club",
-      "association or organization"
-    ],
-    "blurb": "Sports Club in Durbanville."
-  },
-  {
-    "id": "kraaifontein-sport-shooting-club",
-    "name": "Kraaifontein Sport Shooting Club",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8189717,
-      "lng": 18.7029122
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.6,
-    "reviewCount": 186,
-    "address": "Amadeus Dr, Kraaifontein, Cape Town, 7570",
-    "phone": null,
-    "tags": [
-      "sports complex",
-      "sports activity location"
-    ],
-    "blurb": "Sports Complex in Kraaifontein."
+    "blurb": "Casual Durbanville sports centre for court bookings and social leagues."
   },
   {
     "id": "bowtime-archery-supplies-and-shooting-ra",
-    "name": "BOWTIME: Archery Supplies and Shooting Range",
+    "name": "Bowtime Archery & Range",
     "category": "classes",
     "area": "durbanville",
     "coords": {
@@ -5066,158 +3165,7 @@
       "sports club",
       "sports activity location"
     ],
-    "blurb": "Sports Club in Brackenfell Industrial."
-  },
-  {
-    "id": "bellville-cricket-club",
-    "name": "Bellville Cricket Club",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8787613,
-      "lng": 18.638292699999997
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.4,
-    "reviewCount": 174,
-    "address": "PP Smit Sportsfields, Durban Rd, Bellville, Kaapstad, 7530",
-    "phone": null,
-    "tags": [
-      "sports club",
-      "association or organization"
-    ],
-    "blurb": "Sports Club in Bellville."
-  },
-  {
-    "id": "iron-grip-martial-arts-brazilian-jiu-jit",
-    "name": "Iron Grip Martial Arts - Brazilian Jiu-Jitsu",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.82579140000001,
-      "lng": 18.6994744
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 172,
-    "address": "Stonewood Business Park, 6 Tanzanite Cres, Pinehurst, Cape Town, 7570",
-    "phone": null,
-    "tags": [
-      "gym",
-      "sports school",
-      "sports activity location"
-    ],
-    "blurb": "Sports School in Pinehurst."
-  },
-  {
-    "id": "northpine-united-fc",
-    "name": "Northpine United FC",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8708114,
-      "lng": 18.7222172
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 3.8,
-    "reviewCount": 163,
-    "address": "Eoan Ave, Scottsdene, Cape Town, 7570",
-    "phone": null,
-    "tags": [
-      "sports club",
-      "association or organization"
-    ],
-    "blurb": "Sports Club in Scottsdene."
-  },
-  {
-    "id": "dave-sheer-guns-cape-town",
-    "name": "Dave Sheer Guns Cape Town",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8023822,
-      "lng": 18.6843129
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.5,
-    "reviewCount": 137,
-    "address": "Klipheuwel Road &, Okavango Rd, durbanville, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "sports complex",
-      "sporting goods store",
-      "supplier"
-    ],
-    "blurb": "Sporting Goods Store in durbanville."
-  },
-  {
-    "id": "foreverstrong-brackenfell",
-    "name": "ForeverStrong Brackenfell",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8652413,
-      "lng": 18.6804944
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.9,
-    "reviewCount": 122,
-    "address": "7 Vredekloof Rd, Vredekloof, Cape Town, 7560",
-    "phone": null,
-    "tags": [
-      "fitness center",
-      "gym",
-      "sports activity location"
-    ],
-    "blurb": "Health in Vredekloof."
-  },
-  {
-    "id": "ipic-active",
-    "name": "Ipic Active",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8337293,
-      "lng": 18.6310538
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.3,
-    "reviewCount": 94,
-    "address": "Corner of Burton &, Aurora St, Aurora, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "fitness center",
-      "gym",
-      "sports activity location"
-    ],
-    "blurb": "Fitness center in Aurora."
-  },
-  {
-    "id": "chrismar-tennis-club",
-    "name": "Chrismar Tennis Club",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8934603,
-      "lng": 18.6445535
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4,
-    "reviewCount": 89,
-    "address": "22 Glanville Rd, Chrismar, Cape Town, 7530",
-    "phone": null,
-    "tags": [
-      "sports club",
-      "association or organization"
-    ],
-    "blurb": "Sports Club in Chrismar."
+    "blurb": "Indoor archery lanes and pro shop in Brackenfell, good for first-timers."
   },
   {
     "id": "camelot-riding-school",
@@ -5240,7 +3188,7 @@
       "sports school",
       "horse riding"
     ],
-    "blurb": "Sports School in Durbanville."
+    "blurb": "Durbanville riding school with lessons and outrides among the paddocks."
   },
   {
     "id": "taurus-indoor-shooting-range",
@@ -5261,7 +3209,7 @@
       "sports complex",
       "sports activity location"
     ],
-    "blurb": "Sports Complex in Parow East."
+    "blurb": "Indoor pistol range in Parow East with supervised shooting experiences."
   },
   {
     "id": "bio-health",
@@ -5286,284 +3234,6 @@
     "blurb": "Fitness center in 4 Queen St."
   },
   {
-    "id": "stormers-rugby-high-performance-centre",
-    "name": "Stormers Rugby High Performance Centre",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.9027555,
-      "lng": 18.6160511
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.5,
-    "reviewCount": 70,
-    "address": "Corner of &, Voortrekker Rd &, Duminy St, Bellville, Cape Town, 7530",
-    "phone": null,
-    "tags": [
-      "sports club",
-      "association or organization"
-    ],
-    "blurb": "Sports Club in Bellville."
-  },
-  {
-    "id": "cindys-academy-of-swimming",
-    "name": "Cindy's Academy of Swimming",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8681999,
-      "lng": 18.6932601
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.9,
-    "reviewCount": 53,
-    "address": "12 Marais St, Brackenfell, Cape Town, 7560",
-    "phone": null,
-    "tags": [
-      "sports activity location",
-      "sports school"
-    ],
-    "blurb": "Sports School in Brackenfell."
-  },
-  {
-    "id": "kraaifontein-cricket-club",
-    "name": "Kraaifontein Cricket Club",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8239559,
-      "lng": 18.705988899999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 3.9,
-    "reviewCount": 52,
-    "address": "Sarel Van Deventer Rd, Bonnie Brae, Cape Town, 7569",
-    "phone": null,
-    "tags": [
-      "sports complex",
-      "sports club",
-      "sports activity location"
-    ],
-    "blurb": "Sports Club in Bonnie Brae."
-  },
-  {
-    "id": "durbanville-tennis-club",
-    "name": "Durbanville Tennis Club",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8285894,
-      "lng": 18.647415
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.6,
-    "reviewCount": 50,
-    "address": "Biccard St, Durbanville, Cape Town, 7551",
-    "phone": null,
-    "tags": [
-      "sports club",
-      "association or organization"
-    ],
-    "blurb": "Sports Club in Durbanville."
-  },
-  {
-    "id": "superswim-academy-durbanville",
-    "name": "Superswim Academy Durbanville",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.822792899999996,
-      "lng": 18.6448114
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.9,
-    "reviewCount": 42,
-    "address": "2 Slangkop Way, Skoongesig, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "sports activity location",
-      "sports school"
-    ],
-    "blurb": "Sports School in Skoongesig."
-  },
-  {
-    "id": "crossfit-relentless-heart",
-    "name": "CrossFit Relentless Heart",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.862527799999995,
-      "lng": 18.703356199999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 5,
-    "reviewCount": 39,
-    "address": "Unit 2, 25 Tarentaal Cres, Okavango Park, Cape Town, 7560",
-    "phone": null,
-    "tags": [
-      "fitness center",
-      "gym",
-      "sports activity location"
-    ],
-    "blurb": "Fitness center in Okavango Park."
-  },
-  {
-    "id": "olympians-wrestling-club-stoei-klub",
-    "name": "Olympians -Wrestling Club -Stoei Klub",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.834031599999996,
-      "lng": 18.6361192
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.8,
-    "reviewCount": 33,
-    "address": "Durbanville, Cape Town, 7551",
-    "phone": null,
-    "tags": [
-      "sports club",
-      "association or organization"
-    ],
-    "blurb": "Sports Club in Durbanville."
-  },
-  {
-    "id": "tricore-mma-gym",
-    "name": "Tricore MMA Gym",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8435414,
-      "lng": 18.7044463
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.9,
-    "reviewCount": 28,
-    "address": "103 Edward Rd, Windsor Park, Cape Town, 7570",
-    "phone": null,
-    "tags": [
-      "sports school",
-      "sports activity location",
-      "health"
-    ],
-    "blurb": "Sports School in Windsor Park."
-  },
-  {
-    "id": "morningstar-swimming-pool",
-    "name": "Morningstar Swimming Pool",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8285716,
-      "lng": 18.655772499999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4,
-    "reviewCount": 26,
-    "address": "9 Pikkewyn St, Durbanville, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "swimming pool",
-      "sports activity location"
-    ],
-    "blurb": "Swimming Pool in Durbanville."
-  },
-  {
-    "id": "hands-and-hearts-eikendal-sports-club",
-    "name": "Hands and Hearts Eikendal Sports club",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.853199499999995,
-      "lng": 18.719758199999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 3.9,
-    "reviewCount": 25,
-    "address": "Eighth Ave, Eikendal, Cape Town, 7570",
-    "phone": null,
-    "tags": [
-      "sports club",
-      "sports complex",
-      "association or organization"
-    ],
-    "blurb": "Sports Club in Eikendal."
-  },
-  {
-    "id": "truekrav-durbanville",
-    "name": "Truekrav Durbanville",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8139555,
-      "lng": 18.6205239
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.9,
-    "reviewCount": 19,
-    "address": "Unit 7, Thaba Park, Hooggelegen Rd, Durbanville, 7550",
-    "phone": null,
-    "tags": [
-      "fitness center",
-      "gym",
-      "sports club"
-    ],
-    "blurb": "Sports School in Hooggelegen Rd."
-  },
-  {
-    "id": "aqua-skills-swimming-school",
-    "name": "Aqua Skills Swimming School",
-    "category": "classes",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8373546,
-      "lng": 18.6282915
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.9,
-    "reviewCount": 17,
-    "address": "40 Parker St, Vergesig, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "swimming pool",
-      "school",
-      "educational institution"
-    ],
-    "blurb": "Sports School in Vergesig."
-  },
-  {
-    "id": "oom-vossie-voortrekkers",
-    "name": "Oom Vossie Voortrekkers",
-    "category": "arts",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8831214,
-      "lng": 18.6457479
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.6,
-    "reviewCount": 105,
-    "address": "Disa Cres, Blomtuin, Cape Town, 7530",
-    "phone": null,
-    "tags": [
-      "cultural center"
-    ],
-    "blurb": "Cultural Center in Blomtuin."
-  },
-  {
     "id": "the-framed-feather-artshopper",
     "name": "The Framed Feather & Artshopper",
     "category": "arts",
@@ -5582,7 +3252,7 @@
       "art gallery",
       "service"
     ],
-    "blurb": "Store in Boston."
+    "blurb": "Boston gallery and framing studio showcasing local artists."
   },
   {
     "id": "rust-en-vrede-gallery-and-clay-museum",
@@ -5604,7 +3274,7 @@
       "art museum",
       "tourist attraction"
     ],
-    "blurb": "Art Gallery in Durbanville."
+    "blurb": "Historic Durbanville homestead housing a gallery and South Africa's clay museum."
   },
   {
     "id": "art-b-gallery",
@@ -5624,29 +3294,7 @@
     "tags": [
       "art gallery"
     ],
-    "blurb": "Art Gallery in Bellville."
-  },
-  {
-    "id": "villa-pascal-guest-house",
-    "name": "Villa Pascal Guest House",
-    "category": "arts",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8365639,
-      "lng": 18.6557358
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.4,
-    "reviewCount": 56,
-    "address": "28 Van Der Westhuizen Ave, Valmary Park, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "guest house",
-      "performing arts theater",
-      "bed and breakfast"
-    ],
-    "blurb": "Guest House in Valmary Park."
+    "blurb": "Bellville's public gallery with rotating contemporary South African shows."
   },
   {
     "id": "kingsbridge-art",
@@ -5668,28 +3316,7 @@
       "art gallery",
       "service"
     ],
-    "blurb": "Store in Bellville West."
-  },
-  {
-    "id": "frame-gallery",
-    "name": "FRAME GALLERY",
-    "category": "arts",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8890023,
-      "lng": 18.6316565
-    },
-    "priceBand": 2,
-    "priceEstimate": "R120–250 pp",
-    "rating": 4.6,
-    "reviewCount": 26,
-    "address": "35 Northumberland St, Oakdale, Cape Town, 7550",
-    "phone": null,
-    "tags": [
-      "art gallery",
-      "service"
-    ],
-    "blurb": "Store in Oakdale."
+    "blurb": "Working art studio in Bellville offering classes and original works."
   },
   {
     "id": "atlantis-dunes",
@@ -5710,7 +3337,7 @@
       "quad biking",
       "tourist attraction"
     ],
-    "blurb": "Quad biking near Atlantis."
+    "blurb": "A rolling sea of white dunes 40 minutes from town: quad tours, sandboards and film-set sunsets."
   },
   {
     "id": "zone-7-mx-zone-7-motocross",
@@ -5732,7 +3359,7 @@
       "race course",
       "sports activity location"
     ],
-    "blurb": "Quad biking near Cape Farms."
+    "blurb": "Motocross and quad track days on the Cape Farms circuit off Van Schoorsdrift Road."
   },
   {
     "id": "wildx-adventures-wilderness",
@@ -5756,7 +3383,7 @@
       "kayaking",
       "horse riding"
     ],
-    "blurb": "Quad biking near Lange Valley."
+    "blurb": "WildX's Wilderness base: quads through forest trails, with kayaks and horses on the same farm."
   },
   {
     "id": "wacky-adventures",
@@ -5778,7 +3405,7 @@
       "campground",
       "water park"
     ],
-    "blurb": "Quad biking near R45."
+    "blurb": "Hopefield farm playground of quads, waterslides and go-karts, with camping if you can't stop."
   },
   {
     "id": "sa-forest-adventures-hermanus",
@@ -5800,7 +3427,7 @@
       "tourist attraction",
       "sandboarding"
     ],
-    "blurb": "Quad biking near Honingklip Farm."
+    "blurb": "Quad trails and sandboarding on Honingklip farm outside Hermanus."
   },
   {
     "id": "melkbos-4x4",
@@ -5822,7 +3449,7 @@
       "event venue",
       "catering service"
     ],
-    "blurb": "Quad biking near Melkbosstrand."
+    "blurb": "4x4 and quad playground in the Melkbos dunes with a braai-day venue attached."
   },
   {
     "id": "wine-valley-adventures",
@@ -5845,7 +3472,7 @@
       "sports complex",
       "horse riding"
     ],
-    "blurb": "Quad biking near Franschhoek."
+    "blurb": "Quad and horse trails through Franschhoek vineyards from Vrede en Lust."
   },
   {
     "id": "wildx-adventures-paarl-battle-bunker",
@@ -5867,7 +3494,7 @@
       "tourist attraction",
       "adventure sports center"
     ],
-    "blurb": "Quad biking near N1."
+    "blurb": "WildX Paarl: quad rides and paintball battles below the Du Toitskloof pass."
   },
   {
     "id": "southern-comfort-quad-bikes",
@@ -5887,7 +3514,7 @@
     "tags": [
       "quad biking"
     ],
-    "blurb": "Quad biking near Fisanthoek."
+    "blurb": "Guided quad rides through Plett's forest and fynbos backroads."
   },
   {
     "id": "quad-biking-cape-town",
@@ -5909,7 +3536,7 @@
       "adventure sports center",
       "tourist attraction"
     ],
-    "blurb": "Quad biking near Swannie River."
+    "blurb": "Quad trails in the Grabouw valley: mud in winter, dust in summer."
   },
   {
     "id": "tsitsikamma-adventure-land-quad-biking",
@@ -5931,7 +3558,7 @@
       "adventure sports center",
       "sports complex"
     ],
-    "blurb": "Quad biking in the Western Cape."
+    "blurb": "Quad circuits on a Stormsriver farm at the Garden Route's wild end."
   },
   {
     "id": "route-62-mountain-adventures",
@@ -5975,11 +3602,11 @@
       "adventure sports center",
       "sports complex"
     ],
-    "blurb": "Quad biking near Hartenbos."
+    "blurb": "Quad tours over coastal farmland at Hartenbos near Mossel Bay."
   },
   {
     "id": "cape-xtreme-adventure-tours-and-cape-to-",
-    "name": "Cape Xtreme Adventure Tours and Cape to Addo Safaris",
+    "name": "Cape Xtreme Adventure Tours",
     "category": "outdoor",
     "area": "obs",
     "coords": {
@@ -5998,7 +3625,7 @@
       "travel agency",
       "sandboarding"
     ],
-    "blurb": "Quad biking near Maitland."
+    "blurb": "Adventure tour crew running quad, sandboard and Garden Route combos from Cape Town."
   },
   {
     "id": "walker-bay-adventures",
@@ -6025,7 +3652,7 @@
   },
   {
     "id": "wildx-adventures-harkerville-knysna",
-    "name": "WildX Adventures Harkerville (Knysna)",
+    "name": "WildX Adventures Harkerville",
     "category": "outdoor",
     "area": "gardenroute",
     "coords": {
@@ -6043,33 +3670,11 @@
       "tourist attraction",
       "service"
     ],
-    "blurb": "Quad biking near Bitou Rural District."
-  },
-  {
-    "id": "muddy-offroads-plett",
-    "name": "Muddy Offroads @ Plett",
-    "category": "outdoor",
-    "area": "gardenroute",
-    "coords": {
-      "lat": -34.0541792,
-      "lng": 23.372772899999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 4.5,
-    "reviewCount": 41,
-    "address": "Church St, Plettenberg Bay, 6600",
-    "phone": null,
-    "tags": [
-      "quad biking",
-      "parking",
-      "car repair"
-    ],
-    "blurb": "Quad biking near Church St."
+    "blurb": "WildX Harkerville: quad trails in the forest between Knysna and Plett."
   },
   {
     "id": "wildx-adventures-the-crags-in-plettenber",
-    "name": "WildX Adventures The Crags in Plettenberg Bay",
+    "name": "WildX Adventures The Crags",
     "category": "outdoor",
     "area": "gardenroute",
     "coords": {
@@ -6087,7 +3692,7 @@
       "tourist attraction",
       "adventure sports center"
     ],
-    "blurb": "Quad biking near The Crags."
+    "blurb": "Quad rides at The Crags on Plett's animal-sanctuary mile."
   },
   {
     "id": "downhill-adventures",
@@ -6109,7 +3714,7 @@
       "adventure sports center",
       "sports complex"
     ],
-    "blurb": "Quad biking near Gardens."
+    "blurb": "Long-running Kloof Street adventure desk booking quads, sandboarding and city thrills."
   },
   {
     "id": "paradise-4x4",
@@ -6131,11 +3736,11 @@
       "off roading area",
       "sports activity location"
     ],
-    "blurb": "Quad biking near Kleinkrantz."
+    "blurb": "Self-drive 4x4 and quad playground in the Wilderness dunes at Kleinkrantz."
   },
   {
     "id": "wildx-adventures-george-bookings-only-ba",
-    "name": "WildX Adventures George - Bookings Only Basis :)",
+    "name": "WildX Adventures George",
     "category": "outdoor",
     "area": "gardenroute",
     "coords": {
@@ -6153,7 +3758,7 @@
       "tourist attraction",
       "service"
     ],
-    "blurb": "Quad biking near Heatherlands."
+    "blurb": "WildX George base for pre-booked quad outings in the Outeniqua foothills."
   },
   {
     "id": "dune-adventures-knysna-river-kayaking",
@@ -6171,16 +3776,15 @@
     "address": "Phantom Drive, Knysna, 6571",
     "phone": null,
     "tags": [
-      "quad biking",
-      "tourist attraction",
-      "gym",
-      "kayaking"
+      "kayaking",
+      "sandboarding",
+      "tourist attraction"
     ],
-    "blurb": "Quad biking near Phantom Drive."
+    "blurb": "Kayak and sandboard hire on the Knysna river at Phantom Pass."
   },
   {
     "id": "active-adventures-paintballing-and-quad-",
-    "name": "Active adventures Paintballing and quad biking",
+    "name": "Active Adventures Langebaan",
     "category": "outdoor",
     "area": "westcoast",
     "coords": {
@@ -6198,7 +3802,7 @@
       "paintball center",
       "sports complex"
     ],
-    "blurb": "Quad biking near Mykonos."
+    "blurb": "Paintball and quad rides on the Langebaan edge of the West Coast."
   },
   {
     "id": "side-street-adventures",
@@ -6220,7 +3824,7 @@
       "tourist attraction",
       "tourist information center"
     ],
-    "blurb": "Quad biking near Wilderness."
+    "blurb": "Wilderness adventure shop booking quads, tubing and Garden Route missions."
   },
   {
     "id": "paarl-trails-spice-route",
@@ -6242,29 +3846,7 @@
       "adventure sports center",
       "fitness center"
     ],
-    "blurb": "Quad biking near Unnamed Road."
-  },
-  {
-    "id": "jamin-adventures",
-    "name": "Jamin Adventures",
-    "category": "outdoor",
-    "area": "gardenroute",
-    "coords": {
-      "lat": -34.002245099999996,
-      "lng": 22.647693699999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 4.1,
-    "reviewCount": 15,
-    "address": "Kleinkrantz, Plettenberg Bay, Wilderness, 6600",
-    "phone": null,
-    "tags": [
-      "quad biking",
-      "travel agency",
-      "movie rental"
-    ],
-    "blurb": "Quad biking near Plettenberg Bay."
+    "blurb": "Quad and mountain-bike trails on Paarl's Spice Route grounds."
   },
   {
     "id": "ingwe-adventures",
@@ -6286,7 +3868,7 @@
       "adventure sports center",
       "sports complex"
     ],
-    "blurb": "Quad biking near R102 Firefly Falls The Crags."
+    "blurb": "Quad trails and forest adventures at Firefly Falls near The Crags."
   },
   {
     "id": "map-of-africa",
@@ -6329,7 +3911,7 @@
       "adventure sports center",
       "tourist attraction"
     ],
-    "blurb": "Paragliding near Signal Hill."
+    "blurb": "Tandem flights off Signal Hill: ten minutes of Atlantic silence you won't forget."
   },
   {
     "id": "fly-cape-town-tandem-paragliding",
@@ -6351,11 +3933,11 @@
       "tourist attraction",
       "adventure sports center"
     ],
-    "blurb": "Paragliding near Vredehoek."
+    "blurb": "Vredehoek-based tandem crew flying Lion's Head and Signal Hill daily, wind willing."
   },
   {
     "id": "skydive-mossel-bay-mossel-bay-airfield",
-    "name": "Skydive Mossel Bay - Mossel Bay Airfield",
+    "name": "Skydive Mossel Bay",
     "category": "outdoor",
     "area": "gardenroute",
     "coords": {
@@ -6373,7 +3955,7 @@
       "adventure sports center",
       "tourist attraction"
     ],
-    "blurb": "Paragliding near Aalwyndal."
+    "blurb": "Tandem skydives over Mossel Bay's beaches from the Aalwyndal airfield."
   },
   {
     "id": "wild2fly-paragliding",
@@ -6395,7 +3977,7 @@
       "transportation service",
       "educational institution"
     ],
-    "blurb": "Paragliding near Kleinkrantz."
+    "blurb": "Tandem paragliding over Wilderness beaches from the Kleinkrantz dunes."
   },
   {
     "id": "fly-time-paragliding",
@@ -6417,7 +3999,7 @@
       "adventure sports center",
       "tourist attraction"
     ],
-    "blurb": "Paragliding near Egret Rd."
+    "blurb": "Sedgefield tandem flights along the Garden Route's lake-and-dune coastline."
   },
   {
     "id": "cloudbase-paragliding",
@@ -6461,11 +4043,11 @@
       "adventure sports center",
       "sports complex"
     ],
-    "blurb": "Paragliding near Table View."
+    "blurb": "Table View paragliding school: lessons and tandems when the wind plays along."
   },
   {
     "id": "kleinkrantz-dune-paragliding-wilderness-",
-    "name": "Kleinkrantz Dune Paragliding Wilderness Launch Site",
+    "name": "Kleinkrantz Paragliding Launch Site",
     "category": "outdoor",
     "area": "gardenroute",
     "coords": {
@@ -6483,7 +4065,7 @@
       "sports club",
       "association or organization"
     ],
-    "blurb": "Paragliding near Kleinkrantz."
+    "blurb": "The Wilderness coastal launch dune where paragliders step off over the beach."
   },
   {
     "id": "paraglide-africa-beach-hotel",
@@ -6527,7 +4109,7 @@
       "adventure sports center",
       "sports complex"
     ],
-    "blurb": "Paragliding near Hoekwil."
+    "blurb": "Paraglide Africa's Hoekwil base for tandems above the Wilderness coast."
   },
   {
     "id": "lions-head-paragliding",
@@ -6548,7 +4130,7 @@
       "paragliding",
       "tourist attraction"
     ],
-    "blurb": "Paragliding near Woodstock."
+    "blurb": "Tandem operator flying the Lion's Head and Signal Hill launches over the Atlantic seaboard."
   },
   {
     "id": "untouched-adventures",
@@ -6570,7 +4152,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Kayaking in the Western Cape."
+    "blurb": "Kayak and lilo up the Storms River gorge from the Tsitsikamma suspension bridge."
   },
   {
     "id": "kayak-clifton",
@@ -6592,7 +4174,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Kayaking near Clifton."
+    "blurb": "Paddle Clifton's granite coastline from Fourth Beach, seals and sunsets included."
   },
   {
     "id": "cape-kayak-adventures",
@@ -6614,7 +4196,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Kayaking near Three Anchor Bay."
+    "blurb": "Three Anchor Bay classic: dawn paddles past Sea Point with dolphins on good days."
   },
   {
     "id": "atlantic-outlook-kayak-cape-town-tours",
@@ -6636,7 +4218,7 @@
       "adventure sports center",
       "tour agency"
     ],
-    "blurb": "Kayaking near Victoria & Alfred Waterfront."
+    "blurb": "Granger Bay kayak tours along the Mouille Point lighthouse stretch."
   },
   {
     "id": "kayak-adventures-waterfront",
@@ -6658,7 +4240,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Kayaking near Victoria & Alfred Waterfront."
+    "blurb": "Guided paddles from Battery Park through the V&A's canals and harbour."
   },
   {
     "id": "animal-ocean-expeditions",
@@ -6680,7 +4262,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Kayaking near Hout Bay."
+    "blurb": "Hout Bay's seal-snorkelling and ocean-safari specialists for Duiker Island."
   },
   {
     "id": "kayak-cape-town-simons-town",
@@ -6702,7 +4284,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Kayaking near Simon's Town."
+    "blurb": "Launch from Simon's Town jetty and paddle toward the Boulders penguins."
   },
   {
     "id": "knysna-charters",
@@ -6724,7 +4306,7 @@
       "adventure sports center",
       "tourist information center"
     ],
-    "blurb": "Kayaking near Thesen Island."
+    "blurb": "Thesen Island charters onto the Knysna lagoon, from kayaks to sunset cruises."
   },
   {
     "id": "kayak-adventures",
@@ -6746,7 +4328,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Kayaking near Hout Bay Harbour."
+    "blurb": "Harbour-launch paddles beneath Hout Bay's Sentinel peak."
   },
   {
     "id": "waterfront-kayak",
@@ -6768,7 +4350,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Kayaking near Victoria & Alfred Waterfront."
+    "blurb": "Quay 5 kayak hire for an hour among the Waterfront's working boats."
   },
   {
     "id": "kayak-adventures-simons-town",
@@ -6790,7 +4372,7 @@
       "adventure sports center",
       "tour agency"
     ],
-    "blurb": "Kayaking near Simon's Town."
+    "blurb": "Long Beach kayak trips toward the Boulders penguin colony."
   },
   {
     "id": "yzerfontein-sea-sport",
@@ -6812,7 +4394,7 @@
       "adventure sports center",
       "tour agency"
     ],
-    "blurb": "Kayaking near harbour."
+    "blurb": "Harbour watersports crew at Yzerfontein with kayaks and ocean craft on the slipway."
   },
   {
     "id": "wilderness-river-safaris",
@@ -6834,7 +4416,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Kayaking near Ebb and Flow Dr."
+    "blurb": "Flat-water paddles up the Touws River from Ebb and Flow, kingfishers likely."
   },
   {
     "id": "keurbooms-ferries",
@@ -6856,7 +4438,7 @@
       "tourist attraction",
       "picnic ground"
     ],
-    "blurb": "Kayaking near N2 Keurbooms River Keurbooms."
+    "blurb": "Ferry and paddle trips up the Keurbooms river gorge to picnic beaches."
   },
   {
     "id": "dolphin-adventures-sea-kayaking",
@@ -6878,7 +4460,7 @@
       "tourist attraction",
       "adventure sports center"
     ],
-    "blurb": "Kayaking near Hopwood St."
+    "blurb": "Sea kayaking off Plett's Central Beach with dolphins and, in season, whales."
   },
   {
     "id": "kayak-adventures-cape-town",
@@ -6900,29 +4482,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Kayaking near Mouille Point."
-  },
-  {
-    "id": "amanzi-trails-orange-river-adventures-bo",
-    "name": "Amanzi Trails Orange River Adventures - Booking Office",
-    "category": "outdoor",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.8560258,
-      "lng": 18.6260398
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 4.7,
-    "reviewCount": 55,
-    "address": "The, Vineyards Office Estate, 99 Jip De Jager Dr, De Bron, Cape Town, 7530",
-    "phone": null,
-    "tags": [
-      "kayaking",
-      "hiking area",
-      "campground"
-    ],
-    "blurb": "Kayaking near De Bron."
+    "blurb": "Granger Bay kayak outings along the Atlantic promenade."
   },
   {
     "id": "gravity-adventures",
@@ -6944,7 +4504,7 @@
       "adventure sports center",
       "tour agency"
     ],
-    "blurb": "Kayaking near Claremont."
+    "blurb": "Claremont-based river crew running kayak and white-water trips out of the city."
   },
   {
     "id": "shelley-point-kayaking",
@@ -6966,7 +4526,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Kayaking near Shelley Point."
+    "blurb": "Gentle bay paddles off Shelley Point on St Helena Bay's calm side."
   },
   {
     "id": "pura-vida-kayak-adventure-kleinmond",
@@ -6987,7 +4547,7 @@
       "kayaking",
       "service"
     ],
-    "blurb": "Kayaking near Palmiet St."
+    "blurb": "Lagoon kayaking from the Kleinmond jetty into the Palmiet estuary."
   },
   {
     "id": "bonamanzi-adventures",
@@ -7009,7 +4569,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Kayaking in the Western Cape."
+    "blurb": "River kayaking and rafting trips in the Winelands backcountry."
   },
   {
     "id": "aquatrails",
@@ -7031,7 +4591,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Kayaking near Fish Hoek."
+    "blurb": "Fish Hoek outfit paddling False Bay's calmer corners."
   },
   {
     "id": "bitou-kayaks",
@@ -7053,11 +4613,11 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Kayaking in the Western Cape."
+    "blurb": "Quiet paddles up Plett's Bitou river between reeds and birdlife."
   },
   {
     "id": "supingkeurbooms",
-    "name": "Supingkeurbooms",
+    "name": "SUP Keurbooms",
     "category": "outdoor",
     "area": "gardenroute",
     "coords": {
@@ -7075,7 +4635,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Kayaking in the Western Cape."
+    "blurb": "Stand-up paddleboard hire on the glassy Keurbooms river."
   },
   {
     "id": "kayak-paternoster",
@@ -7097,29 +4657,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Kayaking near Kliprug."
-  },
-  {
-    "id": "shelley-point-kayaking-2",
-    "name": "Shelley Point Kayaking",
-    "category": "outdoor",
-    "area": "westcoast",
-    "coords": {
-      "lat": -32.709886,
-      "lng": 17.9743
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 5,
-    "reviewCount": 13,
-    "address": "12 21st St, Shelley Point, St Helena Bay, 7282",
-    "phone": null,
-    "tags": [
-      "kayaking",
-      "tour agency",
-      "travel agency"
-    ],
-    "blurb": "Kayaking near Shelley Point."
+    "blurb": "Guided paddles off Paternoster's white beach, weather and whales permitting."
   },
   {
     "id": "the-dunes-beach-horse-rides",
@@ -7141,7 +4679,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near Chapmans Peak."
+    "blurb": "Ride Noordhoek's Long Beach at a walk or a canter below Chapman's Peak."
   },
   {
     "id": "the-riding-centre",
@@ -7163,7 +4701,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near Hout Bay."
+    "blurb": "Hout Bay stables taking beginners and old hands out on valley and beach rides."
   },
   {
     "id": "mountain-view-horse-trails",
@@ -7185,7 +4723,7 @@
       "stable",
       "pet boarding service"
     ],
-    "blurb": "Horse riding near Van Schoorsdrif Rd."
+    "blurb": "Farm outrides on Cape Farms gravel with Table Mountain on the horizon."
   },
   {
     "id": "tniqua-stable-inn",
@@ -7207,7 +4745,7 @@
       "bed and breakfast",
       "event venue"
     ],
-    "blurb": "Relaxed rooms & suites in a casual countryside guesthouse featuring a restaurant & an outdoor pool."
+    "blurb": "Plett stable-inn combo: forest and farm outrides, then a farm-style bed."
   },
   {
     "id": "heaven-and-earth-trails",
@@ -7251,7 +4789,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near The Crags."
+    "blurb": "Horse trails through Kurland's polo country at The Crags."
   },
   {
     "id": "pearly-beach-horse-trails",
@@ -7273,7 +4811,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near Kleynhagelkraal."
+    "blurb": "Canter an empty Overberg beach at Pearly Beach, often just you and the gulls."
   },
   {
     "id": "klein-karoo-horse-adventures",
@@ -7295,7 +4833,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near Doornkraal Stompdriftdam Road."
+    "blurb": "Klein Karoo outrides at De Rust: big skies, slow horses."
   },
   {
     "id": "cape-winelands-riding",
@@ -7317,7 +4855,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near R45."
+    "blurb": "Vineyard hacks around Simondium with mountain backdrops."
   },
   {
     "id": "silvermist-equestrian-center",
@@ -7339,11 +4877,11 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near Joostenberg Vlakte."
+    "blurb": "Joostenberg farm stables offering lessons and countryside outrides."
   },
   {
     "id": "perdepoort-horse-trails-local-info-co-za",
-    "name": "Perdepoort Horse trails@local-info.co.za",
+    "name": "Perdepoort Horse Trails",
     "category": "outdoor",
     "area": "gardenroute",
     "coords": {
@@ -7361,7 +4899,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding in the Western Cape."
+    "blurb": "Outeniqua foothill trails on horseback outside George."
   },
   {
     "id": "drikus-horse-trails-paternoster",
@@ -7383,11 +4921,11 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near Western Cape."
+    "blurb": "West Coast beach and strandveld rides from a Paternoster farm."
   },
   {
     "id": "equine-sport-centre-for-horse-riding-ste",
-    "name": "Equine Sport Centre for Horse Riding - Stellenbosch Winelands",
+    "name": "Equine Sport Centre Stellenbosch",
     "category": "outdoor",
     "area": "winelands",
     "coords": {
@@ -7405,7 +4943,7 @@
       "sports school",
       "sports coaching"
     ],
-    "blurb": "Horse riding near Kromme Rhee Rd."
+    "blurb": "Riding lessons and vineyard outrides on Slaley wine farm outside Stellenbosch."
   },
   {
     "id": "horse-rides-at-petes-wildlife-safari",
@@ -7427,7 +4965,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near Koelenhof."
+    "blurb": "Ride among antelope on a Koelenhof game farm outside Stellenbosch."
   },
   {
     "id": "oudebosch-guest-farm",
@@ -7449,7 +4987,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near Korentepoort dam."
+    "blurb": "Riversdale guest farm with dam-side rides and country quiet."
   },
   {
     "id": "west-coast-horse-trails",
@@ -7469,7 +5007,7 @@
     "tags": [
       "horse riding"
     ],
-    "blurb": "Horse riding near Strandkombuis Rd."
+    "blurb": "Beach outrides at Yzerfontein along Sixteen Mile Beach."
   },
   {
     "id": "paradise-stables-robertsvallei",
@@ -7491,7 +5029,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near Robertsvlei Rd."
+    "blurb": "Franschhoek valley outrides from stables on Robertsvlei Road."
   },
   {
     "id": "journeys-end-horseback-rides",
@@ -7513,7 +5051,7 @@
       "sports school",
       "sports coaching"
     ],
-    "blurb": "Horse riding near Somerset West."
+    "blurb": "Somerset West outrides under the Helderberg on Sir Lowry's Pass road."
   },
   {
     "id": "alpha-equestrian",
@@ -7535,7 +5073,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near Keerweder Rd."
+    "blurb": "Paarl stables running relaxed farm outrides."
   },
   {
     "id": "garden-route-horse-trails",
@@ -7557,29 +5095,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near Glenwood AH."
-  },
-  {
-    "id": "long-shadows-farm",
-    "name": "Long Shadows Farm",
-    "category": "outdoor",
-    "area": "overberg",
-    "coords": {
-      "lat": -34.2151376,
-      "lng": 19.0122855
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 4.8,
-    "reviewCount": 53,
-    "address": "Viljoenshoop Rd, Elgin, 7180",
-    "phone": null,
-    "tags": [
-      "horse riding",
-      "stable",
-      "pet boarding service"
-    ],
-    "blurb": "Horse riding near Viljoenshoop Rd."
+    "blurb": "Seven Passes forest rides outside George."
   },
   {
     "id": "boschrivier-farm",
@@ -7601,7 +5117,7 @@
       "farmstay",
       "sports activity location"
     ],
-    "blurb": "Horse riding near Wittedrift."
+    "blurb": "Wittedrift farmstay with river-valley horse rides near Plett."
   },
   {
     "id": "equine-encounters-and-trail-rides",
@@ -7623,7 +5139,7 @@
       "sports coaching",
       "sports school"
     ],
-    "blurb": "Horse riding near South."
+    "blurb": "Swellendam trail rides toward the Langeberg foothills."
   },
   {
     "id": "west-coast-beach-rides",
@@ -7645,35 +5161,13 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near Pelgrimsrust."
-  },
-  {
-    "id": "horse-about-livery",
-    "name": "Horse About Livery",
-    "category": "outdoor",
-    "area": "winelands",
-    "coords": {
-      "lat": -33.345425999999996,
-      "lng": 19.202935
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 4.7,
-    "reviewCount": 45,
-    "address": "Tulbagh",
-    "phone": null,
-    "tags": [
-      "horse riding",
-      "stable",
-      "hiking area"
-    ],
-    "blurb": "Horse riding in the Western Cape."
+    "blurb": "Paternoster beach gallops for confident riders, gentle walks for the rest."
   },
   {
     "id": "tulbagh-horse-trails",
     "name": "Tulbagh Horse Trails",
     "category": "outdoor",
-    "area": "durbanville",
+    "area": "winelands",
     "coords": {
       "lat": -33.223481,
       "lng": 19.148891
@@ -7688,7 +5182,7 @@
       "horse riding",
       "tourist attraction"
     ],
-    "blurb": "Horse riding near Winterhoek road."
+    "blurb": "Winterhoek valley outrides among Tulbagh's orchards and peaks."
   },
   {
     "id": "robertson-horse-adventures",
@@ -7710,7 +5204,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near Klipdrift farm."
+    "blurb": "Klipdrift farm rides in the Robertson wine valley."
   },
   {
     "id": "hermitage-horses",
@@ -7754,7 +5248,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near Oude Molen Village."
+    "blurb": "City-farm stables in Observatory: pony rides and paddock time under Devil's Peak."
   },
   {
     "id": "adventure-horse-safaris",
@@ -7776,7 +5270,7 @@
       "stable",
       "pet boarding service"
     ],
-    "blurb": "Horse riding near Vyf Brakke Fonteinen."
+    "blurb": "Farm-trail horse safaris in the hills behind Mossel Bay."
   },
   {
     "id": "african-horse-company-stanford",
@@ -7798,7 +5292,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near Stanford Hills Estate."
+    "blurb": "Fynbos and vineyard rides from Stanford Hills, with multi-day trails for the serious."
   },
   {
     "id": "gansbaai-horse-riding",
@@ -7820,7 +5314,7 @@
       "sports coaching",
       "sports activity location"
     ],
-    "blurb": "Horse riding near Corner of R43 and Uilenkraalsmond Resort - behind Johnny Rockets."
+    "blurb": "Beach and dune rides at Uilenkraalsmond near Gansbaai."
   },
   {
     "id": "souled-out-stables",
@@ -7842,11 +5336,11 @@
       "sports coaching",
       "sports school"
     ],
-    "blurb": "Horse riding near Heiderand Extension."
+    "blurb": "Mossel Bay stables doing lessons and relaxed outrides."
   },
   {
     "id": "the-ranch-horse-trail-rides",
-    "name": "@ The Ranch Horse Trail Rides",
+    "name": "The Ranch Horse Trail Rides",
     "category": "outdoor",
     "area": "overberg",
     "coords": {
@@ -7863,35 +5357,13 @@
       "horse riding",
       "sports activity location"
     ],
-    "blurb": "Horse riding near Hemel en Aarde Road."
-  },
-  {
-    "id": "solitaire-equestrian-academy",
-    "name": "Solitaire Equestrian Academy",
-    "category": "outdoor",
-    "area": "overberg",
-    "coords": {
-      "lat": -34.3665345,
-      "lng": 19.2212162
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 4.8,
-    "reviewCount": 21,
-    "address": "Hemel en aarde, Karwyderskraal, 7201",
-    "phone": null,
-    "tags": [
-      "horse riding",
-      "sports coaching",
-      "stable"
-    ],
-    "blurb": "Horse riding near Hemel en aarde."
+    "blurb": "Hemel-en-Aarde valley trail rides between Hermanus wine farms."
   },
   {
     "id": "the-pink-geranium-horse-riding",
     "name": "The Pink Geranium Horse Riding",
     "category": "outdoor",
-    "area": "durbanville",
+    "area": "winelands",
     "coords": {
       "lat": -33.8168593,
       "lng": 18.7921882
@@ -7907,7 +5379,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near R304."
+    "blurb": "Countryside rides from the Pink Geranium nursery near Elsenberg."
   },
   {
     "id": "two-feathers-horse-trails",
@@ -7929,7 +5401,7 @@
       "tourist attraction",
       "tour agency"
     ],
-    "blurb": "Horse riding near Marloth Nature Reserve."
+    "blurb": "Ride into Marloth Nature Reserve's foothills above Swellendam."
   },
   {
     "id": "bainskloof-horseriding-adventures",
@@ -7951,29 +5423,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near Fruit and Vegetable Estate."
-  },
-  {
-    "id": "highway-west-stables-accommodation",
-    "name": "Highway West Stables & Accommodation",
-    "category": "outdoor",
-    "area": "gardenroute",
-    "coords": {
-      "lat": -33.979681400000004,
-      "lng": 22.9567203
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 5,
-    "reviewCount": 14,
-    "address": "Portion 2, Farm 196, Mount Pleasant, Rheenendal, 6576",
-    "phone": null,
-    "tags": [
-      "horse riding",
-      "stable",
-      "pet boarding service"
-    ],
-    "blurb": "Horse riding near Mount Pleasant."
+    "blurb": "Wellington estate rides below the Bainskloof pass."
   },
   {
     "id": "painted-horse-riding-worcester",
@@ -7995,28 +5445,7 @@
       "sports school",
       "sports coaching"
     ],
-    "blurb": "Horse riding near UnNamed Road Brandwaght."
-  },
-  {
-    "id": "stellenbosch-endurance-yard-and-horse-tr",
-    "name": "Stellenbosch Endurance Yard and Horse Trails",
-    "category": "outdoor",
-    "area": "winelands",
-    "coords": {
-      "lat": -33.8988175,
-      "lng": 18.8423671
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 4.5,
-    "reviewCount": 12,
-    "address": "Stellenbosch",
-    "phone": null,
-    "tags": [
-      "horse riding",
-      "sports activity location"
-    ],
-    "blurb": "Horse riding in the Western Cape."
+    "blurb": "Farm rides outside Worcester in the Breede valley."
   },
   {
     "id": "milkwood-horse-trails",
@@ -8038,7 +5467,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near Melkhoutrivier plot 492."
+    "blurb": "Remote Malgas rides through milkwood country by the Breede river."
   },
   {
     "id": "winelands-horse-trails",
@@ -8060,7 +5489,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near De Hoop Road."
+    "blurb": "Robertson-area vineyard and veld outrides."
   },
   {
     "id": "maple-ranch-adventures",
@@ -8082,7 +5511,7 @@
       "tour agency",
       "adventure sports center"
     ],
-    "blurb": "Horse riding near Keurboom Heights."
+    "blurb": "Keurboom Heights ranch mixing horse rides with family farm fun."
   },
   {
     "id": "abbotsdale-horse-riding",
@@ -8104,50 +5533,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Horse riding near Abbotsdale."
-  },
-  {
-    "id": "klein-paradys-equestrian-centre",
-    "name": "Klein Paradys Equestrian Centre",
-    "category": "outdoor",
-    "area": "overberg",
-    "coords": {
-      "lat": -34.2324773,
-      "lng": 19.203940799999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 4.9,
-    "reviewCount": 9,
-    "address": "Main Road, Bot River, 7185",
-    "phone": null,
-    "tags": [
-      "horse riding",
-      "sports activity location"
-    ],
-    "blurb": "Horse riding near Main Road."
-  },
-  {
-    "id": "k-rides-equine-education-energy-rescue-c",
-    "name": "K-Rides Equine Education Energy Rescue Centre",
-    "category": "outdoor",
-    "area": "gardenroute",
-    "coords": {
-      "lat": -34.0442099,
-      "lng": 23.2935973
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 4,
-    "reviewCount": 8,
-    "address": "PORTION 19 OF THE FARM HOLT HILL. 434, N2, Harkerville, Plettenberg Bay, 6600",
-    "phone": null,
-    "tags": [
-      "horse riding",
-      "sports coaching",
-      "non profit organization"
-    ],
-    "blurb": "Horse riding near Harkerville."
+    "blurb": "Swartland village outrides from Abbotsdale near Malmesbury."
   },
   {
     "id": "sandboarding-cape-town",
@@ -8190,7 +5576,7 @@
       "sandboarding",
       "tourist attraction"
     ],
-    "blurb": "Sandboarding near Field St."
+    "blurb": "Sandboard Mossel Bay's Dragon Dune, the Garden Route's big slope."
   },
   {
     "id": "bettys-bay-sandboarding",
@@ -8211,7 +5597,7 @@
       "sandboarding",
       "transportation service"
     ],
-    "blurb": "Sandboarding near Watsonia St."
+    "blurb": "Sandboarding runs on Betty's Bay's coastal dunes."
   },
   {
     "id": "tsitsikamma-canopy-tours",
@@ -8257,7 +5643,7 @@
   },
   {
     "id": "zipline-tsitsikamma-falls-adventure",
-    "name": "ZIPLINE @ Tsitsikamma Falls Adventure",
+    "name": "Tsitsikamma Falls Adventures Zipline",
     "category": "outdoor",
     "area": "gardenroute",
     "coords": {
@@ -8274,7 +5660,7 @@
       "ziplining",
       "tourist attraction"
     ],
-    "blurb": "Ziplining in the Western Cape."
+    "blurb": "Zipline across Tsitsikamma's waterfall gorges on a series of slides."
   },
   {
     "id": "cape-canopy-tour",
@@ -8361,7 +5747,7 @@
       "adventure sports center",
       "sports complex"
     ],
-    "blurb": "Ziplining near Plettenberg Bay."
+    "blurb": "Forest ziplines through the Harkerville canopy between Knysna and Plett."
   },
   {
     "id": "cango-caves-zipline-estate",
@@ -8383,7 +5769,7 @@
       "restaurant",
       "adventure sports center"
     ],
-    "blurb": "Ziplining near De Kombuys 4028 Grootkraal Farm Kango Vallei."
+    "blurb": "Zipline estate in the Cango valley, minutes from the caves, with a restaurant on site."
   },
   {
     "id": "acrobranch-garden-route",
@@ -8405,28 +5791,7 @@
       "adventure sports center",
       "playground"
     ],
-    "blurb": "Ziplining near N2 Between Wilderness and Sedgefield."
-  },
-  {
-    "id": "k3-zipline-landing-point",
-    "name": "K3 Zipline Landing Point",
-    "category": "outdoor",
-    "area": "overberg",
-    "coords": {
-      "lat": -34.2285338,
-      "lng": 19.4853107
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 4.6,
-    "reviewCount": 94,
-    "address": "N2, Myddleton, Caledon",
-    "phone": null,
-    "tags": [
-      "ziplining",
-      "tourist attraction"
-    ],
-    "blurb": "Ziplining near N2."
+    "blurb": "Treetop obstacle courses and ziplines at Timberlake between Wilderness and Sedgefield."
   },
   {
     "id": "ziplines-in-plett",
@@ -8446,11 +5811,11 @@
     "tags": [
       "ziplining"
     ],
-    "blurb": "Ziplining near A13a."
+    "blurb": "Zipline rides out by Plett airport, quick adrenaline between beach days."
   },
   {
     "id": "marine-dynamics-shark-tours-shark-cage-d",
-    "name": "Marine Dynamics · Shark Tours · Shark Cage Dive",
+    "name": "Marine Dynamics Shark Tours",
     "category": "outdoor",
     "area": "overberg",
     "coords": {
@@ -8468,11 +5833,11 @@
       "tourist attraction",
       "tour agency"
     ],
-    "blurb": "Shark cage diving near Van Dyks Bay."
+    "blurb": "Gansbaai's conservation-led cage-diving crew with marine biologists on every boat."
   },
   {
     "id": "prodive-scuba-diving-centre-plettenberg-",
-    "name": "ProDive Scuba Diving Centre Plettenberg Bay",
+    "name": "ProDive Plettenberg Bay",
     "category": "outdoor",
     "area": "gardenroute",
     "coords": {
@@ -8489,7 +5854,7 @@
       "shark cage diving",
       "sports activity location"
     ],
-    "blurb": "Shark cage diving near Beacon Isle Dr."
+    "blurb": "Plett dive centre running reef dives, courses and ocean experiences."
   },
   {
     "id": "the-shark-lab-mini-aquarium",
@@ -8515,7 +5880,7 @@
   },
   {
     "id": "apex-shark-expeditions-great-white-shark",
-    "name": "Apex Shark Expeditions - Great White Shark Cage Diving Cape Town",
+    "name": "Apex Shark Expeditions",
     "category": "outdoor",
     "area": "muizenberg",
     "coords": {
@@ -8533,7 +5898,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Shark cage diving near Simon's Town."
+    "blurb": "Simon's Town shark specialists running small-group False Bay expeditions."
   },
   {
     "id": "white-shark-africa",
@@ -8599,7 +5964,7 @@
       "sporting goods store",
       "sports activity location"
     ],
-    "blurb": "Shark cage diving near Mossel Bay Central."
+    "blurb": "Mossel Bay dive shop for reef dives and shark cage trips."
   },
   {
     "id": "oceans-africa",
@@ -8621,11 +5986,11 @@
       "sports coaching",
       "tour agency"
     ],
-    "blurb": "Shark cage diving near Fish Hoek."
+    "blurb": "Fish Hoek ocean crew guiding dives and shark encounters in False Bay."
   },
   {
     "id": "just-africa-scuba-center-watersports-sho",
-    "name": "Just Africa Scuba Center & Watersports Shop",
+    "name": "Just Africa Scuba Center",
     "category": "outdoor",
     "area": "winelands",
     "coords": {
@@ -8643,7 +6008,7 @@
       "tour agency",
       "travel agency"
     ],
-    "blurb": "Shark cage diving near Harbour Island."
+    "blurb": "Gordon's Bay scuba centre with courses, gear and boat dives."
   },
   {
     "id": "sharklady-adventures-hermanus",
@@ -8668,140 +6033,8 @@
     "blurb": "Shark cage diving near 61 Marine Dr."
   },
   {
-    "id": "caleb-express-tours-whale-watching-shark",
-    "name": "Caleb Express Tours - Whale Watching & Shark Cage Diving Cape Town | Peninsula Tours",
-    "category": "outdoor",
-    "area": "durbanville",
-    "coords": {
-      "lat": -33.9298991,
-      "lng": 18.676945099999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 5,
-    "reviewCount": 21,
-    "address": "Kuils River, Cape Town, 7580",
-    "phone": null,
-    "tags": [
-      "shark cage diving",
-      "tour agency",
-      "travel agency"
-    ],
-    "blurb": "Shark cage diving near Kuils River."
-  },
-  {
-    "id": "shark-cage-diving-net",
-    "name": "Shark-Cage-Diving.net",
-    "category": "outdoor",
-    "area": "waterfront",
-    "coords": {
-      "lat": -33.9050434,
-      "lng": 18.419055999999998
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 4.3,
-    "reviewCount": 14,
-    "address": "280 Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001",
-    "phone": null,
-    "tags": [
-      "shark cage diving",
-      "tour agency",
-      "travel agency"
-    ],
-    "blurb": "Shark cage diving near Victoria & Alfred Waterfront."
-  },
-  {
-    "id": "shark-zone",
-    "name": "Shark Zone",
-    "category": "outdoor",
-    "area": "citybowl",
-    "coords": {
-      "lat": -33.9220286,
-      "lng": 18.419862
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 4.1,
-    "reviewCount": 14,
-    "address": "81 Long St, Cape Town City Centre, Cape Town, 8000",
-    "phone": null,
-    "tags": [
-      "shark cage diving",
-      "tour agency",
-      "travel agency"
-    ],
-    "blurb": "Shark cage diving near Cape Town City Centre."
-  },
-  {
-    "id": "shark-bookings",
-    "name": "Shark Bookings",
-    "category": "outdoor",
-    "area": "overberg",
-    "coords": {
-      "lat": -34.561976,
-      "lng": 19.357183
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 4.2,
-    "reviewCount": 12,
-    "address": "61 Ingang St, De Kelders, Gansbaai, 7220",
-    "phone": null,
-    "tags": [
-      "shark cage diving",
-      "tour agency",
-      "travel agency"
-    ],
-    "blurb": "Shark cage diving near De Kelders."
-  },
-  {
-    "id": "shark-adventures-shark-cage-diving",
-    "name": "Shark Adventures - Shark Cage Diving",
-    "category": "outdoor",
-    "area": "winelands",
-    "coords": {
-      "lat": -34.036969899999995,
-      "lng": 18.75819
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 3.5,
-    "reviewCount": 11,
-    "address": "11 Faure St, Kelderhof Country Village, Cape Town, 7130",
-    "phone": null,
-    "tags": [
-      "shark cage diving",
-      "fishing charter",
-      "tour agency"
-    ],
-    "blurb": "Shark cage diving near Kelderhof Country Village."
-  },
-  {
-    "id": "shark-cage-diving-cape-town",
-    "name": "Shark Cage Diving Cape Town",
-    "category": "outdoor",
-    "area": "muizenberg",
-    "coords": {
-      "lat": -34.060491,
-      "lng": 18.469061
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 4.6,
-    "reviewCount": 9,
-    "address": "7 Chiphillside Rd, Retreat, Cape Town, 7945",
-    "phone": null,
-    "tags": [
-      "shark cage diving",
-      "tour agency",
-      "travel agency"
-    ],
-    "blurb": "Shark cage diving near Retreat."
-  },
-  {
     "id": "cape-town-surf-school-bianca-surf-academ",
-    "name": "Cape Town Surf School - Bianca Surf Academy",
+    "name": "Bianca Surf Academy",
     "category": "classes",
     "area": "blouberg",
     "coords": {
@@ -8817,7 +6050,7 @@
     "tags": [
       "learn to surf"
     ],
-    "blurb": "Surf lessons near Bloubergstrand."
+    "blurb": "Blouberg surf academy coaching first waves on a gentle beach break."
   },
   {
     "id": "soft-surf-school",
@@ -8837,7 +6070,7 @@
     "tags": [
       "learn to surf"
     ],
-    "blurb": "Surf lessons near Muizenberg."
+    "blurb": "Muizenberg school at Surfer's Corner easing beginners onto warm, slow walls."
   },
   {
     "id": "stoked-surf-south-africa",
@@ -8857,7 +6090,7 @@
     "tags": [
       "learn to surf"
     ],
-    "blurb": "Surf lessons near Camps Bay."
+    "blurb": "Camps Bay-based coaches running lessons at the city's friendliest breaks."
   },
   {
     "id": "hermanus-surf-school",
@@ -8921,7 +6154,7 @@
       "yoga studio",
       "fitness center"
     ],
-    "blurb": "Surf lessons near Capri."
+    "blurb": "Capri surf-and-yoga camp riding the Cape Point side of the peninsula."
   },
   {
     "id": "surfends-surf-school",
@@ -8942,7 +6175,7 @@
       "learn to surf",
       "sporting goods store"
     ],
-    "blurb": "Surf lessons near Victoria Bay Road 2 Victoria Bay."
+    "blurb": "Learn at Victoria Bay, the Garden Route's pointbreak amphitheatre."
   },
   {
     "id": "kitesurfing-school-constantly-kiting",
@@ -8982,7 +6215,7 @@
     "tags": [
       "learn to surf"
     ],
-    "blurb": "Surf lessons near Victoria Bay Rd."
+    "blurb": "Vic Bay surf lessons on one of South Africa's most consistent points."
   },
   {
     "id": "son-surf-school",
@@ -9004,7 +6237,7 @@
       "sporting goods store",
       "service"
     ],
-    "blurb": "Surf lessons near Strand."
+    "blurb": "Strand beachfront lessons on False Bay's warmer, forgiving waves."
   },
   {
     "id": "wilderness-surf-school",
@@ -9028,7 +6261,7 @@
   },
   {
     "id": "k-i-s-s-keep-it-simple-surf",
-    "name": "K I S S KEEP IT SIMPLE SURF",
+    "name": "KISS Keep It Simple Surf",
     "category": "classes",
     "area": "citybowl",
     "coords": {
@@ -9045,7 +6278,7 @@
       "learn to surf",
       "sporting goods store"
     ],
-    "blurb": "Surf lessons near Cape Town City Centre."
+    "blurb": "City surf shop and school keeping it simple: boards, lessons, stoke."
   },
   {
     "id": "surfs-up-mossel-bay",
@@ -9067,7 +6300,7 @@
       "tourist attraction",
       "adventure sports center"
     ],
-    "blurb": "Surf lessons near Voorbaai."
+    "blurb": "Diaz Beach surf school in Mossel Bay's sheltered corner."
   },
   {
     "id": "cape-town-surfing",
@@ -9087,7 +6320,7 @@
     "tags": [
       "learn to surf"
     ],
-    "blurb": "Surf lessons near Hout Bay."
+    "blurb": "Hout Bay-based surf coaching that chases wherever the swell behaves."
   },
   {
     "id": "east-side-surf-school",
@@ -9107,7 +6340,7 @@
     "tags": [
       "learn to surf"
     ],
-    "blurb": "Surf lessons near Still Bay West."
+    "blurb": "Still Bay surf lessons at the harbour end of a long right point."
   },
   {
     "id": "c-kite-langebaan",
@@ -9129,7 +6362,7 @@
       "adventure sports center",
       "sports complex"
     ],
-    "blurb": "Surf lessons near Bree St."
+    "blurb": "Langebaan kite school on the lagoon's flat, shallow water, ideal for learning."
   },
   {
     "id": "learn-to-surf-plett",
@@ -9149,7 +6382,7 @@
     "tags": [
       "learn to surf"
     ],
-    "blurb": "Surf lessons near Robberg."
+    "blurb": "Robberg 5 beach lessons on Plett's mellow sandbars."
   },
   {
     "id": "buffs-surf-school",
@@ -9169,7 +6402,7 @@
     "tags": [
       "learn to surf"
     ],
-    "blurb": "Surf lessons near Buffalo Bay."
+    "blurb": "Buffalo Bay surf school on Knysna's gentle crescent."
   },
   {
     "id": "yzerfontein-surf",
@@ -9211,11 +6444,11 @@
     "tags": [
       "learn to surf"
     ],
-    "blurb": "Surf lessons near Voëlklip Beach."
+    "blurb": "Voëlklip beach lessons in Hermanus, whales on the horizon in season."
   },
   {
     "id": "a-k-a-w-cape-town-surf-kite-camps",
-    "name": "A K A W Cape Town Surf & Kite Camps",
+    "name": "AKAW Surf & Kite Camps",
     "category": "classes",
     "area": "blouberg",
     "coords": {
@@ -9232,29 +6465,7 @@
       "learn to surf",
       "kitesurfing"
     ],
-    "blurb": "Surf lessons near Bloubergstrand."
-  },
-  {
-    "id": "making-waves-swim-surf-school",
-    "name": "Making Waves Swim & Surf School",
-    "category": "classes",
-    "area": "winelands",
-    "coords": {
-      "lat": -34.1570886,
-      "lng": 18.873573
-    },
-    "priceBand": 2,
-    "priceEstimate": "Prices vary · book ahead",
-    "rating": 4.9,
-    "reviewCount": 13,
-    "address": "16 Blue Gum Ave, Mountainside, Cape Town, 7151",
-    "phone": null,
-    "tags": [
-      "learn to surf",
-      "sports school",
-      "sports activity location"
-    ],
-    "blurb": "Surf lessons near Mountainside."
+    "blurb": "Big Bay camps mixing surf and kite coaching."
   },
   {
     "id": "saldanha-surf-sanctuary-extreme-abilitie",
@@ -9298,7 +6509,7 @@
       "school",
       "educational institution"
     ],
-    "blurb": "Surf lessons near Struis Bay."
+    "blurb": "Struisbaai lessons near the southern tip's long, forgiving beach."
   },
   {
     "id": "west-coast-surf-school",
@@ -9318,7 +6529,7 @@
     "tags": [
       "learn to surf"
     ],
-    "blurb": "Surf lessons near Melkbosstrand."
+    "blurb": "Melkbos beginner lessons where the crowds thin out."
   },
   {
     "id": "mav-surf-school",
@@ -9338,6 +6549,6 @@
     "tags": [
       "learn to surf"
     ],
-    "blurb": "Surf lessons near Milnerton."
+    "blurb": "Milnerton lessons on the beach break by the lagoon mouth."
   }
 ]

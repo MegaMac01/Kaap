@@ -1,12 +1,10 @@
 "use client";
 
-import { useState } from "react";
 import Link from "next/link";
 import { ArrowLeft, Clock, Globe, Heart, MapPin, Phone, Star } from "lucide-react";
 import { OpenBadge } from "@/components/ui/OpenBadge";
 import { SpotMap } from "@/components/spot/SpotMap";
 import { StripedThumb, ThumbLabel } from "@/components/ui/StripedThumb";
-import { SAMPLE_REVIEWS } from "@/lib/data/spots";
 import { areaName, categoryLabel, distanceOf } from "@/lib/filters";
 import {
   bandSymbol,
@@ -15,12 +13,13 @@ import {
   fallbackBookingUrl,
   fallbackSearchUrl,
   formatReviewCount,
+  initialsOf,
 } from "@/lib/format";
 import { formatDistanceKm } from "@/lib/geo";
 import { DAY_LABELS, formatIntervals, isOpenAt, todayHoursLabel, todayKey } from "@/lib/hours";
 import { useKaap } from "@/lib/store";
 import { useNow } from "@/lib/use-now";
-import { DAY_KEYS, type Spot } from "@/lib/types";
+import { DAY_KEYS, type Spot, type SpotReview } from "@/lib/types";
 
 const AVATAR_COLORS = ["#2c4a3b", "#cf6a3f", "#7a4b6b"];
 
@@ -31,10 +30,17 @@ function ctaLabel(spot: Spot): string {
   return "Book tickets";
 }
 
-export function SpotDetailView({ spot, similar }: { spot: Spot; similar: Spot[] }) {
+export function SpotDetailView({
+  spot,
+  similar,
+  reviews,
+}: {
+  spot: Spot;
+  similar: Spot[];
+  reviews: SpotReview[];
+}) {
   const { hydrated, isSaved, toggleSaved, profile } = useKaap();
   const now = useNow();
-  const [reviewNote, setReviewNote] = useState(false);
 
   const open = now ? isOpenAt(spot.hours, now) : null;
   const today = now ? todayKey(now) : null;
@@ -143,43 +149,37 @@ export function SpotDetailView({ spot, similar }: { spot: Spot; similar: Spot[] 
             </>
           )}
 
-          <div className="mb-[14px] flex items-center justify-between">
+          {/* TODO P3: first-party reviews with accounts + moderation (SPEC §6.4) */}
+          <div className="mb-[14px] flex items-baseline gap-2">
             <h3 className="text-[14px] font-bold uppercase tracking-[0.6px] text-sage">Reviews</h3>
-            {/* TODO P3: first-party reviews with accounts + moderation (SPEC §6.4) */}
-            <button
-              type="button"
-              onClick={() => setReviewNote(true)}
-              className="cursor-pointer rounded-full border border-terracotta/40 bg-transparent px-[14px] py-[6px] text-[13px] font-semibold text-terracotta"
-            >
-              Write a review
-            </button>
+            {reviews.length > 0 && <span className="text-[12px] text-muted3">via Google</span>}
           </div>
-          {reviewNote && (
-            <p role="status" className="mb-3 text-[13px] font-semibold text-muted">
-              Writing reviews is coming soon. The ones below are sample content while we
-              get there.
+          {reviews.length === 0 ? (
+            <p className="text-[13.5px] text-muted">
+              No written reviews synced for this spot yet.
             </p>
-          )}
-          <div className="flex flex-col gap-4">
-            {SAMPLE_REVIEWS.map((rv, i) => (
-              <div key={rv.name} className="flex gap-3">
-                <div
-                  className="flex size-10 flex-none items-center justify-center rounded-full text-[14px] font-bold text-white"
-                  style={{ background: AVATAR_COLORS[i % AVATAR_COLORS.length] }}
-                >
-                  {rv.initials}
-                </div>
-                <div className="flex-1">
-                  <div className="flex flex-wrap items-center gap-2">
-                    <span className="text-[14px] font-bold">{rv.name}</span>
-                    <span className="text-[12px] text-star">{"★★★★★".slice(0, rv.rating)}</span>
-                    <span className="text-[12px] text-muted3">· {rv.when}</span>
+          ) : (
+            <div className="flex flex-col gap-4">
+              {reviews.map((rv, i) => (
+                <div key={`${rv.author}-${i}`} className="flex gap-3">
+                  <div
+                    className="flex size-10 flex-none items-center justify-center rounded-full text-[14px] font-bold text-white"
+                    style={{ background: AVATAR_COLORS[i % AVATAR_COLORS.length] }}
+                  >
+                    {initialsOf(rv.author)}
                   </div>
-                  <p className="mt-[5px] text-[14px] leading-[1.55] text-ink-soft2">{rv.text}</p>
+                  <div className="flex-1">
+                    <div className="flex flex-wrap items-center gap-2">
+                      <span className="text-[14px] font-bold">{rv.author}</span>
+                      <span className="text-[12px] text-star">{"★★★★★".slice(0, rv.rating)}</span>
+                      {rv.when && <span className="text-[12px] text-muted3">· {rv.when}</span>}
+                    </div>
+                    <p className="mt-[5px] text-[14px] leading-[1.55] text-ink-soft2">{rv.text}</p>
+                  </div>
                 </div>
-              </div>
-            ))}
-          </div>
+              ))}
+            </div>
+          )}
         </div>
 
         {/* Sticky action card */}

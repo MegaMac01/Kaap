@@ -12,6 +12,7 @@
     "icons": "node scripts/generate-icons.mjs",
     "places:match": "tsx scripts/enrich-places.ts match",
     "places:refresh": "tsx scripts/enrich-places.ts refresh",
+    "places:reviews": "tsx scripts/enrich-places.ts reviews",
     "places:discover": "tsx scripts/discover-places.ts"
   },
   "dependencies": {

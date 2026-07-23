@@ -766,29 +766,3 @@ export const CATEGORY_PALETTES: Record<string, [string, string]> = {
   family: ["#5b8f7a", "#3f6b58"],
   free: ["#7d8452", "#5c623a"],
 };
-
-// TODO: replace with real first-party/provider reviews (SPEC §6.4, provider
-// ratings in P1–2, first-party from P3). Sample content from the design handoff.
-export const SAMPLE_REVIEWS = [
-  {
-    name: "Lerato M.",
-    initials: "LM",
-    rating: 5,
-    when: "2 weeks ago",
-    text: "Honestly one of the best afternoons we’ve had in ages. Went on a friend’s tip and it did not disappoint. Will be back.",
-  },
-  {
-    name: "James van der Walt",
-    initials: "JV",
-    rating: 4,
-    when: "1 month ago",
-    text: "Solid all round. Gets busy on weekends so go early. Prices are fair for what you get.",
-  },
-  {
-    name: "Aisha K.",
-    initials: "AK",
-    rating: 5,
-    when: "3 days ago",
-    text: "Took visiting family here and everyone loved it. Staff were lovely and it’s exactly as described.",
-  },
-] as const;

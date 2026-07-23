@@ -1,12 +1,17 @@
 /**
  * Google Places (New) enrichment for the curated spots (SPEC §7, §9).
  *
- * Two modes:
+ * Three modes:
  *   npm run places:match    : find each spot's Google place_id (writes
  *                             lib/data/places-match.json; review it by hand!)
  *   npm run places:refresh  : pull live hours/rating/contact/coords for every
  *                             matched place into lib/data/enrichment.json,
  *                             which lib/data/spots.ts overlays onto the seed.
+ *   npm run places:reviews  : pull each place's top Google reviews into
+ *                             lib/data/reviews.json (bundled, shown on spot
+ *                             pages with attribution). Separate mode because
+ *                             the reviews field bills at a higher SKU than
+ *                             the facts refresh.
  *
  * Needs PLACES_API_KEY in .env.local. Curated fields (blurb, price bands,
  * tags, categories) are never touched, only facts a provider knows better.
@@ -16,11 +21,12 @@ import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { SPOTS } from "../lib/data/spots";
-import { DAY_KEYS, type DayKey, type WeeklyHours } from "../lib/types";
+import { DAY_KEYS, type DayKey, type SpotReview, type WeeklyHours } from "../lib/types";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const MATCH_FILE = join(ROOT, "lib", "data", "places-match.json");
 const ENRICHMENT_FILE = join(ROOT, "lib", "data", "enrichment.json");
+const REVIEWS_FILE = join(ROOT, "lib", "data", "reviews.json");
 
 // Minimal .env.local loader (tsx does not load env files).
 function loadEnvLocal() {
@@ -228,12 +234,74 @@ async function runRefresh() {
   console.log("Now run `npm run seed:sql` so the DB seed picks up the fresh data.");
 }
 
+interface GoogleReview {
+  rating?: number;
+  relativePublishTimeDescription?: string;
+  text?: { text?: string };
+  authorAttribution?: { displayName?: string };
+}
+
+/** Trim to a sentence-ish cutoff so one rambling review can't swallow the page. */
+function trimReview(text: string, max = 340): string {
+  const clean = text.replace(/\s+/g, " ").trim();
+  if (clean.length <= max) return clean;
+  const cut = clean.slice(0, max);
+  const lastStop = Math.max(cut.lastIndexOf(". "), cut.lastIndexOf("! "), cut.lastIndexOf("? "));
+  return lastStop > max * 0.5 ? cut.slice(0, lastStop + 1) : cut.trimEnd() + "…";
+}
+
+async function placeReviews(placeId: string): Promise<GoogleReview[]> {
+  const res = await fetch(`https://places.googleapis.com/v1/places/${placeId}`, {
+    headers: { "X-Goog-Api-Key": KEY!, "X-Goog-FieldMask": "id,reviews" },
+  });
+  if (!res.ok) throw new Error(`placeReviews ${res.status}: ${await res.text()}`);
+  const data = (await res.json()) as { reviews?: GoogleReview[] };
+  return data.reviews ?? [];
+}
+
+async function runReviews() {
+  if (!existsSync(MATCH_FILE)) {
+    console.error("No places-match.json: run `npm run places:match` first.");
+    process.exit(1);
+  }
+  const matches: Record<string, MatchEntry | null> = JSON.parse(
+    readFileSync(MATCH_FILE, "utf8")
+  );
+  const out: Record<string, SpotReview[]> = {};
+  for (const spot of SPOTS) {
+    const match = matches[spot.id];
+    if (!match) continue;
+    let raw: GoogleReview[];
+    try {
+      raw = await placeReviews(match.placeId);
+    } catch (err) {
+      console.warn(`! ${spot.id}: ${(err as Error).message}`);
+      continue;
+    }
+    const reviews = raw
+      .filter((r) => r.text?.text && r.rating != null)
+      .slice(0, 3)
+      .map((r) => ({
+        author: r.authorAttribution?.displayName ?? "A Google user",
+        rating: Math.round(r.rating!),
+        when: r.relativePublishTimeDescription ?? "",
+        text: trimReview(r.text!.text!),
+      }));
+    if (reviews.length) out[spot.id] = reviews;
+    console.log(`✓ ${spot.id}: ${reviews.length} reviews`);
+    await sleep(120);
+  }
+  writeFileSync(REVIEWS_FILE, JSON.stringify(out, null, 2) + "\n", "utf8");
+  console.log(`\nWrote ${REVIEWS_FILE} (${Object.keys(out).length} spots with reviews).`);
+}
+
 async function main() {
   const mode = process.argv[2];
   if (mode === "match") await runMatch();
   else if (mode === "refresh") await runRefresh();
+  else if (mode === "reviews") await runReviews();
   else {
-    console.error("Usage: tsx scripts/enrich-places.ts <match|refresh>");
+    console.error("Usage: tsx scripts/enrich-places.ts <match|refresh|reviews>");
     process.exit(1);
   }
 }
