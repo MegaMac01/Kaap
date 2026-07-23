@@ -247,7 +247,7 @@ export function DiscoverMap({
         ref={el}
         role="application"
         aria-label="Map of Cape Town areas and spots"
-        className="aspect-[4/5] w-full bg-gradient-to-b from-ocean1 to-ocean2"
+        className="h-[220px] w-full bg-gradient-to-b from-ocean1 to-ocean2 sm:h-auto sm:aspect-[4/5]"
       />
       <div className="flex items-center justify-between gap-[10px] px-[13px] py-[11px]">
         <span className="text-[12.5px] text-sage">{hint}</span>
