@@ -5,7 +5,7 @@ import { useMemo, useState } from "react";
 import { Star } from "lucide-react";
 import { OpenBadge } from "@/components/ui/OpenBadge";
 import { SaveHeart } from "@/components/ui/SaveHeart";
-import { StripedThumb, ThumbLabel } from "@/components/ui/StripedThumb";
+import { SpotPhoto } from "@/components/ui/SpotPhoto";
 import { areaName, categoryLabel } from "@/lib/filters";
 import { bandSymbol } from "@/lib/format";
 import { isOpenAt } from "@/lib/hours";
@@ -88,9 +88,7 @@ export function SavedView({ spots }: { spots: Spot[] }) {
             href={`/spots/${spot.id}`}
             className="flex cursor-pointer gap-[14px] rounded-[16px] border border-forest/12 bg-card p-3 text-ink"
           >
-            <StripedThumb category={spot.category} className="size-[92px] flex-none rounded-[12px]">
-              <ThumbLabel>photo: {spot.name.split("(")[0].trim()}</ThumbLabel>
-            </StripedThumb>
+            <SpotPhoto spot={spot} width={200} className="size-[92px] flex-none rounded-[12px]" />
             <div className="flex min-w-0 flex-1 flex-col gap-[5px]">
               <div className="text-[11px] font-bold uppercase tracking-[0.5px] text-terracotta">
                 {categoryLabel(spot.category)} ·{" "}

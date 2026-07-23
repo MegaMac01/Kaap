@@ -4,7 +4,7 @@ import Link from "next/link";
 import { ArrowLeft, Clock, Globe, Heart, MapPin, Phone, Star } from "lucide-react";
 import { OpenBadge } from "@/components/ui/OpenBadge";
 import { SpotMap } from "@/components/spot/SpotMap";
-import { StripedThumb, ThumbLabel } from "@/components/ui/StripedThumb";
+import { SpotPhoto } from "@/components/ui/SpotPhoto";
 import { areaName, categoryLabel, distanceOf } from "@/lib/filters";
 import {
   bandSymbol,
@@ -34,10 +34,13 @@ export function SpotDetailView({
   spot,
   similar,
   reviews,
+  photoAttrs,
 }: {
   spot: Spot;
   similar: Spot[];
   reviews: SpotReview[];
+  /** Photographer attributions for the gallery (Google policy). */
+  photoAttrs: string[];
 }) {
   const { hydrated, isSaved, toggleSaved, profile } = useKaap();
   const now = useNow();
@@ -46,7 +49,6 @@ export function SpotDetailView({
   const today = now ? todayKey(now) : null;
   const origin = profile?.coords ?? null;
   const saved = hydrated && isSaved(spot.id);
-  const shortName = spot.name.split("(")[0].trim();
 
   return (
     <main className="mx-auto max-w-[1000px] px-[22px] pb-20 pt-4">
@@ -57,22 +59,35 @@ export function SpotDetailView({
         <ArrowLeft size={15} /> Back
       </Link>
 
-      {/* Gallery: TODO real photos (SPEC §7); grid stays, tiles become <Image> */}
+      {/* Gallery: real Places photos via /api/photo, stripes when none. */}
       <div className="grid h-[clamp(220px,38vw,380px)] grid-cols-[2fr_1fr] gap-[10px]">
-        <StripedThumb
-          category={spot.category}
+        <SpotPhoto
+          spot={spot}
+          index={0}
+          width={800}
           angle={135}
-          className="!items-end !justify-start rounded-[18px] p-[14px]"
+          className="rounded-[18px]"
+          overlayClassName="bottom-[10px] left-[10px]"
         >
-          <span className="rounded-[6px] bg-black/28 px-[10px] py-[5px] font-mono text-[12px] text-white/90">
-            photo: {shortName}
-          </span>
-        </StripedThumb>
+          {spot.photos.length > 0 && (
+            <span
+              title={photoAttrs.length ? `Photos: ${photoAttrs.join(", ")}` : undefined}
+              className="rounded-full bg-black/40 px-[10px] py-[4px] text-[10.5px] font-semibold text-white/90"
+            >
+              Photos via Google
+            </span>
+          )}
+        </SpotPhoto>
         <div className="grid grid-rows-2 gap-[10px]">
-          {[45, 100].map((angle, i) => (
-            <StripedThumb key={angle} category={spot.category} angle={angle} className="rounded-[14px]">
-              <ThumbLabel>photo {i + 2}</ThumbLabel>
-            </StripedThumb>
+          {[1, 2].map((i) => (
+            <SpotPhoto
+              key={i}
+              spot={spot}
+              index={i}
+              width={400}
+              angle={i === 1 ? 45 : 100}
+              className="rounded-[14px]"
+            />
           ))}
         </div>
       </div>
@@ -274,9 +289,7 @@ export function SpotDetailView({
                 href={`/spots/${sp.id}`}
                 className="flex-[0_0_240px] cursor-pointer overflow-hidden rounded-[16px] border border-forest/12 bg-card text-ink"
               >
-                <StripedThumb category={sp.category} angle={120} className="h-[120px] w-full">
-                  <ThumbLabel>photo: {sp.name.split("(")[0].trim()}</ThumbLabel>
-                </StripedThumb>
+                <SpotPhoto spot={sp} width={400} angle={120} className="h-[120px] w-full" />
                 <div className="p-3">
                   <div className="mb-[3px] text-[11px] font-bold uppercase tracking-[0.5px] text-terracotta">
                     {areaName(sp.area)}

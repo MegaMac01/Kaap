@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { SpotDetailView } from "@/components/spot/SpotDetailView";
 import { SPOTS } from "@/lib/data/spots";
 import reviewsJson from "@/lib/data/reviews.json";
+import { photoAttrsFor } from "@/lib/photos";
 import { getSpot, getSpots } from "@/lib/spots-repo";
 import { areaName, categoryLabel } from "@/lib/filters";
 import type { SpotReview } from "@/lib/types";
@@ -40,5 +41,12 @@ export default async function SpotPage({ params }: { params: Promise<{ id: strin
   if (!spot) notFound();
 
   const similar = spots.filter((s) => s.category === spot.category && s.id !== spot.id).slice(0, 4);
-  return <SpotDetailView spot={spot} similar={similar} reviews={REVIEWS[spot.id] ?? []} />;
+  return (
+    <SpotDetailView
+      spot={spot}
+      similar={similar}
+      reviews={REVIEWS[spot.id] ?? []}
+      photoAttrs={photoAttrsFor(spot.id)}
+    />
+  );
 }

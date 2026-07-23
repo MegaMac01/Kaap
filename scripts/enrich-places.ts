@@ -12,6 +12,10 @@
  *                             pages with attribution). Separate mode because
  *                             the reviews field bills at a higher SKU than
  *                             the facts refresh.
+ *   npm run places:photos   : pull each place's photo references into
+ *                             lib/data/photos.json. The images themselves are
+ *                             served at runtime by app/api/photo (cached
+ *                             proxy), so only the refs are stored.
  *
  * Needs PLACES_API_KEY in .env.local. Curated fields (blurb, price bands,
  * tags, categories) are never touched, only facts a provider knows better.
@@ -27,6 +31,7 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const MATCH_FILE = join(ROOT, "lib", "data", "places-match.json");
 const ENRICHMENT_FILE = join(ROOT, "lib", "data", "enrichment.json");
 const REVIEWS_FILE = join(ROOT, "lib", "data", "reviews.json");
+const PHOTOS_FILE = join(ROOT, "lib", "data", "photos.json");
 
 // Minimal .env.local loader (tsx does not load env files).
 function loadEnvLocal() {
@@ -295,13 +300,74 @@ async function runReviews() {
   console.log(`\nWrote ${REVIEWS_FILE} (${Object.keys(out).length} spots with reviews).`);
 }
 
+interface GooglePhoto {
+  name?: string;
+  widthPx?: number;
+  heightPx?: number;
+  authorAttributions?: { displayName?: string }[];
+}
+
+/** Shape bundled into lib/data/photos.json; `ref` feeds the media proxy. */
+interface SpotPhotoRef {
+  ref: string;
+  attr: string;
+}
+
+async function placePhotos(placeId: string): Promise<GooglePhoto[]> {
+  const res = await fetch(`https://places.googleapis.com/v1/places/${placeId}`, {
+    headers: { "X-Goog-Api-Key": KEY!, "X-Goog-FieldMask": "id,photos" },
+  });
+  if (!res.ok) throw new Error(`placePhotos ${res.status}: ${await res.text()}`);
+  const data = (await res.json()) as { photos?: GooglePhoto[] };
+  return data.photos ?? [];
+}
+
+async function runPhotos() {
+  if (!existsSync(MATCH_FILE)) {
+    console.error("No places-match.json: run `npm run places:match` first.");
+    process.exit(1);
+  }
+  const matches: Record<string, MatchEntry | null> = JSON.parse(
+    readFileSync(MATCH_FILE, "utf8")
+  );
+  const out: Record<string, SpotPhotoRef[]> = {};
+  for (const spot of SPOTS) {
+    const match = matches[spot.id];
+    if (!match) continue;
+    let raw: GooglePhoto[];
+    try {
+      raw = await placePhotos(match.placeId);
+    } catch (err) {
+      console.warn(`! ${spot.id}: ${(err as Error).message}`);
+      continue;
+    }
+    // Skip tiny images (logos, menus); keep the first three usable photos.
+    const photos = raw
+      .filter((p) => p.name && (p.widthPx ?? 0) >= 640)
+      .slice(0, 3)
+      .map((p) => ({
+        ref: p.name!,
+        attr: (p.authorAttributions ?? [])
+          .map((a) => a.displayName)
+          .filter(Boolean)
+          .join(", "),
+      }));
+    if (photos.length) out[spot.id] = photos;
+    console.log(`✓ ${spot.id}: ${photos.length} photos`);
+    await sleep(120);
+  }
+  writeFileSync(PHOTOS_FILE, JSON.stringify(out, null, 2) + "\n", "utf8");
+  console.log(`\nWrote ${PHOTOS_FILE} (${Object.keys(out).length} spots with photos).`);
+}
+
 async function main() {
   const mode = process.argv[2];
   if (mode === "match") await runMatch();
   else if (mode === "refresh") await runRefresh();
   else if (mode === "reviews") await runReviews();
+  else if (mode === "photos") await runPhotos();
   else {
-    console.error("Usage: tsx scripts/enrich-places.ts <match|refresh|reviews>");
+    console.error("Usage: tsx scripts/enrich-places.ts <match|refresh|reviews|photos>");
     process.exit(1);
   }
 }

@@ -1,4 +1,5 @@
 import { SPOTS } from "@/lib/data/spots";
+import { photoUrlsFor } from "@/lib/photos";
 import { getSupabase } from "@/lib/supabase/client";
 import type { AreaId, Category, PriceBand, Spot, WeeklyHours } from "@/lib/types";
 
@@ -46,7 +47,8 @@ function rowToSpot(r: SpotRow): Spot {
     phone: r.phone,
     website: r.website,
     bookingUrl: r.booking_url,
-    photos: r.photos ?? [],
+    // Photos come from the bundled refs + /api/photo proxy, not the DB.
+    photos: photoUrlsFor(r.id),
     rating: r.rating ?? 0,
     reviewCount: r.review_count ?? 0,
     updatedAt: r.updated_at,
@@ -54,16 +56,19 @@ function rowToSpot(r: SpotRow): Spot {
   };
 }
 
+const withPhotos = (spots: Spot[]): Spot[] =>
+  spots.map((s) => ({ ...s, photos: photoUrlsFor(s.id) }));
+
 export async function getSpots(): Promise<Spot[]> {
   const sb = getSupabase();
-  if (!sb) return SPOTS;
+  if (!sb) return withPhotos(SPOTS);
   const { data, error } = await sb
     .from("spots")
     .select("*")
     .order("sort_order", { ascending: true });
   if (error || !data?.length) {
     console.warn("[kaap] Supabase spots fetch failed or empty, using seed data.", error?.message);
-    return SPOTS;
+    return withPhotos(SPOTS);
   }
   return (data as SpotRow[]).map(rowToSpot);
 }
