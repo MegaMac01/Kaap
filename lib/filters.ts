@@ -39,7 +39,11 @@ export function collectionIds(collectionKey: string | null, spots: Spot[]): Set<
   if (!collectionKey) return null;
   const col = COLLECTIONS.find((c) => c.key === collectionKey);
   if (!col) return null;
-  const ids = col.spotIds ?? spots.filter((s) => s.priceBand === 0).map((s) => s.id);
+  const ids =
+    col.spotIds ??
+    (col.tag
+      ? spots.filter((s) => s.tags.includes(col.tag!)).map((s) => s.id)
+      : spots.filter((s) => s.priceBand === 0).map((s) => s.id));
   return new Set(ids);
 }
 

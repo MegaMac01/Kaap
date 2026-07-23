@@ -1,0 +1,3054 @@
+[
+  {
+    "placeId": "ChIJ4RIv5klqzB0RK47qApYWst8",
+    "name": "Cape Point Vineyards",
+    "category": "chill",
+    "coords": {
+      "lat": -34.0938028,
+      "lng": 18.3875208
+    },
+    "address": "Silvermine Rd, Noordhoek, Cape Town, 7985",
+    "rating": 4.3,
+    "reviewCount": 2990,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": "Rustic mountainside restaurant with international menu, cool modern interior and terrace with views.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "event_venue",
+      "restaurant",
+      "manufacturer",
+      "lodging",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJDcvt0Z-pzR0RB8C1fxZNr8s",
+    "name": "Fairview Wine and Cheese",
+    "category": "chill",
+    "coords": {
+      "lat": -33.771745300000006,
+      "lng": 18.9242346
+    },
+    "address": "Suid-Agter-Paarl Rd, Suider, Paarl, 7646",
+    "rating": 4.6,
+    "reviewCount": 2615,
+    "priceLevel": null,
+    "summary": "Vineyard & goat farm offering wine & cheese tasting sessions, plus a Mediterranean-style restaurant.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "vineyard",
+      "tourist_attraction",
+      "liquor_store",
+      "farm",
+      "restaurant",
+      "manufacturer",
+      "service",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJP6dtA8muzR0RWzS6NSLnC1A",
+    "name": "Babylonstoren Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.823710399999996,
+      "lng": 18.9267014
+    },
+    "address": "5WFF+GP, Klapmuts - Simondium Rd, Simondium, 7670",
+    "rating": 4.6,
+    "reviewCount": 2464,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJF8y_791MzB0RmGpc6SI8yUc",
+    "name": "Spier Wine Tasting",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9728135,
+      "lng": 18.78454
+    },
+    "address": "Spier Wine Farm R310, Baden Powell Dr, Lynedoch, Stellenbosch, 7600",
+    "rating": 4.5,
+    "reviewCount": 2120,
+    "priceLevel": null,
+    "summary": "Wine estate's cozy store offering wine & chocolate tastings, plus bottles & gifts for sale.",
+    "primaryType": "Liquor Store",
+    "types": [
+      "liquor_store",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZ2H7c4a1zR0RA8-3KEsQLTY",
+    "name": "Vergelegen Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -34.0772932,
+      "lng": 18.8917315
+    },
+    "address": "Lourensford Rd, Somerset West, Cape Town, 7130",
+    "rating": 4.7,
+    "reviewCount": 1923,
+    "priceLevel": null,
+    "summary": "Renowned wine estate with sunset vineyard or cellar tours, themed gardens and upscale restaurant.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "vineyard",
+      "tourist_attraction",
+      "garden",
+      "wine_bar",
+      "liquor_store",
+      "historical_landmark",
+      "bar",
+      "farm",
+      "historical_place",
+      "event_venue",
+      "fine_dining_restaurant",
+      "restaurant",
+      "manufacturer",
+      "service",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ8VQo-6u0zR0RXK1P5QYYxOA",
+    "name": "Cavalli Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -34.009937199999996,
+      "lng": 18.8130497
+    },
+    "address": "Strand Rd, Somerset West, Cape Town, 7129",
+    "rating": 4.6,
+    "reviewCount": 1822,
+    "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "wedding_venue",
+      "art_gallery",
+      "farm",
+      "event_venue",
+      "sports_activity_location",
+      "restaurant",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ9VGvBPtYzB0RJWs1bGxekJQ",
+    "name": "Durbanville Hills Winery",
+    "category": "chill",
+    "coords": {
+      "lat": -33.8249281,
+      "lng": 18.5658089
+    },
+    "address": "Tygerberg Valley Rd, Cape Farms, Cape Town, 7550",
+    "rating": 4.4,
+    "reviewCount": 1762,
+    "priceLevel": null,
+    "summary": "Cellar tours & tasting at an eco-friendly vineyard & restaurant offering views of Table Mountain.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "wedding_venue",
+      "farm",
+      "event_venue",
+      "restaurant",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJj_APpIxXzB0RZCmg0j5_X1M",
+    "name": "Meerendal Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.79901600000001,
+      "lng": 18.623987
+    },
+    "address": "Vissershok Rd, Durbanville, Cape Town, 7550",
+    "rating": 4.3,
+    "reviewCount": 1679,
+    "priceLevel": null,
+    "summary": "Winery in operation since 1714 producing cool-climate varietals, with a tasting room & restaurants.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJoUEowlZYzB0RUAEzoVxzAzc",
+    "name": "Klein Roosboom Boutique Winery",
+    "category": "chill",
+    "coords": {
+      "lat": -33.820319,
+      "lng": 18.574662
+    },
+    "address": "Tygerberg Valley Rd, Durbanville, Cape Town, 7551",
+    "rating": 4.7,
+    "reviewCount": 1599,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "restaurant",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJz3CcqM6tzR0Rcl4TRtWgQZg",
+    "name": "Delheim Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.8698991,
+      "lng": 18.8857395
+    },
+    "address": "Knorhoek Rd, Stellenbosch, 7599",
+    "rating": 4.6,
+    "reviewCount": 1553,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": "Tours and tastings, with a garden restaurant for German and South African dishes, plus great views.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "restaurant",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJwdkk5G1ZzB0R_SUVWJpSb6Y",
+    "name": "De Grendel Wine Estate and Restaurant",
+    "category": "chill",
+    "coords": {
+      "lat": -33.851365,
+      "lng": 18.571616
+    },
+    "address": "De Grendel Wine Estate and Restaurant, Plattekloof Road, Panorama, Cape Town, 7500",
+    "rating": 4.7,
+    "reviewCount": 1524,
+    "priceLevel": null,
+    "summary": "A fine-dining restaurant with wine pairings & estate views, plus tastings, farm tours & a shop.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "liquor_store",
+      "farm",
+      "restaurant",
+      "manufacturer",
+      "service",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJHaEeNjhozB0RBspQgE0DV-I",
+    "name": "Beau Constantia",
+    "category": "chill",
+    "coords": {
+      "lat": -34.013672899999996,
+      "lng": 18.4064562
+    },
+    "address": "1043 Constantia Main Rd, Constantia, Cape Town, 7806",
+    "rating": 4.4,
+    "reviewCount": 1443,
+    "priceLevel": null,
+    "summary": "Wine farm with a restaurant, plus views of False Bay & 2 mountain ranges from its vineyard slopes.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "wine_bar",
+      "bar",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJkRI7hCWyzR0R-hs6Dd6d5os",
+    "name": "Lanzerac Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9379452,
+      "lng": 18.8939707
+    },
+    "address": "Lanzerac Wine Estate, Lanzerac Rd, Stellenbosch, 7600",
+    "rating": 4.6,
+    "reviewCount": 1295,
+    "priceLevel": null,
+    "summary": "Historic hotel with posh rooms and suites, upscale restaurants, a spa and free wine tastings.",
+    "primaryType": "Hotel",
+    "types": [
+      "hotel",
+      "winery",
+      "wedding_venue",
+      "farm",
+      "spa",
+      "lodging",
+      "event_venue",
+      "point_of_interest",
+      "food",
+      "manufacturer",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZYpUiqmD1h0RvewvTk3hNrs",
+    "name": "Jakkalsvlei",
+    "category": "chill",
+    "coords": {
+      "lat": -33.983684499999995,
+      "lng": 21.715353
+    },
+    "address": "Herbertsdale, 6505",
+    "rating": 4.7,
+    "reviewCount": 1268,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "liquor_store",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJJejU6OKxzR0RO5WAGlKasYg",
+    "name": "Rust en Vrede Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.998382,
+      "lng": 18.8560069
+    },
+    "address": "Annandale Rd, Stellenbosch, 7600",
+    "rating": 4.7,
+    "reviewCount": 1156,
+    "priceLevel": null,
+    "summary": "Vineyard eatery offering creative modern cooking, plus tasting menus and wine pairings.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "fine_dining_restaurant",
+      "restaurant",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJCbsHAPaszR0Rc3cWYFOVr70",
+    "name": "Warwick Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.84046,
+      "lng": 18.8640115
+    },
+    "address": "R44, Stellenbosch, 7607",
+    "rating": 4.4,
+    "reviewCount": 1031,
+    "priceLevel": null,
+    "summary": "Tours & tastings include gourmet picnics & wine safaris by 4x4 at this sprawling hillside vineyard.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "association_or_organization",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJezjaVvNNzB0RfNLvlumxjjI",
+    "name": "Jordan Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.942955999999995,
+      "lng": 18.744215999999998
+    },
+    "address": "Stellenbosch Kloof Road, Vlottenberg, Stellenbosch, 7604",
+    "rating": 4.6,
+    "reviewCount": 989,
+    "priceLevel": null,
+    "summary": "Daily changing modern South African menu in chic, wine estate setting with patio and mountain views.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5TjVz91ZzB0RQ_2sDAvEezM",
+    "name": "D'Aria Winery",
+    "category": "chill",
+    "coords": {
+      "lat": -33.841128399999995,
+      "lng": 18.610876299999997
+    },
+    "address": "M13 Tygerberg Valley Rd, Durbanville, Cape Town, 7550",
+    "rating": 4.3,
+    "reviewCount": 956,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "liquor_store",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJDyjhGNWszR0RHUcJ7CDy8A0",
+    "name": "Hazendal Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.8992918,
+      "lng": 18.716763099999998
+    },
+    "address": "Bottelary Road New entrance from Ronelle Street via, Kruis St, Brackenfell South, Stellenbosch, 7599",
+    "rating": 4.4,
+    "reviewCount": 864,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "golf_course",
+      "miniature_golf_course",
+      "wedding_venue",
+      "art_gallery",
+      "athletic_field",
+      "farm",
+      "event_venue",
+      "fine_dining_restaurant",
+      "sports_activity_location",
+      "restaurant",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ3fPweVmxzR0Rwr1fad2FEJ4",
+    "name": "Tokara Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9180682,
+      "lng": 18.920917499999998
+    },
+    "address": "Helshoogte Rd, Stellenbosch, Cape Town, 7600",
+    "rating": 4.3,
+    "reviewCount": 858,
+    "priceLevel": null,
+    "summary": "Modern winery on a hilltop with vineyard views, tastings & an art gallery, plus a chic restaurant.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJzd-GgpZI1B0RoCNs-HKyUQY",
+    "name": "De Krans Wines",
+    "category": "chill",
+    "coords": {
+      "lat": -33.5405136,
+      "lng": 21.6837515
+    },
+    "address": "Station Road, Calitzdorp, 6660, Scenic Cape Route 62, 9.0, GPS - S33⁰32, 6 3\"E021⁰41, Calitzdorp, 6660",
+    "rating": 4.6,
+    "reviewCount": 835,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "deli",
+      "bistro",
+      "liquor_store",
+      "farm",
+      "restaurant",
+      "manufacturer",
+      "service",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ7938k8u0zR0R-YToBJnuDg0",
+    "name": "Idiom Restaurant & Idiom Wine Tasting Centre",
+    "category": "chill",
+    "coords": {
+      "lat": -34.1044048,
+      "lng": 18.9404902
+    },
+    "address": "Idiom Restaurant & Idiom Wine at Da Capo Vineyards Old Sir Lowrys Pass road, Somerset West, Cape Town, 7130",
+    "rating": 4.7,
+    "reviewCount": 831,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "winery",
+      "tourist_attraction",
+      "wedding_venue",
+      "italian_restaurant",
+      "farm",
+      "event_venue",
+      "wholesaler",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJjSB0A0xWzB0RcMQqsD63QwE",
+    "name": "Groot Phesantekraal Wines & Restaurant",
+    "category": "chill",
+    "coords": {
+      "lat": -33.7966049,
+      "lng": 18.6707812
+    },
+    "address": "Klipheuwel Rd, R302, Cape Town, 7550",
+    "rating": 4.5,
+    "reviewCount": 745,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "winery",
+      "liquor_store",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJuZTkrPRA0h0RLSA5EFH1NU0",
+    "name": "Van Loveren Family Vineyards",
+    "category": "chill",
+    "coords": {
+      "lat": -33.875368,
+      "lng": 20.002744999999997
+    },
+    "address": "R317, Robertson, 6707",
+    "rating": 4.6,
+    "reviewCount": 734,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "hiking_area",
+      "tourist_attraction",
+      "farm",
+      "sports_activity_location",
+      "manufacturer",
+      "service",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJTUupeEm7zR0ReL82qZCDqDI",
+    "name": "La Motte Wine Farm",
+    "category": "chill",
+    "coords": {
+      "lat": -33.883503499999996,
+      "lng": 19.0723184
+    },
+    "address": "R45, Franschhoek, 7691",
+    "rating": 4.5,
+    "reviewCount": 714,
+    "priceLevel": null,
+    "summary": "Upmarket country winery with tasting sessions, a gourmet restaurant & an onsite art museum.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "vineyard",
+      "hiking_area",
+      "tourist_attraction",
+      "wine_bar",
+      "liquor_store",
+      "bakery",
+      "cafe",
+      "bar",
+      "farm",
+      "sports_activity_location",
+      "manufacturer",
+      "service",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJEQa6THa0zR0R--4CKVRFrMw",
+    "name": "Waterford Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9982079,
+      "lng": 18.8701159
+    },
+    "address": "Upper Blaauwklippen Rd, Helderberg Rural, Stellenbosch, 7600",
+    "rating": 4.6,
+    "reviewCount": 686,
+    "priceLevel": null,
+    "summary": "Sophisticated winery in a tranquil setting offering wine-drive safaris & cellars around a courtyard.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "restaurant",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJlTiKIP-nzR0Rv8Bnp2iG5ro",
+    "name": "Nederburg Wines",
+    "category": "chill",
+    "coords": {
+      "lat": -33.720635699999995,
+      "lng": 19.0033606
+    },
+    "address": "Sonstraal Rd, Paarl, 7646",
+    "rating": 4.6,
+    "reviewCount": 650,
+    "priceLevel": null,
+    "summary": "Contemporary winery offering cellar tours & tastings of its vintages, plus a bistro with a patio.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "manufacturer",
+      "service",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJpQ42raapzR0RGZ_A-Zrnbzw",
+    "name": "Laborie Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.7660396,
+      "lng": 18.9576297
+    },
+    "address": "Taillefer Street, Laborie Wine Estate, Paarl, 7646",
+    "rating": 4.5,
+    "reviewCount": 615,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "winery",
+      "auditorium",
+      "wedding_venue",
+      "food_store",
+      "store",
+      "manufacturer",
+      "event_venue",
+      "lodging",
+      "service",
+      "association_or_organization",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJhfdWtrRZzB0RvrBvF0enYwA",
+    "name": "Hillcrest Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.8270073,
+      "lng": 18.590507799999997
+    },
+    "address": "M13 Tygervalley Centre Service Road Durbanville, Cape Farms, Cape Town, 7551",
+    "rating": 4.1,
+    "reviewCount": 614,
+    "priceLevel": null,
+    "summary": "Sweeping vineyard views and breakfast, lunch and tea from winery's Mediterranean terrace restaurant.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ1x2aj8EGzR0Rb-9tpMUzqeM",
+    "name": "Under Oaks Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.6752628,
+      "lng": 18.9419894
+    },
+    "address": "Noord Agter - Paarl Rd, Paarl, 7620",
+    "rating": 4.4,
+    "reviewCount": 613,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJfUGKa_1RzB0R3ZjjCfHwM7o",
+    "name": "Zevenwacht Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.931951,
+      "lng": 18.716806899999998
+    },
+    "address": "Langverwacht Rd, Kuils River, Cape Town, 7579",
+    "rating": 4.3,
+    "reviewCount": 604,
+    "priceLevel": null,
+    "summary": "Serene hotel amid vineyards offering understated quarters, gourmet dining & a pool, plus wine tours.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "event_venue",
+      "restaurant",
+      "manufacturer",
+      "hotel",
+      "lodging",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5ysW9z85zR0RoiZGpvhXurU",
+    "name": "Saronsberg Wine Cellar",
+    "category": "chill",
+    "coords": {
+      "lat": -33.246259699999996,
+      "lng": 19.116934099999998
+    },
+    "address": "Waveren Road, Tulbagh, 6820",
+    "rating": 4.6,
+    "reviewCount": 576,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJy8zyyApCzB0Rj3tQO-SMEPY",
+    "name": "Constantia Uitsig Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -34.0475233,
+      "lng": 18.4248421
+    },
+    "address": "ERF12995 Spaanschemat River Rd, Fir Grove, Cape Town, 7806",
+    "rating": 4.3,
+    "reviewCount": 559,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJC2DXFdc_zR0RAyyd2doMOqM",
+    "name": "Montpellier Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.2756103,
+      "lng": 19.1115621
+    },
+    "address": "P4G6+P4, 2 Jonge Gezellen Road, Tulbagh, 6820",
+    "rating": 4.3,
+    "reviewCount": 540,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJRcy_hA6zzR0RuURiRYxBOAI",
+    "name": "Blaauwklippen Tasting House",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9692721,
+      "lng": 18.8448708
+    },
+    "address": "Strand Rd, R44, Stellenbosch, 7600",
+    "rating": 4.3,
+    "reviewCount": 534,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "point_of_interest",
+      "food",
+      "manufacturer",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJe9_pI16V1R0R3Bq6BpgLAFE",
+    "name": "Karusa Wines Craft Brewery & Spirits",
+    "category": "chill",
+    "coords": {
+      "lat": -33.4765578,
+      "lng": 22.2432564
+    },
+    "address": "KARUSA WINES , ON THE R328 NORTH, Oudtshoorn, 6620",
+    "rating": 4.5,
+    "reviewCount": 528,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Vineyard",
+    "types": [
+      "vineyard",
+      "winery",
+      "brewery",
+      "farm",
+      "restaurant",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJEVgwpAbfzR0RoYR7zm6jycw",
+    "name": "Benguela Cove Lagoon Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -34.3458633,
+      "lng": 19.1347293
+    },
+    "address": "R43, Botriver Lagoon Walker Bay, Hermanus, 7200",
+    "rating": 4.1,
+    "reviewCount": 522,
+    "priceLevel": null,
+    "summary": "Waterside estate producing olive oil, lavender & wine, with tastings, tours & an art gallery.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "vineyard",
+      "tourist_attraction",
+      "wedding_venue",
+      "liquor_store",
+      "general_contractor",
+      "farm",
+      "event_venue",
+      "restaurant",
+      "manufacturer",
+      "lodging",
+      "service",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ4ychzEhm1h0RBtScWasrQLw",
+    "name": "The Barn Venue @ReedValley",
+    "category": "chill",
+    "coords": {
+      "lat": -34.1676062,
+      "lng": 22.0181894
+    },
+    "address": "South Africa",
+    "rating": 4.5,
+    "reviewCount": 513,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Live Music Venue",
+    "types": [
+      "live_music_venue",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJjb4TD_fmzR0R8xkZNfLxYQc",
+    "name": "Gabrielskloof Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -34.238734,
+      "lng": 19.249591
+    },
+    "address": "Q66X+8R, R43, Bot River, 7185",
+    "rating": 4.6,
+    "reviewCount": 496,
+    "priceLevel": null,
+    "summary": "Estate with restaurant for robust, seasonal South African fare, plus a tasting room with courtyard.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "restaurant",
+      "manufacturer",
+      "lodging",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ85Wo4wcLzh0R4uZO51sJYSo",
+    "name": "La Vierge Wines",
+    "category": "chill",
+    "coords": {
+      "lat": -34.372903199999996,
+      "lng": 19.2416725
+    },
+    "address": "Hemel-en-Aarde, 12 Valley Rd, Hermanus, 7200",
+    "rating": 4.5,
+    "reviewCount": 472,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "liquor_store",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJGy--ULhZzB0RWagywvYKZd4",
+    "name": "Maastricht Wines",
+    "category": "chill",
+    "coords": {
+      "lat": -33.8394316,
+      "lng": 18.5904696
+    },
+    "address": "Tygerberg Valley Rd, Nieuw Maastrecht, Cape Town, 7551",
+    "rating": 4.6,
+    "reviewCount": 465,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJX-zNN_u1zR0RpnP6xojzcjM",
+    "name": "Lourensford Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -34.0719063,
+      "lng": 18.888620799999998
+    },
+    "address": "Lourensford Rd, Somerset West, Cape Town, 7130",
+    "rating": 4.4,
+    "reviewCount": 449,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "wine_bar",
+      "liquor_store",
+      "bar",
+      "farm",
+      "manufacturer",
+      "association_or_organization",
+      "service",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJTXmFxcGyzR0RTjFwCPkxUiw",
+    "name": "Middelvlei Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9281259,
+      "lng": 18.832642099999997
+    },
+    "address": "Middelvlei Wine Estate, Flamingo St, Stellenbosch, 7600",
+    "rating": 4.5,
+    "reviewCount": 421,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "point_of_interest",
+      "food",
+      "manufacturer",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ8dNxxFkfzR0RT49oFl37_04",
+    "name": "Kloovenburg Wine & Olive Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.3940998,
+      "lng": 18.8900336
+    },
+    "address": "R46, Riebeek-Kasteel, 7307",
+    "rating": 4.5,
+    "reviewCount": 404,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJS4-wm3xSzB0RpGMdM5qfX0I",
+    "name": "Fort Simon Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9196075,
+      "lng": 18.755130899999997
+    },
+    "address": "Bottelary Rd, Cape Town, 7600",
+    "rating": 4.4,
+    "reviewCount": 397,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "point_of_interest",
+      "food",
+      "manufacturer",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJkykNsl6yzR0RoiCGYo9i8SE",
+    "name": "Bartinney Private Cellar",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9263158,
+      "lng": 18.9324205
+    },
+    "address": "Helshoogte Rd, Stellenbosch, 7600",
+    "rating": 4.7,
+    "reviewCount": 353,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "event_venue",
+      "manufacturer",
+      "lodging",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJuWfctTpq0h0RcdziMIhkc0c",
+    "name": "Springfield Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.838550999999995,
+      "lng": 19.914291799999997
+    },
+    "address": "R317 Bonnievale Road, Klipdrif, Robertson, 6705",
+    "rating": 4.7,
+    "reviewCount": 343,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJq6qq6sUQ1h0RiAGzNcAbfqM",
+    "name": "Herold Wines",
+    "category": "chill",
+    "coords": {
+      "lat": -33.8635915,
+      "lng": 22.4688864
+    },
+    "address": "Montague Pass Afguns river Herold, 6615",
+    "rating": 4.7,
+    "reviewCount": 336,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "hotel",
+      "lodging",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJQV76iBi7zR0RKy-hfKSL2R8",
+    "name": "Klein Goederust Wine Farm",
+    "category": "chill",
+    "coords": {
+      "lat": -33.888157500000005,
+      "lng": 19.090785099999998
+    },
+    "address": "Klein Goederust Rd, Franschhoek, Cape Town, 8000",
+    "rating": 4.6,
+    "reviewCount": 323,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZxyFcCxB0h0RmX7HWIZ9hDA",
+    "name": "Zandvliet Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.8467565,
+      "lng": 20.0385454
+    },
+    "address": "Zandvliet Way, Ashton, 6715",
+    "rating": 4.6,
+    "reviewCount": 319,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJN6g8D-iVzB0RtCvLnarN_y4",
+    "name": "Groote Post Vineyards",
+    "category": "chill",
+    "coords": {
+      "lat": -33.4832,
+      "lng": 18.4101
+    },
+    "address": "4800",
+    "rating": 4.6,
+    "reviewCount": 318,
+    "priceLevel": null,
+    "summary": "Wine estate with tastings, plus farm drives and a restaurant serving Modern country cuisine.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ____L98Kzh0RzpBY1GHijv4",
+    "name": "Spookfontein Wines & Tastings",
+    "category": "chill",
+    "coords": {
+      "lat": -34.3552087,
+      "lng": 19.289070499999998
+    },
+    "address": "33 Hemel en Aarde Rd, Hermanus, 7200",
+    "rating": 4.6,
+    "reviewCount": 308,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "liquor_store",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJzxOZlRfKzR0RLPvYwtEU8w4",
+    "name": "Waterkloof Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -34.0988621,
+      "lng": 18.8895607
+    },
+    "address": "Old Sir Lowry's Pass Rd, Somerset West, Cape Town, 7130",
+    "rating": 4.6,
+    "reviewCount": 300,
+    "priceLevel": null,
+    "summary": "Biodynamic winery with views of fields & peaks from a sleek, upscale restaurant & tasting lounge.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "vineyard",
+      "tourist_attraction",
+      "liquor_store",
+      "farm",
+      "restaurant",
+      "manufacturer",
+      "service",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZcZiPd1NzB0RBWJJ9FIaGQk",
+    "name": "Saxenburg Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9466915,
+      "lng": 18.7191618
+    },
+    "address": "Polkadraai Rd, Stellenbosch Farms, Cape Town, 7579",
+    "rating": 4.4,
+    "reviewCount": 294,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ10jPltcrMxwRleuJ5wLC5DI",
+    "name": "Nieuwedrift Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -32.9786801,
+      "lng": 18.7489414
+    },
+    "address": "Farm Nieuwedrift, Piketberg, 7320",
+    "rating": 4.4,
+    "reviewCount": 294,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "vineyard",
+      "farm",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJd56kDzipzR0RYglnvYi2Dig",
+    "name": "Bacco Estate Winery",
+    "category": "chill",
+    "coords": {
+      "lat": -33.8014673,
+      "lng": 18.928445099999998
+    },
+    "address": "Simonsvlei Rd, Paarl, 7620",
+    "rating": 4.6,
+    "reviewCount": 293,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJJ5FkuXuxzR0RQxiUaDi11Ao",
+    "name": "Stark-Condé Wines",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9536491,
+      "lng": 18.9105573
+    },
+    "address": "Oude Nektar Farm, Jonkershoek Valley, Stellenbosch, 7600",
+    "rating": 4.5,
+    "reviewCount": 293,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "point_of_interest",
+      "food",
+      "manufacturer",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJC_3-ixFq0h0RqmgCJ1yPaiU",
+    "name": "Bon Courage Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.8456324,
+      "lng": 19.9605459
+    },
+    "address": "R317, Robertson, 6705",
+    "rating": 4.6,
+    "reviewCount": 291,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJXc1wLmtp0h0RjlK4J3qb_Uk",
+    "name": "Robertson Winery",
+    "category": "chill",
+    "coords": {
+      "lat": -33.8107427,
+      "lng": 19.8815095
+    },
+    "address": "Voortrekker Road, Robertson, 6705",
+    "rating": 4.4,
+    "reviewCount": 281,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "liquor_store",
+      "farm",
+      "manufacturer",
+      "store",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJYdyMWr7meB4RX4-w9fVcbEM",
+    "name": "Luka Vineyards",
+    "category": "chill",
+    "coords": {
+      "lat": -34.0420359,
+      "lng": 23.266157399999997
+    },
+    "address": "Elephant park road Harkerville, Plettenberg Bay, 6604",
+    "rating": 4.5,
+    "reviewCount": 269,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Vineyard",
+    "types": [
+      "vineyard",
+      "farm",
+      "restaurant",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJA4O9n04feR4R5JTkESnjIZA",
+    "name": "Newstead Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9519775,
+      "lng": 23.471987799999997
+    },
+    "address": "The Crags, Redford Rd, The Crags, Plettenberg Bay, 6600",
+    "rating": 4.6,
+    "reviewCount": 266,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJuxNWYrxXzB0RHyPFwu6bd7Y",
+    "name": "Diemersdal Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.802569,
+      "lng": 18.6460573
+    },
+    "address": "Koeberg Road, Durbanville, Cape Town, 7550",
+    "rating": 4.4,
+    "reviewCount": 256,
+    "priceLevel": null,
+    "summary": "Restaurant in stables with outside seating overlooking historic vineyards serving bistro-style food.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "restaurant",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ2brDZCm5zB0Rfz4rgPkuJPc",
+    "name": "Ormonde Wines",
+    "category": "chill",
+    "coords": {
+      "lat": -33.380800799999996,
+      "lng": 18.3740381
+    },
+    "address": "Mount Pleasant St, Darling, 7345",
+    "rating": 4.7,
+    "reviewCount": 248,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "liquor_store",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ6Yhuew4czh0RsFWETDIrvuE",
+    "name": "Lomond Wine Estate - Gansbaai",
+    "category": "chill",
+    "coords": {
+      "lat": -34.5661351,
+      "lng": 19.4830942
+    },
+    "address": "Lomond Wine Estate, Gansbaai, 7220",
+    "rating": 4.4,
+    "reviewCount": 240,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "wedding_venue",
+      "farm",
+      "event_venue",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJtfOIX-uvzR0RWYAOhS-NPjw",
+    "name": "Cellar Door Wine Tasting at Boschendal",
+    "category": "chill",
+    "coords": {
+      "lat": -33.8853416,
+      "lng": 18.9696121
+    },
+    "address": "Boschendal Estate Pniel Road, Franschhoek Franschhoek, Cape Town, 7680",
+    "rating": 4.4,
+    "reviewCount": 234,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ6WAPzEhm1h0RqIwnhScqTb8",
+    "name": "ReedValley",
+    "category": "chill",
+    "coords": {
+      "lat": -34.1674264,
+      "lng": 22.0182535
+    },
+    "address": "ReedValley Wines, Mossel Bay, 6500",
+    "rating": 4.1,
+    "reviewCount": 233,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "live_music_venue",
+      "farm",
+      "event_venue",
+      "wholesaler",
+      "restaurant",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJTVBK2b1I1B0R4IWHy_fI-CI",
+    "name": "Boplaas Winery and Distillery",
+    "category": "chill",
+    "coords": {
+      "lat": -33.535633,
+      "lng": 21.683714800000004
+    },
+    "address": "2 Saayman St, Calitzdorp, 6660",
+    "rating": 4.6,
+    "reviewCount": 233,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "liquor_store",
+      "wholesaler",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJf_TsmLofeR4RH37nf6BNjfk",
+    "name": "Bitou Vineyards",
+    "category": "chill",
+    "coords": {
+      "lat": -34.0191813,
+      "lng": 23.385361000000003
+    },
+    "address": "N 2, Plettenberg Bay, 6600",
+    "rating": 4.2,
+    "reviewCount": 213,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJsaVRDBRp0h0RQQYzmqGtTZQ",
+    "name": "Robertson Wine Valley",
+    "category": "chill",
+    "coords": {
+      "lat": -33.8086759,
+      "lng": 19.8789922
+    },
+    "address": "Reitz St &, Voortrekker Ave, Robertson, 6705",
+    "rating": 4.6,
+    "reviewCount": 213,
+    "priceLevel": null,
+    "summary": "Tourist office for a wine region, offering restaurant bookings, local information & vineyard tours.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "manufacturer",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJo8D4MdbpeB4RQYKc0KWLDLE",
+    "name": "Packwood Wine and Country Estate (Pty) Ltd",
+    "category": "chill",
+    "coords": {
+      "lat": -34.005905,
+      "lng": 23.228541
+    },
+    "address": "Fisanthoek, Off N2, Between Knysna and Plettenberg Bay, Plettenberg Bay, 6600",
+    "rating": 4.5,
+    "reviewCount": 211,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJvXyheq9efx4R29LMbgQrE-8",
+    "name": "Excelsior Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.85466590000001,
+      "lng": 20.007878599999998
+    },
+    "address": "Off, R60, Ashton, 6715",
+    "rating": 4.6,
+    "reviewCount": 206,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJS6wHtc0heR4RpD6SRlAA578",
+    "name": "Kay & Monty Vineyards",
+    "category": "chill",
+    "coords": {
+      "lat": -33.930976,
+      "lng": 23.434859000000003
+    },
+    "address": "Redford Road The Crags, Plettenberg Bay, 6600",
+    "rating": 4.5,
+    "reviewCount": 187,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Bed & Breakfast",
+    "types": [
+      "bed_and_breakfast",
+      "liquor_store",
+      "wedding_venue",
+      "lodging",
+      "event_venue",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "service",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJDcdIriQ_0h0RBzR0yYliZRc",
+    "name": "Weltevrede Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9421489,
+      "lng": 20.051983999999997
+    },
+    "address": "R317, Bonnievale, 6730",
+    "rating": 4.7,
+    "reviewCount": 183,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "liquor_store",
+      "farm",
+      "store",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJMw3E3VeozR0RIZTeETtgutU",
+    "name": "Avondale Wine",
+    "category": "chill",
+    "coords": {
+      "lat": -33.7646817,
+      "lng": 18.9977324
+    },
+    "address": "Klein Drakenstein, Lustigan Rd, Paarl, 7624",
+    "rating": 4.6,
+    "reviewCount": 181,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "manufacturer",
+      "service",
+      "association_or_organization",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ0YWiZNLFzR0R6eQeC4WaNzw",
+    "name": "Oak Valley Estate.",
+    "category": "chill",
+    "coords": {
+      "lat": -34.155044,
+      "lng": 19.046219699999998
+    },
+    "address": "127 Oak Ave, Grabouw, 7180",
+    "rating": 4.8,
+    "reviewCount": 181,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "restaurant",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJVZdhHy780R0R6lbjIYizscE",
+    "name": "Raka Wine",
+    "category": "chill",
+    "coords": {
+      "lat": -34.398252,
+      "lng": 19.623749
+    },
+    "address": "17km out of Stanford, Stanford, Western Cape, 7210",
+    "rating": 4.7,
+    "reviewCount": 181,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "liquor_store",
+      "farm",
+      "manufacturer",
+      "store",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJqZnuAu301R0RGK_-6a_94bA",
+    "name": "Domein Doornkraal Padstal & Wine",
+    "category": "chill",
+    "coords": {
+      "lat": -33.5452544,
+      "lng": 22.4450435
+    },
+    "address": "on the N 12, De Rust, 6650",
+    "rating": 4.7,
+    "reviewCount": 169,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Store",
+    "types": [
+      "store",
+      "winery",
+      "liquor_store",
+      "farm",
+      "gift_shop",
+      "restaurant",
+      "manufacturer",
+      "service",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ888FepJB0h0RnC8DYeIy9yw",
+    "name": "Rietvallei Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.8265508,
+      "lng": 19.9764792
+    },
+    "address": "R60, Robertson, 6705",
+    "rating": 4.8,
+    "reviewCount": 161,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJBXBWzXKszR0RjYisGC_ISNs",
+    "name": "Mitre's Edge Wine Estate - Best Boutique Wine Farm Stellenbosch | Cheese & Wine Tasting Stellenbosch",
+    "category": "chill",
+    "coords": {
+      "lat": -33.829822899999996,
+      "lng": 18.8761539
+    },
+    "address": "R44, Klapmuts, Stellenbosch, 7625",
+    "rating": 4.8,
+    "reviewCount": 156,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "vineyard",
+      "liquor_store",
+      "farm",
+      "store",
+      "manufacturer",
+      "lodging",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJo9gWxjvo0R0RZCAt60yCF6U",
+    "name": "Zoetendal Vineyards & River Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -34.6004213,
+      "lng": 19.790978199999998
+    },
+    "address": "Moddervlei Farm, R43, Elim, 7284",
+    "rating": 4.5,
+    "reviewCount": 156,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "hiking_area",
+      "vineyard",
+      "wedding_venue",
+      "farm",
+      "event_venue",
+      "lodging",
+      "sports_activity_location",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJR486XkqSMhwReOZfTA8aYzM",
+    "name": "Cederberg Wines",
+    "category": "chill",
+    "coords": {
+      "lat": -32.5036589,
+      "lng": 19.2574883
+    },
+    "address": "Dwarsrivier Farm, Clanwilliam, 8135",
+    "rating": 4.6,
+    "reviewCount": 156,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJF2ge__M7zR0RLRxYmQMnUxI",
+    "name": "Oudekloof Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.2683519,
+      "lng": 19.0747923
+    },
+    "address": "Oudekloof Farm, Tulbagh, 6820",
+    "rating": 4.6,
+    "reviewCount": 155,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "cycling_park",
+      "hiking_area",
+      "historical_landmark",
+      "farmstay",
+      "market",
+      "historical_place",
+      "food_store",
+      "farm",
+      "store",
+      "sports_activity_location",
+      "museum",
+      "manufacturer",
+      "lodging",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJF8kDkrjpzB0R5GEkmkvDaME",
+    "name": "Cloof Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.4827438,
+      "lng": 18.5227954
+    },
+    "address": "Mamre road off R315, Darling, Cape Town, 7345",
+    "rating": 4.4,
+    "reviewCount": 153,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJbyJzbAAZeR4R8gA2Lf5zeic",
+    "name": "Bramon Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.955759799999996,
+      "lng": 23.4765603
+    },
+    "address": "Plot 9 of Farm 302, The Crags, Plettenberg Bay, 6602",
+    "rating": 4.7,
+    "reviewCount": 141,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJz9e7rFRu0h0RlpZ3Gk77i9g",
+    "name": "Graham Beck Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.801189,
+      "lng": 19.800184899999998
+    },
+    "address": "Scenic Cape Route, R60, Robertson, 7600",
+    "rating": 4.6,
+    "reviewCount": 139,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "wine_bar",
+      "vineyard",
+      "liquor_store",
+      "farm",
+      "bar",
+      "manufacturer",
+      "store",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJvYCDpzzFzR0RRvpASYUuNQQ",
+    "name": "Almenkerk Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -34.2134111,
+      "lng": 19.0324486
+    },
+    "address": "50 Viljoenshoop Rd, Grabouw, 7160",
+    "rating": 4.7,
+    "reviewCount": 129,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "hiking_area",
+      "tourist_attraction",
+      "farm",
+      "sports_activity_location",
+      "restaurant",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJj6jH9f4hzR0Rp-xlV9m1oNE",
+    "name": "Riebeek Valley Wine Co",
+    "category": "chill",
+    "coords": {
+      "lat": -33.3829695,
+      "lng": 18.913825600000003
+    },
+    "address": "86 Kloof St, Riebeek-Kasteel, 7307",
+    "rating": 4.4,
+    "reviewCount": 116,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJH41U7zpB0h0RtoQKxEBkkgM",
+    "name": "Ashton Winery",
+    "category": "chill",
+    "coords": {
+      "lat": -33.837533799999996,
+      "lng": 20.030961299999998
+    },
+    "address": "Ashton Winery, R60, Ashton, 6715",
+    "rating": 4.6,
+    "reviewCount": 112,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "liquor_store",
+      "farm",
+      "store",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJp9qEUK7jeB4Rrwdk61-9pAk",
+    "name": "Plettenvale Wines - Accommodation + Venue",
+    "category": "chill",
+    "coords": {
+      "lat": -34.0817659,
+      "lng": 23.327397899999998
+    },
+    "address": "88 Roodefontein C7, Plettenberg Bay Off Airport Road, Plettenberg Bay, 6600",
+    "rating": 4.8,
+    "reviewCount": 99,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Lodging",
+    "types": [
+      "wedding_venue",
+      "lodging",
+      "event_venue",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJaalBo9kFzh0RdVtJCxSEmYE",
+    "name": "Springfontein Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -34.4272507,
+      "lng": 19.4085908
+    },
+    "address": "8 Wortelgat Rd, Stanford, 7210",
+    "rating": 4.7,
+    "reviewCount": 96,
+    "priceLevel": null,
+    "summary": "Bright quarters, some with terraces, in a charming riverside lodge offering trail access & docks.",
+    "primaryType": "Hotel",
+    "types": [
+      "hotel",
+      "winery",
+      "bed_and_breakfast",
+      "vineyard",
+      "farm",
+      "lodging",
+      "manufacturer",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJWWdWxmaozR0RhUjF85aRkDg",
+    "name": "Vendôme Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.757548199999995,
+      "lng": 18.9786017
+    },
+    "address": "Arboretum, Suider, Paarl, 7645",
+    "rating": 4.4,
+    "reviewCount": 94,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "lodging",
+      "service",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJqQWMNe1J1B0RKrxcnduIf0A",
+    "name": "Du'SwaRoo",
+    "category": "chill",
+    "coords": {
+      "lat": -33.5161115,
+      "lng": 21.6939418
+    },
+    "address": "FMMV+GJ, Besemkop, Calitzdorp, 6660",
+    "rating": 4.9,
+    "reviewCount": 91,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "deli",
+      "farm",
+      "manufacturer",
+      "service",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJgSMc7VkT0h0RBuY1xCQPpS4",
+    "name": "McGregor Koop Wynmakery",
+    "category": "chill",
+    "coords": {
+      "lat": -33.934691199999996,
+      "lng": 19.8491026
+    },
+    "address": "South Africa",
+    "rating": 4.6,
+    "reviewCount": 90,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Vineyard",
+    "types": [
+      "vineyard",
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ3QvaYorE0x0RO8075sgpzBg",
+    "name": "Joubert Tradauw Wine Farm & Deli Alfresco",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9242817,
+      "lng": 20.5961929
+    },
+    "address": "Tradouw Valley, R62, Barrydale, 6750",
+    "rating": 4.5,
+    "reviewCount": 89,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJr3Tj53EpMxwRYzLFnNhKBJU",
+    "name": "Org de Rac Organic Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -32.9666658,
+      "lng": 18.7513524
+    },
+    "address": "N 7, R399, Piketberg, 7320",
+    "rating": 4.4,
+    "reviewCount": 86,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJEab0a2Zv1h0RaW3cvQUfDgQ",
+    "name": "Van Loveren Tasting Room Klipheuwel",
+    "category": "chill",
+    "coords": {
+      "lat": -34.0792271,
+      "lng": 22.140425999999998
+    },
+    "address": "Klipheuwel Farm Stall, Klein Brak, Klein Brak River, 6506",
+    "rating": 4.4,
+    "reviewCount": 84,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Wine Bar",
+    "types": [
+      "wine_bar",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJe9FN186o1h0R48RImI8zieI",
+    "name": "Baleia Wines & Olive oil",
+    "category": "chill",
+    "coords": {
+      "lat": -34.1097313,
+      "lng": 21.254973099999997
+    },
+    "address": "N2 - National Road, Riversdale, 6670",
+    "rating": 4.4,
+    "reviewCount": 82,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ____L98Kzh0R3k9tmcgBxbE",
+    "name": "Bartho Eksteen Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -34.3992534,
+      "lng": 19.2179103
+    },
+    "address": "Valley, Hemel en Aarde Rd, Hermanus, 7200",
+    "rating": 4.4,
+    "reviewCount": 80,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ-YZXA1Jv0R0R_j4bzQwhx_g",
+    "name": "Sijnn Wines",
+    "category": "chill",
+    "coords": {
+      "lat": -34.316783799999996,
+      "lng": 20.6117389
+    },
+    "address": "Malagas, Malgas, 7441",
+    "rating": 4.7,
+    "reviewCount": 75,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJr____7ILzh0Rh0clAoWtbRc",
+    "name": "Seven Springs Vineyard",
+    "category": "chill",
+    "coords": {
+      "lat": -34.32677090000001,
+      "lng": 19.377271399999998
+    },
+    "address": "Sandfontein Farm, R320, Hemel en Aarde Rd, Caledon, 7230",
+    "rating": 4.8,
+    "reviewCount": 68,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ-zxFP39O1B0R_zAXt2Gny0Y",
+    "name": "Peter Bayly Wines",
+    "category": "chill",
+    "coords": {
+      "lat": -33.454977,
+      "lng": 21.759924
+    },
+    "address": "Baylys' Farm, Groenfontein, Calitzdorp, 6660",
+    "rating": 4.9,
+    "reviewCount": 61,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJKcYBql8Lzh0RL5CEhjrNNJo",
+    "name": "Newton Johnson Family Vineyards",
+    "category": "chill",
+    "coords": {
+      "lat": -34.3698404,
+      "lng": 19.2586308
+    },
+    "address": "R320 Hemel-en-Aarde Valley, Hermanus, 7200",
+    "rating": 4.6,
+    "reviewCount": 58,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJf0liG91p1h0RBhlrfwr5hgg",
+    "name": "Cape Saint Blaize Artisanal Distillery",
+    "category": "chill",
+    "coords": {
+      "lat": -34.1800231,
+      "lng": 22.142356799999998
+    },
+    "address": "6 Market St, Mossel Bay Central, Mossel Bay, 6500",
+    "rating": 4.7,
+    "reviewCount": 58,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Manufacturer",
+    "types": [
+      "manufacturer",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJm2zrKQ1E0h0RxQhseCeP_Wc",
+    "name": "Kleinhoekkloof Wines",
+    "category": "chill",
+    "coords": {
+      "lat": -33.7811679,
+      "lng": 20.054488499999998
+    },
+    "address": "Wildepaardekloof, Kleinhoekkloof Wines, Ashton, 6715",
+    "rating": 4.9,
+    "reviewCount": 55,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJzURtSe_F1R0R5l8qzjpgWJc",
+    "name": "Grundheim Wines",
+    "category": "chill",
+    "coords": {
+      "lat": -33.6273895,
+      "lng": 22.0647643
+    },
+    "address": "Grundheim Street Wyne Farm, Oudtshoorn, 6620",
+    "rating": 4.8,
+    "reviewCount": 55,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJXUrUN0cIzR0RUyymMnkSYK8",
+    "name": "Druk-My-Niet Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.690278,
+      "lng": 19.028333
+    },
+    "address": "Bodal Road, Daljosafat, Paarl, 7620",
+    "rating": 4.5,
+    "reviewCount": 49,
+    "priceLevel": null,
+    "summary": "Woodsy, whitewashed cottages set on a vineyard offering mountain views & an infinity pool.",
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJaSnBkQM5zR0RokDAJarfDFM",
+    "name": "Theuniskraal Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -33.228230599999996,
+      "lng": 19.134826099999998
+    },
+    "address": "Theuniskraal, Theuniskraalpad, Tulbagh, 6820",
+    "rating": 4.6,
+    "reviewCount": 45,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "tourist_attraction",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJq6qqqrPoMhwR1zbGCjDfqzs",
+    "name": "PIEKENIERSKLOOF WINES",
+    "category": "chill",
+    "coords": {
+      "lat": -32.5916175,
+      "lng": 19.012545799999998
+    },
+    "address": "Nieuwoudt Street, Citrusdal, 7340",
+    "rating": 4.1,
+    "reviewCount": 39,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Store",
+    "types": [
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJJ1hmAlULzh0RbAZNswrilfs",
+    "name": "Benguela Cove Cellar Door",
+    "category": "chill",
+    "coords": {
+      "lat": -34.347352300000004,
+      "lng": 19.1280868
+    },
+    "address": "R43 Walker Bay, Hermanus, 7200",
+    "rating": 4.5,
+    "reviewCount": 35,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "vineyard",
+      "wine_bar",
+      "liquor_store",
+      "bar",
+      "farm",
+      "event_venue",
+      "manufacturer",
+      "association_or_organization",
+      "service",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ83nFtyl31h0RqI_VfYyPYAw",
+    "name": "Lion's Creek Valley Boutique Distillery",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9424148,
+      "lng": 22.069858999999997
+    },
+    "address": "Farm Heimat LK22 Leeukloof, Mossel Bay, 6500",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Manufacturer",
+    "types": [
+      "manufacturer",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJq6qqJgra0x0RmKk3eWC5HeM",
+    "name": "Olivedale Private Vineyards",
+    "category": "chill",
+    "coords": {
+      "lat": -34.085333299999995,
+      "lng": 20.4999797
+    },
+    "address": "Olivedale Private Vineyards, Olivedale Road, Buffeljagsrivier, 6742",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Liquor Store",
+    "types": [
+      "liquor_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ6QKUAFlv1h0RAqTy4hH8B1o",
+    "name": "Boplaas Tasting Room at Hart & Bosch",
+    "category": "chill",
+    "coords": {
+      "lat": -34.1132469,
+      "lng": 22.103129199999998
+    },
+    "address": "R102, Hartenbos, 6500",
+    "rating": 4.7,
+    "reviewCount": 30,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Liquor Store",
+    "types": [
+      "winery",
+      "wine_bar",
+      "liquor_store",
+      "bar",
+      "farm",
+      "wholesaler",
+      "manufacturer",
+      "association_or_organization",
+      "service",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ7TgbGNkR1h0RHiYlO319EEA",
+    "name": "Boplaas Tasting Room @ Redberry Farm",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9585723,
+      "lng": 22.3825117
+    },
+    "address": "Red Berry Farm, Geelhoutboom road, George, 6530",
+    "rating": 4.5,
+    "reviewCount": 24,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Liquor Store",
+    "types": [
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJX9b0lEnheB4Rj0RGg1Ay9EA",
+    "name": "Telluric Wine Estate",
+    "category": "chill",
+    "coords": {
+      "lat": -34.0145993,
+      "lng": 23.372119299999998
+    },
+    "address": "Rietvlei Rd, Plettenberg Bay, 6600",
+    "rating": 4.7,
+    "reviewCount": 21,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJV2iwOKhdzB0R3n1ZOpEpYQo",
+    "name": "Savage Wines",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9292826,
+      "lng": 18.465144199999997
+    },
+    "address": "Unit 3, 6 Spencer Rd, Salt River, Cape Town, 7925",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Winery",
+    "types": [
+      "winery",
+      "farm",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJBVNL83vnMhwRWiCPNfvYTKU",
+    "name": "Piekenierskloof Wines",
+    "category": "chill",
+    "coords": {
+      "lat": -32.6231151,
+      "lng": 18.9521098
+    },
+    "address": "Piekenierskloofpass N7, Citrusdal, 7435",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Liquor Store",
+    "types": [
+      "winery",
+      "liquor_store",
+      "farm",
+      "store",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJS3aBJDUfeR4RTDTGQL2TFPU",
+    "name": "That Wine Demesne: with That Place & Ons Hoek",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9581574,
+      "lng": 23.4767291
+    },
+    "address": "That Place & That Wine Demesne, PO Box 197, The Crags, 6602",
+    "rating": 5,
+    "reviewCount": 13,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJVbsoxTO_eB4RJe4ER6RG_NY",
+    "name": "Escape Wines Tasting Room at Blackwaters",
+    "category": "chill",
+    "coords": {
+      "lat": -34.0293874,
+      "lng": 22.9378626
+    },
+    "address": "Portion 17, of Farm, 2028 Ganzvlei, Knysna, 6751",
+    "rating": 5,
+    "reviewCount": 6,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Wine Bar",
+    "types": [
+      "wine_bar",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJnayu-yvC1R0RO_2HuDDKKX4",
+    "name": "South Cape Vineyards",
+    "category": "chill",
+    "coords": {
+      "lat": -33.5961488,
+      "lng": 22.1961393
+    },
+    "address": "Jan Van Riebeeck Rd, Oudtshoorn, 6620",
+    "rating": 4,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Point of interest",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

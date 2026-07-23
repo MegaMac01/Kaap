@@ -1850,7 +1850,8 @@
     "tags": [
       "restaurant",
       "winery",
-      "liquor store"
+      "liquor store",
+      "wine farm"
     ],
     "blurb": "Working wine farm on Durbanville's edge: tastings, farm lunches and vineyard views."
   },
@@ -6781,7 +6782,8 @@
     "tags": [
       "restaurant",
       "wine bar",
-      "winery"
+      "winery",
+      "wine farm"
     ],
     "blurb": "Big-name Franschhoek cellar door with easy tastings and a garden restaurant."
   },
@@ -7539,7 +7541,8 @@
     "tags": [
       "winery",
       "liquor store",
-      "farm"
+      "farm",
+      "wine farm"
     ],
     "blurb": "Franschhoek winery on the R45 with storied single-vineyard bottles."
   },
@@ -7665,7 +7668,8 @@
     "tags": [
       "winery",
       "wine bar",
-      "vineyard"
+      "vineyard",
+      "wine farm"
     ],
     "blurb": "Franschhoek's bubbly specialist: Cap Classique tastings in an intimate cellar."
   },
@@ -8577,7 +8581,8 @@
     "tags": [
       "winery",
       "bistro",
-      "guest house"
+      "guest house",
+      "wine farm"
     ],
     "blurb": "Koelenhof winery bistro pouring its own labels."
   },
@@ -8641,7 +8646,8 @@
     "tags": [
       "strawberry picking",
       "farm stall",
-      "winery"
+      "winery",
+      "wine farm"
     ],
     "blurb": "The scarecrow-famous Stellenbosch strawberry farm: pick your own punnets in season."
   },
@@ -8663,7 +8669,8 @@
     "tags": [
       "winery",
       "farm",
-      "service"
+      "service",
+      "wine farm"
     ],
     "blurb": "The Cape's most famous farm estate: formal gardens, tastings and farm shops at Simondium."
   },
@@ -8685,9 +8692,10 @@
     "tags": [
       "winery",
       "tourist attraction",
-      "farm"
+      "farm",
+      "wine farm"
     ],
-    "blurb": "South Africa's bubbly house: sparkling-wine tastings in Devon Valley."
+    "blurb": "South Africa's sparkling-wine house in Devon Valley, with Cap Classique tastings and bubbly pairings."
   },
   {
     "id": "devonvale-golf-wine-estate",
@@ -8729,7 +8737,8 @@
     "tags": [
       "winery",
       "fine dining restaurant",
-      "farm"
+      "farm",
+      "wine farm"
     ],
     "blurb": "Storied Annandale Road estate for serious reds and fine dining."
   },
@@ -8751,7 +8760,8 @@
     "tags": [
       "winery",
       "guest house",
-      "wedding venue"
+      "wedding venue",
+      "wine farm"
     ],
     "blurb": "Simondium estate with lawns, tastings and one of the valley's prettier backdrops."
   },
@@ -8773,7 +8783,8 @@
     "tags": [
       "winery",
       "bakery",
-      "restaurant"
+      "restaurant",
+      "wine farm"
     ],
     "blurb": "Cellar built into the Franschhoek mountainside, bubbly sabrage included."
   },
@@ -8795,7 +8806,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Low-key R304 winery known for Chenin."
   },
@@ -8817,7 +8829,8 @@
     "tags": [
       "winery",
       "tourist attraction",
-      "farm"
+      "farm",
+      "wine farm"
     ],
     "blurb": "The golfer's Helderberg-facing estate: big reds and bigger views."
   },
@@ -8839,7 +8852,8 @@
     "tags": [
       "winery",
       "vineyard",
-      "tourist attraction"
+      "tourist attraction",
+      "wine farm"
     ],
     "blurb": "Sunset-lawn tastings on Annandale Road, bring a picnic blanket attitude."
   },
@@ -8861,7 +8875,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Blaauwklippen valley estate famous for its wine-and-chocolate pairing."
   },
@@ -8883,7 +8898,8 @@
     "tags": [
       "winery",
       "guest house",
-      "restaurant"
+      "restaurant",
+      "wine farm"
     ],
     "blurb": "Franschhoek Cap Classique house with an elegant Orangerie restaurant."
   },
@@ -8905,7 +8921,8 @@
     "tags": [
       "hotel",
       "guest house",
-      "winery"
+      "winery",
+      "wine farm"
     ],
     "blurb": "Historic Annandale werf with tastings in the old homestead."
   },
@@ -8927,7 +8944,8 @@
     "tags": [
       "winery",
       "tourist attraction",
-      "farm"
+      "farm",
+      "wine farm"
     ],
     "blurb": "Grill restaurant and easy-drinking reds under the Stellenbosch mountains."
   },
@@ -8949,7 +8967,8 @@
     "tags": [
       "hotel",
       "winery",
-      "restaurant"
+      "restaurant",
+      "wine farm"
     ],
     "blurb": "Franschhoek pass-road institution: lunch on the edge of the valley view."
   },
@@ -8971,7 +8990,8 @@
     "tags": [
       "farm",
       "auditorium",
-      "winery"
+      "winery",
+      "wine farm"
     ],
     "blurb": "Working wine estate in the middle of Paarl with lawns and a bistro."
   },
@@ -9013,7 +9033,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Somerset West estate pairing wine with its celebrated olive oils."
   },
@@ -9055,7 +9076,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "One of the Cape's oldest farms, tastings and a family-friendly werf on the R44."
   },
@@ -9077,7 +9099,8 @@
     "tags": [
       "winery",
       "tourist attraction",
-      "farm"
+      "farm",
+      "wine farm"
     ],
     "blurb": "De Zalze estate cellar door with an acclaimed restaurant alongside."
   },
@@ -9099,7 +9122,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Bottelary hills estate quietly making Pinotage history."
   },
@@ -9121,7 +9145,8 @@
     "tags": [
       "winery",
       "liquor store",
-      "storage"
+      "storage",
+      "wine farm"
     ],
     "blurb": "Old-school Paarl co-op cellar with generous, unfussy tastings."
   },
@@ -9143,7 +9168,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Chenin specialist in the hills between Stellenbosch and Somerset West."
   },
@@ -9165,7 +9191,8 @@
     "tags": [
       "winery",
       "wine bar",
-      "tourist attraction"
+      "tourist attraction",
+      "wine farm"
     ],
     "blurb": "Klapmuts estate with wine, cheese and a resident brewery."
   },
@@ -9187,7 +9214,8 @@
     "tags": [
       "winery",
       "guest house",
-      "lodging"
+      "lodging",
+      "wine farm"
     ],
     "blurb": "Valley Road estate pairing reds with biltong tastings."
   },
@@ -9209,7 +9237,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Castle-like Bottelary cellar, tastings with turret views."
   },
@@ -9231,7 +9260,8 @@
     "tags": [
       "winery",
       "spa",
-      "guest house"
+      "guest house",
+      "wine farm"
     ],
     "blurb": "Green Valley estate at Franschhoek's quiet end."
   },
@@ -9253,7 +9283,8 @@
     "tags": [
       "winery",
       "tourist attraction",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Family estate on the R45 with lawns made for long lunches."
   },
@@ -9275,7 +9306,8 @@
     "tags": [
       "winery",
       "liquor store",
-      "tourist attraction"
+      "tourist attraction",
+      "wine farm"
     ],
     "blurb": "Simondium estate with a Mexican-inspired restaurant between the vines."
   },
@@ -9297,7 +9329,8 @@
     "tags": [
       "winery",
       "manufacturer",
-      "farm"
+      "farm",
+      "wine farm"
     ],
     "blurb": "Franschhoek cellar with craft beer and wine sharing the mountain view."
   },
@@ -9319,7 +9352,8 @@
     "tags": [
       "winery",
       "manufacturer",
-      "farm"
+      "farm",
+      "wine farm"
     ],
     "blurb": "Franschhoek's first fully Black-owned wine farm, warm tastings with heritage."
   },
@@ -9361,7 +9395,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Devon Valley Chardonnay house."
   },
@@ -9383,7 +9418,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Bottelary estate with celebrated Shiraz and shaded garden lunches."
   },
@@ -9405,7 +9441,8 @@
     "tags": [
       "winery",
       "tourist attraction",
-      "farm"
+      "farm",
+      "wine farm"
     ],
     "blurb": "Simondium estate with grand Cape Dutch bones."
   },
@@ -9427,7 +9464,8 @@
     "tags": [
       "winery",
       "farm",
-      "service"
+      "service",
+      "wine farm"
     ],
     "blurb": "Small Paarl winery doing personal tastings."
   },
@@ -9449,7 +9487,8 @@
     "tags": [
       "winery",
       "tourist attraction",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Franschhoek mountainside farm with Pinot Noir worth the drive."
   },
@@ -9471,7 +9510,8 @@
     "tags": [
       "winery",
       "tourist attraction",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Boutique Franschhoek estate on Excelsior Road."
   },
@@ -9515,7 +9555,8 @@
     "tags": [
       "winery",
       "wine bar",
-      "vineyard"
+      "vineyard",
+      "wine farm"
     ],
     "blurb": "Art-forward Blaauwklippen estate with a striking modern cellar."
   },
@@ -9537,7 +9578,8 @@
     "tags": [
       "winery",
       "resort hotel",
-      "hotel"
+      "hotel",
+      "wine farm"
     ],
     "blurb": "Franschhoek estate with tastings, a restaurant and wine-tram traffic."
   },
@@ -9559,7 +9601,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Old-vine reds in an unpolished, characterful Annandale cellar."
   },
@@ -9581,7 +9624,8 @@
     "tags": [
       "winery",
       "tourist attraction",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Quiet Robertsvlei valley cellar away from the Franschhoek crowds."
   },
@@ -9603,7 +9647,8 @@
     "tags": [
       "winery",
       "liquor store",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Fine-wine cellar at Leeu Estates for considered tastings."
   },
@@ -9625,7 +9670,8 @@
     "tags": [
       "winery",
       "tourist attraction",
-      "farm"
+      "farm",
+      "wine farm"
     ],
     "blurb": "Bottelary estate with its own renosterveld reserve and walking trails."
   },
@@ -9647,7 +9693,8 @@
     "tags": [
       "winery",
       "tourist attraction",
-      "farm"
+      "farm",
+      "wine farm"
     ],
     "blurb": "Fourth-generation Bottelary farm with big-hearted tastings."
   },
@@ -9669,7 +9716,8 @@
     "tags": [
       "winery",
       "manufacturer",
-      "farm"
+      "farm",
+      "wine farm"
     ],
     "blurb": "The Franschhoek farm sanctuary made world-famous by Pigcasso the painting pig."
   },
@@ -9711,7 +9759,8 @@
     "tags": [
       "winery",
       "vineyard",
-      "liquor store"
+      "liquor store",
+      "wine farm"
     ],
     "blurb": "Boutique Klapmuts farm doing cheese-and-wine pairings."
   },
@@ -9733,7 +9782,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Golden Triangle estate reborn with granite-driven Syrah."
   },
@@ -9775,7 +9825,8 @@
     "tags": [
       "winery",
       "liquor store",
-      "french restaurant"
+      "french restaurant",
+      "wine farm"
     ],
     "blurb": "Storied Simondium partnership estate with polished tastings."
   },
@@ -9797,7 +9848,8 @@
     "tags": [
       "winery",
       "manufacturer",
-      "farm"
+      "farm",
+      "wine farm"
     ],
     "blurb": "Family-run Franschhoek cellar in the Green Valley."
   },
@@ -9819,7 +9871,8 @@
     "tags": [
       "winery",
       "tourist attraction",
-      "farm"
+      "farm",
+      "wine farm"
     ],
     "blurb": "French-founded Ida's Valley estate with a glass museum and bistro."
   },
@@ -9863,7 +9916,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Tiny Blaauwklippen valley farm making elegant Syrah."
   },
@@ -9885,7 +9939,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Historic Paarl family farm pouring in the old cellar."
   },
@@ -9907,9 +9962,10 @@
     "tags": [
       "winery",
       "tourist attraction",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
-    "blurb": "Winery in 40a Uitkyk St."
+    "blurb": "Playful, irreverent Franschhoek winery with a jazz-and-wine following."
   },
   {
     "id": "flagstone-wines",
@@ -9929,7 +9985,8 @@
     "tags": [
       "winery",
       "tourist attraction",
-      "farm"
+      "farm",
+      "wine farm"
     ],
     "blurb": "Urban winery at Paardevlei tasting big-name blends at the source."
   },
@@ -9951,7 +10008,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Annandale Road tasting room with country lunches."
   },
@@ -9973,7 +10031,8 @@
     "tags": [
       "wedding venue",
       "winery",
-      "event venue"
+      "event venue",
+      "wine farm"
     ],
     "blurb": "Klapmuts farm with old-vine Cinsault and a storybook werf."
   },
@@ -9995,7 +10054,8 @@
     "tags": [
       "winery",
       "guest house",
-      "event venue"
+      "event venue",
+      "wine farm"
     ],
     "blurb": "Small Simondium farm venue with tastings and valley views."
   },
@@ -10017,9 +10077,10 @@
     "tags": [
       "winery",
       "tourist attraction",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
-    "blurb": "Winery in 2 Excelsior Rd."
+    "blurb": "The Franschhoek cellar behind The Chocolate Block and The Wolftrap, serious wine and a seven-chair badge."
   },
   {
     "id": "krismiskamp",
@@ -10059,7 +10120,8 @@
     "tags": [
       "winery",
       "farm",
-      "service"
+      "service",
+      "wine farm"
     ],
     "blurb": "R44 estate revived with old-vine finds."
   },
@@ -10081,7 +10143,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "No-frills Bottelary farm cellar."
   },
@@ -10103,7 +10166,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Small Blaauwklippen valley estate with a wedding-pretty werf."
   },
@@ -10125,7 +10189,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Bottelary hills family cellar."
   },
@@ -10147,7 +10212,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Organic-minded estate on Paarl's Jan van Riebeeck Drive."
   },
@@ -10191,7 +10257,8 @@
     "tags": [
       "winery",
       "farm",
-      "manufacturer"
+      "manufacturer",
+      "wine farm"
     ],
     "blurb": "Boutique urban cellar at Bosman's Crossing."
   },
@@ -10213,7 +10280,8 @@
     "tags": [
       "winery",
       "vineyard",
-      "farm"
+      "farm",
+      "wine farm"
     ],
     "blurb": "Small Stellenbosch vineyard doing appointment tastings."
   },
@@ -10926,7 +10994,8 @@
     "tags": [
       "winery",
       "art gallery",
-      "liquor store"
+      "liquor store",
+      "wine farm"
     ],
     "blurb": "Klapmuts winery doubling as a contemporary art gallery."
   },
@@ -18429,5 +18498,2173 @@
       "tent camping"
     ],
     "blurb": "Bush camp at Wellington."
+  },
+  {
+    "id": "cape-point-vineyards",
+    "name": "Cape Point Vineyards",
+    "category": "chill",
+    "area": "houtbay",
+    "coords": {
+      "lat": -34.0938028,
+      "lng": 18.3875208
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 2990,
+    "address": "Silvermine Rd, Noordhoek, Cape Town, 7985",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Rustic mountainside restaurant with international menu, cool modern interior and terrace with views."
+  },
+  {
+    "id": "fairview-wine-and-cheese",
+    "name": "Fairview Wine and Cheese",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.771745300000006,
+      "lng": 18.9242346
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 2615,
+    "address": "Suid-Agter-Paarl Rd, Suider, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "vineyard"
+    ],
+    "blurb": "Paarl's Goats do Roam estate: wine and cheese tastings and a goat tower the kids love."
+  },
+  {
+    "id": "spier-wine-tasting",
+    "name": "Spier Wine Tasting",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9728135,
+      "lng": 18.78454
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 2120,
+    "address": "Spier Wine Farm R310, Baden Powell Dr, Lynedoch, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "liquor store"
+    ],
+    "blurb": "Wine estate's cozy store offering wine & chocolate tastings, plus bottles & gifts for sale."
+  },
+  {
+    "id": "vergelegen-wine-estate",
+    "name": "Vergelegen Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0772932,
+      "lng": 18.8917315
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 1923,
+    "address": "Lourensford Rd, Somerset West, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "vineyard"
+    ],
+    "blurb": "Renowned wine estate with sunset vineyard or cellar tours, themed gardens and upscale restaurant."
+  },
+  {
+    "id": "cavalli-estate",
+    "name": "Cavalli Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.009937199999996,
+      "lng": 18.8130497
+    },
+    "priceBand": 3,
+    "priceEstimate": "R250–450 pp",
+    "rating": 4.6,
+    "reviewCount": 1822,
+    "address": "Strand Rd, Somerset West, Cape Town, 7129",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "wedding venue"
+    ],
+    "blurb": "Sleek Helderberg estate with sculpture gardens, wine and a smart restaurant."
+  },
+  {
+    "id": "durbanville-hills-winery",
+    "name": "Durbanville Hills Winery",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8249281,
+      "lng": 18.5658089
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 1762,
+    "address": "Tygerberg Valley Rd, Cape Farms, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "wedding venue"
+    ],
+    "blurb": "Cellar tours & tasting at an eco-friendly vineyard & restaurant offering views of Table Mountain."
+  },
+  {
+    "id": "meerendal-wine-estate",
+    "name": "Meerendal Wine Estate",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.79901600000001,
+      "lng": 18.623987
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 1679,
+    "address": "Vissershok Rd, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Historic Durbanville estate with old-vine Pinotage, restaurants and mountain-bike trails."
+  },
+  {
+    "id": "klein-roosboom-boutique-winery",
+    "name": "Klein Roosboom Boutique Winery",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.820319,
+      "lng": 18.574662
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 1599,
+    "address": "Tygerberg Valley Rd, Durbanville, Cape Town, 7551",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Family Durbanville cellar pouring tastings inside cosy converted wine tanks."
+  },
+  {
+    "id": "delheim-wine-estate",
+    "name": "Delheim Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8698991,
+      "lng": 18.8857395
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 1553,
+    "address": "Knorhoek Rd, Stellenbosch, 7599",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Tours and tastings, with a garden restaurant for German and South African dishes, plus great views."
+  },
+  {
+    "id": "de-grendel-wine-estate-and-restaurant",
+    "name": "De Grendel Wine Estate and Restaurant",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.851365,
+      "lng": 18.571616
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 1524,
+    "address": "De Grendel Wine Estate and Restaurant, Plattekloof Road, Panorama, Cape Town, 7500",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "A fine-dining restaurant with wine pairings & estate views, plus tastings, farm tours & a shop."
+  },
+  {
+    "id": "beau-constantia",
+    "name": "Beau Constantia",
+    "category": "chill",
+    "area": "constantia",
+    "coords": {
+      "lat": -34.013672899999996,
+      "lng": 18.4064562
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 1443,
+    "address": "1043 Constantia Main Rd, Constantia, Cape Town, 7806",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Wine farm with a restaurant, plus views of False Bay & 2 mountain ranges from its vineyard slopes."
+  },
+  {
+    "id": "lanzerac-wine-estate",
+    "name": "Lanzerac Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9379452,
+      "lng": 18.8939707
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 1295,
+    "address": "Lanzerac Wine Estate, Lanzerac Rd, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "hotel",
+      "winery"
+    ],
+    "blurb": "Historic hotel with posh rooms and suites, upscale restaurants, a spa and free wine tastings."
+  },
+  {
+    "id": "jakkalsvlei",
+    "name": "Jakkalsvlei",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.983684499999995,
+      "lng": 21.715353
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 1268,
+    "address": "Herbertsdale, 6505",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Wine farms in the Western Cape."
+  },
+  {
+    "id": "warwick-wine-estate",
+    "name": "Warwick Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.84046,
+      "lng": 18.8640115
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 1031,
+    "address": "R44, Stellenbosch, 7607",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Tours & tastings include gourmet picnics & wine safaris by 4x4 at this sprawling hillside vineyard."
+  },
+  {
+    "id": "jordan-wine-estate",
+    "name": "Jordan Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.942955999999995,
+      "lng": 18.744215999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 989,
+    "address": "Stellenbosch Kloof Road, Vlottenberg, Stellenbosch, 7604",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Daily changing modern South African menu in chic, wine estate setting with patio and mountain views."
+  },
+  {
+    "id": "daria-winery",
+    "name": "D'Aria Winery",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.841128399999995,
+      "lng": 18.610876299999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 956,
+    "address": "M13 Tygerberg Valley Rd, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Durbanville estate with valley views, a bistro and music-inspired wines."
+  },
+  {
+    "id": "hazendal-wine-estate",
+    "name": "Hazendal Wine Estate",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8992918,
+      "lng": 18.716763099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 864,
+    "address": "Bottelary Road New entrance from Ronelle Street via, Kruis St, Brackenfell South, Stellenbosch, 7599",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "golf course"
+    ],
+    "blurb": "Grand Bottelary estate mixing wine, a Russian art museum, gardens and family fun."
+  },
+  {
+    "id": "tokara-wine-estate",
+    "name": "Tokara Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9180682,
+      "lng": 18.920917499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 858,
+    "address": "Helshoogte Rd, Stellenbosch, Cape Town, 7600",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Modern winery on a hilltop with vineyard views, tastings & an art gallery, plus a chic restaurant."
+  },
+  {
+    "id": "de-krans-wines",
+    "name": "De Krans Wines",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.5405136,
+      "lng": 21.6837515
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 835,
+    "address": "Station Road, Calitzdorp, 6660, Scenic Cape Route 62, 9.0, GPS - S33⁰32, 6 3\"E021⁰41, Calitzdorp, 6660",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Wine farms near 6 3\"E021⁰41."
+  },
+  {
+    "id": "idiom-restaurant-idiom-wine-tasting-cent",
+    "name": "Idiom Wines",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.1044048,
+      "lng": 18.9404902
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 831,
+    "address": "Idiom Restaurant & Idiom Wine at Da Capo Vineyards Old Sir Lowrys Pass road, Somerset West, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "restaurant",
+      "winery"
+    ],
+    "blurb": "Italian-family estate high on Sir Lowry's Pass with sweeping False Bay views."
+  },
+  {
+    "id": "van-loveren-family-vineyards",
+    "name": "Van Loveren Family Vineyards",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.875368,
+      "lng": 20.002744999999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 734,
+    "address": "R317, Robertson, 6707",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "hiking area"
+    ],
+    "blurb": "Big-hearted Robertson family estate with a garden tasting terrace and picnics."
+  },
+  {
+    "id": "la-motte-wine-farm",
+    "name": "La Motte Wine Farm",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.883503499999996,
+      "lng": 19.0723184
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 714,
+    "address": "R45, Franschhoek, 7691",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "vineyard"
+    ],
+    "blurb": "Upmarket country winery with tasting sessions, a gourmet restaurant & an onsite art museum."
+  },
+  {
+    "id": "nederburg-wines",
+    "name": "Nederburg Wines",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.720635699999995,
+      "lng": 19.0033606
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 650,
+    "address": "Sonstraal Rd, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Contemporary winery offering cellar tours & tastings of its vintages, plus a bistro with a patio."
+  },
+  {
+    "id": "hillcrest-estate",
+    "name": "Hillcrest Estate",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8270073,
+      "lng": 18.590507799999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.1,
+    "reviewCount": 614,
+    "address": "M13 Tygervalley Centre Service Road Durbanville, Cape Farms, Cape Town, 7551",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Sweeping vineyard views and breakfast, lunch and tea from winery's Mediterranean terrace restaurant."
+  },
+  {
+    "id": "under-oaks-estate",
+    "name": "Under Oaks Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.6752628,
+      "lng": 18.9419894
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 613,
+    "address": "Noord Agter - Paarl Rd, Paarl, 7620",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Paarl estate with wine, a pizzeria and oak-shaded lawns."
+  },
+  {
+    "id": "zevenwacht-wine-estate",
+    "name": "Zevenwacht Wine Estate",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.931951,
+      "lng": 18.716806899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 604,
+    "address": "Langverwacht Rd, Kuils River, Cape Town, 7579",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Serene hotel amid vineyards offering understated quarters, gourmet dining & a pool, plus wine tours."
+  },
+  {
+    "id": "saronsberg-wine-cellar",
+    "name": "Saronsberg Wine Cellar",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.246259699999996,
+      "lng": 19.116934099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 576,
+    "address": "Waveren Road, Tulbagh, 6820",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Award-heavy Tulbagh cellar with a striking art collection under the Witzenberg."
+  },
+  {
+    "id": "constantia-uitsig-wine-estate",
+    "name": "Constantia Uitsig Wine Estate",
+    "category": "chill",
+    "area": "constantia",
+    "coords": {
+      "lat": -34.0475233,
+      "lng": 18.4248421
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 559,
+    "address": "ERF12995 Spaanschemat River Rd, Fir Grove, Cape Town, 7806",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Constantia estate of cool-climate whites with celebrated restaurants and lawns."
+  },
+  {
+    "id": "montpellier-wine-estate",
+    "name": "Montpellier Wine Estate",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.2756103,
+      "lng": 19.1115621
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 540,
+    "address": "P4G6+P4, 2 Jonge Gezellen Road, Tulbagh, 6820",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Wine farms near 2 Jonge Gezellen Road."
+  },
+  {
+    "id": "karusa-wines-craft-brewery-spirits",
+    "name": "Karusa Wines",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.4765578,
+      "lng": 22.2432564
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 528,
+    "address": "KARUSA WINES , ON THE R328 NORTH, Oudtshoorn, 6620",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "vineyard",
+      "winery"
+    ],
+    "blurb": "Klein Karoo estate near Oudtshoorn doing wine, craft beer and spirits under one roof."
+  },
+  {
+    "id": "benguela-cove-lagoon-wine-estate",
+    "name": "Benguela Cove Lagoon Wine Estate",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.3458633,
+      "lng": 19.1347293
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.1,
+    "reviewCount": 522,
+    "address": "R43, Botriver Lagoon Walker Bay, Hermanus, 7200",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "vineyard"
+    ],
+    "blurb": "Waterside estate producing olive oil, lavender & wine, with tastings, tours & an art gallery."
+  },
+  {
+    "id": "gabrielskloof-wine-estate",
+    "name": "Gabrielskloof Wine Estate",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.238734,
+      "lng": 19.249591
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 496,
+    "address": "Q66X+8R, R43, Bot River, 7185",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Estate with restaurant for robust, seasonal South African fare, plus a tasting room with courtyard."
+  },
+  {
+    "id": "la-vierge-wines",
+    "name": "La Vierge Wines",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.372903199999996,
+      "lng": 19.2416725
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 472,
+    "address": "Hemel-en-Aarde, 12 Valley Rd, Hermanus, 7200",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Wine farms near 12 Valley Rd."
+  },
+  {
+    "id": "maastricht-wines",
+    "name": "Maastricht Wines",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8394316,
+      "lng": 18.5904696
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 465,
+    "address": "Tygerberg Valley Rd, Nieuw Maastrecht, Cape Town, 7551",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Small Durbanville-hills family cellar with valley views."
+  },
+  {
+    "id": "lourensford-wine-estate",
+    "name": "Lourensford Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0719063,
+      "lng": 18.888620799999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 449,
+    "address": "Lourensford Rd, Somerset West, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Vast Somerset West estate with wine, a market, coffee roastery and mountain backdrop."
+  },
+  {
+    "id": "middelvlei-wine-estate",
+    "name": "Middelvlei Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9281259,
+      "lng": 18.832642099999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 421,
+    "address": "Middelvlei Wine Estate, Flamingo St, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Fourth-generation Stellenbosch farm famous for its weekend braai-and-bread tastings."
+  },
+  {
+    "id": "kloovenburg-wine-olive-estate",
+    "name": "Kloovenburg Wine & Olive Estate",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.3940998,
+      "lng": 18.8900336
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 404,
+    "address": "R46, Riebeek-Kasteel, 7307",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Riebeek-Kasteel estate pairing Swartland wine with its own olives and oils."
+  },
+  {
+    "id": "bartinney-private-cellar",
+    "name": "Bartinney Private Cellar",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9263158,
+      "lng": 18.9324205
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 353,
+    "address": "Helshoogte Rd, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Steep Banhoek mountain estate with elegant Chardonnay and a Stellenbosch town-square tasting bar."
+  },
+  {
+    "id": "springfield-estate",
+    "name": "Springfield Estate",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.838550999999995,
+      "lng": 19.914291799999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 343,
+    "address": "R317 Bonnievale Road, Klipdrif, Robertson, 6705",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Robertson family estate famed for its Life from Stone Sauvignon Blanc, tastings on the river."
+  },
+  {
+    "id": "herold-wines",
+    "name": "Herold Wines",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.8635915,
+      "lng": 22.4688864
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 336,
+    "address": "Montague Pass Afguns river Herold, 6615",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Wine farms in the Western Cape."
+  },
+  {
+    "id": "zandvliet-wine-estate",
+    "name": "Zandvliet Wine Estate",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.8467565,
+      "lng": 20.0385454
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 319,
+    "address": "Zandvliet Way, Ashton, 6715",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Robertson-valley estate with Shiraz and a stud farm alongside the vines."
+  },
+  {
+    "id": "groote-post-vineyards",
+    "name": "Groote Post Vineyards",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.4832,
+      "lng": 18.4101
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 318,
+    "address": "4800",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Wine estate with tastings, plus farm drives and a restaurant serving Modern country cuisine."
+  },
+  {
+    "id": "spookfontein-wines-tastings",
+    "name": "Spookfontein Wines & Tastings",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.3552087,
+      "lng": 19.289070499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 308,
+    "address": "33 Hemel en Aarde Rd, Hermanus, 7200",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "liquor store"
+    ],
+    "blurb": "Wine farms near 33 Hemel en Aarde Rd."
+  },
+  {
+    "id": "waterkloof-wine-estate",
+    "name": "Waterkloof Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0988621,
+      "lng": 18.8895607
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 300,
+    "address": "Old Sir Lowry's Pass Rd, Somerset West, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "vineyard"
+    ],
+    "blurb": "Biodynamic winery with views of fields & peaks from a sleek, upscale restaurant & tasting lounge."
+  },
+  {
+    "id": "saxenburg-wine-estate",
+    "name": "Saxenburg Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9466915,
+      "lng": 18.7191618
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 294,
+    "address": "Polkadraai Rd, Stellenbosch Farms, Cape Town, 7579",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Historic Stellenbosch farm with age-worthy reds and a country restaurant."
+  },
+  {
+    "id": "nieuwedrift-wine-estate",
+    "name": "Nieuwedrift Wine Estate",
+    "category": "chill",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.9786801,
+      "lng": 18.7489414
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 294,
+    "address": "Farm Nieuwedrift, Piketberg, 7320",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "restaurant",
+      "vineyard"
+    ],
+    "blurb": "Swartland-edge farm near Piketberg with rustic tastings."
+  },
+  {
+    "id": "stark-cond-wines",
+    "name": "Stark-Conde Wines",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9536491,
+      "lng": 18.9105573
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 293,
+    "address": "Oude Nektar Farm, Jonkershoek Valley, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Jonkershoek-valley cellar with mountain-grown Syrah and a lake-side tasting room."
+  },
+  {
+    "id": "bon-courage-wine-estate",
+    "name": "Bon Courage Wine Estate",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.8456324,
+      "lng": 19.9605459
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 291,
+    "address": "R317, Robertson, 6705",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Robertson family estate with a rose garden, bubbly and a tea garden."
+  },
+  {
+    "id": "robertson-winery",
+    "name": "Robertson Winery",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.8107427,
+      "lng": 19.8815095
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 281,
+    "address": "Voortrekker Road, Robertson, 6705",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "liquor store"
+    ],
+    "blurb": "The town's big co-op cellar, approachable everyday wines and generous tastings."
+  },
+  {
+    "id": "luka-vineyards",
+    "name": "Luka Vineyards",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0420359,
+      "lng": 23.266157399999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 269,
+    "address": "Elephant park road Harkerville, Plettenberg Bay, 6604",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "vineyard",
+      "farm"
+    ],
+    "blurb": "Cool-climate Plett estate with Sauvignon Blanc and coastal views."
+  },
+  {
+    "id": "newstead-wine-estate",
+    "name": "Newstead Wine Estate",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9519775,
+      "lng": 23.471987799999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 266,
+    "address": "The Crags, Redford Rd, The Crags, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "restaurant",
+      "winery"
+    ],
+    "blurb": "Family vineyard near Plett with tastings and olive groves."
+  },
+  {
+    "id": "diemersdal-wine-estate",
+    "name": "Diemersdal Wine Estate",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.802569,
+      "lng": 18.6460573
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 256,
+    "address": "Koeberg Road, Durbanville, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Restaurant in stables with outside seating overlooking historic vineyards serving bistro-style food."
+  },
+  {
+    "id": "ormonde-wines",
+    "name": "Ormonde Wines",
+    "category": "chill",
+    "area": "westcoast",
+    "coords": {
+      "lat": -33.380800799999996,
+      "lng": 18.3740381
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 248,
+    "address": "Mount Pleasant St, Darling, 7345",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Darling estate on the West Coast with a modern tasting room."
+  },
+  {
+    "id": "lomond-wine-estate-gansbaai",
+    "name": "Lomond Wine Estate - Gansbaai",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.5661351,
+      "lng": 19.4830942
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 240,
+    "address": "Lomond Wine Estate, Gansbaai, 7220",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Cool-coast estate near Gansbaai making single-vineyard whites at the Cape's edge."
+  },
+  {
+    "id": "cellar-door-wine-tasting-at-boschendal",
+    "name": "Boschendal Cellar Door",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8853416,
+      "lng": 18.9696121
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 234,
+    "address": "Boschendal Estate Pniel Road, Franschhoek Franschhoek, Cape Town, 7680",
+    "phone": null,
+    "tags": [
+      "wine farm"
+    ],
+    "blurb": "Boschendal's cellar door: tastings, farm-to-table dining and picnics on a storied Franschhoek estate."
+  },
+  {
+    "id": "reedvalley",
+    "name": "ReedValley",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.1674264,
+      "lng": 22.0182535
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.1,
+    "reviewCount": 233,
+    "address": "ReedValley Wines, Mossel Bay, 6500",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "live music venue"
+    ],
+    "blurb": "Klein Karoo estate near Mossel Bay with wine, a venue and country views."
+  },
+  {
+    "id": "boplaas-winery-and-distillery",
+    "name": "Boplaas Winery and Distillery",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.535633,
+      "lng": 21.683714800000004
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 233,
+    "address": "2 Saayman St, Calitzdorp, 6660",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "liquor store",
+      "wholesaler"
+    ],
+    "blurb": "Wine farms near 2 Saayman St."
+  },
+  {
+    "id": "bitou-vineyards",
+    "name": "Bitou Vineyards",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0191813,
+      "lng": 23.385361000000003
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 213,
+    "address": "N 2, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "restaurant"
+    ],
+    "blurb": "Small Plett estate on the Bitou river, coastal-cool wines and tastings."
+  },
+  {
+    "id": "robertson-wine-valley",
+    "name": "Robertson Wine Valley",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.8086759,
+      "lng": 19.8789922
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 213,
+    "address": "Reitz St &, Voortrekker Ave, Robertson, 6705",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Tourist office for a wine region, offering restaurant bookings, local information & vineyard tours."
+  },
+  {
+    "id": "packwood-wine-and-country-estate-pty-ltd",
+    "name": "Packwood Wine Estate",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.005905,
+      "lng": 23.228541
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 211,
+    "address": "Fisanthoek, Off N2, Between Knysna and Plettenberg Bay, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Plettenberg Bay country estate with vineyards, a restaurant and cottages."
+  },
+  {
+    "id": "excelsior-wine-estate",
+    "name": "Excelsior Wine Estate",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.85466590000001,
+      "lng": 20.007878599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 206,
+    "address": "Off, R60, Ashton, 6715",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Robertson-valley family estate known for its blend-your-own-wine experience."
+  },
+  {
+    "id": "kay-monty-vineyards",
+    "name": "Kay & Monty Vineyards",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.930976,
+      "lng": 23.434859000000003
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 187,
+    "address": "Redford Road The Crags, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "bed and breakfast",
+      "liquor store"
+    ],
+    "blurb": "Boutique Plett vineyard with a relaxed tasting deck."
+  },
+  {
+    "id": "weltevrede-wine-estate",
+    "name": "Weltevrede Wine Estate",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.9421489,
+      "lng": 20.051983999999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 183,
+    "address": "R317, Bonnievale, 6730",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "liquor store"
+    ],
+    "blurb": "Fifth-generation Bonnievale estate with tastings, a bistro and vineyard picnics."
+  },
+  {
+    "id": "avondale-wine",
+    "name": "Avondale Wine",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7646817,
+      "lng": 18.9977324
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 181,
+    "address": "Klein Drakenstein, Lustigan Rd, Paarl, 7624",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Biodynamic Paarl estate with an eco-tour and organic, terroir-driven wines."
+  },
+  {
+    "id": "oak-valley-estate",
+    "name": "Oak Valley Estate.",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.155044,
+      "lng": 19.046219699999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 181,
+    "address": "127 Oak Ave, Grabouw, 7180",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Wine farms near 127 Oak Ave."
+  },
+  {
+    "id": "raka-wine",
+    "name": "Raka Wine",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.398252,
+      "lng": 19.623749
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 181,
+    "address": "17km out of Stanford, Stanford, Western Cape, 7210",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Family estate in the Klein River hills near Stanford, big-value reds."
+  },
+  {
+    "id": "domein-doornkraal-padstal-wine",
+    "name": "Domein Doornkraal Padstal & Wine",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.5452544,
+      "lng": 22.4450435
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 169,
+    "address": "on the N 12, De Rust, 6650",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "liquor store"
+    ],
+    "blurb": "Wine farms near on the N 12."
+  },
+  {
+    "id": "rietvallei-wine-estate",
+    "name": "Rietvallei Wine Estate",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.8265508,
+      "lng": 19.9764792
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 161,
+    "address": "R60, Robertson, 6705",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Historic Robertson estate with old-vine Muscadel and a shaded tasting garden."
+  },
+  {
+    "id": "zoetendal-vineyards-river-estate",
+    "name": "Zoetendal Vineyards & River Estate",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.6004213,
+      "lng": 19.790978199999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 156,
+    "address": "Moddervlei Farm, R43, Elim, 7284",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "restaurant",
+      "hiking area"
+    ],
+    "blurb": "Remote estate at Elim, the Cape's southernmost wine ward near Agulhas."
+  },
+  {
+    "id": "cederberg-wines",
+    "name": "Cederberg Wines",
+    "category": "chill",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.5036589,
+      "lng": 19.2574883
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 156,
+    "address": "Dwarsrivier Farm, Clanwilliam, 8135",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "The highest vineyards in the Cape, a remote Cederberg mountain estate near Clanwilliam."
+  },
+  {
+    "id": "oudekloof-wine-estate",
+    "name": "Oudekloof Wine Estate",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.2683519,
+      "lng": 19.0747923
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 155,
+    "address": "Oudekloof Farm, Tulbagh, 6820",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "cycling park"
+    ],
+    "blurb": "Tulbagh mountain estate with tastings and valley views."
+  },
+  {
+    "id": "cloof-wine-estate",
+    "name": "Cloof Wine Estate",
+    "category": "chill",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.4827438,
+      "lng": 18.5227954
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 153,
+    "address": "Mamre road off R315, Darling, Cape Town, 7345",
+    "phone": null,
+    "tags": [
+      "wine farm"
+    ],
+    "blurb": "Darling bush-vine estate with rugged reds and West Coast fynbos walks."
+  },
+  {
+    "id": "bramon-wine-estate",
+    "name": "Bramon Wine Estate",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.955759799999996,
+      "lng": 23.4765603
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 141,
+    "address": "Plot 9 of Farm 302, The Crags, Plettenberg Bay, 6602",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "restaurant"
+    ],
+    "blurb": "The Plett coast's pioneering bubbly estate with a vineyard restaurant."
+  },
+  {
+    "id": "graham-beck-estate",
+    "name": "Graham Beck Estate",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.801189,
+      "lng": 19.800184899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 139,
+    "address": "Scenic Cape Route, R60, Robertson, 7600",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "wine bar"
+    ],
+    "blurb": "Robertson's celebrated Cap Classique house, the bubbly of choice for big moments."
+  },
+  {
+    "id": "almenkerk-wine-estate",
+    "name": "Almenkerk Wine Estate",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.2134111,
+      "lng": 19.0324486
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 129,
+    "address": "50 Viljoenshoop Rd, Grabouw, 7160",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "hiking area"
+    ],
+    "blurb": "Wine farms near 50 Viljoenshoop Rd."
+  },
+  {
+    "id": "riebeek-valley-wine-co",
+    "name": "Riebeek Valley Wine Co",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.3829695,
+      "lng": 18.913825600000003
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 116,
+    "address": "86 Kloof St, Riebeek-Kasteel, 7307",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Wine farms near 86 Kloof St."
+  },
+  {
+    "id": "ashton-winery",
+    "name": "Ashton Winery",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.837533799999996,
+      "lng": 20.030961299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 112,
+    "address": "Ashton Winery, R60, Ashton, 6715",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "liquor store"
+    ],
+    "blurb": "Robertson-valley co-op cellar with easy-drinking everyday wines."
+  },
+  {
+    "id": "plettenvale-wines-accommodation-venue",
+    "name": "Plettenvale Wines",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0817659,
+      "lng": 23.327397899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 99,
+    "address": "88 Roodefontein C7, Plettenberg Bay Off Airport Road, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "wedding venue",
+      "lodging"
+    ],
+    "blurb": "Small Plett estate with wine, a venue and accommodation."
+  },
+  {
+    "id": "springfontein-wine-estate",
+    "name": "Springfontein Wine Estate",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.4272507,
+      "lng": 19.4085908
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 96,
+    "address": "8 Wortelgat Rd, Stanford, 7210",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "hotel",
+      "winery"
+    ],
+    "blurb": "Bright quarters, some with terraces, in a charming riverside lodge offering trail access & docks."
+  },
+  {
+    "id": "duswaroo",
+    "name": "Du'SwaRoo",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.5161115,
+      "lng": 21.6939418
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 91,
+    "address": "FMMV+GJ, Besemkop, Calitzdorp, 6660",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "deli"
+    ],
+    "blurb": "Boutique Calitzdorp producer in the port-wine capital of the Klein Karoo."
+  },
+  {
+    "id": "mcgregor-koop-wynmakery",
+    "name": "McGregor Koop Wynmakery",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.934691199999996,
+      "lng": 19.8491026
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 90,
+    "address": "South Africa",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "vineyard",
+      "farm"
+    ],
+    "blurb": "Wine farms in the Western Cape."
+  },
+  {
+    "id": "joubert-tradauw-wine-farm-deli-alfresco",
+    "name": "Joubert-Tradauw Wine Farm",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.9242817,
+      "lng": 20.5961929
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 89,
+    "address": "Tradouw Valley, R62, Barrydale, 6750",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Route 62 family farm near Barrydale with organic wine and a deli under the trees."
+  },
+  {
+    "id": "org-de-rac-organic-wine-estate",
+    "name": "Org de Rac Organic Wine Estate",
+    "category": "chill",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.9666658,
+      "lng": 18.7513524
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 86,
+    "address": "N 7, R399, Piketberg, 7320",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Certified-organic Swartland estate near Piketberg."
+  },
+  {
+    "id": "baleia-wines-olive-oil",
+    "name": "Baleia Wines",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.1097313,
+      "lng": 21.254973099999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 82,
+    "address": "N2 - National Road, Riversdale, 6670",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Coastal Riversdale estate making wine and olive oil near the Garden Route."
+  },
+  {
+    "id": "bartho-eksteen-wine-estate",
+    "name": "Bartho Eksteen Wine Estate",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.3992534,
+      "lng": 19.2179103
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 80,
+    "address": "Valley, Hemel en Aarde Rd, Hermanus, 7200",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Hemel-en-Aarde cellar from one of the Cape's Sauvignon Blanc masters near Hermanus."
+  },
+  {
+    "id": "sijnn-wines",
+    "name": "Sijnn Wines",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.316783799999996,
+      "lng": 20.6117389
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 75,
+    "address": "Malagas, Malgas, 7441",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Wild, rocky estate at Malgas on the Breede, pioneering Mediterranean varieties."
+  },
+  {
+    "id": "seven-springs-vineyard",
+    "name": "Seven Springs Vineyard",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.32677090000001,
+      "lng": 19.377271399999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 68,
+    "address": "Sandfontein Farm, R320, Hemel en Aarde Rd, Caledon, 7230",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "British-founded family vineyard in the Overberg hills near Caledon."
+  },
+  {
+    "id": "peter-bayly-wines",
+    "name": "Peter Bayly Wines",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.454977,
+      "lng": 21.759924
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 61,
+    "address": "Baylys' Farm, Groenfontein, Calitzdorp, 6660",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Tiny Calitzdorp producer making port-style wines in the Klein Karoo."
+  },
+  {
+    "id": "newton-johnson-family-vineyards",
+    "name": "Newton Johnson Family Vineyards",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.3698404,
+      "lng": 19.2586308
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 58,
+    "address": "R320 Hemel-en-Aarde Valley, Hermanus, 7200",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Hemel-en-Aarde family estate with acclaimed Pinot Noir and valley views near Hermanus."
+  },
+  {
+    "id": "kleinhoekkloof-wines",
+    "name": "Kleinhoekkloof Wines",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.7811679,
+      "lng": 20.054488499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 55,
+    "address": "Wildepaardekloof, Kleinhoekkloof Wines, Ashton, 6715",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Small Ashton family cellar in the Robertson valley."
+  },
+  {
+    "id": "grundheim-wines",
+    "name": "Grundheim Wines",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.6273895,
+      "lng": 22.0647643
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 55,
+    "address": "Grundheim Street Wyne Farm, Oudtshoorn, 6620",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Oudtshoorn farm making fortified wines and witblits, Klein Karoo style."
+  },
+  {
+    "id": "druk-my-niet-wine-estate",
+    "name": "Druk-My-Niet Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.690278,
+      "lng": 19.028333
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 49,
+    "address": "Bodal Road, Daljosafat, Paarl, 7620",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Woodsy, whitewashed cottages set on a vineyard offering mountain views & an infinity pool."
+  },
+  {
+    "id": "theuniskraal-wine-estate",
+    "name": "Theuniskraal Wine Estate",
+    "category": "chill",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.228230599999996,
+      "lng": 19.134826099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 45,
+    "address": "Theuniskraal, Theuniskraalpad, Tulbagh, 6820",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "tourist attraction"
+    ],
+    "blurb": "Long-established Tulbagh estate known for its white wines."
+  },
+  {
+    "id": "piekenierskloof-wines",
+    "name": "PIEKENIERSKLOOF WINES",
+    "category": "chill",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.5916175,
+      "lng": 19.012545799999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.1,
+    "reviewCount": 39,
+    "address": "Nieuwoudt Street, Citrusdal, 7340",
+    "phone": null,
+    "tags": [
+      "wine farm"
+    ],
+    "blurb": "High-altitude Citrusdal estate on the Piekenierskloof pass, old-vine Grenache."
+  },
+  {
+    "id": "benguela-cove-cellar-door",
+    "name": "Benguela Cove Cellar Door",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.347352300000004,
+      "lng": 19.1280868
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 35,
+    "address": "R43 Walker Bay, Hermanus, 7200",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "vineyard"
+    ],
+    "blurb": "Lagoon-side estate near Hermanus with wine, a bistro and a wine-blending lab."
+  },
+  {
+    "id": "olivedale-private-vineyards",
+    "name": "Olivedale Private Vineyards",
+    "category": "chill",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.085333299999995,
+      "lng": 20.4999797
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "address": "Olivedale Private Vineyards, Olivedale Road, Buffeljagsrivier, 6742",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "liquor store"
+    ],
+    "blurb": "Small Buffeljags estate near Swellendam with wine and olives."
+  },
+  {
+    "id": "boplaas-tasting-room-at-hart-bosch",
+    "name": "Boplaas Tasting Room (Hartenbos)",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.1132469,
+      "lng": 22.103129199999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 30,
+    "address": "R102, Hartenbos, 6500",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "wine bar"
+    ],
+    "blurb": "Boplaas's coastal tasting room at Hartenbos, ports and wines from Calitzdorp."
+  },
+  {
+    "id": "telluric-wine-estate",
+    "name": "Telluric Wine Estate",
+    "category": "chill",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0145993,
+      "lng": 23.372119299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 21,
+    "address": "Rietvlei Rd, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Boutique Plett-area vineyard with cool-climate wines."
+  },
+  {
+    "id": "savage-wines",
+    "name": "Savage Wines",
+    "category": "chill",
+    "area": "obs",
+    "coords": {
+      "lat": -33.9292826,
+      "lng": 18.465144199999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "address": "Unit 3, 6 Spencer Rd, Salt River, Cape Town, 7925",
+    "phone": null,
+    "tags": [
+      "wine farm",
+      "winery",
+      "farm"
+    ],
+    "blurb": "Cult Cape Town urban cellar in Salt River from winemaker Duncan Savage."
   }
 ]

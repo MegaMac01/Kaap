@@ -203,6 +203,13 @@ const ACTIVITY_SWEEPS: Record<string, { query: string; category: Category; sig: 
     category: "outdoor",
     sig: /camp|caravan|\btent|glamp|\bkamp|resort\b/i,
   },
+  // Wine estates land as chill outings; the winery/vineyard type (added to
+  // ACTIVITY_OK_TYPES) catches farms named after the farm, not the wine.
+  winefarms: {
+    query: "wine estate tasting",
+    category: "chill",
+    sig: /wine|wyn|vineyard|wingerd|cellar|kelder|estate|vignerons|winery|bosch\b/i,
+  },
 };
 
 /** Retail masquerading as activity results (board shops, repair benches). */
@@ -235,6 +242,9 @@ const ACTIVITY_OK_TYPES = new Set([
   "amusement_park",
   "amusement_center",
   "water_park",
+  "winery",
+  "vineyard",
+  "farm",
 ]);
 /** Activities we don't sweep but that show up as "related" noise. */
 const OTHER_ACTIVITY_SIGS = [
@@ -286,6 +296,9 @@ const WC_TILES: Circle[] = [
   { lat: -34.15, lng: 22.1, radius: 45000 }, // Mossel Bay / George
   { lat: -33.98, lng: 22.85, radius: 45000 }, // Wilderness / Sedgefield / Knysna
   { lat: -34.05, lng: 23.35, radius: 40000 }, // Plettenberg Bay / Tsitsikamma edge
+  { lat: -33.38, lng: 18.9, radius: 30000 }, // Swartland: Riebeek Valley / Malmesbury / Darling
+  { lat: -33.83, lng: 19.9, radius: 35000 }, // Robertson / Bonnievale / McGregor wine valley
+  { lat: -32.5, lng: 18.95, radius: 45000 }, // Olifants River: Citrusdal / Clanwilliam
 ];
 
 /** Rough Western Cape bounding box for filtering biased-but-global results. */

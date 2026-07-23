@@ -89,8 +89,11 @@ export interface Collection {
   desc: string;
   /** Lucide icon name key, mapped in the CollectionsRail component. */
   icon: string;
-  /** null = rule-based: all free spots (priceBand 0). */
+  /** Explicit members. null = rule-based (see `tag`, else all free spots). */
   spotIds: string[] | null;
+  /** Rule-based membership: every spot carrying this tag. Overrides the
+   *  free-spots default when set and spotIds is null. */
+  tag?: string;
   /** Category palette used for the icon tile. */
   paletteKey: string;
 }

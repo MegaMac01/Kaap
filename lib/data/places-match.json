@@ -4371,5 +4371,500 @@
     "placeId": "ChIJJTIGYlARzR0R_NFuqdLIpSk",
     "googleName": "Soetendal Bushcamp",
     "address": "Soetendal Rd, Wellington, Cape Town, 7654"
+  },
+  "cape-point-vineyards": {
+    "placeId": "ChIJ4RIv5klqzB0RK47qApYWst8",
+    "googleName": "Cape Point Vineyards",
+    "address": "Silvermine Rd, Noordhoek, Cape Town, 7985"
+  },
+  "fairview-wine-and-cheese": {
+    "placeId": "ChIJDcvt0Z-pzR0RB8C1fxZNr8s",
+    "googleName": "Fairview Wine and Cheese",
+    "address": "Suid-Agter-Paarl Rd, Suider, Paarl, 7646"
+  },
+  "spier-wine-tasting": {
+    "placeId": "ChIJF8y_791MzB0RmGpc6SI8yUc",
+    "googleName": "Spier Wine Tasting",
+    "address": "Spier Wine Farm R310, Baden Powell Dr, Lynedoch, Stellenbosch, 7600"
+  },
+  "vergelegen-wine-estate": {
+    "placeId": "ChIJZ2H7c4a1zR0RA8-3KEsQLTY",
+    "googleName": "Vergelegen Wine Estate",
+    "address": "Lourensford Rd, Somerset West, Cape Town, 7130"
+  },
+  "cavalli-estate": {
+    "placeId": "ChIJ8VQo-6u0zR0RXK1P5QYYxOA",
+    "googleName": "Cavalli Estate",
+    "address": "Strand Rd, Somerset West, Cape Town, 7129"
+  },
+  "durbanville-hills-winery": {
+    "placeId": "ChIJ9VGvBPtYzB0RJWs1bGxekJQ",
+    "googleName": "Durbanville Hills Winery",
+    "address": "Tygerberg Valley Rd, Cape Farms, Cape Town, 7550"
+  },
+  "meerendal-wine-estate": {
+    "placeId": "ChIJj_APpIxXzB0RZCmg0j5_X1M",
+    "googleName": "Meerendal Wine Estate",
+    "address": "Vissershok Rd, Durbanville, Cape Town, 7550"
+  },
+  "klein-roosboom-boutique-winery": {
+    "placeId": "ChIJoUEowlZYzB0RUAEzoVxzAzc",
+    "googleName": "Klein Roosboom Boutique Winery",
+    "address": "Tygerberg Valley Rd, Durbanville, Cape Town, 7551"
+  },
+  "delheim-wine-estate": {
+    "placeId": "ChIJz3CcqM6tzR0Rcl4TRtWgQZg",
+    "googleName": "Delheim Wine Estate",
+    "address": "Knorhoek Rd, Stellenbosch, 7599"
+  },
+  "de-grendel-wine-estate-and-restaurant": {
+    "placeId": "ChIJwdkk5G1ZzB0R_SUVWJpSb6Y",
+    "googleName": "De Grendel Wine Estate and Restaurant",
+    "address": "De Grendel Wine Estate and Restaurant, Plattekloof Road, Panorama, Cape Town, 7500"
+  },
+  "beau-constantia": {
+    "placeId": "ChIJHaEeNjhozB0RBspQgE0DV-I",
+    "googleName": "Beau Constantia",
+    "address": "1043 Constantia Main Rd, Constantia, Cape Town, 7806"
+  },
+  "lanzerac-wine-estate": {
+    "placeId": "ChIJkRI7hCWyzR0R-hs6Dd6d5os",
+    "googleName": "Lanzerac Wine Estate",
+    "address": "Lanzerac Wine Estate, Lanzerac Rd, Stellenbosch, 7600"
+  },
+  "jakkalsvlei": {
+    "placeId": "ChIJZYpUiqmD1h0RvewvTk3hNrs",
+    "googleName": "Jakkalsvlei",
+    "address": "Herbertsdale, 6505"
+  },
+  "warwick-wine-estate": {
+    "placeId": "ChIJCbsHAPaszR0Rc3cWYFOVr70",
+    "googleName": "Warwick Wine Estate",
+    "address": "R44, Stellenbosch, 7607"
+  },
+  "jordan-wine-estate": {
+    "placeId": "ChIJezjaVvNNzB0RfNLvlumxjjI",
+    "googleName": "Jordan Wine Estate",
+    "address": "Stellenbosch Kloof Road, Vlottenberg, Stellenbosch, 7604"
+  },
+  "daria-winery": {
+    "placeId": "ChIJ5TjVz91ZzB0RQ_2sDAvEezM",
+    "googleName": "D'Aria Winery",
+    "address": "M13 Tygerberg Valley Rd, Durbanville, Cape Town, 7550"
+  },
+  "hazendal-wine-estate": {
+    "placeId": "ChIJDyjhGNWszR0RHUcJ7CDy8A0",
+    "googleName": "Hazendal Wine Estate",
+    "address": "Bottelary Road New entrance from Ronelle Street via, Kruis St, Brackenfell South, Stellenbosch, 7599"
+  },
+  "tokara-wine-estate": {
+    "placeId": "ChIJ3fPweVmxzR0Rwr1fad2FEJ4",
+    "googleName": "Tokara Wine Estate",
+    "address": "Helshoogte Rd, Stellenbosch, Cape Town, 7600"
+  },
+  "de-krans-wines": {
+    "placeId": "ChIJzd-GgpZI1B0RoCNs-HKyUQY",
+    "googleName": "De Krans Wines",
+    "address": "Station Road, Calitzdorp, 6660, Scenic Cape Route 62, 9.0, GPS - S33⁰32, 6 3\"E021⁰41, Calitzdorp, 6660"
+  },
+  "idiom-restaurant-idiom-wine-tasting-cent": {
+    "placeId": "ChIJ7938k8u0zR0R-YToBJnuDg0",
+    "googleName": "Idiom Restaurant & Idiom Wine Tasting Centre",
+    "address": "Idiom Restaurant & Idiom Wine at Da Capo Vineyards Old Sir Lowrys Pass road, Somerset West, Cape Town, 7130"
+  },
+  "van-loveren-family-vineyards": {
+    "placeId": "ChIJuZTkrPRA0h0RLSA5EFH1NU0",
+    "googleName": "Van Loveren Family Vineyards",
+    "address": "R317, Robertson, 6707"
+  },
+  "la-motte-wine-farm": {
+    "placeId": "ChIJTUupeEm7zR0ReL82qZCDqDI",
+    "googleName": "La Motte Wine Farm",
+    "address": "R45, Franschhoek, 7691"
+  },
+  "nederburg-wines": {
+    "placeId": "ChIJlTiKIP-nzR0Rv8Bnp2iG5ro",
+    "googleName": "Nederburg Wines",
+    "address": "Sonstraal Rd, Paarl, 7646"
+  },
+  "hillcrest-estate": {
+    "placeId": "ChIJhfdWtrRZzB0RvrBvF0enYwA",
+    "googleName": "Hillcrest Estate",
+    "address": "M13 Tygervalley Centre Service Road Durbanville, Cape Farms, Cape Town, 7551"
+  },
+  "under-oaks-estate": {
+    "placeId": "ChIJ1x2aj8EGzR0Rb-9tpMUzqeM",
+    "googleName": "Under Oaks Estate",
+    "address": "Noord Agter - Paarl Rd, Paarl, 7620"
+  },
+  "zevenwacht-wine-estate": {
+    "placeId": "ChIJfUGKa_1RzB0R3ZjjCfHwM7o",
+    "googleName": "Zevenwacht Wine Estate",
+    "address": "Langverwacht Rd, Kuils River, Cape Town, 7579"
+  },
+  "saronsberg-wine-cellar": {
+    "placeId": "ChIJ5ysW9z85zR0RoiZGpvhXurU",
+    "googleName": "Saronsberg Wine Cellar",
+    "address": "Waveren Road, Tulbagh, 6820"
+  },
+  "constantia-uitsig-wine-estate": {
+    "placeId": "ChIJy8zyyApCzB0Rj3tQO-SMEPY",
+    "googleName": "Constantia Uitsig Wine Estate",
+    "address": "ERF12995 Spaanschemat River Rd, Fir Grove, Cape Town, 7806"
+  },
+  "montpellier-wine-estate": {
+    "placeId": "ChIJC2DXFdc_zR0RAyyd2doMOqM",
+    "googleName": "Montpellier Wine Estate",
+    "address": "P4G6+P4, 2 Jonge Gezellen Road, Tulbagh, 6820"
+  },
+  "karusa-wines-craft-brewery-spirits": {
+    "placeId": "ChIJe9_pI16V1R0R3Bq6BpgLAFE",
+    "googleName": "Karusa Wines Craft Brewery & Spirits",
+    "address": "KARUSA WINES , ON THE R328 NORTH, Oudtshoorn, 6620"
+  },
+  "benguela-cove-lagoon-wine-estate": {
+    "placeId": "ChIJEVgwpAbfzR0RoYR7zm6jycw",
+    "googleName": "Benguela Cove Lagoon Wine Estate",
+    "address": "R43, Botriver Lagoon Walker Bay, Hermanus, 7200"
+  },
+  "gabrielskloof-wine-estate": {
+    "placeId": "ChIJjb4TD_fmzR0R8xkZNfLxYQc",
+    "googleName": "Gabrielskloof Wine Estate",
+    "address": "Q66X+8R, R43, Bot River, 7185"
+  },
+  "la-vierge-wines": {
+    "placeId": "ChIJ85Wo4wcLzh0R4uZO51sJYSo",
+    "googleName": "La Vierge Wines",
+    "address": "Hemel-en-Aarde, 12 Valley Rd, Hermanus, 7200"
+  },
+  "maastricht-wines": {
+    "placeId": "ChIJGy--ULhZzB0RWagywvYKZd4",
+    "googleName": "Maastricht Wines",
+    "address": "Tygerberg Valley Rd, Nieuw Maastrecht, Cape Town, 7551"
+  },
+  "lourensford-wine-estate": {
+    "placeId": "ChIJX-zNN_u1zR0RpnP6xojzcjM",
+    "googleName": "Lourensford Wine Estate",
+    "address": "Lourensford Rd, Somerset West, Cape Town, 7130"
+  },
+  "middelvlei-wine-estate": {
+    "placeId": "ChIJTXmFxcGyzR0RTjFwCPkxUiw",
+    "googleName": "Middelvlei Wine Estate",
+    "address": "Middelvlei Wine Estate, Flamingo St, Stellenbosch, 7600"
+  },
+  "kloovenburg-wine-olive-estate": {
+    "placeId": "ChIJ8dNxxFkfzR0RT49oFl37_04",
+    "googleName": "Kloovenburg Wine & Olive Estate",
+    "address": "R46, Riebeek-Kasteel, 7307"
+  },
+  "bartinney-private-cellar": {
+    "placeId": "ChIJkykNsl6yzR0RoiCGYo9i8SE",
+    "googleName": "Bartinney Private Cellar",
+    "address": "Helshoogte Rd, Stellenbosch, 7600"
+  },
+  "springfield-estate": {
+    "placeId": "ChIJuWfctTpq0h0RcdziMIhkc0c",
+    "googleName": "Springfield Estate",
+    "address": "R317 Bonnievale Road, Klipdrif, Robertson, 6705"
+  },
+  "herold-wines": {
+    "placeId": "ChIJq6qq6sUQ1h0RiAGzNcAbfqM",
+    "googleName": "Herold Wines",
+    "address": "Montague Pass Afguns river Herold, 6615"
+  },
+  "zandvliet-wine-estate": {
+    "placeId": "ChIJZxyFcCxB0h0RmX7HWIZ9hDA",
+    "googleName": "Zandvliet Wine Estate",
+    "address": "Zandvliet Way, Ashton, 6715"
+  },
+  "groote-post-vineyards": {
+    "placeId": "ChIJN6g8D-iVzB0RtCvLnarN_y4",
+    "googleName": "Groote Post Vineyards",
+    "address": "4800"
+  },
+  "spookfontein-wines-tastings": {
+    "placeId": "ChIJ____L98Kzh0RzpBY1GHijv4",
+    "googleName": "Spookfontein Wines & Tastings",
+    "address": "33 Hemel en Aarde Rd, Hermanus, 7200"
+  },
+  "waterkloof-wine-estate": {
+    "placeId": "ChIJzxOZlRfKzR0RLPvYwtEU8w4",
+    "googleName": "Waterkloof Wine Estate",
+    "address": "Old Sir Lowry's Pass Rd, Somerset West, Cape Town, 7130"
+  },
+  "saxenburg-wine-estate": {
+    "placeId": "ChIJZcZiPd1NzB0RBWJJ9FIaGQk",
+    "googleName": "Saxenburg Wine Estate",
+    "address": "Polkadraai Rd, Stellenbosch Farms, Cape Town, 7579"
+  },
+  "nieuwedrift-wine-estate": {
+    "placeId": "ChIJ10jPltcrMxwRleuJ5wLC5DI",
+    "googleName": "Nieuwedrift Wine Estate",
+    "address": "Farm Nieuwedrift, Piketberg, 7320"
+  },
+  "stark-cond-wines": {
+    "placeId": "ChIJJ5FkuXuxzR0RQxiUaDi11Ao",
+    "googleName": "Stark-Condé Wines",
+    "address": "Oude Nektar Farm, Jonkershoek Valley, Stellenbosch, 7600"
+  },
+  "bon-courage-wine-estate": {
+    "placeId": "ChIJC_3-ixFq0h0RqmgCJ1yPaiU",
+    "googleName": "Bon Courage Wine Estate",
+    "address": "R317, Robertson, 6705"
+  },
+  "robertson-winery": {
+    "placeId": "ChIJXc1wLmtp0h0RjlK4J3qb_Uk",
+    "googleName": "Robertson Winery",
+    "address": "Voortrekker Road, Robertson, 6705"
+  },
+  "luka-vineyards": {
+    "placeId": "ChIJYdyMWr7meB4RX4-w9fVcbEM",
+    "googleName": "Luka Vineyards",
+    "address": "Elephant park road Harkerville, Plettenberg Bay, 6604"
+  },
+  "newstead-wine-estate": {
+    "placeId": "ChIJA4O9n04feR4R5JTkESnjIZA",
+    "googleName": "Newstead Wine Estate",
+    "address": "The Crags, Redford Rd, The Crags, Plettenberg Bay, 6600"
+  },
+  "diemersdal-wine-estate": {
+    "placeId": "ChIJuxNWYrxXzB0RHyPFwu6bd7Y",
+    "googleName": "Diemersdal Wine Estate",
+    "address": "Koeberg Road, Durbanville, Cape Town, 7550"
+  },
+  "ormonde-wines": {
+    "placeId": "ChIJ2brDZCm5zB0Rfz4rgPkuJPc",
+    "googleName": "Ormonde Wines",
+    "address": "Mount Pleasant St, Darling, 7345"
+  },
+  "lomond-wine-estate-gansbaai": {
+    "placeId": "ChIJ6Yhuew4czh0RsFWETDIrvuE",
+    "googleName": "Lomond Wine Estate - Gansbaai",
+    "address": "Lomond Wine Estate, Gansbaai, 7220"
+  },
+  "cellar-door-wine-tasting-at-boschendal": {
+    "placeId": "ChIJtfOIX-uvzR0RWYAOhS-NPjw",
+    "googleName": "Cellar Door Wine Tasting at Boschendal",
+    "address": "Boschendal Estate Pniel Road, Franschhoek Franschhoek, Cape Town, 7680"
+  },
+  "reedvalley": {
+    "placeId": "ChIJ6WAPzEhm1h0RqIwnhScqTb8",
+    "googleName": "ReedValley",
+    "address": "ReedValley Wines, Mossel Bay, 6500"
+  },
+  "boplaas-winery-and-distillery": {
+    "placeId": "ChIJTVBK2b1I1B0R4IWHy_fI-CI",
+    "googleName": "Boplaas Winery and Distillery",
+    "address": "2 Saayman St, Calitzdorp, 6660"
+  },
+  "bitou-vineyards": {
+    "placeId": "ChIJf_TsmLofeR4RH37nf6BNjfk",
+    "googleName": "Bitou Vineyards",
+    "address": "N 2, Plettenberg Bay, 6600"
+  },
+  "robertson-wine-valley": {
+    "placeId": "ChIJsaVRDBRp0h0RQQYzmqGtTZQ",
+    "googleName": "Robertson Wine Valley",
+    "address": "Reitz St &, Voortrekker Ave, Robertson, 6705"
+  },
+  "packwood-wine-and-country-estate-pty-ltd": {
+    "placeId": "ChIJo8D4MdbpeB4RQYKc0KWLDLE",
+    "googleName": "Packwood Wine and Country Estate (Pty) Ltd",
+    "address": "Fisanthoek, Off N2, Between Knysna and Plettenberg Bay, Plettenberg Bay, 6600"
+  },
+  "excelsior-wine-estate": {
+    "placeId": "ChIJvXyheq9efx4R29LMbgQrE-8",
+    "googleName": "Excelsior Wine Estate",
+    "address": "Off, R60, Ashton, 6715"
+  },
+  "kay-monty-vineyards": {
+    "placeId": "ChIJS6wHtc0heR4RpD6SRlAA578",
+    "googleName": "Kay & Monty Vineyards",
+    "address": "Redford Road The Crags, Plettenberg Bay, 6600"
+  },
+  "weltevrede-wine-estate": {
+    "placeId": "ChIJDcdIriQ_0h0RBzR0yYliZRc",
+    "googleName": "Weltevrede Wine Estate",
+    "address": "R317, Bonnievale, 6730"
+  },
+  "avondale-wine": {
+    "placeId": "ChIJMw3E3VeozR0RIZTeETtgutU",
+    "googleName": "Avondale Wine",
+    "address": "Klein Drakenstein, Lustigan Rd, Paarl, 7624"
+  },
+  "oak-valley-estate": {
+    "placeId": "ChIJ0YWiZNLFzR0R6eQeC4WaNzw",
+    "googleName": "Oak Valley Estate.",
+    "address": "127 Oak Ave, Grabouw, 7180"
+  },
+  "raka-wine": {
+    "placeId": "ChIJVZdhHy780R0R6lbjIYizscE",
+    "googleName": "Raka Wine",
+    "address": "17km out of Stanford, Stanford, Western Cape, 7210"
+  },
+  "domein-doornkraal-padstal-wine": {
+    "placeId": "ChIJqZnuAu301R0RGK_-6a_94bA",
+    "googleName": "Domein Doornkraal Padstal & Wine",
+    "address": "on the N 12, De Rust, 6650"
+  },
+  "rietvallei-wine-estate": {
+    "placeId": "ChIJ888FepJB0h0RnC8DYeIy9yw",
+    "googleName": "Rietvallei Wine Estate",
+    "address": "R60, Robertson, 6705"
+  },
+  "zoetendal-vineyards-river-estate": {
+    "placeId": "ChIJo9gWxjvo0R0RZCAt60yCF6U",
+    "googleName": "Zoetendal Vineyards & River Estate",
+    "address": "Moddervlei Farm, R43, Elim, 7284"
+  },
+  "cederberg-wines": {
+    "placeId": "ChIJR486XkqSMhwReOZfTA8aYzM",
+    "googleName": "Cederberg Wines",
+    "address": "Dwarsrivier Farm, Clanwilliam, 8135"
+  },
+  "oudekloof-wine-estate": {
+    "placeId": "ChIJF2ge__M7zR0RLRxYmQMnUxI",
+    "googleName": "Oudekloof Wine Estate",
+    "address": "Oudekloof Farm, Tulbagh, 6820"
+  },
+  "cloof-wine-estate": {
+    "placeId": "ChIJF8kDkrjpzB0R5GEkmkvDaME",
+    "googleName": "Cloof Wine Estate",
+    "address": "Mamre road off R315, Darling, Cape Town, 7345"
+  },
+  "bramon-wine-estate": {
+    "placeId": "ChIJbyJzbAAZeR4R8gA2Lf5zeic",
+    "googleName": "Bramon Wine Estate",
+    "address": "Plot 9 of Farm 302, The Crags, Plettenberg Bay, 6602"
+  },
+  "graham-beck-estate": {
+    "placeId": "ChIJz9e7rFRu0h0RlpZ3Gk77i9g",
+    "googleName": "Graham Beck Estate",
+    "address": "Scenic Cape Route, R60, Robertson, 7600"
+  },
+  "almenkerk-wine-estate": {
+    "placeId": "ChIJvYCDpzzFzR0RRvpASYUuNQQ",
+    "googleName": "Almenkerk Wine Estate",
+    "address": "50 Viljoenshoop Rd, Grabouw, 7160"
+  },
+  "riebeek-valley-wine-co": {
+    "placeId": "ChIJj6jH9f4hzR0Rp-xlV9m1oNE",
+    "googleName": "Riebeek Valley Wine Co",
+    "address": "86 Kloof St, Riebeek-Kasteel, 7307"
+  },
+  "ashton-winery": {
+    "placeId": "ChIJH41U7zpB0h0RtoQKxEBkkgM",
+    "googleName": "Ashton Winery",
+    "address": "Ashton Winery, R60, Ashton, 6715"
+  },
+  "plettenvale-wines-accommodation-venue": {
+    "placeId": "ChIJp9qEUK7jeB4Rrwdk61-9pAk",
+    "googleName": "Plettenvale Wines - Accommodation + Venue",
+    "address": "88 Roodefontein C7, Plettenberg Bay Off Airport Road, Plettenberg Bay, 6600"
+  },
+  "springfontein-wine-estate": {
+    "placeId": "ChIJaalBo9kFzh0RdVtJCxSEmYE",
+    "googleName": "Springfontein Wine Estate",
+    "address": "8 Wortelgat Rd, Stanford, 7210"
+  },
+  "duswaroo": {
+    "placeId": "ChIJqQWMNe1J1B0RKrxcnduIf0A",
+    "googleName": "Du'SwaRoo",
+    "address": "FMMV+GJ, Besemkop, Calitzdorp, 6660"
+  },
+  "mcgregor-koop-wynmakery": {
+    "placeId": "ChIJgSMc7VkT0h0RBuY1xCQPpS4",
+    "googleName": "McGregor Koop Wynmakery",
+    "address": "South Africa"
+  },
+  "joubert-tradauw-wine-farm-deli-alfresco": {
+    "placeId": "ChIJ3QvaYorE0x0RO8075sgpzBg",
+    "googleName": "Joubert Tradauw Wine Farm & Deli Alfresco",
+    "address": "Tradouw Valley, R62, Barrydale, 6750"
+  },
+  "org-de-rac-organic-wine-estate": {
+    "placeId": "ChIJr3Tj53EpMxwRYzLFnNhKBJU",
+    "googleName": "Org de Rac Organic Wine Estate",
+    "address": "N 7, R399, Piketberg, 7320"
+  },
+  "baleia-wines-olive-oil": {
+    "placeId": "ChIJe9FN186o1h0R48RImI8zieI",
+    "googleName": "Baleia Wines & Olive oil",
+    "address": "N2 - National Road, Riversdale, 6670"
+  },
+  "bartho-eksteen-wine-estate": {
+    "placeId": "ChIJ____L98Kzh0R3k9tmcgBxbE",
+    "googleName": "Bartho Eksteen Wine Estate",
+    "address": "Valley, Hemel en Aarde Rd, Hermanus, 7200"
+  },
+  "sijnn-wines": {
+    "placeId": "ChIJ-YZXA1Jv0R0R_j4bzQwhx_g",
+    "googleName": "Sijnn Wines",
+    "address": "Malagas, Malgas, 7441"
+  },
+  "seven-springs-vineyard": {
+    "placeId": "ChIJr____7ILzh0Rh0clAoWtbRc",
+    "googleName": "Seven Springs Vineyard",
+    "address": "Sandfontein Farm, R320, Hemel en Aarde Rd, Caledon, 7230"
+  },
+  "peter-bayly-wines": {
+    "placeId": "ChIJ-zxFP39O1B0R_zAXt2Gny0Y",
+    "googleName": "Peter Bayly Wines",
+    "address": "Baylys' Farm, Groenfontein, Calitzdorp, 6660"
+  },
+  "newton-johnson-family-vineyards": {
+    "placeId": "ChIJKcYBql8Lzh0RL5CEhjrNNJo",
+    "googleName": "Newton Johnson Family Vineyards",
+    "address": "R320 Hemel-en-Aarde Valley, Hermanus, 7200"
+  },
+  "kleinhoekkloof-wines": {
+    "placeId": "ChIJm2zrKQ1E0h0RxQhseCeP_Wc",
+    "googleName": "Kleinhoekkloof Wines",
+    "address": "Wildepaardekloof, Kleinhoekkloof Wines, Ashton, 6715"
+  },
+  "grundheim-wines": {
+    "placeId": "ChIJzURtSe_F1R0R5l8qzjpgWJc",
+    "googleName": "Grundheim Wines",
+    "address": "Grundheim Street Wyne Farm, Oudtshoorn, 6620"
+  },
+  "druk-my-niet-wine-estate": {
+    "placeId": "ChIJXUrUN0cIzR0RUyymMnkSYK8",
+    "googleName": "Druk-My-Niet Wine Estate",
+    "address": "Bodal Road, Daljosafat, Paarl, 7620"
+  },
+  "theuniskraal-wine-estate": {
+    "placeId": "ChIJaSnBkQM5zR0RokDAJarfDFM",
+    "googleName": "Theuniskraal Wine Estate",
+    "address": "Theuniskraal, Theuniskraalpad, Tulbagh, 6820"
+  },
+  "piekenierskloof-wines": {
+    "placeId": "ChIJq6qqqrPoMhwR1zbGCjDfqzs",
+    "googleName": "PIEKENIERSKLOOF WINES",
+    "address": "Nieuwoudt Street, Citrusdal, 7340"
+  },
+  "benguela-cove-cellar-door": {
+    "placeId": "ChIJJ1hmAlULzh0RbAZNswrilfs",
+    "googleName": "Benguela Cove Cellar Door",
+    "address": "R43 Walker Bay, Hermanus, 7200"
+  },
+  "olivedale-private-vineyards": {
+    "placeId": "ChIJq6qqJgra0x0RmKk3eWC5HeM",
+    "googleName": "Olivedale Private Vineyards",
+    "address": "Olivedale Private Vineyards, Olivedale Road, Buffeljagsrivier, 6742"
+  },
+  "boplaas-tasting-room-at-hart-bosch": {
+    "placeId": "ChIJ6QKUAFlv1h0RAqTy4hH8B1o",
+    "googleName": "Boplaas Tasting Room at Hart & Bosch",
+    "address": "R102, Hartenbos, 6500"
+  },
+  "telluric-wine-estate": {
+    "placeId": "ChIJX9b0lEnheB4Rj0RGg1Ay9EA",
+    "googleName": "Telluric Wine Estate",
+    "address": "Rietvlei Rd, Plettenberg Bay, 6600"
+  },
+  "savage-wines": {
+    "placeId": "ChIJV2iwOKhdzB0R3n1ZOpEpYQo",
+    "googleName": "Savage Wines",
+    "address": "Unit 3, 6 Spencer Rd, Salt River, Cape Town, 7925"
   }
 }

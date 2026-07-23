@@ -1,6 +1,6 @@
 "use client";
 
-import { Flower2, Gift, Heart, Sparkles, Sunset, Umbrella, type LucideIcon } from "lucide-react";
+import { Flower2, Gift, Grape, Heart, Sparkles, Sunset, Umbrella, type LucideIcon } from "lucide-react";
 import { CATEGORY_PALETTES, COLLECTIONS } from "@/lib/data/spots";
 import type { Spot } from "@/lib/types";
 
@@ -11,6 +11,7 @@ const ICONS: Record<string, LucideIcon> = {
   umbrella: Umbrella,
   sunset: Sunset,
   flower: Flower2,
+  grape: Grape,
 };
 
 /**
@@ -36,7 +37,9 @@ export function CollectionsRail({
         const isActive = active === col.key;
         const members = col.spotIds
           ? (col.spotIds.map((id) => byId.get(id)).filter(Boolean) as Spot[])
-          : freeSpots;
+          : col.tag
+            ? spots.filter((s) => s.tags.includes(col.tag!))
+            : freeSpots;
         const count = members.length;
         const photo = members.find((m) => m.photos.length)?.photos[0];
         const Icon = ICONS[col.icon] ?? Sparkles;

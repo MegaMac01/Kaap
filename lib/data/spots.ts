@@ -676,6 +676,15 @@ export const CATEGORIES: { key: Category | "free"; label: string }[] = [
 
 export const COLLECTIONS: Collection[] = [
   {
+    key: "winefarms",
+    label: "Wine farms",
+    desc: "Tastings across the Cape",
+    icon: "grape",
+    spotIds: null,
+    tag: "wine farm",
+    paletteKey: "bars",
+  },
+  {
     key: "lowkey",
     label: "Lowkey gems",
     desc: "Local favourites, low fuss",
@@ -753,6 +762,9 @@ export const ACTIVITIES: Activity[] = [
   { key: "caravan", label: "Caravan parks", tag: "caravan park" },
   { key: "glamping", label: "Glamping", tag: "glamping" },
   { key: "restcamp", label: "Rest camps", tag: "rest camp" },
+  // Wine farms are surfaced as a collection, not an adventure chip; hidden
+  // here so the sweep/import pipeline can stamp the "wine farm" tag.
+  { key: "winefarms", label: "Wine farms", tag: "wine farm", hidden: true },
 ];
 
 export const INTERESTS: Interest[] = [

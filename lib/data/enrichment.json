@@ -1024,7 +1024,7 @@
       "lng": 18.4176607
     },
     "rating": 4.6,
-    "reviewCount": 25031,
+    "reviewCount": 25033,
     "phone": "+27 21 418 3823",
     "website": "https://www.aquarium.co.za/",
     "address": "Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8002",
@@ -4366,7 +4366,7 @@
       "lng": 18.629963999999998
     },
     "rating": 4.6,
-    "reviewCount": 5700,
+    "reviewCount": 5701,
     "phone": "+27 21 949 4439",
     "website": "https://coolrunnings.capetown/",
     "address": "Off Carl Cronje Dr, Tygervalley, Cape Town, 7530",
@@ -6180,7 +6180,7 @@
       "lng": 18.6499666
     },
     "rating": 4.3,
-    "reviewCount": 2649,
+    "reviewCount": 2650,
     "phone": "+27 21 001 7321",
     "website": "https://m.facebook.com/SpeakeasySaloon/",
     "address": "20 Oxford St, Durbanville, Cape Town, 7551",
@@ -18309,7 +18309,7 @@
       "lng": 18.8265364
     },
     "rating": 4.4,
-    "reviewCount": 4418,
+    "reviewCount": 4419,
     "phone": "+27 21 881 3444",
     "website": "https://www.thirstyscarecrow.com/",
     "address": "R44, Mooiberge Farm, Annandale Rd, Stellenbosch, 7600",
@@ -29583,7 +29583,7 @@
       "lng": 23.3774233
     },
     "rating": 4.9,
-    "reviewCount": 1803,
+    "reviewCount": 1804,
     "phone": null,
     "website": "http://www.capenature.co.za/reserves/robberg-nature-reserve/",
     "address": "S34 06.037 E23 22.652",
@@ -33566,7 +33566,7 @@
       "lng": 18.412873899999997
     },
     "rating": 4.7,
-    "reviewCount": 1592,
+    "reviewCount": 1591,
     "phone": "+27 21 541 0744",
     "website": "https://moicapetown.co.za/",
     "address": "10 Kloof St, Gardens, Cape Town, 8001",
@@ -42255,6 +42255,5061 @@
       ],
       "sun": []
     },
+    "checkedAt": "2026-07-23"
+  },
+  "cape-point-vineyards": {
+    "placeId": "ChIJ4RIv5klqzB0RK47qApYWst8",
+    "googleName": "Cape Point Vineyards",
+    "coords": {
+      "lat": -34.0938028,
+      "lng": 18.3875208
+    },
+    "rating": 4.3,
+    "reviewCount": 2990,
+    "phone": "+27 21 789 0900",
+    "website": "http://www.cpv.co.za/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "address": "Silvermine Rd, Noordhoek, Cape Town, 7985",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "fairview-wine-and-cheese": {
+    "placeId": "ChIJDcvt0Z-pzR0RB8C1fxZNr8s",
+    "googleName": "Fairview Wine and Cheese",
+    "coords": {
+      "lat": -33.771745300000006,
+      "lng": 18.9242346
+    },
+    "rating": 4.6,
+    "reviewCount": 2615,
+    "phone": "+27 21 863 2450",
+    "website": "https://www.fairview.co.za/",
+    "address": "Suid-Agter-Paarl Rd, Suider, Paarl, 7646",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "spier-wine-tasting": {
+    "placeId": "ChIJF8y_791MzB0RmGpc6SI8yUc",
+    "googleName": "Spier Wine Tasting",
+    "coords": {
+      "lat": -33.9728135,
+      "lng": 18.78454
+    },
+    "rating": 4.5,
+    "reviewCount": 2120,
+    "phone": "+27 21 809 1147",
+    "website": "http://www.spier.co.za/visit/wine-tasting",
+    "address": "Spier Wine Farm R310, Baden Powell Dr, Lynedoch, Stellenbosch, 7600",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "vergelegen-wine-estate": {
+    "placeId": "ChIJZ2H7c4a1zR0RA8-3KEsQLTY",
+    "googleName": "Vergelegen Wine Estate",
+    "coords": {
+      "lat": -34.0772932,
+      "lng": 18.8917315
+    },
+    "rating": 4.7,
+    "reviewCount": 1923,
+    "phone": "+27 21 847 2111",
+    "website": "http://www.vergelegen.co.za/",
+    "address": "Lourensford Rd, Somerset West, Cape Town, 7130",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "cavalli-estate": {
+    "placeId": "ChIJ8VQo-6u0zR0RXK1P5QYYxOA",
+    "googleName": "Cavalli Estate",
+    "coords": {
+      "lat": -34.009937199999996,
+      "lng": 18.8130497
+    },
+    "rating": 4.6,
+    "reviewCount": 1822,
+    "phone": "+27 21 855 3218",
+    "website": "https://cavalliestate.com/",
+    "address": "Strand Rd, Somerset West, Cape Town, 7129",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "durbanville-hills-winery": {
+    "placeId": "ChIJ9VGvBPtYzB0RJWs1bGxekJQ",
+    "googleName": "Durbanville Hills Winery",
+    "coords": {
+      "lat": -33.8249281,
+      "lng": 18.5658089
+    },
+    "rating": 4.4,
+    "reviewCount": 1762,
+    "phone": "+27 21 558 1300",
+    "website": "http://www.durbanvillehills.co.za/",
+    "address": "Tygerberg Valley Rd, Cape Farms, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "12:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "16:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "meerendal-wine-estate": {
+    "placeId": "ChIJj_APpIxXzB0RZCmg0j5_X1M",
+    "googleName": "Meerendal Wine Estate",
+    "coords": {
+      "lat": -33.79901600000001,
+      "lng": 18.623987
+    },
+    "rating": 4.3,
+    "reviewCount": 1679,
+    "phone": "+27 21 975 1655",
+    "website": "https://meerendal.co.za/",
+    "address": "Vissershok Rd, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "06:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "06:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "06:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "06:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "klein-roosboom-boutique-winery": {
+    "placeId": "ChIJoUEowlZYzB0RUAEzoVxzAzc",
+    "googleName": "Klein Roosboom Boutique Winery",
+    "coords": {
+      "lat": -33.820319,
+      "lng": 18.574662
+    },
+    "rating": 4.7,
+    "reviewCount": 1599,
+    "phone": "+27 860 572 572",
+    "website": "http://www.kleinroosboom.co.za/",
+    "address": "Tygerberg Valley Rd, Durbanville, Cape Town, 7551",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "delheim-wine-estate": {
+    "placeId": "ChIJz3CcqM6tzR0Rcl4TRtWgQZg",
+    "googleName": "Delheim Wine Estate",
+    "coords": {
+      "lat": -33.8698991,
+      "lng": 18.8857395
+    },
+    "rating": 4.6,
+    "reviewCount": 1553,
+    "phone": "+27 21 888 4600",
+    "website": "http://www.delheim.com/",
+    "address": "Knorhoek Rd, Stellenbosch, 7599",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "de-grendel-wine-estate-and-restaurant": {
+    "placeId": "ChIJwdkk5G1ZzB0R_SUVWJpSb6Y",
+    "googleName": "De Grendel Wine Estate and Restaurant",
+    "coords": {
+      "lat": -33.851365,
+      "lng": 18.571616
+    },
+    "rating": 4.7,
+    "reviewCount": 1524,
+    "phone": "+27 21 558 6280",
+    "website": "https://www.degrendel.co.za/",
+    "address": "De Grendel Wine Estate and Restaurant, Plattekloof Road, Panorama, Cape Town, 7500",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "beau-constantia": {
+    "placeId": "ChIJHaEeNjhozB0RBspQgE0DV-I",
+    "googleName": "Beau Constantia",
+    "coords": {
+      "lat": -34.013672899999996,
+      "lng": 18.4064562
+    },
+    "rating": 4.4,
+    "reviewCount": 1443,
+    "phone": "+27 21 794 8632",
+    "website": "http://www.beauconstantia.com/",
+    "address": "1043 Constantia Main Rd, Constantia, Cape Town, 7806",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "lanzerac-wine-estate": {
+    "placeId": "ChIJkRI7hCWyzR0R-hs6Dd6d5os",
+    "googleName": "Lanzerac Wine Estate",
+    "coords": {
+      "lat": -33.9379452,
+      "lng": 18.8939707
+    },
+    "rating": 4.6,
+    "reviewCount": 1295,
+    "phone": "+27 21 887 1132",
+    "website": "http://www.lanzerac.co.za/",
+    "address": "Lanzerac Wine Estate, Lanzerac Rd, Stellenbosch, 7600",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "jakkalsvlei": {
+    "placeId": "ChIJZYpUiqmD1h0RvewvTk3hNrs",
+    "googleName": "Jakkalsvlei",
+    "coords": {
+      "lat": -33.983684499999995,
+      "lng": 21.715353
+    },
+    "rating": 4.7,
+    "reviewCount": 1268,
+    "phone": "+27 44 333 0222",
+    "website": "http://www.jakkalsvlei.co.za/",
+    "address": "Herbertsdale, 6505",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "warwick-wine-estate": {
+    "placeId": "ChIJCbsHAPaszR0Rc3cWYFOVr70",
+    "googleName": "Warwick Wine Estate",
+    "coords": {
+      "lat": -33.84046,
+      "lng": 18.8640115
+    },
+    "rating": 4.4,
+    "reviewCount": 1031,
+    "phone": "+27 21 884 4410",
+    "website": "https://www.warwickwine.com/",
+    "address": "R44, Stellenbosch, 7607",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "jordan-wine-estate": {
+    "placeId": "ChIJezjaVvNNzB0RfNLvlumxjjI",
+    "googleName": "Jordan Wine Estate",
+    "coords": {
+      "lat": -33.942955999999995,
+      "lng": 18.744215999999998
+    },
+    "rating": 4.6,
+    "reviewCount": 989,
+    "phone": "+27 21 881 3441",
+    "website": "http://www.jordanwines.com/",
+    "address": "Stellenbosch Kloof Road, Vlottenberg, Stellenbosch, 7604",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "daria-winery": {
+    "placeId": "ChIJ5TjVz91ZzB0RQ_2sDAvEezM",
+    "googleName": "D'Aria Winery",
+    "coords": {
+      "lat": -33.841128399999995,
+      "lng": 18.610876299999997
+    },
+    "rating": 4.3,
+    "reviewCount": 956,
+    "phone": "+27 21 801 6772",
+    "website": "http://www.dariawinery.co.za/",
+    "address": "M13 Tygerberg Valley Rd, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "17:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "17:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "17:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "17:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "17:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "hazendal-wine-estate": {
+    "placeId": "ChIJDyjhGNWszR0RHUcJ7CDy8A0",
+    "googleName": "Hazendal Wine Estate",
+    "coords": {
+      "lat": -33.8992918,
+      "lng": 18.716763099999998
+    },
+    "rating": 4.4,
+    "reviewCount": 864,
+    "phone": "+27 21 903 5034",
+    "website": "http://www.hazendal.co.za/",
+    "address": "Bottelary Road New entrance from Ronelle Street via, Kruis St, Brackenfell South, Stellenbosch, 7599",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "tokara-wine-estate": {
+    "placeId": "ChIJ3fPweVmxzR0Rwr1fad2FEJ4",
+    "googleName": "Tokara Wine Estate",
+    "coords": {
+      "lat": -33.9180682,
+      "lng": 18.920917499999998
+    },
+    "rating": 4.3,
+    "reviewCount": 858,
+    "phone": "+27 21 808 5900",
+    "website": "http://www.tokara.com/",
+    "address": "Helshoogte Rd, Stellenbosch, Cape Town, 7600",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "17:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "17:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "17:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "17:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "17:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "17:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "de-krans-wines": {
+    "placeId": "ChIJzd-GgpZI1B0RoCNs-HKyUQY",
+    "googleName": "De Krans Wines",
+    "coords": {
+      "lat": -33.5405136,
+      "lng": 21.6837515
+    },
+    "rating": 4.6,
+    "reviewCount": 835,
+    "phone": "+27 44 213 3314",
+    "website": "http://www.dekrans.co.za/",
+    "address": "Station Road, Calitzdorp, 6660, Scenic Cape Route 62, 9.0, GPS - S33⁰32, 6 3\"E021⁰41, Calitzdorp, 6660",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "idiom-restaurant-idiom-wine-tasting-cent": {
+    "placeId": "ChIJ7938k8u0zR0R-YToBJnuDg0",
+    "googleName": "Idiom Restaurant & Idiom Wine Tasting Centre",
+    "coords": {
+      "lat": -34.1044048,
+      "lng": 18.9404902
+    },
+    "rating": 4.7,
+    "reviewCount": 831,
+    "phone": "+27 21 858 1088",
+    "website": "http://www.idiom.co.za/",
+    "address": "Idiom Restaurant & Idiom Wine at Da Capo Vineyards Old Sir Lowrys Pass road, Somerset West, Cape Town, 7130",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:30",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:30",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:30",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:30",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:30",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:30",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:30",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "van-loveren-family-vineyards": {
+    "placeId": "ChIJuZTkrPRA0h0RLSA5EFH1NU0",
+    "googleName": "Van Loveren Family Vineyards",
+    "coords": {
+      "lat": -33.875368,
+      "lng": 20.002744999999997
+    },
+    "rating": 4.6,
+    "reviewCount": 734,
+    "phone": "+27 23 615 1505",
+    "website": "http://www.vanloveren.co.za/",
+    "address": "R317, Robertson, 6707",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:30",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "la-motte-wine-farm": {
+    "placeId": "ChIJTUupeEm7zR0ReL82qZCDqDI",
+    "googleName": "La Motte Wine Farm",
+    "coords": {
+      "lat": -33.883503499999996,
+      "lng": 19.0723184
+    },
+    "rating": 4.5,
+    "reviewCount": 714,
+    "phone": "+27 21 876 8000",
+    "website": "https://www.la-motte.com/",
+    "address": "R45, Franschhoek, 7691",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "nederburg-wines": {
+    "placeId": "ChIJlTiKIP-nzR0Rv8Bnp2iG5ro",
+    "googleName": "Nederburg Wines",
+    "coords": {
+      "lat": -33.720635699999995,
+      "lng": 19.0033606
+    },
+    "rating": 4.6,
+    "reviewCount": 650,
+    "phone": "+27 87 131 5187",
+    "website": "http://www.nederburg.com/",
+    "address": "Sonstraal Rd, Paarl, 7646",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "hillcrest-estate": {
+    "placeId": "ChIJhfdWtrRZzB0RvrBvF0enYwA",
+    "googleName": "Hillcrest Estate",
+    "coords": {
+      "lat": -33.8270073,
+      "lng": 18.590507799999997
+    },
+    "rating": 4.1,
+    "reviewCount": 614,
+    "phone": "+27 21 970 5800",
+    "website": "http://www.hillcrestfarm.co.za/",
+    "address": "M13 Tygervalley Centre Service Road Durbanville, Cape Farms, Cape Town, 7551",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "under-oaks-estate": {
+    "placeId": "ChIJ1x2aj8EGzR0Rb-9tpMUzqeM",
+    "googleName": "Under Oaks Estate",
+    "coords": {
+      "lat": -33.6752628,
+      "lng": 18.9419894
+    },
+    "rating": 4.4,
+    "reviewCount": 613,
+    "phone": null,
+    "website": "http://www.underoaks.co.za/",
+    "address": "Noord Agter - Paarl Rd, Paarl, 7620",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "zevenwacht-wine-estate": {
+    "placeId": "ChIJfUGKa_1RzB0R3ZjjCfHwM7o",
+    "googleName": "Zevenwacht Wine Estate",
+    "coords": {
+      "lat": -33.931951,
+      "lng": 18.716806899999998
+    },
+    "rating": 4.3,
+    "reviewCount": 604,
+    "phone": "+27 21 900 5700",
+    "website": "http://zevenwacht.co.za/",
+    "address": "Langverwacht Rd, Kuils River, Cape Town, 7579",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "saronsberg-wine-cellar": {
+    "placeId": "ChIJ5ysW9z85zR0RoiZGpvhXurU",
+    "googleName": "Saronsberg Wine Cellar",
+    "coords": {
+      "lat": -33.246259699999996,
+      "lng": 19.116934099999998
+    },
+    "rating": 4.6,
+    "reviewCount": 576,
+    "phone": "+27 23 230 0707",
+    "website": "http://saronsberg.com/",
+    "address": "Waveren Road, Tulbagh, 6820",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "constantia-uitsig-wine-estate": {
+    "placeId": "ChIJy8zyyApCzB0Rj3tQO-SMEPY",
+    "googleName": "Constantia Uitsig Wine Estate",
+    "coords": {
+      "lat": -34.0475233,
+      "lng": 18.4248421
+    },
+    "rating": 4.3,
+    "reviewCount": 559,
+    "phone": "+27 21 794 6500",
+    "website": "http://uitsig.co.za/contact/",
+    "address": "ERF12995 Spaanschemat River Rd, Fir Grove, Cape Town, 7806",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "montpellier-wine-estate": {
+    "placeId": "ChIJC2DXFdc_zR0RAyyd2doMOqM",
+    "googleName": "Montpellier Wine Estate",
+    "coords": {
+      "lat": -33.2756103,
+      "lng": 19.1115621
+    },
+    "rating": 4.3,
+    "reviewCount": 540,
+    "phone": "+27 82 334 4334",
+    "website": "http://www.montpellier.co.za/",
+    "address": "P4G6+P4, 2 Jonge Gezellen Road, Tulbagh, 6820",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "karusa-wines-craft-brewery-spirits": {
+    "placeId": "ChIJe9_pI16V1R0R3Bq6BpgLAFE",
+    "googleName": "Karusa Wines Craft Brewery & Spirits",
+    "coords": {
+      "lat": -33.4765578,
+      "lng": 22.2432564
+    },
+    "rating": 4.5,
+    "reviewCount": 528,
+    "phone": "+27 44 272 8717",
+    "website": "http://www.karusa.co.za/",
+    "address": "KARUSA WINES , ON THE R328 NORTH, Oudtshoorn, 6620",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:30",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:30",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:30",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:30",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:30",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "14:30"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "benguela-cove-lagoon-wine-estate": {
+    "placeId": "ChIJEVgwpAbfzR0RoYR7zm6jycw",
+    "googleName": "Benguela Cove Lagoon Wine Estate",
+    "coords": {
+      "lat": -34.3458633,
+      "lng": 19.1347293
+    },
+    "rating": 4.1,
+    "reviewCount": 522,
+    "phone": "+27 87 357 0637",
+    "website": "https://www.benguelacove.co.za/",
+    "address": "R43, Botriver Lagoon Walker Bay, Hermanus, 7200",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "gabrielskloof-wine-estate": {
+    "placeId": "ChIJjb4TD_fmzR0R8xkZNfLxYQc",
+    "googleName": "Gabrielskloof Wine Estate",
+    "coords": {
+      "lat": -34.238734,
+      "lng": 19.249591
+    },
+    "rating": 4.6,
+    "reviewCount": 496,
+    "phone": "+27 28 284 9865",
+    "website": "http://www.gabrielskloof.co.za/",
+    "address": "Q66X+8R, R43, Bot River, 7185",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "la-vierge-wines": {
+    "placeId": "ChIJ85Wo4wcLzh0R4uZO51sJYSo",
+    "googleName": "La Vierge Wines",
+    "coords": {
+      "lat": -34.372903199999996,
+      "lng": 19.2416725
+    },
+    "rating": 4.5,
+    "reviewCount": 472,
+    "phone": "+27 28 313 0130",
+    "website": "http://lavierge.co.za/",
+    "address": "Hemel-en-Aarde, 12 Valley Rd, Hermanus, 7200",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "maastricht-wines": {
+    "placeId": "ChIJGy--ULhZzB0RWagywvYKZd4",
+    "googleName": "Maastricht Wines",
+    "coords": {
+      "lat": -33.8394316,
+      "lng": 18.5904696
+    },
+    "rating": 4.6,
+    "reviewCount": 465,
+    "phone": "+27 21 976 1995",
+    "website": "http://www.maastricht.co.za/",
+    "address": "Tygerberg Valley Rd, Nieuw Maastrecht, Cape Town, 7551",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "lourensford-wine-estate": {
+    "placeId": "ChIJX-zNN_u1zR0RpnP6xojzcjM",
+    "googleName": "Lourensford Wine Estate",
+    "coords": {
+      "lat": -34.0719063,
+      "lng": 18.888620799999998
+    },
+    "rating": 4.4,
+    "reviewCount": 449,
+    "phone": "+27 21 847 2200",
+    "website": "http://www.lourensford.co.za/",
+    "address": "Lourensford Rd, Somerset West, Cape Town, 7130",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "middelvlei-wine-estate": {
+    "placeId": "ChIJTXmFxcGyzR0RTjFwCPkxUiw",
+    "googleName": "Middelvlei Wine Estate",
+    "coords": {
+      "lat": -33.9281259,
+      "lng": 18.832642099999997
+    },
+    "rating": 4.5,
+    "reviewCount": 421,
+    "phone": "+27 21 883 2565",
+    "website": "http://www.middelvlei.co.za/",
+    "address": "Middelvlei Wine Estate, Flamingo St, Stellenbosch, 7600",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "kloovenburg-wine-olive-estate": {
+    "placeId": "ChIJ8dNxxFkfzR0RT49oFl37_04",
+    "googleName": "Kloovenburg Wine & Olive Estate",
+    "coords": {
+      "lat": -33.3940998,
+      "lng": 18.8900336
+    },
+    "rating": 4.5,
+    "reviewCount": 404,
+    "phone": "+27 22 448 1635",
+    "website": "http://www.kloovenburg.com/",
+    "address": "R46, Riebeek-Kasteel, 7307",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "bartinney-private-cellar": {
+    "placeId": "ChIJkykNsl6yzR0RoiCGYo9i8SE",
+    "googleName": "Bartinney Private Cellar",
+    "coords": {
+      "lat": -33.9263158,
+      "lng": 18.9324205
+    },
+    "rating": 4.7,
+    "reviewCount": 353,
+    "phone": "+27 21 885 1013",
+    "website": "http://www.bartinney.co.za/",
+    "address": "Helshoogte Rd, Stellenbosch, 7600",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "springfield-estate": {
+    "placeId": "ChIJuWfctTpq0h0RcdziMIhkc0c",
+    "googleName": "Springfield Estate",
+    "coords": {
+      "lat": -33.838550999999995,
+      "lng": 19.914291799999997
+    },
+    "rating": 4.7,
+    "reviewCount": 343,
+    "phone": "+27 23 626 3661",
+    "website": "http://www.springfieldestate.com/",
+    "address": "R317 Bonnievale Road, Klipdrif, Robertson, 6705",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "herold-wines": {
+    "placeId": "ChIJq6qq6sUQ1h0RiAGzNcAbfqM",
+    "googleName": "Herold Wines",
+    "coords": {
+      "lat": -33.8635915,
+      "lng": 22.4688864
+    },
+    "rating": 4.7,
+    "reviewCount": 336,
+    "phone": "+27 72 833 8223",
+    "website": "http://www.heroldwines.co.za/",
+    "address": "Montague Pass Afguns river Herold, 6615",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "zandvliet-wine-estate": {
+    "placeId": "ChIJZxyFcCxB0h0RmX7HWIZ9hDA",
+    "googleName": "Zandvliet Wine Estate",
+    "coords": {
+      "lat": -33.8467565,
+      "lng": 20.0385454
+    },
+    "rating": 4.6,
+    "reviewCount": 319,
+    "phone": "+27 23 615 1505 ext. 260",
+    "website": "https://zandvliet.co.za/",
+    "address": "Zandvliet Way, Ashton, 6715",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "groote-post-vineyards": {
+    "placeId": "ChIJN6g8D-iVzB0RtCvLnarN_y4",
+    "googleName": "Groote Post Vineyards",
+    "coords": {
+      "lat": -33.4832,
+      "lng": 18.4101
+    },
+    "rating": 4.6,
+    "reviewCount": 318,
+    "phone": "+27 22 492 2825",
+    "website": "http://www.grootepost.co.za/",
+    "address": "4800",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "spookfontein-wines-tastings": {
+    "placeId": "ChIJ____L98Kzh0RzpBY1GHijv4",
+    "googleName": "Spookfontein Wines & Tastings",
+    "coords": {
+      "lat": -34.3552087,
+      "lng": 19.289070499999998
+    },
+    "rating": 4.6,
+    "reviewCount": 308,
+    "phone": "+27 28 125 0128",
+    "website": "https://www.spookfontein.co.za/",
+    "address": "33 Hemel en Aarde Rd, Hermanus, 7200",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "waterkloof-wine-estate": {
+    "placeId": "ChIJzxOZlRfKzR0RLPvYwtEU8w4",
+    "googleName": "Waterkloof Wine Estate",
+    "coords": {
+      "lat": -34.0988621,
+      "lng": 18.8895607
+    },
+    "rating": 4.6,
+    "reviewCount": 300,
+    "phone": "+27 21 858 1292",
+    "website": "http://www.waterkloofwines.co.za/",
+    "address": "Old Sir Lowry's Pass Rd, Somerset West, Cape Town, 7130",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "15:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "15:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "15:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "15:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "15:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "15:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "15:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "saxenburg-wine-estate": {
+    "placeId": "ChIJZcZiPd1NzB0RBWJJ9FIaGQk",
+    "googleName": "Saxenburg Wine Estate",
+    "coords": {
+      "lat": -33.9466915,
+      "lng": 18.7191618
+    },
+    "rating": 4.4,
+    "reviewCount": 294,
+    "phone": "+27 21 903 6113",
+    "website": "http://www.saxenburg.co.za/",
+    "address": "Polkadraai Rd, Stellenbosch Farms, Cape Town, 7579",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "nieuwedrift-wine-estate": {
+    "placeId": "ChIJ10jPltcrMxwRleuJ5wLC5DI",
+    "googleName": "Nieuwedrift Wine Estate",
+    "coords": {
+      "lat": -32.9786801,
+      "lng": 18.7489414
+    },
+    "rating": 4.4,
+    "reviewCount": 294,
+    "phone": "+27 83 229 6433",
+    "website": "https://nieuwedrift.co.za/",
+    "address": "Farm Nieuwedrift, Piketberg, 7320",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "09:30",
+          "close": "15:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:30",
+          "close": "15:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:30",
+          "close": "15:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:30",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:30",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:30",
+          "close": "15:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "stark-cond-wines": {
+    "placeId": "ChIJJ5FkuXuxzR0RQxiUaDi11Ao",
+    "googleName": "Stark-Condé Wines",
+    "coords": {
+      "lat": -33.9536491,
+      "lng": 18.9105573
+    },
+    "rating": 4.5,
+    "reviewCount": 293,
+    "phone": "+27 21 861 7700",
+    "website": "http://www.stark-conde.co.za/",
+    "address": "Oude Nektar Farm, Jonkershoek Valley, Stellenbosch, 7600",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "bon-courage-wine-estate": {
+    "placeId": "ChIJC_3-ixFq0h0RqmgCJ1yPaiU",
+    "googleName": "Bon Courage Wine Estate",
+    "coords": {
+      "lat": -33.8456324,
+      "lng": 19.9605459
+    },
+    "rating": 4.6,
+    "reviewCount": 291,
+    "phone": "+27 23 626 4178",
+    "website": "http://www.boncourage.co.za/",
+    "address": "R317, Robertson, 6705",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "robertson-winery": {
+    "placeId": "ChIJXc1wLmtp0h0RjlK4J3qb_Uk",
+    "googleName": "Robertson Winery",
+    "coords": {
+      "lat": -33.8107427,
+      "lng": 19.8815095
+    },
+    "rating": 4.4,
+    "reviewCount": 281,
+    "phone": "+27 23 626 8817",
+    "website": "http://www.robertsonwinery.co.za/",
+    "address": "Voortrekker Road, Robertson, 6705",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "luka-vineyards": {
+    "placeId": "ChIJYdyMWr7meB4RX4-w9fVcbEM",
+    "googleName": "Luka Vineyards",
+    "coords": {
+      "lat": -34.0420359,
+      "lng": 23.266157399999997
+    },
+    "rating": 4.5,
+    "reviewCount": 269,
+    "phone": "+27 76 575 4768",
+    "website": "http://lukavineyards.co.za/",
+    "address": "Elephant park road Harkerville, Plettenberg Bay, 6604",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "newstead-wine-estate": {
+    "placeId": "ChIJA4O9n04feR4R5JTkESnjIZA",
+    "googleName": "Newstead Wine Estate",
+    "coords": {
+      "lat": -33.9519775,
+      "lng": 23.471987799999997
+    },
+    "rating": 4.6,
+    "reviewCount": 266,
+    "phone": "+27 76 300 9740",
+    "website": "http://www.newsteadwines.com/",
+    "address": "The Crags, Redford Rd, The Crags, Plettenberg Bay, 6600",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "diemersdal-wine-estate": {
+    "placeId": "ChIJuxNWYrxXzB0RHyPFwu6bd7Y",
+    "googleName": "Diemersdal Wine Estate",
+    "coords": {
+      "lat": -33.802569,
+      "lng": 18.6460573
+    },
+    "rating": 4.4,
+    "reviewCount": 256,
+    "phone": "+27 21 976 3361",
+    "website": "http://www.diemersdal.co.za/",
+    "address": "Koeberg Road, Durbanville, Cape Town, 7550",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "ormonde-wines": {
+    "placeId": "ChIJ2brDZCm5zB0Rfz4rgPkuJPc",
+    "googleName": "Ormonde Wines",
+    "coords": {
+      "lat": -33.380800799999996,
+      "lng": 18.3740381
+    },
+    "rating": 4.7,
+    "reviewCount": 248,
+    "phone": "+27 82 839 2956",
+    "website": "http://www.ormonde.co.za/",
+    "address": "Mount Pleasant St, Darling, 7345",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "lomond-wine-estate-gansbaai": {
+    "placeId": "ChIJ6Yhuew4czh0RsFWETDIrvuE",
+    "googleName": "Lomond Wine Estate - Gansbaai",
+    "coords": {
+      "lat": -34.5661351,
+      "lng": 19.4830942
+    },
+    "rating": 4.4,
+    "reviewCount": 240,
+    "phone": "+27 82 908 0099",
+    "website": "https://www.lomond.co.za/",
+    "address": "Lomond Wine Estate, Gansbaai, 7220",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "cellar-door-wine-tasting-at-boschendal": {
+    "placeId": "ChIJtfOIX-uvzR0RWYAOhS-NPjw",
+    "googleName": "Cellar Door Wine Tasting at Boschendal",
+    "coords": {
+      "lat": -33.8853416,
+      "lng": 18.9696121
+    },
+    "rating": 4.4,
+    "reviewCount": 234,
+    "phone": "+27 21 870 4273",
+    "website": "https://www.boschendal.com/eat-drink/cellar-door/?utm_source=google_maps&utm_medium=website_button&utm_campaign=SP&utm_content=SP",
+    "address": "Boschendal Estate Pniel Road, Franschhoek Franschhoek, Cape Town, 7680",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "reedvalley": {
+    "placeId": "ChIJ6WAPzEhm1h0RqIwnhScqTb8",
+    "googleName": "ReedValley",
+    "coords": {
+      "lat": -34.1674264,
+      "lng": 22.0182535
+    },
+    "rating": 4.1,
+    "reviewCount": 233,
+    "phone": "+27 44 698 1022",
+    "website": "http://www.reedvalley.com/",
+    "address": "ReedValley Wines, Mossel Bay, 6500",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "boplaas-winery-and-distillery": {
+    "placeId": "ChIJTVBK2b1I1B0R4IWHy_fI-CI",
+    "googleName": "Boplaas Winery and Distillery",
+    "coords": {
+      "lat": -33.535633,
+      "lng": 21.683714800000004
+    },
+    "rating": 4.6,
+    "reviewCount": 233,
+    "phone": "+27 44 213 3326",
+    "website": "http://www.boplaas.co.za/",
+    "address": "2 Saayman St, Calitzdorp, 6660",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "bitou-vineyards": {
+    "placeId": "ChIJf_TsmLofeR4RH37nf6BNjfk",
+    "googleName": "Bitou Vineyards",
+    "coords": {
+      "lat": -34.0191813,
+      "lng": 23.385361000000003
+    },
+    "rating": 4.2,
+    "reviewCount": 213,
+    "phone": "+27 44 004 0369",
+    "website": "http://www.bitouvineyards.co.za/",
+    "address": "N 2, Plettenberg Bay, 6600",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "robertson-wine-valley": {
+    "placeId": "ChIJsaVRDBRp0h0RQQYzmqGtTZQ",
+    "googleName": "Robertson Wine Valley",
+    "coords": {
+      "lat": -33.8086759,
+      "lng": 19.8789922
+    },
+    "rating": 4.6,
+    "reviewCount": 213,
+    "phone": "+27 23 626 3167",
+    "website": "http://www.robertsonwinevalley.com/",
+    "address": "Reitz St &, Voortrekker Ave, Robertson, 6705",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "packwood-wine-and-country-estate-pty-ltd": {
+    "placeId": "ChIJo8D4MdbpeB4RQYKc0KWLDLE",
+    "googleName": "Packwood Wine and Country Estate (Pty) Ltd",
+    "coords": {
+      "lat": -34.005905,
+      "lng": 23.228541
+    },
+    "rating": 4.5,
+    "reviewCount": 211,
+    "phone": "+27 78 244 9400",
+    "website": "http://www.packwood.co.za/",
+    "address": "Fisanthoek, Off N2, Between Knysna and Plettenberg Bay, Plettenberg Bay, 6600",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "excelsior-wine-estate": {
+    "placeId": "ChIJvXyheq9efx4R29LMbgQrE-8",
+    "googleName": "Excelsior Wine Estate",
+    "coords": {
+      "lat": -33.85466590000001,
+      "lng": 20.007878599999998
+    },
+    "rating": 4.6,
+    "reviewCount": 206,
+    "phone": "+27 23 615 1980",
+    "website": "http://www.excelsior.co.za/",
+    "address": "Off, R60, Ashton, 6715",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "kay-monty-vineyards": {
+    "placeId": "ChIJS6wHtc0heR4RpD6SRlAA578",
+    "googleName": "Kay & Monty Vineyards",
+    "coords": {
+      "lat": -33.930976,
+      "lng": 23.434859000000003
+    },
+    "rating": 4.5,
+    "reviewCount": 187,
+    "phone": "+27 79 965 9779",
+    "website": "https://www.kayandmonty.com/welcome",
+    "address": "Redford Road The Crags, Plettenberg Bay, 6600",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "weltevrede-wine-estate": {
+    "placeId": "ChIJDcdIriQ_0h0RBzR0yYliZRc",
+    "googleName": "Weltevrede Wine Estate",
+    "coords": {
+      "lat": -33.9421489,
+      "lng": 20.051983999999997
+    },
+    "rating": 4.7,
+    "reviewCount": 183,
+    "phone": "+27 23 616 2141",
+    "website": "http://weltevrede.com/",
+    "address": "R317, Bonnievale, 6730",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "avondale-wine": {
+    "placeId": "ChIJMw3E3VeozR0RIZTeETtgutU",
+    "googleName": "Avondale Wine",
+    "coords": {
+      "lat": -33.7646817,
+      "lng": 18.9977324
+    },
+    "rating": 4.6,
+    "reviewCount": 181,
+    "phone": "+27 21 863 1976",
+    "website": "http://www.avondalewine.co.za/",
+    "address": "Klein Drakenstein, Lustigan Rd, Paarl, 7624",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "oak-valley-estate": {
+    "placeId": "ChIJ0YWiZNLFzR0R6eQeC4WaNzw",
+    "googleName": "Oak Valley Estate.",
+    "coords": {
+      "lat": -34.155044,
+      "lng": 19.046219699999998
+    },
+    "rating": 4.8,
+    "reviewCount": 181,
+    "phone": "+27 21 859 4110",
+    "website": "https://oakvalley.co.za/?utm_source=GMB&utm_medium=google",
+    "address": "127 Oak Ave, Grabouw, 7180",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "raka-wine": {
+    "placeId": "ChIJVZdhHy780R0R6lbjIYizscE",
+    "googleName": "Raka Wine",
+    "coords": {
+      "lat": -34.398252,
+      "lng": 19.623749
+    },
+    "rating": 4.7,
+    "reviewCount": 181,
+    "phone": "+27 28 341 0676",
+    "website": "http://www.rakawine.co.za/",
+    "address": "17km out of Stanford, Stanford, Western Cape, 7210",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "domein-doornkraal-padstal-wine": {
+    "placeId": "ChIJqZnuAu301R0RGK_-6a_94bA",
+    "googleName": "Domein Doornkraal Padstal & Wine",
+    "coords": {
+      "lat": -33.5452544,
+      "lng": 22.4450435
+    },
+    "rating": 4.7,
+    "reviewCount": 169,
+    "phone": "+27 82 895 5009",
+    "website": "https://www.doornkraal.co.za/",
+    "address": "on the N 12, De Rust, 6650",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "15:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "rietvallei-wine-estate": {
+    "placeId": "ChIJ888FepJB0h0RnC8DYeIy9yw",
+    "googleName": "Rietvallei Wine Estate",
+    "coords": {
+      "lat": -33.8265508,
+      "lng": 19.9764792
+    },
+    "rating": 4.8,
+    "reviewCount": 161,
+    "phone": "+27 23 626 3596",
+    "website": "https://rietvallei.co.za/",
+    "address": "R60, Robertson, 6705",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "zoetendal-vineyards-river-estate": {
+    "placeId": "ChIJo9gWxjvo0R0RZCAt60yCF6U",
+    "googleName": "Zoetendal Vineyards & River Estate",
+    "coords": {
+      "lat": -34.6004213,
+      "lng": 19.790978199999998
+    },
+    "rating": 4.5,
+    "reviewCount": 156,
+    "phone": "+27 72 854 1720",
+    "website": "https://www.zoetendal.co.za/",
+    "address": "Moddervlei Farm, R43, Elim, 7284",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "cederberg-wines": {
+    "placeId": "ChIJR486XkqSMhwReOZfTA8aYzM",
+    "googleName": "Cederberg Wines",
+    "coords": {
+      "lat": -32.5036589,
+      "lng": 19.2574883
+    },
+    "rating": 4.6,
+    "reviewCount": 156,
+    "phone": "+27 27 482 2827",
+    "website": "http://cederbergwine.com/",
+    "address": "Dwarsrivier Farm, Clanwilliam, 8135",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "oudekloof-wine-estate": {
+    "placeId": "ChIJF2ge__M7zR0RLRxYmQMnUxI",
+    "googleName": "Oudekloof Wine Estate",
+    "coords": {
+      "lat": -33.2683519,
+      "lng": 19.0747923
+    },
+    "rating": 4.6,
+    "reviewCount": 155,
+    "phone": "+27 82 440 9459",
+    "website": "https://www.facebook.com/oudekloofwinery",
+    "address": "Oudekloof Farm, Tulbagh, 6820",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "cloof-wine-estate": {
+    "placeId": "ChIJF8kDkrjpzB0R5GEkmkvDaME",
+    "googleName": "Cloof Wine Estate",
+    "coords": {
+      "lat": -33.4827438,
+      "lng": 18.5227954
+    },
+    "rating": 4.4,
+    "reviewCount": 153,
+    "phone": "+27 22 492 2839",
+    "website": "http://www.cloof.co.za/",
+    "address": "Mamre road off R315, Darling, Cape Town, 7345",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "bramon-wine-estate": {
+    "placeId": "ChIJbyJzbAAZeR4R8gA2Lf5zeic",
+    "googleName": "Bramon Wine Estate",
+    "coords": {
+      "lat": -33.955759799999996,
+      "lng": 23.4765603
+    },
+    "rating": 4.7,
+    "reviewCount": 141,
+    "phone": "+27 44 011 5031",
+    "website": "https://www.bramonwines.com/",
+    "address": "Plot 9 of Farm 302, The Crags, Plettenberg Bay, 6602",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "graham-beck-estate": {
+    "placeId": "ChIJz9e7rFRu0h0RlpZ3Gk77i9g",
+    "googleName": "Graham Beck Estate",
+    "coords": {
+      "lat": -33.801189,
+      "lng": 19.800184899999998
+    },
+    "rating": 4.6,
+    "reviewCount": 139,
+    "phone": "+27 23 626 1214",
+    "website": "http://www.grahambeck.com/",
+    "address": "Scenic Cape Route, R60, Robertson, 7600",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "almenkerk-wine-estate": {
+    "placeId": "ChIJvYCDpzzFzR0RRvpASYUuNQQ",
+    "googleName": "Almenkerk Wine Estate",
+    "coords": {
+      "lat": -34.2134111,
+      "lng": 19.0324486
+    },
+    "rating": 4.7,
+    "reviewCount": 129,
+    "phone": "+27 21 848 9844",
+    "website": "http://www.almenkerk.co.za/",
+    "address": "50 Viljoenshoop Rd, Grabouw, 7160",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "riebeek-valley-wine-co": {
+    "placeId": "ChIJj6jH9f4hzR0Rp-xlV9m1oNE",
+    "googleName": "Riebeek Valley Wine Co",
+    "coords": {
+      "lat": -33.3829695,
+      "lng": 18.913825600000003
+    },
+    "rating": 4.4,
+    "reviewCount": 116,
+    "phone": "+27 22 448 1213",
+    "website": "https://riebeekvalleywineco.com/",
+    "address": "86 Kloof St, Riebeek-Kasteel, 7307",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "ashton-winery": {
+    "placeId": "ChIJH41U7zpB0h0RtoQKxEBkkgM",
+    "googleName": "Ashton Winery",
+    "coords": {
+      "lat": -33.837533799999996,
+      "lng": 20.030961299999998
+    },
+    "rating": 4.6,
+    "reviewCount": 112,
+    "phone": "+27 23 615 1135",
+    "website": "http://www.ashtonwinery.com/",
+    "address": "Ashton Winery, R60, Ashton, 6715",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "plettenvale-wines-accommodation-venue": {
+    "placeId": "ChIJp9qEUK7jeB4Rrwdk61-9pAk",
+    "googleName": "Plettenvale Wines - Accommodation + Venue",
+    "coords": {
+      "lat": -34.0817659,
+      "lng": 23.327397899999998
+    },
+    "rating": 4.8,
+    "reviewCount": 99,
+    "phone": "+27 82 413 0784",
+    "website": "http://www.plettenvalewines.co.za/",
+    "address": "88 Roodefontein C7, Plettenberg Bay Off Airport Road, Plettenberg Bay, 6600",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "springfontein-wine-estate": {
+    "placeId": "ChIJaalBo9kFzh0RdVtJCxSEmYE",
+    "googleName": "Springfontein Wine Estate",
+    "coords": {
+      "lat": -34.4272507,
+      "lng": 19.4085908
+    },
+    "rating": 4.7,
+    "reviewCount": 96,
+    "phone": "+27 28 341 0651",
+    "website": "http://www.springfontein.co.za/",
+    "address": "8 Wortelgat Rd, Stanford, 7210",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "duswaroo": {
+    "placeId": "ChIJqQWMNe1J1B0RKrxcnduIf0A",
+    "googleName": "Du'SwaRoo",
+    "coords": {
+      "lat": -33.5161115,
+      "lng": 21.6939418
+    },
+    "rating": 4.9,
+    "reviewCount": 91,
+    "phone": "+27 82 826 2419",
+    "website": "http://www.duswaroo.co.za/",
+    "address": "FMMV+GJ, Besemkop, Calitzdorp, 6660",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "mcgregor-koop-wynmakery": {
+    "placeId": "ChIJgSMc7VkT0h0RBuY1xCQPpS4",
+    "googleName": "McGregor Koop Wynmakery",
+    "coords": {
+      "lat": -33.934691199999996,
+      "lng": 19.8491026
+    },
+    "rating": 4.6,
+    "reviewCount": 90,
+    "phone": "+27 23 625 1741",
+    "website": null,
+    "address": "South Africa",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "joubert-tradauw-wine-farm-deli-alfresco": {
+    "placeId": "ChIJ3QvaYorE0x0RO8075sgpzBg",
+    "googleName": "Joubert Tradauw Wine Farm & Deli Alfresco",
+    "coords": {
+      "lat": -33.9242817,
+      "lng": 20.5961929
+    },
+    "rating": 4.5,
+    "reviewCount": 89,
+    "phone": "+27 71 656 1230",
+    "website": "http://www.joubert-tradauw.com/",
+    "address": "Tradouw Valley, R62, Barrydale, 6750",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "org-de-rac-organic-wine-estate": {
+    "placeId": "ChIJr3Tj53EpMxwRYzLFnNhKBJU",
+    "googleName": "Org de Rac Organic Wine Estate",
+    "coords": {
+      "lat": -32.9666658,
+      "lng": 18.7513524
+    },
+    "rating": 4.4,
+    "reviewCount": 86,
+    "phone": "+27 22 913 2397",
+    "website": "https://orgderac.com/",
+    "address": "N 7, R399, Piketberg, 7320",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "baleia-wines-olive-oil": {
+    "placeId": "ChIJe9FN186o1h0R48RImI8zieI",
+    "googleName": "Baleia Wines & Olive oil",
+    "coords": {
+      "lat": -34.1097313,
+      "lng": 21.254973099999997
+    },
+    "rating": 4.4,
+    "reviewCount": 82,
+    "phone": "+27 72 048 7729",
+    "website": "https://www.baleiawines.com/",
+    "address": "N2 - National Road, Riversdale, 6670",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "bartho-eksteen-wine-estate": {
+    "placeId": "ChIJ____L98Kzh0R3k9tmcgBxbE",
+    "googleName": "Bartho Eksteen Wine Estate",
+    "coords": {
+      "lat": -34.3992534,
+      "lng": 19.2179103
+    },
+    "rating": 4.4,
+    "reviewCount": 80,
+    "phone": "+27 72 323 5060",
+    "website": "https://barthoeksteen.co.za/",
+    "address": "Valley, Hemel en Aarde Rd, Hermanus, 7200",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "sijnn-wines": {
+    "placeId": "ChIJ-YZXA1Jv0R0R_j4bzQwhx_g",
+    "googleName": "Sijnn Wines",
+    "coords": {
+      "lat": -34.316783799999996,
+      "lng": 20.6117389
+    },
+    "rating": 4.7,
+    "reviewCount": 75,
+    "phone": "+27 21 880 1398",
+    "website": "http://www.sijnn.co.za/",
+    "address": "Malagas, Malgas, 7441",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "seven-springs-vineyard": {
+    "placeId": "ChIJr____7ILzh0Rh0clAoWtbRc",
+    "googleName": "Seven Springs Vineyard",
+    "coords": {
+      "lat": -34.32677090000001,
+      "lng": 19.377271399999998
+    },
+    "rating": 4.8,
+    "reviewCount": 68,
+    "phone": "+27 28 316 4994",
+    "website": "http://7springs.co.za/",
+    "address": "Sandfontein Farm, R320, Hemel en Aarde Rd, Caledon, 7230",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "peter-bayly-wines": {
+    "placeId": "ChIJ-zxFP39O1B0R_zAXt2Gny0Y",
+    "googleName": "Peter Bayly Wines",
+    "coords": {
+      "lat": -33.454977,
+      "lng": 21.759924
+    },
+    "rating": 4.9,
+    "reviewCount": 61,
+    "phone": "+27 83 457 5037",
+    "website": "http://www.peterbayly.co.za/",
+    "address": "Baylys' Farm, Groenfontein, Calitzdorp, 6660",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "newton-johnson-family-vineyards": {
+    "placeId": "ChIJKcYBql8Lzh0RL5CEhjrNNJo",
+    "googleName": "Newton Johnson Family Vineyards",
+    "coords": {
+      "lat": -34.3698404,
+      "lng": 19.2586308
+    },
+    "rating": 4.6,
+    "reviewCount": 58,
+    "phone": "+27 28 312 3862",
+    "website": "http://www.newtonjohnson.com/",
+    "address": "R320 Hemel-en-Aarde Valley, Hermanus, 7200",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "kleinhoekkloof-wines": {
+    "placeId": "ChIJm2zrKQ1E0h0RxQhseCeP_Wc",
+    "googleName": "Kleinhoekkloof Wines",
+    "coords": {
+      "lat": -33.7811679,
+      "lng": 20.054488499999998
+    },
+    "rating": 4.9,
+    "reviewCount": 55,
+    "phone": "+27 64 678 8804",
+    "website": "http://www.kleinhoekkloof.co.za/",
+    "address": "Wildepaardekloof, Kleinhoekkloof Wines, Ashton, 6715",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "grundheim-wines": {
+    "placeId": "ChIJzURtSe_F1R0R5l8qzjpgWJc",
+    "googleName": "Grundheim Wines",
+    "coords": {
+      "lat": -33.6273895,
+      "lng": 22.0647643
+    },
+    "rating": 4.8,
+    "reviewCount": 55,
+    "phone": "+27 44 272 6927",
+    "website": "http://www.grundheim.co.za/",
+    "address": "Grundheim Street Wyne Farm, Oudtshoorn, 6620",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "druk-my-niet-wine-estate": {
+    "placeId": "ChIJXUrUN0cIzR0RUyymMnkSYK8",
+    "googleName": "Druk-My-Niet Wine Estate",
+    "coords": {
+      "lat": -33.690278,
+      "lng": 19.028333
+    },
+    "rating": 4.5,
+    "reviewCount": 49,
+    "phone": "+27 21 868 2393",
+    "website": "https://www.dmnwines.co.za/",
+    "address": "Bodal Road, Daljosafat, Paarl, 7620",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "theuniskraal-wine-estate": {
+    "placeId": "ChIJaSnBkQM5zR0RokDAJarfDFM",
+    "googleName": "Theuniskraal Wine Estate",
+    "coords": {
+      "lat": -33.228230599999996,
+      "lng": 19.134826099999998
+    },
+    "rating": 4.6,
+    "reviewCount": 45,
+    "phone": "+27 23 230 0688",
+    "website": "http://www.theuniskraal.co.za/",
+    "address": "Theuniskraal, Theuniskraalpad, Tulbagh, 6820",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "piekenierskloof-wines": {
+    "placeId": "ChIJq6qqqrPoMhwR1zbGCjDfqzs",
+    "googleName": "PIEKENIERSKLOOF WINES",
+    "coords": {
+      "lat": -32.5916175,
+      "lng": 19.012545799999998
+    },
+    "rating": 4.1,
+    "reviewCount": 39,
+    "phone": "+27 22 921 2233",
+    "website": "http://pkwc.co.za/",
+    "address": "Nieuwoudt Street, Citrusdal, 7340",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "benguela-cove-cellar-door": {
+    "placeId": "ChIJJ1hmAlULzh0RbAZNswrilfs",
+    "googleName": "Benguela Cove Cellar Door",
+    "coords": {
+      "lat": -34.347352300000004,
+      "lng": 19.1280868
+    },
+    "rating": 4.5,
+    "reviewCount": 35,
+    "phone": "+27 87 357 0637",
+    "website": "https://www.benguelacove.co.za/cellar-door",
+    "address": "R43 Walker Bay, Hermanus, 7200",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "olivedale-private-vineyards": {
+    "placeId": "ChIJq6qqJgra0x0RmKk3eWC5HeM",
+    "googleName": "Olivedale Private Vineyards",
+    "coords": {
+      "lat": -34.085333299999995,
+      "lng": 20.4999797
+    },
+    "rating": 4.8,
+    "reviewCount": 30,
+    "phone": "+27 82 789 3800",
+    "website": "https://olivedalevineyards.com/",
+    "address": "Olivedale Private Vineyards, Olivedale Road, Buffeljagsrivier, 6742",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "boplaas-tasting-room-at-hart-bosch": {
+    "placeId": "ChIJ6QKUAFlv1h0RAqTy4hH8B1o",
+    "googleName": "Boplaas Tasting Room at Hart & Bosch",
+    "coords": {
+      "lat": -34.1132469,
+      "lng": 22.103129199999998
+    },
+    "rating": 4.7,
+    "reviewCount": 30,
+    "phone": "+27 66 499 4320",
+    "website": "https://www.boplaas.co.za/",
+    "address": "R102, Hartenbos, 6500",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "telluric-wine-estate": {
+    "placeId": "ChIJX9b0lEnheB4Rj0RGg1Ay9EA",
+    "googleName": "Telluric Wine Estate",
+    "coords": {
+      "lat": -34.0145993,
+      "lng": 23.372119299999998
+    },
+    "rating": 4.7,
+    "reviewCount": 21,
+    "phone": "+27 82 803 0529",
+    "website": null,
+    "address": "Rietvlei Rd, Plettenberg Bay, 6600",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "savage-wines": {
+    "placeId": "ChIJV2iwOKhdzB0R3n1ZOpEpYQo",
+    "googleName": "Savage Wines",
+    "coords": {
+      "lat": -33.9292826,
+      "lng": 18.465144199999997
+    },
+    "rating": 4.7,
+    "reviewCount": 17,
+    "phone": "+27 21 447 3022",
+    "website": "https://www.savagewines.com/",
+    "address": "Unit 3, 6 Spencer Rd, Salt River, Cape Town, 7925",
+    "hours": null,
     "checkedAt": "2026-07-23"
   }
 }
