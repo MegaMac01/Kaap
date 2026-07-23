@@ -27,6 +27,11 @@ export const AREA_IDS = [
   "muizenberg",
   "blouberg",
   "durbanville",
+  // Western Cape regions beyond the metro (day-trip and weekend territory).
+  "winelands",
+  "overberg",
+  "westcoast",
+  "gardenroute",
 ] as const;
 export type AreaId = (typeof AREA_IDS)[number];
 
@@ -93,6 +98,19 @@ export interface Collection {
 export interface Interest {
   key: string;
   label: string;
+}
+
+/**
+ * An adventure activity surfaced as a Discover chip ("Quad biking",
+ * "Paragliding"). Spots belong to an activity via `tag` in Spot.tags;
+ * the discovery sweep (scripts/discover-places.ts activity <key>) stamps
+ * that tag onto every imported venue.
+ */
+export interface Activity {
+  key: string;
+  label: string;
+  /** Tag that marks a spot as offering this activity. */
+  tag: string;
 }
 
 export type SortKey = "rec" | "near" | "rating" | "price";

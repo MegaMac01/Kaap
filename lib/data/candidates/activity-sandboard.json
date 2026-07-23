@@ -1,0 +1,340 @@
+[
+  {
+    "placeId": "ChIJ0WuR2uftzB0RshObwKeQUwg",
+    "name": "Atlantis Dunes",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.598358399999995,
+      "lng": 18.4490812
+    },
+    "address": "0 Dassenberg Dr, Atlantis, Cape Town, 7349",
+    "rating": 4.7,
+    "reviewCount": 2100,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJT4Tsl6cLzh0RPn8NxCSNwU8",
+    "name": "SA Forest Adventures Hermanus",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.2861024,
+      "lng": 19.1451016
+    },
+    "address": "R43, Honingklip Farm, Hermanus, 7200",
+    "rating": 4.5,
+    "reviewCount": 359,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJU2qdVtBozB0RUAR9-iYQByw",
+    "name": "Sandboarding Cape Town",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5986616,
+      "lng": 18.4492084
+    },
+    "address": "Klein Dassenberg Rd, Atlantis, Cape Town, 0083",
+    "rating": 4.7,
+    "reviewCount": 338,
+    "priceLevel": null,
+    "summary": "Playful destination for sandboarding offering gear, basic training & rides to the top of the dunes.",
+    "primaryType": "Tour Agency",
+    "types": [
+      "tourist_attraction",
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ0Q9xl0RDzB0RSQLJ8MM6C5U",
+    "name": "Adventure Sports and Tours 4u",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5984104,
+      "lng": 18.4491005
+    },
+    "address": "36 Bamberry Rd, Belthorn Estate, Cape Town, 7780",
+    "rating": 4.9,
+    "reviewCount": 298,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJNaj_u53tzB0Rke6aDAbI76E",
+    "name": "Atlantis Dunes WildX Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5984573,
+      "lng": 18.449242299999998
+    },
+    "address": "0 Dassenberg Dr, Atlantis, Cape Town, 7349",
+    "rating": 4.4,
+    "reviewCount": 297,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Services",
+    "types": [
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ0_sEfeXtzB0RFPNyjFAU18I",
+    "name": "Sand Dunes Cape Town - Sandboarding & Quadbiking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5983199,
+      "lng": 18.4504906
+    },
+    "address": "0 Dassenberg Dr, Wesfleur, Cape Town, 7349",
+    "rating": 4.8,
+    "reviewCount": 191,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "tourist_attraction",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJvTwBDrVdzB0RKmxCLV_iSU4",
+    "name": "Cape Xtreme Adventure Tours and Cape to Addo Safaris",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9176009,
+      "lng": 18.5156664
+    },
+    "address": "Unit C3, Maitland Park, 733 Voortrekker Rd, Maitland, Cape Town, 7405",
+    "rating": 4.3,
+    "reviewCount": 55,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "transportation_service",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZy-64rlr1h0Ra1nfDxZ20pQ",
+    "name": "Dragon Dune Sandboarding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1817103,
+      "lng": 22.0383289
+    },
+    "address": "Field St, Mossel Bay, 6506",
+    "rating": 4.5,
+    "reviewCount": 54,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJNyql0FvUzR0RBGAHcYORseg",
+    "name": "Betty's Bay Sandboarding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.368423799999995,
+      "lng": 18.862876
+    },
+    "address": "Watsonia St, Betty's Bay, 7141",
+    "rating": 4.5,
+    "reviewCount": 41,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Transportation Service",
+    "types": [
+      "transportation_service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJLa0hP3PAeB4RWmr_5L3HpZU",
+    "name": "Dune Adventures Knysna River Kayaking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0058966,
+      "lng": 23.0088197
+    },
+    "address": "Phantom Drive, Knysna, 6571",
+    "rating": 4.6,
+    "reviewCount": 27,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "gym",
+      "sports_activity_location",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5RQ5j6vtzB0RvTRnuNw7snk",
+    "name": "Cape Xtreme Adventures - Sandboarding and Quadbiking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5985671,
+      "lng": 18.449269299999997
+    },
+    "address": "Cape Farms, Cape Town",
+    "rating": 5,
+    "reviewCount": 8,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ6SaQCdztzB0R6wzc2kFBSAQ",
+    "name": "Sandboarding tours",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.542201999999996,
+      "lng": 18.4800321
+    },
+    "address": "0 Dassenberg Dr, Atlantis, Cape Town, 7349",
+    "rating": 3.9,
+    "reviewCount": 7,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5wFGAnPieB4RZGD6nxKMG_M",
+    "name": "Dune Adventures -Knysna Sandboarding-Kayaking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0735659,
+      "lng": 23.0200642
+    },
+    "address": "South Africa, State President C R Swart Rd, Brenton-on-Sea, 6570",
+    "rating": 4.9,
+    "reviewCount": 7,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJdbYrccftzB0RliiM7kRSezY",
+    "name": "Sandboarding Atlantis",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5990203,
+      "lng": 18.4518923
+    },
+    "address": "0 Dassenberg Dr, Atlantis, Cape Town, 7349",
+    "rating": 4.3,
+    "reviewCount": 4,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJcxseOLJpzB0RbvpLomu05tI",
+    "name": "Kids Club CT Sand boarding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0274831,
+      "lng": 18.3419494
+    },
+    "address": "Eustegia Way, Hout Bay, Cape Town, 7806",
+    "rating": 3,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJwzlATADVzR0RXjCMzgnKRV4",
+    "name": "Sandboard Hire Betty’s Bay",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.366482,
+      "lng": 18.865128900000002
+    },
+    "address": "Watsonia St, Betty's Bay, 7141",
+    "rating": 5,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

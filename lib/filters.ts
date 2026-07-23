@@ -1,4 +1,4 @@
-import { AREAS, CATEGORIES, COLLECTIONS } from "@/lib/data/spots";
+import { ACTIVITIES, AREAS, CATEGORIES, COLLECTIONS } from "@/lib/data/spots";
 import { isOpenAt } from "@/lib/hours";
 import { haversineKm, type LatLng } from "@/lib/geo";
 import type { AreaId, CategoryFilter, SortKey, Spot } from "@/lib/types";
@@ -7,6 +7,8 @@ export interface DiscoverFilters {
   area: AreaId | null;
   cat: CategoryFilter | null;
   collection: string | null;
+  /** Activity chip key (lib/data/spots ACTIVITIES); matches via spot tags. */
+  activity: string | null;
   query: string;
   openNow: boolean;
   freeOnly: boolean;
@@ -17,6 +19,7 @@ export const DEFAULT_FILTERS: DiscoverFilters = {
   area: null,
   cat: null,
   collection: null,
+  activity: null,
   query: "",
   openNow: false,
   freeOnly: false,
@@ -38,6 +41,14 @@ export function collectionIds(collectionKey: string | null, spots: Spot[]): Set<
   if (!col) return null;
   const ids = col.spotIds ?? spots.filter((s) => s.priceBand === 0).map((s) => s.id);
   return new Set(ids);
+}
+
+/** Case-insensitive tag membership for an activity key; unknown key → no match. */
+export function matchesActivity(spot: Spot, activityKey: string | null): boolean {
+  if (!activityKey) return true;
+  const act = ACTIVITIES.find((a) => a.key === activityKey);
+  if (!act) return false;
+  return spot.tags.some((t) => t.toLowerCase() === act.tag);
 }
 
 export function matchesQuery(spot: Spot, query: string): boolean {
@@ -65,6 +76,7 @@ export function filterSpots(spots: Spot[], f: DiscoverFilters, ctx: FilterContex
       if (sp.priceBand !== 0) return false;
     } else if (f.cat && sp.category !== f.cat) return false;
     if (f.area && sp.area !== f.area) return false;
+    if (!matchesActivity(sp, f.activity)) return false;
     if (f.freeOnly && sp.priceBand !== 0) return false;
     if (f.openNow && ctx.now && !isOpenAt(sp.hours, ctx.now)) return false;
     if (!matchesQuery(sp, f.query)) return false;
@@ -96,6 +108,7 @@ export function categoryCounts(spots: Spot[], f: DiscoverFilters): Record<string
     (sp) =>
       (!f.area || sp.area === f.area) &&
       matchesQuery(sp, f.query) &&
+      matchesActivity(sp, f.activity) &&
       (!inCollection || inCollection.has(sp.id))
   );
   const counts: Record<string, number> = {};
@@ -108,7 +121,21 @@ export function categoryCounts(spots: Spot[], f: DiscoverFilters): Record<string
   return counts;
 }
 
+/** Spot counts per activity chip, respecting search but not the active activity. */
+export function activityCounts(spots: Spot[], f: DiscoverFilters): Record<string, number> {
+  const pre = spots.filter((sp) => matchesQuery(sp, f.query));
+  const counts: Record<string, number> = {};
+  for (const a of ACTIVITIES) {
+    counts[a.key] = pre.filter((sp) => sp.tags.some((t) => t.toLowerCase() === a.tag)).length;
+  }
+  return counts;
+}
+
 export function listTitle(f: DiscoverFilters): string {
+  if (f.activity) {
+    const act = ACTIVITIES.find((a) => a.key === f.activity);
+    if (act) return `${act.label} in the Western Cape`;
+  }
   if (f.collection) return COLLECTIONS.find((c) => c.key === f.collection)?.label ?? "Everything to do";
   if (f.area) return areaName(f.area);
   if (f.cat) return f.cat === "free" ? "Free things to do" : categoryLabel(f.cat);

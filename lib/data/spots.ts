@@ -1,5 +1,7 @@
 import type {
+  Activity,
   Area,
+  AreaId,
   Category,
   Collection,
   Interest,
@@ -415,7 +417,7 @@ const seed: SeedSpot[] = [
     hours: wk("09:00", "18:00"),
     address: "Kite Beach, Table View",
     phone: null,
-    tags: ["adrenaline", "summer wind", "bucket list"],
+    tags: ["kitesurfing", "adrenaline", "summer wind"],
     blurb:
       "Learn the city's signature sport where the south-easter howls. Beach schools handle gear, radios and patience; you bring the stoke.",
   },
@@ -628,7 +630,38 @@ export const AREAS: Area[] = [
   { id: "constantia", name: "Constantia" },
   { id: "houtbay", name: "Hout Bay" },
   { id: "muizenberg", name: "Muizenberg" },
+  { id: "winelands", name: "Winelands" },
+  { id: "overberg", name: "Overberg" },
+  { id: "westcoast", name: "West Coast" },
+  { id: "gardenroute", name: "Garden Route" },
 ];
+
+/**
+ * Real-world anchor per area: the clickable filter marker on the browse map,
+ * and the "nearest anchor" used by scripts/discover-places.ts to assign an
+ * area to swept venues. Region anchors sit on their main town (Stellenbosch,
+ * Hermanus, Langebaan, Wilderness).
+ */
+export const AREA_ANCHORS: Record<AreaId, { lat: number; lng: number }> = {
+  blouberg: { lat: -33.808, lng: 18.4695 },
+  durbanville: { lat: -33.8305, lng: 18.6501 },
+  waterfront: { lat: -33.9036, lng: 18.4207 },
+  bokaap: { lat: -33.9192, lng: 18.4135 },
+  citybowl: { lat: -33.9258, lng: 18.4232 },
+  seapoint: { lat: -33.915, lng: 18.385 },
+  campsbay: { lat: -33.9508, lng: 18.3775 },
+  tablemtn: { lat: -33.9628, lng: 18.4098 },
+  woodstock: { lat: -33.9275, lng: 18.446 },
+  obs: { lat: -33.9377, lng: 18.4713 },
+  south: { lat: -33.981, lng: 18.465 },
+  constantia: { lat: -34.027, lng: 18.42 },
+  houtbay: { lat: -34.038, lng: 18.355 },
+  muizenberg: { lat: -34.105, lng: 18.469 },
+  winelands: { lat: -33.9346, lng: 18.861 },
+  overberg: { lat: -34.4092, lng: 19.2504 },
+  westcoast: { lat: -33.0987, lng: 18.0403 },
+  gardenroute: { lat: -33.9931, lng: 22.5747 },
+};
 
 export const CATEGORIES: { key: Category | "free"; label: string }[] = [
   { key: "eat", label: "Restaurants & Cafés" },
@@ -690,6 +723,25 @@ export const COLLECTIONS: Collection[] = [
     spotIds: ["aquarium", "boulders", "constantiapicnic", "campsbeach", "biscuitmill", "doodles"],
     paletteKey: "family",
   },
+];
+
+/**
+ * Adventure activities surfaced as Discover chips. Membership = the activity
+ * tag appearing in Spot.tags; scripts/discover-places.ts `activity <key>`
+ * sweeps the whole Western Cape for venues and stamps the tag on import.
+ * Chips with zero matching spots stay hidden, so listing an activity here
+ * before its sweep has run is harmless.
+ */
+export const ACTIVITIES: Activity[] = [
+  { key: "quad", label: "Quad biking", tag: "quad biking" },
+  { key: "paraglide", label: "Paragliding", tag: "paragliding" },
+  { key: "kayak", label: "Kayaking", tag: "kayaking" },
+  { key: "horse", label: "Horse riding", tag: "horse riding" },
+  { key: "sandboard", label: "Sandboarding", tag: "sandboarding" },
+  { key: "zipline", label: "Ziplining", tag: "ziplining" },
+  { key: "sharks", label: "Shark cage diving", tag: "shark cage diving" },
+  { key: "surf", label: "Surf lessons", tag: "learn to surf" },
+  { key: "kite", label: "Kitesurfing", tag: "kitesurfing" },
 ];
 
 export const INTERESTS: Interest[] = [

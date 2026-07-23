@@ -1,0 +1,1632 @@
+[
+  {
+    "placeId": "ChIJfS-ysQpfzB0RVgs99ggR3Qk",
+    "name": "Blouberg Kite Surfing Beach",
+    "category": "classes",
+    "coords": {
+      "lat": -33.8208334,
+      "lng": 18.476736199999998
+    },
+    "address": "Blouberg Kite Surfing Beach, Table View, Cape Town, 7439",
+    "rating": 4.5,
+    "reviewCount": 1213,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Beach",
+    "types": [
+      "beach",
+      "natural_feature",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJh_3odmb1zB0Rwticaqga6iM",
+    "name": "Cape Town Surf School - Bianca Surf Academy",
+    "category": "classes",
+    "coords": {
+      "lat": -33.7956506,
+      "lng": 18.45758
+    },
+    "address": "Bottom of, Kleinbaai Beach Parking) in Trader's Bay, De Mist St, Bloubergstrand, Cape Town, 7441",
+    "rating": 5,
+    "reviewCount": 941,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJO3FVcKdp1h0RSlh-HDiuRgg",
+    "name": "Diaz Beach",
+    "category": "classes",
+    "coords": {
+      "lat": -34.1598081,
+      "lng": 22.1107963
+    },
+    "address": "Indian Ocean, Die Voor Bay, Mossel Bay, 6506",
+    "rating": 4.4,
+    "reviewCount": 877,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Beach",
+    "types": [
+      "beach",
+      "natural_feature",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJQcCRlhlBzB0Rzs4-oEG5o1k",
+    "name": "Soft Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -34.098024599999995,
+      "lng": 18.473214499999997
+    },
+    "address": "43a The Row St, Muizenberg, Cape Town, 7945",
+    "rating": 5,
+    "reviewCount": 525,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJc12gFXVfzB0RlZrQJ-vEQHg",
+    "name": "Atlantic Surf Collective",
+    "category": "classes",
+    "coords": {
+      "lat": -33.8194054,
+      "lng": 18.4767507
+    },
+    "address": "2 Coral Rd, Table View, Cape Town, 7441",
+    "rating": 4.9,
+    "reviewCount": 507,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sporting Goods Store",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "community_center",
+      "sporting_goods_store",
+      "event_venue",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJAym3sVZAzB0Rkrtalkql8Z0",
+    "name": "Surf Emporium - Muizenberg Surf School & Muizenberg Surf Shop",
+    "category": "classes",
+    "coords": {
+      "lat": -34.107826599999996,
+      "lng": 18.4704731
+    },
+    "address": "Surfers Corner, 72 Beach Rd, Muizenberg, Cape Town, 7945",
+    "rating": 4.7,
+    "reviewCount": 292,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "sporting_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJb6UFtJ1fzB0RVCUGlgeOcw4",
+    "name": "High Five Kitesurf School Cape Town",
+    "category": "classes",
+    "coords": {
+      "lat": -33.8146623,
+      "lng": 18.4723765
+    },
+    "address": "68 Beach Blvd, Table View, Cape Town, 7439",
+    "rating": 4.8,
+    "reviewCount": 269,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_school",
+      "tourist_attraction",
+      "sports_club",
+      "store",
+      "association_or_organization",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJlfdHXqxnzB0RXR_KCQNpDsE",
+    "name": "Stoked Surf - South Africa",
+    "category": "classes",
+    "coords": {
+      "lat": -33.955251499999996,
+      "lng": 18.3821878
+    },
+    "address": "36 Upper Tree Rd, Camps Bay, Cape Town, 8040",
+    "rating": 5,
+    "reviewCount": 221,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJI50QKFRAzB0Rzm9xDeSZlxM",
+    "name": "Surf Life Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -33.793486099999996,
+      "lng": 18.4578033
+    },
+    "address": "Hang Ten Dr, Big Bay, Cape Town, 7441",
+    "rating": 5,
+    "reviewCount": 149,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ__eFLgYLzh0R3UUnHmGNgCA",
+    "name": "Hermanus surf school",
+    "category": "classes",
+    "coords": {
+      "lat": -34.4197413,
+      "lng": 19.232092299999998
+    },
+    "address": "12 Fourie St, Hermanus, 7404",
+    "rating": 4.8,
+    "reviewCount": 138,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJVY0CIAypNBwRB5UMOeW-dUA",
+    "name": "Onyx Kiteboarding",
+    "category": "classes",
+    "coords": {
+      "lat": -33.0952926,
+      "lng": 18.032108
+    },
+    "address": "58 Oostewal St, Langebaan, 7357",
+    "rating": 5,
+    "reviewCount": 137,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Store",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ____P2_1zB0RAWGUVxSZKYc",
+    "name": "Surf Big Bay Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -33.7933295,
+      "lng": 18.4579239
+    },
+    "address": "Hang Ten Dr, Big Bay, Cape Town, 7441",
+    "rating": 4.9,
+    "reviewCount": 130,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJOVHmMVRAzB0RMd78TnTvwUE",
+    "name": "Gary's Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -34.1077745,
+      "lng": 18.4709693
+    },
+    "address": "Balmoral Building, 34 Beach Rd, Muizenberg, Cape Town, 7945",
+    "rating": 4.6,
+    "reviewCount": 127,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "sporting_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJT5Vgz_apNBwRcbyckx5QOcU",
+    "name": "Cape Sports Center, Kitesurfing, Wingfoiling, Windsurfing",
+    "category": "classes",
+    "coords": {
+      "lat": -33.0822534,
+      "lng": 18.032155
+    },
+    "address": "98 Main St, Langebaan, 7357",
+    "rating": 4.9,
+    "reviewCount": 127,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Services",
+    "types": [
+      "sporting_goods_store",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJTeIaU1FAzB0RWBZkZMJLXPM",
+    "name": "African Soul Surfer",
+    "category": "classes",
+    "coords": {
+      "lat": -34.107956,
+      "lng": 18.4691324
+    },
+    "address": "Surfers Corner, Beach Rd, Muizenberg, Cape Town, 7950",
+    "rating": 4.5,
+    "reviewCount": 113,
+    "priceLevel": null,
+    "summary": "Simple dorms & relaxed rooms, some with bay views, in a trendy hostel offering a cafe/bar & a BBQ.",
+    "primaryType": null,
+    "types": [
+      "yoga_studio",
+      "coffee_shop",
+      "cafe",
+      "fitness_center",
+      "sports_complex",
+      "gym",
+      "hostel",
+      "bar",
+      "live_music_venue",
+      "event_venue",
+      "hotel",
+      "lodging",
+      "sports_activity_location",
+      "food_store",
+      "sports_school",
+      "store",
+      "health",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJpS_9aByqNBwRyQTKbnM8Lf4",
+    "name": "KITE LAB",
+    "category": "classes",
+    "coords": {
+      "lat": -33.0913687,
+      "lng": 18.0321158
+    },
+    "address": "8 Bree St, Langebaan, 7357",
+    "rating": 4.9,
+    "reviewCount": 109,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Store",
+    "types": [
+      "sporting_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJS3zsNNprzB0RSO4BEqyQJis",
+    "name": "Cape Point Surf Yoga Camp",
+    "category": "classes",
+    "coords": {
+      "lat": -34.1367532,
+      "lng": 18.3907864
+    },
+    "address": "17 Grand Bahama Dr, Capri, Cape Town, 7975",
+    "rating": 5,
+    "reviewCount": 99,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "yoga_studio",
+      "fitness_center",
+      "sports_complex",
+      "gym",
+      "lodging",
+      "sports_activity_location",
+      "sports_school",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJi3OLGHcd1h0RE4sx9ZOLl-M",
+    "name": "Surfends Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -33.996744899999996,
+      "lng": 22.5315926
+    },
+    "address": "Victoria Bay Road 2 Victoria Bay, Wilderness, 6529",
+    "rating": 4.9,
+    "reviewCount": 92,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "sporting_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ94f3rWZZzB0R-RMC2qD2d4I",
+    "name": "Kitesurfing school -Constantly Kiting",
+    "category": "classes",
+    "coords": {
+      "lat": -33.0888248,
+      "lng": 18.0356125
+    },
+    "address": "1 St Croix Cl, Langebaan, 7357",
+    "rating": 4.8,
+    "reviewCount": 90,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Store",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5zZzwaQF1h0RrRWM2iX6VQY",
+    "name": "Vibe Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -34.0043621,
+      "lng": 22.5488368
+    },
+    "address": "Victoria Bay Rd, George, 6529",
+    "rating": 4.9,
+    "reviewCount": 89,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJTeIaU1FAzB0RsHfvlxJySGA",
+    "name": "Surfshack Surf-School",
+    "category": "classes",
+    "coords": {
+      "lat": -34.107990099999995,
+      "lng": 18.4689883
+    },
+    "address": "13 York Rd, Muizenberg, Cape Town, 7945",
+    "rating": 4.7,
+    "reviewCount": 78,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "tourist_attraction",
+      "sporting_goods_store",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJQWOXUbDKzR0RAiRanLOr9RI",
+    "name": "Son Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -34.1039996,
+      "lng": 18.816666599999998
+    },
+    "address": "opposite #195, Beach Rd, Strand, Cape Town, 7140",
+    "rating": 4.9,
+    "reviewCount": 77,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "sporting_goods_store",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJizRyTFWneB4R8iiRjfmp_kY",
+    "name": "Wilderness Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9961267,
+      "lng": 22.5665802
+    },
+    "address": "22 Sands Rd, Wilderness, 6530",
+    "rating": 5,
+    "reviewCount": 73,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJHzXb-YpBzB0RNXft0pFTF44",
+    "name": "Paul's surfing lessons",
+    "category": "classes",
+    "coords": {
+      "lat": -34.1091076,
+      "lng": 18.4696908
+    },
+    "address": "Muizenberg Beach, Beach Rd, Muizenberg, Cape Town, 7945",
+    "rating": 4.9,
+    "reviewCount": 70,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJi9BfCPepNBwRIPGIZJU7-yA",
+    "name": "High Palms (HPK) kite school",
+    "category": "classes",
+    "coords": {
+      "lat": -33.0840876,
+      "lng": 18.033877
+    },
+    "address": "25 Leentjie Street, Langebaan, 7357",
+    "rating": 5,
+    "reviewCount": 63,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Store",
+    "types": [
+      "guest_house",
+      "lodging",
+      "sports_school",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJARW3LmRnzB0R3laZ1sJ_igE",
+    "name": "K I S S KEEP IT SIMPLE SURF",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9218148,
+      "lng": 18.419213
+    },
+    "address": "43 Shortmarket St, Cape Town City Centre, Cape Town, 8001",
+    "rating": 4.9,
+    "reviewCount": 62,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sporting Goods Store",
+    "types": [
+      "sporting_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ0dEtmg9q1h0RwXSLQbG892E",
+    "name": "Surf's Up Mossel Bay",
+    "category": "classes",
+    "coords": {
+      "lat": -34.1588954,
+      "lng": 22.110156
+    },
+    "address": "Diaz Beach, Beach E Blvd, Voorbaai, Mossel Bay, 6500",
+    "rating": 4.4,
+    "reviewCount": 61,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "tourist_attraction",
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJaTawXKvztAERF2ehR577t8o",
+    "name": "Vudu Surf Shop",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9262934,
+      "lng": 18.44838
+    },
+    "address": "34&36 Lower Church St, Woodstock, Cape Town, 7915",
+    "rating": 4.8,
+    "reviewCount": 58,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sporting Goods Store",
+    "types": [
+      "tourist_information_center",
+      "sporting_goods_store",
+      "store",
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJmyFeoCRpzB0RWGaQfPxHqvI",
+    "name": "Cape Town Surfing",
+    "category": "classes",
+    "coords": {
+      "lat": -34.04381970000001,
+      "lng": 18.350430199999998
+    },
+    "address": "11 Victoria Ave, Hout Bay, Cape Town, 7806",
+    "rating": 4.7,
+    "reviewCount": 57,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Store",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJlaOODErB1h0RFIHEL7vHzIM",
+    "name": "East Side Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -34.3725953,
+      "lng": 21.428301899999997
+    },
+    "address": "Harbour, Main Rd, Still Bay West, Still Bay, 6674",
+    "rating": 5,
+    "reviewCount": 55,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ_28SQByqNBwRCD2W9i4C_iM",
+    "name": "C Kite Langebaan",
+    "category": "classes",
+    "coords": {
+      "lat": -33.0912371,
+      "lng": 18.0313823
+    },
+    "address": "C Kite, Shop 2, Langebaan, Waterfront, Bree St, Langebaan, 7357",
+    "rating": 4.8,
+    "reviewCount": 53,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJCZtBYqpBzB0RfIIcxNEPSpc",
+    "name": "enDosurf…South Africa",
+    "category": "classes",
+    "coords": {
+      "lat": -34.0985479,
+      "lng": 18.474083
+    },
+    "address": "64 Windermere Rd, Muizenberg, Cape Town, 7945",
+    "rating": 4.8,
+    "reviewCount": 47,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJyyiTR3vieB4R6IaW_Hze1cU",
+    "name": "Learn To Surf Plett",
+    "category": "classes",
+    "coords": {
+      "lat": -34.076026,
+      "lng": 23.371487
+    },
+    "address": "Beachy Head Drive, Robberg 5 Beach, Robberg, Plettenberg Bay, 6600",
+    "rating": 4.7,
+    "reviewCount": 41,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ6crQNeaUeB4RgbcdDx9YilU",
+    "name": "Buffs Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -34.0864196,
+      "lng": 22.9740446
+    },
+    "address": "Sand street, Buffalo Bay, Knysna, 6570",
+    "rating": 5,
+    "reviewCount": 40,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZwdeoxxq1h0RGiAOX5m4PrU",
+    "name": "Waves Surf Shop",
+    "category": "classes",
+    "coords": {
+      "lat": -34.1825948,
+      "lng": 22.148271599999998
+    },
+    "address": "47 Marsh St, Mossel Bay, 6506",
+    "rating": 4.7,
+    "reviewCount": 32,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sporting Goods Store",
+    "types": [
+      "sporting_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJKcYEuVZAzB0RhAXNOF6P-Qs",
+    "name": "Surfers Corner Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -34.108451599999995,
+      "lng": 18.470074699999998
+    },
+    "address": "Beach Rd, Muizenberg, Cape Town, 7945",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJswXGhO9BzB0R858Bxgv4PwA",
+    "name": "AFRICA SURF SCHOOL CAPE TOWN/ Muizenberg",
+    "category": "classes",
+    "coords": {
+      "lat": -34.1079631,
+      "lng": 18.4690206
+    },
+    "address": "13 YORK ROAD MUIZENBERG BEACH SECOND FLOOR, Muizenberg, Cape Town, 7945",
+    "rating": 4.7,
+    "reviewCount": 28,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJKS2EfByqNBwRsHG_ebLqk3g",
+    "name": "Kite school Windtown Langebaan",
+    "category": "classes",
+    "coords": {
+      "lat": -33.091622099999995,
+      "lng": 18.0329618
+    },
+    "address": "9 Bree St, Langebaan, 7357",
+    "rating": 4.5,
+    "reviewCount": 27,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Store",
+    "types": [
+      "sports_school",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJBYR2FT6lzB0RJ3-u2RkwwUM",
+    "name": "Yzerfontein Surf",
+    "category": "classes",
+    "coords": {
+      "lat": -33.3467651,
+      "lng": 18.1604872
+    },
+    "address": "39 Buitekant St, Yzerfontein, 7351",
+    "rating": 5,
+    "reviewCount": 27,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sporting Goods Store",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "sporting_goods_store",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJLSWU3vCpNBwRcwC0zw_5Um8",
+    "name": "Kitesurfing Langebaan & Cape Town",
+    "category": "classes",
+    "coords": {
+      "lat": -33.08032,
+      "lng": 18.03312
+    },
+    "address": "114 Main St, Langebaan, 7357",
+    "rating": 4.7,
+    "reviewCount": 26,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "lodging",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJT2QqQx8b1h0R59NC0XvnYL4",
+    "name": "Garden Route Surf - Surfboard Repairs & Surf Shop",
+    "category": "classes",
+    "coords": {
+      "lat": -33.972902999999995,
+      "lng": 22.469327
+    },
+    "address": "1 Nywerheid St, George Industria, George, 6536",
+    "rating": 5,
+    "reviewCount": 21,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sporting Goods Store",
+    "types": [
+      "sporting_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJnyfHe7erNBwRiv2s1MCbCTQ",
+    "name": "The Kiteboarding Collective",
+    "category": "classes",
+    "coords": {
+      "lat": -33.080242399999996,
+      "lng": 18.0331237
+    },
+    "address": "114 Main St, Langebaan, 7357",
+    "rating": 5,
+    "reviewCount": 19,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Educational Institution",
+    "types": [
+      "educational_institution",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJUXBJfECzzR0R_NMHbqNRgQE",
+    "name": "Parliament",
+    "category": "classes",
+    "coords": {
+      "lat": -33.929959,
+      "lng": 18.8672868
+    },
+    "address": "37 Bosman St, Stellenbosch Central, Stellenbosch, 7599",
+    "rating": 4.9,
+    "reviewCount": 18,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sporting Goods Store",
+    "types": [
+      "sporting_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJH4F9Hx8Lzh0RNNkgGDFhdeU",
+    "name": "Surf Lessons Hermanus",
+    "category": "classes",
+    "coords": {
+      "lat": -34.4109747,
+      "lng": 19.281043399999998
+    },
+    "address": "Voëlklip Beach, Hermanus, 7200",
+    "rating": 5,
+    "reviewCount": 17,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ72_NvYgLzh0RUbdb6EJTeIM",
+    "name": "Hermanus surf rentals",
+    "category": "classes",
+    "coords": {
+      "lat": -34.410458999999996,
+      "lng": 19.2808717
+    },
+    "address": "Voelklip beach, Voelklip, Hermanus, 7200",
+    "rating": 5,
+    "reviewCount": 17,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJq9QOFW8Lzh0ROe61Ua8r-Rs",
+    "name": "Zebra Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -34.4101602,
+      "lng": 19.2811448
+    },
+    "address": "Voëlklip, Hermanus, 7200",
+    "rating": 5,
+    "reviewCount": 16,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ_wc6zKULzh0RoQqeVKUQI-c",
+    "name": "Walker Bay Surf Shop",
+    "category": "classes",
+    "coords": {
+      "lat": -34.4195828,
+      "lng": 19.2429198
+    },
+    "address": "Shop 17A, Village Square Corner Main Road &, Market Square St, Hermanus, 7200",
+    "rating": 4.9,
+    "reviewCount": 16,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "clothing_store",
+      "sporting_goods_store",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJdcmNC2v1zB0RRFNHRDaQ6O4",
+    "name": "A K A W Cape Town Surf & Kite Camps",
+    "category": "classes",
+    "coords": {
+      "lat": -33.783543,
+      "lng": 18.455534999999998
+    },
+    "address": "63 Big Bay Beach Club, Bloubergstrand, Cape Town, 7441",
+    "rating": 5,
+    "reviewCount": 15,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ_7dB5tVH0R0RXq2hwfhvk0U",
+    "name": "WitsandKite",
+    "category": "classes",
+    "coords": {
+      "lat": -34.3960418,
+      "lng": 20.8469829
+    },
+    "address": "24 Kabeljou St, Witsand, 6666",
+    "rating": 4.2,
+    "reviewCount": 15,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJoe1qC85bzB0RiVjX0ht9fm4",
+    "name": "Top-Turn Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -34.1080148,
+      "lng": 18.4693047
+    },
+    "address": "21 York Street, Muizenberg, Cape Town, 7945",
+    "rating": 5,
+    "reviewCount": 13,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_school",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJY8kj-o3LzR0Rtmziqn8nzPw",
+    "name": "Making Waves Swim & Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -34.1570886,
+      "lng": 18.873573
+    },
+    "address": "16 Blue Gum Ave, Mountainside, Cape Town, 7151",
+    "rating": 4.9,
+    "reviewCount": 13,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_school",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ10ngmUELzh0RUOlDHvu6Xss",
+    "name": "Surf Zone",
+    "category": "classes",
+    "coords": {
+      "lat": -34.418972499999995,
+      "lng": 19.2430797
+    },
+    "address": "151 Main Rd, Hermanus, 7200",
+    "rating": 4.7,
+    "reviewCount": 13,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sporting Goods Store",
+    "types": [
+      "sporting_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ1Uanuctp1h0RNAny77s2E08",
+    "name": "NEWTON SURFBOARD FACTORY",
+    "category": "classes",
+    "coords": {
+      "lat": -34.1721413,
+      "lng": 22.075622499999998
+    },
+    "address": "Unit 1 B, N2 Industrial Block 65, Kwanonqaba, Mossel Bay, 6506",
+    "rating": 4.7,
+    "reviewCount": 13,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sporting Goods Store",
+    "types": [
+      "sporting_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJkZQU3UfjeB4RSvMcOnv2kIk",
+    "name": "Surfing Life . Surf And Skate",
+    "category": "classes",
+    "coords": {
+      "lat": -34.0552991,
+      "lng": 23.3720331
+    },
+    "address": "Shop 1, marine building, Main St, Plettenberg Bay, 6600",
+    "rating": 4.4,
+    "reviewCount": 13,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Clothing Store",
+    "types": [
+      "clothing_store",
+      "sporting_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJjTbb5oGlNBwRCVy4WbdtzD8",
+    "name": "Saldanha Surf Sanctuary (Extreme Abilities NPO)",
+    "category": "classes",
+    "coords": {
+      "lat": -33.006695799999996,
+      "lng": 17.9420711
+    },
+    "address": "16 Berg St, Saldanha, 7357",
+    "rating": 4.9,
+    "reviewCount": 11,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "sports_complex",
+      "sporting_goods_store",
+      "sports_activity_location",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJabPZLYGx0R0Rpgyhr05f2ow",
+    "name": "Robbie's Surfing Lessons",
+    "category": "classes",
+    "coords": {
+      "lat": -34.7949415,
+      "lng": 20.047200399999998
+    },
+    "address": "Struis Bay, Struisbaai, 7287",
+    "rating": 5,
+    "reviewCount": 11,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "school",
+      "educational_institution",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJUagedQod1h0Re_9lao_is4Q",
+    "name": "Vic Bay Surf Shop",
+    "category": "classes",
+    "coords": {
+      "lat": -34.0043396,
+      "lng": 22.5479499
+    },
+    "address": "Main road, Victoria Bay, George, 6530",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sporting Goods Store",
+    "types": [
+      "sporting_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJBa3lZ1oVzB0RKpRx38t9kE4",
+    "name": "Surfpop Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -34.1080562,
+      "lng": 18.469265999999998
+    },
+    "address": "Surfers Corner, Muizenberg, Cape Town, 7950",
+    "rating": 5,
+    "reviewCount": 10,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZyOZZuJz1h0RXOYdUgX-LaQ",
+    "name": "The Surfer Kids NON-Profit",
+    "category": "classes",
+    "coords": {
+      "lat": -34.160231599999996,
+      "lng": 22.1097762
+    },
+    "address": "Diaz Beach, Beach E Blvd, Die Voor Bay, Mossel Bay, 6500",
+    "rating": 4.6,
+    "reviewCount": 10,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Non-Profit Organization",
+    "types": [
+      "non_profit_organization",
+      "sports_school",
+      "service",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJG43aECX1zB0RNUhzMtT11sE",
+    "name": "West Coast Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -33.726438,
+      "lng": 18.4416193
+    },
+    "address": "Purple House, Beach Rd, Melkbosstrand, Cape Town, 7441",
+    "rating": 5,
+    "reviewCount": 8,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ__33Ucb1zB0RCaS7Vwi3Ojc",
+    "name": "Mav Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -33.7289406,
+      "lng": 18.439592899999997
+    },
+    "address": "30 Beach Rd, Milnerton, Cape Town, 7441",
+    "rating": 5,
+    "reviewCount": 8,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJX7wtVLJdzB0R5L9r39FY3cg",
+    "name": "Glen Row Surfboards",
+    "category": "classes",
+    "coords": {
+      "lat": -33.916063199999996,
+      "lng": 18.4706099
+    },
+    "address": "4 Dorsetshire St, Paarden Eiland, Cape Town, 7405",
+    "rating": 5,
+    "reviewCount": 7,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJlzSRUukne2cRoeE45bG0Dz8",
+    "name": "Surf Garage Supply",
+    "category": "classes",
+    "coords": {
+      "lat": -34.412707000000005,
+      "lng": 19.298828999999998
+    },
+    "address": "Western Cape, Beach, 316 7th St, Voelklip, Hermanus, 7200",
+    "rating": 5,
+    "reviewCount": 6,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sporting Goods Store",
+    "types": [
+      "sporting_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJQxVyh6LjeB4REC7gtEL5fQA",
+    "name": "International Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -34.0827909,
+      "lng": 23.3710861
+    },
+    "address": "Sanctuary Beach, Plettenberg Bay, 6600",
+    "rating": 5,
+    "reviewCount": 6,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ-zU7qCnjeB4R5Chu3ia1ezI",
+    "name": "Learn 2 Surf - Plettenberg Bay",
+    "category": "classes",
+    "coords": {
+      "lat": -34.0763688,
+      "lng": 23.3714725
+    },
+    "address": "87 Beachy Head Dr, Plettenberg Bay, 6600",
+    "rating": 5,
+    "reviewCount": 6,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_school",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJR7wYvOfreB4R-n2zYp0BgHk",
+    "name": "Drop In Surf Skate & Adventure",
+    "category": "classes",
+    "coords": {
+      "lat": -34.067453799999996,
+      "lng": 23.062990199999998
+    },
+    "address": "Shop F, 5 Kings Way, Leisure Island, Knysna, 6571",
+    "rating": 5,
+    "reviewCount": 6,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sporting Goods Store",
+    "types": [
+      "sporting_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJs7BhOx3ieB4R9BzGk7S7n9E",
+    "name": "Crush / surf - swim - lifestyle",
+    "category": "classes",
+    "coords": {
+      "lat": -34.0546608,
+      "lng": 23.372119299999998
+    },
+    "address": "Plettenberg Bay, 6600",
+    "rating": 4.7,
+    "reviewCount": 6,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sporting Goods Store",
+    "types": [
+      "sporting_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJC7FKCA7ieB4R-bm207lPTaE",
+    "name": "The Surf Shop",
+    "category": "classes",
+    "coords": {
+      "lat": -34.0537061,
+      "lng": 23.3722423
+    },
+    "address": "Lookout Ctr, Main St, Plettenberg Bay, 6600",
+    "rating": 4.2,
+    "reviewCount": 6,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sporting Goods Store",
+    "types": [
+      "sporting_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJK7oRFgQJzh0R658E9yL6jVE",
+    "name": "Kammabaai Surf School",
+    "category": "classes",
+    "coords": {
+      "lat": -34.412707000000005,
+      "lng": 19.298828999999998
+    },
+    "address": "316 7th St, Voelklip, Hermanus, 7200",
+    "rating": 5,
+    "reviewCount": 5,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJRWzpL-LjeB4RKun78iU8fsc",
+    "name": "Surf'SUP Plett",
+    "category": "classes",
+    "coords": {
+      "lat": -34.0428138,
+      "lng": 23.3762907
+    },
+    "address": "Poortjies Lagoon, Susan St, Plettenberg Bay, 6600",
+    "rating": 4,
+    "reviewCount": 5,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Activity Location",
+    "types": [
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZ3fGZAvieB4RlMxfZ4KuKO0",
+    "name": "Summer Sands",
+    "category": "classes",
+    "coords": {
+      "lat": -34.0599481,
+      "lng": 23.3766709
+    },
+    "address": "1st Floor, Milkwood Centre, Hopwood St, Plettenberg Bay, 6600",
+    "rating": 4.8,
+    "reviewCount": 4,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Clothing Store",
+    "types": [
+      "clothing_store",
+      "sporting_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJLUvWMJEd1h0RJxY5FwbIBoA",
+    "name": "SEA",
+    "category": "classes",
+    "coords": {
+      "lat": -34.0041929,
+      "lng": 22.548098600000003
+    },
+    "address": "Victoria Bay Rd, Eden, George, 6529",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJPZN1bJ3reB4Rep5lZV6RsE0",
+    "name": "Kite Surfing Knysna",
+    "category": "classes",
+    "coords": {
+      "lat": -34.0700308,
+      "lng": 23.0616512
+    },
+    "address": "32 George Ave, Leisure Isle, Knysna, 6571",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_school",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJvxFjL3sLzh0RByJ2E2ulCYw",
+    "name": "Southern Surf Hermanus",
+    "category": "classes",
+    "coords": {
+      "lat": -34.4109747,
+      "lng": 19.281043399999998
+    },
+    "address": "Voëlklip, Hermanus, 7200",
+    "rating": 5,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJDZqO1WHqeB4R9JEL8_A538I",
+    "name": "Surf Zone",
+    "category": "classes",
+    "coords": {
+      "lat": -34.03839,
+      "lng": 23.048885
+    },
+    "address": "Long St, Knysna Central, Cape Town, 8001",
+    "rating": 3,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJH9TmzndfzB0ReJij5N9pfQQ",
+    "name": "Surf School Cape Town - Coastline",
+    "category": "classes",
+    "coords": {
+      "lat": -33.812525,
+      "lng": 18.4760892
+    },
+    "address": "Shop 5, 14 Beach Blvd, Bloubergstrand, Cape Town, 7441",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJRW6DuEZfzB0RDuaBhZIu1V4",
+    "name": "Cape Rider Cape Town Kitesurfing School",
+    "category": "classes",
+    "coords": {
+      "lat": -33.8178273,
+      "lng": 18.4849072
+    },
+    "address": "Bloubergstrand, Cape Town, 7441",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJEUOUAN1GzB0RhL2drADysBU",
+    "name": "Johnsons Surf School Cape Town",
+    "category": "classes",
+    "coords": {
+      "lat": -34.0823874,
+      "lng": 18.5435742
+    },
+    "address": "26 Owl St, Pelican Heights, Cape Town, 7941",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_school",
+      "sporting_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  }
+]

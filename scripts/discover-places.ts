@@ -1,14 +1,24 @@
 /**
- * Bulk venue discovery via Google Places Nearby Search (SPEC §9 "provider
- * enrichment", scaled up): tile an area with search circles across activity-
- * relevant venue types, dedupe, auto-categorise, and stage the results.
+ * Bulk venue discovery via Google Places (SPEC §9 "provider enrichment",
+ * scaled up): sweep, dedupe, auto-categorise, and stage the results.
  *
+ * Area mode (Nearby Search over suburb tiles):
  *   npm run places:discover <area>          : sweep, write candidates JSON,
  *                                             print a category summary
  *   npm run places:discover <area> import   : merge candidates into
  *                                             lib/data/discovered.json and
  *                                             places-match.json (then run
  *                                             places:refresh + seed:sql)
+ *
+ * Activity mode (Text Search across the whole Western Cape, because "quad
+ * biking" is a query, not a Google place type):
+ *   npm run places:discover activity <key|all>          : sweep
+ *   npm run places:discover activity <key|all> import   : import
+ * Keys come from ACTIVITY_SWEEPS below and must match lib/data/spots
+ * ACTIVITIES; imported venues get the activity tag stamped into their tags,
+ * which is what the Discover activity chips filter on. Venues land in the
+ * area (metro suburb or region: winelands/overberg/westcoast/gardenroute)
+ * whose anchor is nearest.
  *
  * Discovered spots ride the same enrichment pipeline as curated ones; their
  * blurbs come from Google's editorial summary (or a plain type/suburb line)
@@ -17,7 +27,7 @@
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { AreaId, Category, PriceBand } from "../lib/types";
+import { AREA_IDS, type AreaId, type Category, type PriceBand } from "../lib/types";
 import { haversineKm } from "../lib/geo";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -115,6 +125,106 @@ const TYPE_GROUPS: { category: Category; types: string[] }[] = [
   },
 ];
 
+/**
+ * Text Search sweeps per activity chip (lib/data/spots ACTIVITIES). The tag
+ * stamped on import is looked up from ACTIVITIES by key, so chip filtering
+ * and the sweep can never drift apart.
+ */
+const ACTIVITY_SWEEPS: Record<string, { query: string; category: Category; sig: RegExp }> = {
+  quad: { query: "quad biking", category: "outdoor", sig: /quad|atv|4x4|off.?road|motocross|dune|bugg/i },
+  paraglide: { query: "paragliding", category: "outdoor", sig: /paraglid|parapent|tandem/i },
+  kayak: { query: "kayak tours", category: "outdoor", sig: /kayak|canoe|paddle/i },
+  horse: { query: "horse riding trails", category: "outdoor", sig: /horse|equestrian|stable|ranch|pony/i },
+  sandboard: { query: "sandboarding", category: "outdoor", sig: /sand.?board/i },
+  zipline: { query: "zipline canopy tour", category: "outdoor", sig: /zip.?lin|canopy|acrobranch|aerial|tree.?top/i },
+  sharks: { query: "shark cage diving", category: "outdoor", sig: /shark/i },
+  surf: { query: "surf school", category: "classes", sig: /surf/i },
+  kite: { query: "kitesurfing lessons", category: "classes", sig: /kite|wing.?foil|windsurf/i },
+};
+
+/** Retail masquerading as activity results (board shops, repair benches). */
+const RETAIL_NAME = /\b(shop|store|factory|repairs?)\b/i;
+
+/**
+ * Text Search relevance is fuzzy: a "quad biking" sweep surfaces paragliding
+ * schools, bike shops, and canyoning outfits as "related". A candidate stays
+ * in an activity's import when its name matches the activity's signature, or
+ * when it at least looks like an activity venue by type AND doesn't clearly
+ * belong to a different activity by name (those get picked up, correctly
+ * tagged, by their own sweep).
+ */
+const ACTIVITY_OK_TYPES = new Set([
+  "adventure_sports_center",
+  "sports_activity_location",
+  "sports_complex",
+  "tour_agency",
+  "travel_agency",
+  "tourist_attraction",
+  "off_roading_area",
+  "race_course",
+  "campground",
+  "park",
+  "hiking_area",
+  "marina",
+  "amusement_park",
+  "amusement_center",
+  "water_park",
+]);
+/** Activities we don't sweep but that show up as "related" noise. */
+const OTHER_ACTIVITY_SIGS = [
+  /canyon|kloof|abseil/i,
+  /paintball/i,
+  /segway|scooter|scootour/i,
+  /fat.?bike/i,
+  /bungee|bungy/i,
+  /go.?kart/i,
+];
+
+function activityRelevanceFilter(
+  candidates: Candidate[],
+  key: string
+): { kept: Candidate[]; dropped: number } {
+  const own = ACTIVITY_SWEEPS[key].sig;
+  const otherSigs = [
+    ...Object.entries(ACTIVITY_SWEEPS)
+      .filter(([k]) => k !== key)
+      .map(([, v]) => v.sig),
+    ...OTHER_ACTIVITY_SIGS,
+  ];
+  const kept = candidates.filter((c) => {
+    if (RETAIL_NAME.test(c.name)) return false;
+    if (own.test(c.name)) return true;
+    if (!c.types.some((t) => ACTIVITY_OK_TYPES.has(t))) return false;
+    return !otherSigs.some((r) => r.test(c.name));
+  });
+  return { kept, dropped: candidates.length - kept.length };
+}
+
+/**
+ * Western Cape coverage for activity sweeps. Text Search locationBias caps
+ * at 50km, so the province is tiled town-by-town; results outside WC_BOUNDS
+ * are dropped (bias is a preference, not a fence).
+ */
+const WC_TILES: Circle[] = [
+  { lat: -33.93, lng: 18.46, radius: 40000 }, // Cape Town metro
+  { lat: -33.57, lng: 18.42, radius: 30000 }, // Atlantis dunes / Melkbos
+  { lat: -33.05, lng: 18.03, radius: 45000 }, // Langebaan / Vredenburg / Paternoster
+  { lat: -33.93, lng: 18.86, radius: 30000 }, // Stellenbosch / Franschhoek
+  { lat: -33.72, lng: 19.01, radius: 30000 }, // Paarl / Wellington
+  { lat: -33.36, lng: 19.31, radius: 45000 }, // Ceres / Tulbagh / Worcester
+  { lat: -34.15, lng: 19.04, radius: 35000 }, // Elgin / Grabouw / Kleinmond
+  { lat: -34.42, lng: 19.3, radius: 40000 }, // Hermanus / Stanford
+  { lat: -34.58, lng: 19.53, radius: 30000 }, // Gansbaai
+  { lat: -34.02, lng: 20.45, radius: 45000 }, // Swellendam / western Route 62
+  { lat: -33.6, lng: 22.2, radius: 50000 }, // Oudtshoorn / Cango Valley
+  { lat: -34.15, lng: 22.1, radius: 45000 }, // Mossel Bay / George
+  { lat: -33.98, lng: 22.85, radius: 45000 }, // Wilderness / Sedgefield / Knysna
+  { lat: -34.05, lng: 23.35, radius: 40000 }, // Plettenberg Bay / Tsitsikamma edge
+];
+
+/** Rough Western Cape bounding box for filtering biased-but-global results. */
+const WC_BOUNDS = { minLat: -34.9, maxLat: -31.0, minLng: 17.0, maxLng: 24.6 };
+
 interface GoogleNearbyPlace {
   id: string;
   displayName?: { text: string };
@@ -178,6 +288,104 @@ async function searchNearby(types: string[], circle: Circle): Promise<GoogleNear
   if (!res.ok) throw new Error(`searchNearby ${res.status}: ${await res.text()}`);
   const data = (await res.json()) as { places?: GoogleNearbyPlace[] };
   return data.places ?? [];
+}
+
+/** Text Search sweep call: same field mask as Nearby, query-driven. */
+async function searchActivity(query: string, circle: Circle): Promise<GoogleNearbyPlace[]> {
+  const res = await fetch("https://places.googleapis.com/v1/places:searchText", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "X-Goog-Api-Key": KEY!,
+      "X-Goog-FieldMask": [
+        "places.id",
+        "places.displayName",
+        "places.formattedAddress",
+        "places.location",
+        "places.types",
+        "places.primaryTypeDisplayName",
+        "places.rating",
+        "places.userRatingCount",
+        "places.priceLevel",
+        "places.businessStatus",
+        "places.editorialSummary",
+      ].join(","),
+    },
+    body: JSON.stringify({
+      textQuery: query,
+      pageSize: 20,
+      locationBias: {
+        circle: {
+          center: { latitude: circle.lat, longitude: circle.lng },
+          radius: circle.radius,
+        },
+      },
+    }),
+  });
+  if (!res.ok) throw new Error(`searchText ${res.status}: ${await res.text()}`);
+  const data = (await res.json()) as { places?: GoogleNearbyPlace[] };
+  return data.places ?? [];
+}
+
+const inWesternCape = (p: GoogleNearbyPlace) =>
+  !!p.location &&
+  p.location.latitude >= WC_BOUNDS.minLat &&
+  p.location.latitude <= WC_BOUNDS.maxLat &&
+  p.location.longitude >= WC_BOUNDS.minLng &&
+  p.location.longitude <= WC_BOUNDS.maxLng;
+
+const activityCandidatesFile = (key: string) =>
+  join(ROOT, "lib", "data", "candidates", `activity-${key}.json`);
+
+async function runDiscoverActivity(key: string) {
+  const sweep = ACTIVITY_SWEEPS[key];
+  const { ACTIVITIES } = await import("../lib/data/spots");
+  const act = ACTIVITIES.find((a) => a.key === key);
+  if (!sweep || !act) {
+    console.error(
+      `Unknown activity "${key}". Known: ${Object.keys(ACTIVITY_SWEEPS).join(", ")}`
+    );
+    process.exit(1);
+  }
+
+  const found = new Map<string, Candidate>();
+  let calls = 0;
+  for (const tile of WC_TILES) {
+    let places: GoogleNearbyPlace[];
+    try {
+      places = await searchActivity(sweep.query, tile);
+      calls++;
+    } catch (err) {
+      console.warn(`  ! ${key} @ ${tile.lat},${tile.lng}: ${(err as Error).message}`);
+      continue;
+    }
+    for (const p of places) {
+      if (p.businessStatus && p.businessStatus !== "OPERATIONAL") continue;
+      if (!inWesternCape(p)) continue;
+      if (found.has(p.id)) continue;
+      found.set(p.id, {
+        placeId: p.id,
+        name: p.displayName?.text ?? "",
+        category: sweep.category,
+        coords: p.location ? { lat: p.location.latitude, lng: p.location.longitude } : null,
+        address: p.formattedAddress?.replace(/, South Africa$/, "") ?? null,
+        rating: p.rating ?? null,
+        reviewCount: p.userRatingCount ?? null,
+        priceLevel: p.priceLevel ?? null,
+        summary: p.editorialSummary?.text ?? null,
+        primaryType: p.primaryTypeDisplayName?.text ?? null,
+        types: p.types ?? [],
+      });
+    }
+    await sleep(120);
+  }
+
+  const list = [...found.values()].sort((a, b) => (b.reviewCount ?? 0) - (a.reviewCount ?? 0));
+  mkdirSync(dirname(activityCandidatesFile(key)), { recursive: true });
+  writeFileSync(activityCandidatesFile(key), JSON.stringify(list, null, 2) + "\n", "utf8");
+  console.log(`\n[${act.label}] ${list.length} places found in ${calls} searches.`);
+  console.log(`Wrote ${activityCandidatesFile(key)}`);
+  console.log(`Review it, then: npm run places:discover activity ${key} import`);
 }
 
 async function runDiscover(area: AreaId) {
@@ -340,15 +548,23 @@ const TYPE_BLOCKLIST = new Set([
   "Petrol Station",
 ]);
 const MIN_REVIEWS = 15;
+/**
+ * Adventure operators in small towns collect reviews far slower than metro
+ * restaurants, so activity imports use a lower floor.
+ */
+const MIN_REVIEWS_ACTIVITY = 8;
 /** Same-category candidates closer than this are treated as the same real-world place. */
 const DEDUPE_RADIUS_KM = 0.3;
 
-function qualityFilter(candidates: Candidate[]): { kept: Candidate[]; excluded: Record<string, number> } {
+function qualityFilter(
+  candidates: Candidate[],
+  minReviews: number
+): { kept: Candidate[]; excluded: Record<string, number> } {
   const excluded: Record<string, number> = { chain: 0, type: 0, reviews: 0, duplicate: 0 };
   const pass1 = candidates.filter((c) => {
     if (CHAIN_BLOCKLIST.test(c.name)) return (excluded.chain++, false);
     if (c.primaryType && TYPE_BLOCKLIST.has(c.primaryType)) return (excluded.type++, false);
-    if ((c.reviewCount ?? 0) < MIN_REVIEWS) return (excluded.reviews++, false);
+    if ((c.reviewCount ?? 0) < minReviews) return (excluded.reviews++, false);
     return true;
   });
 
@@ -380,13 +596,29 @@ function qualityFilter(candidates: Candidate[]): { kept: Candidate[]; excluded: 
   return { kept, excluded };
 }
 
-async function runImport(area: AreaId) {
-  if (!existsSync(candidatesFile(area))) {
-    console.error(`No candidates for "${area}": run npm run places:discover ${area} first.`);
+/** Shared import tail: quality-filter a candidates file, map, and stage. */
+async function importCandidates(
+  file: string,
+  minReviews: number,
+  map: (c: Candidate, taken: Set<string>) => DiscoveredSpot | null,
+  opts: {
+    /** Extra relevance pass before the quality filter (activity mode). */
+    prefilter?: (cands: Candidate[]) => { kept: Candidate[]; dropped: number };
+    /** Already-imported venue seen again: merge (e.g. add an activity tag). */
+    onKnown?: (existing: DiscoveredSpot) => boolean;
+  } = {}
+) {
+  if (!existsSync(file)) {
+    console.error(`No candidates file ${file}: run the matching sweep first.`);
     process.exit(1);
   }
-  const rawCandidates: Candidate[] = JSON.parse(readFileSync(candidatesFile(area), "utf8"));
-  const { kept: candidates, excluded } = qualityFilter(rawCandidates);
+  let rawCandidates: Candidate[] = JSON.parse(readFileSync(file, "utf8"));
+  if (opts.prefilter) {
+    const { kept, dropped } = opts.prefilter(rawCandidates);
+    console.log(`Relevance filter: dropped ${dropped} off-activity candidates`);
+    rawCandidates = kept;
+  }
+  const { kept: candidates, excluded } = qualityFilter(rawCandidates, minReviews);
   console.log(
     `Quality filter: ${rawCandidates.length} raw → ${candidates.length} kept ` +
       `(excluded: ${excluded.chain} chain, ${excluded.type} generic-type, ` +
@@ -402,16 +634,32 @@ async function runImport(area: AreaId) {
       .filter((m): m is MatchEntry => m !== null)
       .map((m) => m.placeId)
   );
+  const spotIdByPlaceId = new Map(
+    Object.entries(matches)
+      .filter((e): e is [string, MatchEntry] => e[1] !== null)
+      .map(([sid, m]) => [m.placeId, sid])
+  );
   const taken = new Set<string>(discovered.map((d) => d.id));
   // Curated ids must stay unique too.
   const { SPOTS } = await import("../lib/data/spots");
   for (const s of SPOTS) taken.add(s.id);
 
   let added = 0;
+  let merged = 0;
   for (const c of candidates) {
-    if (knownPlaceIds.has(c.placeId)) continue; // already curated or imported
+    if (knownPlaceIds.has(c.placeId)) {
+      // Multi-activity operators (one venue, several sweeps) get their extra
+      // tags merged instead of being claimed once and lost thereafter.
+      if (opts.onKnown) {
+        const sid = spotIdByPlaceId.get(c.placeId);
+        const existing = sid ? discovered.find((d) => d.id === sid) : undefined;
+        if (existing && opts.onKnown(existing)) merged++;
+      }
+      continue;
+    }
     if (!c.name || !c.coords) continue;
-    const spot = toSpot(c, area, taken);
+    const spot = map(c, taken);
+    if (!spot) continue;
     discovered.push(spot);
     matches[spot.id] = { placeId: c.placeId, googleName: c.name, address: c.address ?? "" };
     knownPlaceIds.add(c.placeId);
@@ -420,15 +668,106 @@ async function runImport(area: AreaId) {
 
   writeFileSync(DISCOVERED_FILE, JSON.stringify(discovered, null, 2) + "\n", "utf8");
   writeFileSync(MATCH_FILE, JSON.stringify(matches, null, 2) + "\n", "utf8");
-  console.log(`Imported ${added} new spots (${discovered.length} discovered total).`);
+  console.log(
+    `Imported ${added} new spots` +
+      (merged ? `, merged tags into ${merged} existing` : "") +
+      ` (${discovered.length} discovered total).`
+  );
   console.log("Now run: npm run places:refresh && npm run seed:sql");
 }
 
+async function runImport(area: AreaId) {
+  await importCandidates(candidatesFile(area), MIN_REVIEWS, (c, taken) => toSpot(c, area, taken));
+}
+
+async function runImportActivity(key: string) {
+  const sweep = ACTIVITY_SWEEPS[key];
+  const { ACTIVITIES, AREA_ANCHORS } = await import("../lib/data/spots");
+  const act = ACTIVITIES.find((a) => a.key === key);
+  if (!sweep || !act) {
+    console.error(`Unknown activity "${key}". Known: ${Object.keys(ACTIVITY_SWEEPS).join(", ")}`);
+    process.exit(1);
+  }
+
+  const nearestArea = (coords: { lat: number; lng: number }): AreaId => {
+    let best: AreaId = "citybowl";
+    let bestKm = Infinity;
+    for (const [id, anchor] of Object.entries(AREA_ANCHORS) as [
+      AreaId,
+      { lat: number; lng: number },
+    ][]) {
+      const km = haversineKm(coords, anchor);
+      if (km < bestKm) {
+        bestKm = km;
+        best = id;
+      }
+    }
+    return best;
+  };
+
+  const importMapper = (c: Candidate, taken: Set<string>): DiscoveredSpot | null => {
+    if (!c.coords) return null;
+    const suburb = suburbOf(c.address);
+    // No outdoor→free heuristic here: operators charge even when Google has
+    // no price level. Honest default over an invented rand figure.
+    const price = PRICE_BANDS[c.priceLevel ?? ""] ?? {
+      band: 2 as PriceBand,
+      estimate: "Prices vary · book ahead",
+    };
+    const typeTags = c.types
+      .filter((t) => !["point_of_interest", "establishment", "food", "store"].includes(t))
+      .slice(0, 2)
+      .map((t) => t.replace(/_/g, " "));
+    return {
+      id: slugify(c.name, taken),
+      name: c.name,
+      category: sweep.category,
+      area: nearestArea(c.coords),
+      coords: c.coords,
+      priceBand: price.band,
+      priceEstimate: price.estimate,
+      rating: c.rating ?? 0,
+      reviewCount: c.reviewCount ?? 0,
+      address: c.address,
+      phone: null, // filled by places:refresh
+      tags: [act.tag, ...typeTags.filter((t) => t !== act.tag)].slice(0, 4),
+      blurb: c.summary ?? `${act.label} ${suburb ? `near ${suburb}` : "in the Western Cape"}.`,
+    };
+  };
+
+  await importCandidates(activityCandidatesFile(key), MIN_REVIEWS_ACTIVITY, importMapper, {
+    prefilter: (cands) => activityRelevanceFilter(cands, key),
+    onKnown: (existing) => {
+      if (existing.tags.some((t) => t.toLowerCase() === act.tag)) return false;
+      existing.tags = [...existing.tags, act.tag];
+      return true;
+    },
+  });
+}
+
 async function main() {
-  const area = process.argv[2] as AreaId | undefined;
-  const doImport = process.argv[3] === "import";
-  if (!area) {
-    console.error("Usage: tsx scripts/discover-places.ts <area> [import]");
+  const [, , first, second, third] = process.argv;
+  if (first === "activity") {
+    const doImport = third === "import";
+    if (!second) {
+      console.error("Usage: tsx scripts/discover-places.ts activity <key|all> [import]");
+      process.exit(1);
+    }
+    const keys = second === "all" ? Object.keys(ACTIVITY_SWEEPS) : [second];
+    for (const key of keys) {
+      if (doImport) await runImportActivity(key);
+      else await runDiscoverActivity(key);
+    }
+    return;
+  }
+
+  const area = first as AreaId | undefined;
+  const doImport = second === "import";
+  if (!area || !AREA_IDS.includes(area)) {
+    console.error(
+      "Usage: tsx scripts/discover-places.ts <area> [import]\n" +
+        "       tsx scripts/discover-places.ts activity <key|all> [import]"
+    );
     process.exit(1);
   }
   if (doImport) await runImport(area);

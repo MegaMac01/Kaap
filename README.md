@@ -1,8 +1,10 @@
 # Kaap: Cape Town Activity Guide
 
-Mobile-first PWA for discovering things to do in Cape Town: restaurants, bars,
-outdoor activities, classes, arts, family outings and lowkey local gems, with
-Rand prices, live opening hours (SAST) and saveable lists.
+Mobile-first PWA for discovering things to do in Cape Town and across the
+Western Cape: restaurants, bars, outdoor activities and adventures (quad
+biking, shark cage diving, paragliding), classes, arts, family outings and
+lowkey local gems, with Rand prices, live opening hours (SAST) and saveable
+lists.
 
 Built from the design handoff in `plans/design_handoff_cape_town_guide`
 (`SPEC.md` = product spec, `HANDOFF.md` = design doc; Phase 1 / MVP per
@@ -26,6 +28,9 @@ npm run seed:sql       # regenerate supabase/seed.sql from lib/data/spots.ts
 npm run icons          # regenerate placeholder PWA icons
 npm run places:match   # match spots to Google place IDs (needs PLACES_API_KEY)
 npm run places:refresh # refresh hours/ratings/contact from Google Places
+npm run places:discover <area> [import]            # Nearby Search sweep of one metro area
+npm run places:discover activity <key|all> [import] # Text Search sweep of the whole
+                       # Western Cape for one activity (quad biking, sharks, ...)
 ```
 
 ## Live data (Google Places)

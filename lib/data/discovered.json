@@ -784,6 +784,7 @@
     "address": "Blouberg Kite Surfing Beach, Table View, Cape Town, 7439",
     "phone": null,
     "tags": [
+      "kitesurfing",
       "beach",
       "natural feature"
     ],
@@ -5236,7 +5237,8 @@
     "tags": [
       "sports coaching",
       "sports activity location",
-      "sports school"
+      "sports school",
+      "horse riding"
     ],
     "blurb": "Sports School in Durbanville."
   },
@@ -5688,5 +5690,3654 @@
       "service"
     ],
     "blurb": "Store in Oakdale."
+  },
+  {
+    "id": "atlantis-dunes",
+    "name": "Atlantis Dunes",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.598358399999995,
+      "lng": 18.4490812
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 2100,
+    "address": "0 Dassenberg Dr, Atlantis, Cape Town, 7349",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "tourist attraction"
+    ],
+    "blurb": "Quad biking near Atlantis."
+  },
+  {
+    "id": "zone-7-mx-zone-7-motocross",
+    "name": "Zone 7 MX - Zone 7 Motocross",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.763122599999996,
+      "lng": 18.5519294
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 1124,
+    "address": "Van Schoorsdrift Rd, Cape Farms, Cape Town, 7550",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "race course",
+      "sports activity location"
+    ],
+    "blurb": "Quad biking near Cape Farms."
+  },
+  {
+    "id": "wildx-adventures-wilderness",
+    "name": "WildX Adventures Wilderness",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.001362,
+      "lng": 22.690434999999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 721,
+    "address": "Boven, Lange Valley, Wilderness, 6560",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "adventure sports center",
+      "sports complex",
+      "kayaking",
+      "horse riding"
+    ],
+    "blurb": "Quad biking near Lange Valley."
+  },
+  {
+    "id": "wacky-adventures",
+    "name": "Wacky Adventures",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -33.0203455,
+      "lng": 18.265252
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 562,
+    "address": "R45, Hopefield, 7355",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "campground",
+      "water park"
+    ],
+    "blurb": "Quad biking near R45."
+  },
+  {
+    "id": "sa-forest-adventures-hermanus",
+    "name": "SA Forest Adventures Hermanus",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.2861024,
+      "lng": 19.1451016
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 359,
+    "address": "R43, Honingklip Farm, Hermanus, 7200",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "tourist attraction",
+      "sandboarding"
+    ],
+    "blurb": "Quad biking near Honingklip Farm."
+  },
+  {
+    "id": "melkbos-4x4",
+    "name": "Melkbos 4x4",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7040949,
+      "lng": 18.467512
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 172,
+    "address": "Otto du Plessis Dr, Melkbosstrand, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "event venue",
+      "catering service"
+    ],
+    "blurb": "Quad biking near Melkbosstrand."
+  },
+  {
+    "id": "wine-valley-adventures",
+    "name": "Wine Valley Adventures",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8373829,
+      "lng": 18.9537773
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 140,
+    "address": "Intersection R45 and, Franschhoek Wine Route, Operating from Vrede en Lust Wine Estate, Klapmuts - Simondium Rd, Franschhoek, Simondium, 7670",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "adventure sports center",
+      "sports complex",
+      "horse riding"
+    ],
+    "blurb": "Quad biking near Franschhoek."
+  },
+  {
+    "id": "wildx-adventures-paarl-battle-bunker",
+    "name": "WildX Adventures Paarl Battle Bunker",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7446184,
+      "lng": 19.0305517
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 125,
+    "address": "Du Toitskloof Pass, N1, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "tourist attraction",
+      "adventure sports center"
+    ],
+    "blurb": "Quad biking near N1."
+  },
+  {
+    "id": "southern-comfort-quad-bikes",
+    "name": "Southern Comfort Quad Bikes",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0249824,
+      "lng": 23.226287799999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.1,
+    "reviewCount": 118,
+    "address": "Garden Route, Fisanthoek, Plettenberg Bay, 6604",
+    "phone": null,
+    "tags": [
+      "quad biking"
+    ],
+    "blurb": "Quad biking near Fisanthoek."
+  },
+  {
+    "id": "quad-biking-cape-town",
+    "name": "Quad Biking Cape Town",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.1423348,
+      "lng": 19.0174734
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 101,
+    "address": "Worcester Street, Swannier River Grabouw, Swannie River, Cape Town, 7160",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "adventure sports center",
+      "tourist attraction"
+    ],
+    "blurb": "Quad biking near Swannie River."
+  },
+  {
+    "id": "tsitsikamma-adventure-land-quad-biking",
+    "name": "Tsitsikamma Adventure Land - Quad Biking",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.023812299999996,
+      "lng": 23.948084299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 80,
+    "address": "Farm 438 Stormsriver Tsitsikamma Tsitsikamma, 6308",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "adventure sports center",
+      "sports complex"
+    ],
+    "blurb": "Quad biking in the Western Cape."
+  },
+  {
+    "id": "route-62-mountain-adventures",
+    "name": "Route 62 Mountain Adventures",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.7833742,
+      "lng": 20.1154089
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 62,
+    "address": "10 Tanner St, Montagu, 6720",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "adventure sports center",
+      "sports coaching"
+    ],
+    "blurb": "Quad biking near 10 Tanner St."
+  },
+  {
+    "id": "mossel-bay-quad-biking",
+    "name": "Mossel Bay Quad Biking",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.1128016,
+      "lng": 22.104217
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 60,
+    "address": "R102, Hartenbos, Mossel Bay, 6500",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "adventure sports center",
+      "sports complex"
+    ],
+    "blurb": "Quad biking near Hartenbos."
+  },
+  {
+    "id": "cape-xtreme-adventure-tours-and-cape-to-",
+    "name": "Cape Xtreme Adventure Tours and Cape to Addo Safaris",
+    "category": "outdoor",
+    "area": "obs",
+    "coords": {
+      "lat": -33.9176009,
+      "lng": 18.5156664
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 55,
+    "address": "Unit C3, Maitland Park, 733 Voortrekker Rd, Maitland, Cape Town, 7405",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "tour agency",
+      "travel agency",
+      "sandboarding"
+    ],
+    "blurb": "Quad biking near Maitland."
+  },
+  {
+    "id": "walker-bay-adventures",
+    "name": "Walker Bay Adventures",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.4202264,
+      "lng": 19.2443009
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 48,
+    "address": "26 Marine Dr, Hermanus, 7200",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "adventure sports center",
+      "sports complex",
+      "kayaking"
+    ],
+    "blurb": "Quad biking near 26 Marine Dr."
+  },
+  {
+    "id": "wildx-adventures-harkerville-knysna",
+    "name": "WildX Adventures Harkerville (Knysna)",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.045479,
+      "lng": 23.292292999999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 48,
+    "address": "45, Holt Hill Farm, Bitou Rural District, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "tourist attraction",
+      "service"
+    ],
+    "blurb": "Quad biking near Bitou Rural District."
+  },
+  {
+    "id": "muddy-offroads-plett",
+    "name": "Muddy Offroads @ Plett",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0541792,
+      "lng": 23.372772899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 41,
+    "address": "Church St, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "parking",
+      "car repair"
+    ],
+    "blurb": "Quad biking near Church St."
+  },
+  {
+    "id": "wildx-adventures-the-crags-in-plettenber",
+    "name": "WildX Adventures The Crags in Plettenberg Bay",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9553598,
+      "lng": 23.4853643
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 40,
+    "address": "Mill Decor Centre, The Crags, Animal Alley, 6600",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "tourist attraction",
+      "adventure sports center"
+    ],
+    "blurb": "Quad biking near The Crags."
+  },
+  {
+    "id": "downhill-adventures",
+    "name": "Downhill Adventures",
+    "category": "outdoor",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9367798,
+      "lng": 18.4050109
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 2.6,
+    "reviewCount": 33,
+    "address": "Kloof St, Gardens, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "adventure sports center",
+      "sports complex"
+    ],
+    "blurb": "Quad biking near Gardens."
+  },
+  {
+    "id": "paradise-4x4",
+    "name": "Paradise 4x4",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0045901,
+      "lng": 22.6675482
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "address": "Arum St, Kleinkrantz, Wilderness, 6560",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "off roading area",
+      "sports activity location"
+    ],
+    "blurb": "Quad biking near Kleinkrantz."
+  },
+  {
+    "id": "wildx-adventures-george-bookings-only-ba",
+    "name": "WildX Adventures George - Bookings Only Basis :)",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.949292799999995,
+      "lng": 22.455541399999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 27,
+    "address": "Arbour Rd, Heatherlands, George, 6529",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "tourist attraction",
+      "service"
+    ],
+    "blurb": "Quad biking near Heatherlands."
+  },
+  {
+    "id": "dune-adventures-knysna-river-kayaking",
+    "name": "Dune Adventures Knysna River Kayaking",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0058966,
+      "lng": 23.0088197
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 27,
+    "address": "Phantom Drive, Knysna, 6571",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "tourist attraction",
+      "gym",
+      "kayaking"
+    ],
+    "blurb": "Quad biking near Phantom Drive."
+  },
+  {
+    "id": "active-adventures-paintballing-and-quad-",
+    "name": "Active adventures Paintballing and quad biking",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -33.0499727,
+      "lng": 18.044389199999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 3.8,
+    "reviewCount": 21,
+    "address": "Mykonos, Langebaan, 7357",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "paintball center",
+      "sports complex"
+    ],
+    "blurb": "Quad biking near Mykonos."
+  },
+  {
+    "id": "side-street-adventures",
+    "name": "Side Street Adventures",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9936516,
+      "lng": 22.5779501
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 18,
+    "address": "Shop 7, The Square, 1 Owen Grant St, Wilderness, George, 6560",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "tourist attraction",
+      "tourist information center"
+    ],
+    "blurb": "Quad biking near Wilderness."
+  },
+  {
+    "id": "paarl-trails-spice-route",
+    "name": "Paarl Trails - Spice Route",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7646145,
+      "lng": 18.9194083
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.1,
+    "reviewCount": 16,
+    "address": "Unnamed Road, Paarl, 7464",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "adventure sports center",
+      "fitness center"
+    ],
+    "blurb": "Quad biking near Unnamed Road."
+  },
+  {
+    "id": "jamin-adventures",
+    "name": "Jamin Adventures",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.002245099999996,
+      "lng": 22.647693699999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.1,
+    "reviewCount": 15,
+    "address": "Kleinkrantz, Plettenberg Bay, Wilderness, 6600",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "travel agency",
+      "movie rental"
+    ],
+    "blurb": "Quad biking near Plettenberg Bay."
+  },
+  {
+    "id": "ingwe-adventures",
+    "name": "Ingwe Adventures",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9472594,
+      "lng": 23.5042498
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 10,
+    "address": "Off the N 2, R102 Firefly Falls The Crags, Plettenberg Bay, 6602",
+    "phone": null,
+    "tags": [
+      "quad biking",
+      "adventure sports center",
+      "sports complex"
+    ],
+    "blurb": "Quad biking near R102 Firefly Falls The Crags."
+  },
+  {
+    "id": "map-of-africa",
+    "name": "Map of Africa",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9929268,
+      "lng": 22.560810099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 2750,
+    "address": "Hoekwil, Wilderness, Hoekwil, Wilderness, 6538",
+    "phone": null,
+    "tags": [
+      "paragliding",
+      "tourist attraction"
+    ],
+    "blurb": "Panoramic views over peaks & a river valley shaped like Africa, with paraglider launch spots nearby."
+  },
+  {
+    "id": "cape-town-tandem-paragliding",
+    "name": "Cape Town Tandem Paragliding",
+    "category": "outdoor",
+    "area": "bokaap",
+    "coords": {
+      "lat": -33.9175918,
+      "lng": 18.4028428
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 1502,
+    "address": "2 Signal Hill Rd, Signal Hill, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "paragliding",
+      "adventure sports center",
+      "tourist attraction"
+    ],
+    "blurb": "Paragliding near Signal Hill."
+  },
+  {
+    "id": "fly-cape-town-tandem-paragliding",
+    "name": "Fly Cape Town Tandem Paragliding",
+    "category": "outdoor",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.936434999999996,
+      "lng": 18.419800000000002
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 589,
+    "address": "26 Virginia Ave, Vredehoek, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "paragliding",
+      "tourist attraction",
+      "adventure sports center"
+    ],
+    "blurb": "Paragliding near Vredehoek."
+  },
+  {
+    "id": "skydive-mossel-bay-mossel-bay-airfield",
+    "name": "Skydive Mossel Bay - Mossel Bay Airfield",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.1590285,
+      "lng": 22.0601243
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 475,
+    "address": "Skydive Hangar, Airfield, 69 Rooikat, Aalwyndal, Mossel Bay, 6500",
+    "phone": null,
+    "tags": [
+      "paragliding",
+      "adventure sports center",
+      "tourist attraction"
+    ],
+    "blurb": "Paragliding near Aalwyndal."
+  },
+  {
+    "id": "wild2fly-paragliding",
+    "name": "Wild2Fly Paragliding",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0025651,
+      "lng": 22.647191199999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 396,
+    "address": "Erf 1435 Protea str, Kleinkrantz, Wilderness, 6560",
+    "phone": null,
+    "tags": [
+      "paragliding",
+      "transportation service",
+      "educational institution"
+    ],
+    "blurb": "Paragliding near Kleinkrantz."
+  },
+  {
+    "id": "fly-time-paragliding",
+    "name": "Fly Time Paragliding",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0057863,
+      "lng": 22.794497099999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 388,
+    "address": "Egret Rd, Sedgefield, 6572",
+    "phone": null,
+    "tags": [
+      "paragliding",
+      "adventure sports center",
+      "tourist attraction"
+    ],
+    "blurb": "Paragliding near Egret Rd."
+  },
+  {
+    "id": "cloudbase-paragliding",
+    "name": "Cloudbase Paragliding",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9955709,
+      "lng": 22.6189333
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 174,
+    "address": "581 Lake Rd, Wilderness, 6560",
+    "phone": null,
+    "tags": [
+      "paragliding",
+      "adventure sports center",
+      "tourist attraction"
+    ],
+    "blurb": "Paragliding near 581 Lake Rd."
+  },
+  {
+    "id": "birdmen-paragliding",
+    "name": "Birdmen Paragliding",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.8254174,
+      "lng": 18.502049900000003
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 150,
+    "address": "36 Champagne Rd, Table View, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "paragliding",
+      "adventure sports center",
+      "sports complex"
+    ],
+    "blurb": "Paragliding near Table View."
+  },
+  {
+    "id": "kleinkrantz-dune-paragliding-wilderness-",
+    "name": "Kleinkrantz Dune Paragliding Wilderness Launch Site",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0059045,
+      "lng": 22.659618299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 51,
+    "address": "Hibiscus St, Kleinkrantz, Wilderness, 6530",
+    "phone": null,
+    "tags": [
+      "paragliding",
+      "sports club",
+      "association or organization"
+    ],
+    "blurb": "Paragliding near Kleinkrantz."
+  },
+  {
+    "id": "paraglide-africa-beach-hotel",
+    "name": "Paraglide Africa - Beach Hotel",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9991941,
+      "lng": 22.6142413
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 45,
+    "address": "1 South St, Wilderness, 6538",
+    "phone": null,
+    "tags": [
+      "paragliding",
+      "adventure sports center",
+      "tourist attraction"
+    ],
+    "blurb": "Paragliding near 1 South St."
+  },
+  {
+    "id": "paraglide-africa-wilderness",
+    "name": "Paraglide Africa - Wilderness",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9711089,
+      "lng": 22.613661999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 35,
+    "address": "3 Outeniqua Rd, Hoekwil, Wilderness, 6538",
+    "phone": null,
+    "tags": [
+      "paragliding",
+      "adventure sports center",
+      "sports complex"
+    ],
+    "blurb": "Paragliding near Hoekwil."
+  },
+  {
+    "id": "lions-head-paragliding",
+    "name": "Lion’s Head Paragliding",
+    "category": "outdoor",
+    "area": "woodstock",
+    "coords": {
+      "lat": -33.9248836,
+      "lng": 18.4534803
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 17,
+    "address": "Unit 3, Nearby Park, 10 Railway St, Woodstock, Cape Town, 7925",
+    "phone": null,
+    "tags": [
+      "paragliding",
+      "tourist attraction"
+    ],
+    "blurb": "Paragliding near Woodstock."
+  },
+  {
+    "id": "untouched-adventures",
+    "name": "Untouched Adventures",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0229394,
+      "lng": 23.8986151
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 1630,
+    "address": "Storms River Mouth, 6309",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Kayaking in the Western Cape."
+  },
+  {
+    "id": "kayak-clifton",
+    "name": "KAYAK CLIFTON",
+    "category": "outdoor",
+    "area": "campsbay",
+    "coords": {
+      "lat": -33.9406169,
+      "lng": 18.374228499999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 1249,
+    "address": "Clifton 4th, Clifton, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Kayaking near Clifton."
+  },
+  {
+    "id": "cape-kayak-adventures",
+    "name": "CAPE KAYAK ADVENTURES",
+    "category": "outdoor",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.905780799999995,
+      "lng": 18.398066999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 737,
+    "address": "180 Beach Rd, Three Anchor Bay, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Kayaking near Three Anchor Bay."
+  },
+  {
+    "id": "atlantic-outlook-kayak-cape-town-tours",
+    "name": "Atlantic Outlook - Kayak Cape Town Tours",
+    "category": "outdoor",
+    "area": "waterfront",
+    "coords": {
+      "lat": -33.9025949,
+      "lng": 18.416397399999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 475,
+    "address": "Granger Bay Blvd, Victoria & Alfred Waterfront, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "adventure sports center",
+      "tour agency"
+    ],
+    "blurb": "Kayaking near Victoria & Alfred Waterfront."
+  },
+  {
+    "id": "kayak-adventures-waterfront",
+    "name": "Kayak Adventures Waterfront",
+    "category": "outdoor",
+    "area": "waterfront",
+    "coords": {
+      "lat": -33.9123328,
+      "lng": 18.4219544
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 424,
+    "address": "Battery Park, Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8000",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Kayaking near Victoria & Alfred Waterfront."
+  },
+  {
+    "id": "animal-ocean-expeditions",
+    "name": "Animal Ocean Expeditions",
+    "category": "outdoor",
+    "area": "houtbay",
+    "coords": {
+      "lat": -34.041604,
+      "lng": 18.35007
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 390,
+    "address": "41 Victoria Ave, Hout Bay, Cape Town, 7806",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Kayaking near Hout Bay."
+  },
+  {
+    "id": "kayak-cape-town-simons-town",
+    "name": "Kayak Cape Town (Simon's Town)",
+    "category": "outdoor",
+    "area": "muizenberg",
+    "coords": {
+      "lat": -34.1927326,
+      "lng": 18.4324832
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 384,
+    "address": "Simons Town Jetty, Wharf St, Simon's Town, Cape Town, 7995",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Kayaking near Simon's Town."
+  },
+  {
+    "id": "knysna-charters",
+    "name": "Knysna Charters",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.048536999999996,
+      "lng": 23.047923299999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 379,
+    "address": "Harbour Town, Th23 Sawtooth Ln, Thesen Island, Knysna, 6571",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "adventure sports center",
+      "tourist information center"
+    ],
+    "blurb": "Kayaking near Thesen Island."
+  },
+  {
+    "id": "kayak-adventures",
+    "name": "Kayak Adventures",
+    "category": "outdoor",
+    "area": "houtbay",
+    "coords": {
+      "lat": -34.0497513,
+      "lng": 18.345627000000004
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 299,
+    "address": "Harbour Rd, Hout Bay Harbour, Cape Town, 7806",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Kayaking near Hout Bay Harbour."
+  },
+  {
+    "id": "waterfront-kayak",
+    "name": "Waterfront Kayak",
+    "category": "outdoor",
+    "area": "waterfront",
+    "coords": {
+      "lat": -33.9042828,
+      "lng": 18.420897099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 216,
+    "address": "Shop No 8, Quay 5, Victoria & Alfred Waterfront, Cape Town, 8002",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Kayaking near Victoria & Alfred Waterfront."
+  },
+  {
+    "id": "kayak-adventures-simons-town",
+    "name": "Kayak Adventures Simons Town",
+    "category": "outdoor",
+    "area": "muizenberg",
+    "coords": {
+      "lat": -34.1874648,
+      "lng": 18.4259458
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 192,
+    "address": "Long Beach, Driegebroeders Road, Simon's Town, Cape Town, 7995",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "adventure sports center",
+      "tour agency"
+    ],
+    "blurb": "Kayaking near Simon's Town."
+  },
+  {
+    "id": "yzerfontein-sea-sport",
+    "name": "Yzerfontein Sea Sport",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -33.347093799999996,
+      "lng": 18.1496373
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 140,
+    "address": "harbour, Yzerfontein, 7351",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "adventure sports center",
+      "tour agency"
+    ],
+    "blurb": "Kayaking near harbour."
+  },
+  {
+    "id": "wilderness-river-safaris",
+    "name": "Wilderness River Safaris",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9934096,
+      "lng": 22.6046324
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 123,
+    "address": "National Park, Ebb and Flow Dr, Wilderness, 6560",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Kayaking near Ebb and Flow Dr."
+  },
+  {
+    "id": "keurbooms-ferries",
+    "name": "Keurbooms Ferries",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0030003,
+      "lng": 23.4016763
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 111,
+    "address": "N2 Keurbooms River Keurbooms, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tourist attraction",
+      "picnic ground"
+    ],
+    "blurb": "Kayaking near N2 Keurbooms River Keurbooms."
+  },
+  {
+    "id": "dolphin-adventures-sea-kayaking",
+    "name": "Dolphin Adventures Sea Kayaking",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.058819,
+      "lng": 23.378165
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 97,
+    "address": "Central Beach Kayak Rack Next to Life Saving Club, Hopwood St, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tourist attraction",
+      "adventure sports center"
+    ],
+    "blurb": "Kayaking near Hopwood St."
+  },
+  {
+    "id": "kayak-adventures-cape-town",
+    "name": "Kayak Adventures Cape Town",
+    "category": "outdoor",
+    "area": "waterfront",
+    "coords": {
+      "lat": -33.9000562,
+      "lng": 18.411930899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 83,
+    "address": "100 Beach Road, Granger Bay Blvd, Mouille Point, Cape Town, 8060",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Kayaking near Mouille Point."
+  },
+  {
+    "id": "amanzi-trails-orange-river-adventures-bo",
+    "name": "Amanzi Trails Orange River Adventures - Booking Office",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8560258,
+      "lng": 18.6260398
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 55,
+    "address": "The, Vineyards Office Estate, 99 Jip De Jager Dr, De Bron, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "hiking area",
+      "campground"
+    ],
+    "blurb": "Kayaking near De Bron."
+  },
+  {
+    "id": "gravity-adventures",
+    "name": "Gravity Adventures",
+    "category": "outdoor",
+    "area": "south",
+    "coords": {
+      "lat": -33.9842527,
+      "lng": 18.4797087
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 49,
+    "address": "21 Selous Rd, Claremont, Cape Town, 7708",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "adventure sports center",
+      "tour agency"
+    ],
+    "blurb": "Kayaking near Claremont."
+  },
+  {
+    "id": "shelley-point-kayaking",
+    "name": "Shelley Point Kayaking",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.7129215,
+      "lng": 17.9771601
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 44,
+    "address": "5th Ave, Shelley Point, St Helena Bay, 7382",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Kayaking near Shelley Point."
+  },
+  {
+    "id": "pura-vida-kayak-adventure-kleinmond",
+    "name": "Pura Vida Kayak Adventure - Kleinmond",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.3380765,
+      "lng": 18.9914347
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 41,
+    "address": "Yetty, Lagoon, Palmiet St, Kleinmond, 7195",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "service"
+    ],
+    "blurb": "Kayaking near Palmiet St."
+  },
+  {
+    "id": "bonamanzi-adventures",
+    "name": "Bonamanzi Adventures",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7376599,
+      "lng": 19.4867742
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 36,
+    "address": "South Africa",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Kayaking in the Western Cape."
+  },
+  {
+    "id": "aquatrails",
+    "name": "Aquatrails",
+    "category": "outdoor",
+    "area": "muizenberg",
+    "coords": {
+      "lat": -34.14069310000001,
+      "lng": 18.4297482
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 26,
+    "address": "150 Main Rd, Fish Hoek, Cape Town, 7974",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Kayaking near Fish Hoek."
+  },
+  {
+    "id": "bitou-kayaks",
+    "name": "Bitou Kayaks",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0096489,
+      "lng": 23.373437799999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 22,
+    "address": "Rietvlei Rd, Plettenberg Bay",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Kayaking in the Western Cape."
+  },
+  {
+    "id": "supingkeurbooms",
+    "name": "Supingkeurbooms",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.996443899999996,
+      "lng": 23.399587699999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 20,
+    "address": "Forever, Plettenberg Bay",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Kayaking in the Western Cape."
+  },
+  {
+    "id": "kayak-paternoster",
+    "name": "Kayak Paternoster",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.8060335,
+      "lng": 17.8836379
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "address": "1 Kreeftegang, Kliprug, Paternoster, 7381",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Kayaking near Kliprug."
+  },
+  {
+    "id": "shelley-point-kayaking-2",
+    "name": "Shelley Point Kayaking",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.709886,
+      "lng": 17.9743
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 13,
+    "address": "12 21st St, Shelley Point, St Helena Bay, 7282",
+    "phone": null,
+    "tags": [
+      "kayaking",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Kayaking near Shelley Point."
+  },
+  {
+    "id": "the-dunes-beach-horse-rides",
+    "name": "The Dunes Beach Horse Rides",
+    "category": "outdoor",
+    "area": "houtbay",
+    "coords": {
+      "lat": -34.101881299999995,
+      "lng": 18.3607498
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 502,
+    "address": "South Africa, 26 Protea St, Chapmans Peak, Cape Town, 7979",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near Chapmans Peak."
+  },
+  {
+    "id": "the-riding-centre",
+    "name": "The Riding Centre",
+    "category": "outdoor",
+    "area": "houtbay",
+    "coords": {
+      "lat": -34.0355005,
+      "lng": 18.3557559
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 370,
+    "address": "Main Rd, Hout Bay, Cape Town, 7872",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near Hout Bay."
+  },
+  {
+    "id": "mountain-view-horse-trails",
+    "name": "Mountain View Horse Trails",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.749652399999995,
+      "lng": 18.556837599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 344,
+    "address": "Van Schoorsdrif Rd, Cape Farms, Cape Town",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "stable",
+      "pet boarding service"
+    ],
+    "blurb": "Horse riding near Van Schoorsdrif Rd."
+  },
+  {
+    "id": "tniqua-stable-inn",
+    "name": "T'Niqua Stable Inn",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0948681,
+      "lng": 23.3151632
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 318,
+    "address": "Robberg Rd, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "bed and breakfast",
+      "event venue"
+    ],
+    "blurb": "Relaxed rooms & suites in a casual countryside guesthouse featuring a restaurant & an outdoor pool."
+  },
+  {
+    "id": "heaven-and-earth-trails",
+    "name": "Heaven and Earth Trails",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.361815,
+      "lng": 19.217223
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 315,
+    "address": "7 Karweyderskraal Farm Karwyderskraalroad Hemel en Aarde, Hermanus, 7200",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near 7 Karweyderskraal Farm Karwyderskraalroad Hemel en Aarde."
+  },
+  {
+    "id": "kurland-park-horse-trails",
+    "name": "Kurland Park Horse Trails",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9332746,
+      "lng": 23.510085699999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 259,
+    "address": "Loredo North, The Crags, Plettenberg Bay, 6602",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near The Crags."
+  },
+  {
+    "id": "pearly-beach-horse-trails",
+    "name": "Pearly Beach Horse Trails",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.6581888,
+      "lng": 19.5365649
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 160,
+    "address": "Portion 1 Farm 321, Kleynhagelkraal, Pearly Beach, 7221",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near Kleynhagelkraal."
+  },
+  {
+    "id": "klein-karoo-horse-adventures",
+    "name": "Klein Karoo Horse Adventures",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.5014071,
+      "lng": 22.583581900000002
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 120,
+    "address": "Domein, Doornkraal Stompdriftdam Road, De Rust, 6650",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near Doornkraal Stompdriftdam Road."
+  },
+  {
+    "id": "cape-winelands-riding",
+    "name": "Cape Winelands Riding",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8183982,
+      "lng": 18.9506153
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 115,
+    "address": "R45, Simondium, 7670",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near R45."
+  },
+  {
+    "id": "silvermist-equestrian-center",
+    "name": "Silvermist Equestrian Center",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8115574,
+      "lng": 18.7712543
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 114,
+    "address": "R304 East Rural Matjieskuil Farm, Joostenberg Vlakte, Cape Town, 7599",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near Joostenberg Vlakte."
+  },
+  {
+    "id": "perdepoort-horse-trails-local-info-co-za",
+    "name": "Perdepoort Horse trails@local-info.co.za",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9613997,
+      "lng": 22.5789922
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 114,
+    "address": "George",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding in the Western Cape."
+  },
+  {
+    "id": "drikus-horse-trails-paternoster",
+    "name": "Drikus Horse Trails Paternoster",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.7719874,
+      "lng": 17.9353527
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 111,
+    "address": "Swartrug Farm, Western Cape, Paternoster, 7381",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near Western Cape."
+  },
+  {
+    "id": "equine-sport-centre-for-horse-riding-ste",
+    "name": "Equine Sport Centre for Horse Riding - Stellenbosch Winelands",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.867294,
+      "lng": 18.852551599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 107,
+    "address": "Slaley Wine Farm, R44 &, Kromme Rhee Rd, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "sports school",
+      "sports coaching"
+    ],
+    "blurb": "Horse riding near Kromme Rhee Rd."
+  },
+  {
+    "id": "horse-rides-at-petes-wildlife-safari",
+    "name": "Horse Rides at Pete's - Wildlife Safari",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8395442,
+      "lng": 18.7943085
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 97,
+    "address": "R304, Koelenhof, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near Koelenhof."
+  },
+  {
+    "id": "oudebosch-guest-farm",
+    "name": "Oudebosch Guest Farm",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.985391299999996,
+      "lng": 21.122557300000004
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 89,
+    "address": "Korentepoort dam, Riversdale, 6670",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near Korentepoort dam."
+  },
+  {
+    "id": "west-coast-horse-trails",
+    "name": "West Coast Horse Trails",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -33.3306654,
+      "lng": 18.1679526
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 79,
+    "address": "Strandkombuis Rd, Yzerfontein, 7351",
+    "phone": null,
+    "tags": [
+      "horse riding"
+    ],
+    "blurb": "Horse riding near Strandkombuis Rd."
+  },
+  {
+    "id": "paradise-stables-robertsvallei",
+    "name": "Paradise Stables @ Robertsvallei",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.926090099999996,
+      "lng": 19.094849999999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 76,
+    "address": "Robertsvlei Rd, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near Robertsvlei Rd."
+  },
+  {
+    "id": "journeys-end-horseback-rides",
+    "name": "Journey's End Horseback Rides",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.1056726,
+      "lng": 18.908373299999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 70,
+    "address": "25A Journeys End, Sir Lowrys Pass Road, Somerset West, Cape Town, 7129",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "sports school",
+      "sports coaching"
+    ],
+    "blurb": "Horse riding near Somerset West."
+  },
+  {
+    "id": "alpha-equestrian",
+    "name": "alpha equestrian",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7408427,
+      "lng": 19.048926599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 64,
+    "address": "Keerweder Rd, Paarl, 4676",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near Keerweder Rd."
+  },
+  {
+    "id": "garden-route-horse-trails",
+    "name": "Garden Route Horse Trails",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9724636,
+      "lng": 22.5343229
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 56,
+    "address": "43 Seven Passes Rd, Glenwood AH, George, 6529",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near Glenwood AH."
+  },
+  {
+    "id": "long-shadows-farm",
+    "name": "Long Shadows Farm",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.2151376,
+      "lng": 19.0122855
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 53,
+    "address": "Viljoenshoop Rd, Elgin, 7180",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "stable",
+      "pet boarding service"
+    ],
+    "blurb": "Horse riding near Viljoenshoop Rd."
+  },
+  {
+    "id": "boschrivier-farm",
+    "name": "Boschrivier Farm",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.019376099999995,
+      "lng": 23.3194652
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 53,
+    "address": "Hoof Rd, Wittedrift, Plettenberg Bay, 6603",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "farmstay",
+      "sports activity location"
+    ],
+    "blurb": "Horse riding near Wittedrift."
+  },
+  {
+    "id": "equine-encounters-and-trail-rides",
+    "name": "Equine Encounters and Trail Rides",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.015555299999995,
+      "lng": 20.424614
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 51,
+    "address": "Hermitage N Ave, South, Swellendam, 6740",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "sports coaching",
+      "sports school"
+    ],
+    "blurb": "Horse riding near South."
+  },
+  {
+    "id": "west-coast-beach-rides",
+    "name": "West Coast Beach Rides",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.816321699999996,
+      "lng": 17.897881299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 46,
+    "address": "Pelgrimsrust, Paternoster, 7381",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near Pelgrimsrust."
+  },
+  {
+    "id": "horse-about-livery",
+    "name": "Horse About Livery",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.345425999999996,
+      "lng": 19.202935
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 45,
+    "address": "Tulbagh",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "stable",
+      "hiking area"
+    ],
+    "blurb": "Horse riding in the Western Cape."
+  },
+  {
+    "id": "tulbagh-horse-trails",
+    "name": "Tulbagh Horse Trails",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.223481,
+      "lng": 19.148891
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "address": "Winterhoek road, Tulbagh, 6820",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tourist attraction"
+    ],
+    "blurb": "Horse riding near Winterhoek road."
+  },
+  {
+    "id": "robertson-horse-adventures",
+    "name": "Robertson Horse Adventures",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.8288836,
+      "lng": 19.903466899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 42,
+    "address": "Klipdrift farm, Robertson, 6507",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near Klipdrift farm."
+  },
+  {
+    "id": "hermitage-horses",
+    "name": "Hermitage Horses",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.0039878,
+      "lng": 20.4257548
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 42,
+    "address": "Hermitage, 24 North Rd, Swellendam, 6740",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "sports coaching",
+      "sports school"
+    ],
+    "blurb": "Horse riding near 24 North Rd."
+  },
+  {
+    "id": "oude-molen-stables",
+    "name": "Oude Molen Stables",
+    "category": "outdoor",
+    "area": "obs",
+    "coords": {
+      "lat": -33.9400488,
+      "lng": 18.489380999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 41,
+    "address": "Alexandra Rd, Oude Molen Village, Cape Town, 7405",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near Oude Molen Village."
+  },
+  {
+    "id": "adventure-horse-safaris",
+    "name": "Adventure Horse Safaris",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.1514407,
+      "lng": 22.064935
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 41,
+    "address": "Unnamed Road, Vyf Brakke Fonteinen, Mossel Bay, 6520",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "stable",
+      "pet boarding service"
+    ],
+    "blurb": "Horse riding near Vyf Brakke Fonteinen."
+  },
+  {
+    "id": "african-horse-company-stanford",
+    "name": "African Horse Company - Stanford",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.4228964,
+      "lng": 19.4734735
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 34,
+    "address": "Stanford Hills Estate, Stanford, 7210",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near Stanford Hills Estate."
+  },
+  {
+    "id": "gansbaai-horse-riding",
+    "name": "Gansbaai Horse Riding",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.5997726,
+      "lng": 19.4081278
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 31,
+    "address": "Corner of R43 and Uilenkraalsmond Resort - behind Johnny Rockets, Gansbaai, 7220",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "sports coaching",
+      "sports activity location"
+    ],
+    "blurb": "Horse riding near Corner of R43 and Uilenkraalsmond Resort - behind Johnny Rockets."
+  },
+  {
+    "id": "souled-out-stables",
+    "name": "SOULED OUT STABLES",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.1853826,
+      "lng": 22.0925853
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 31,
+    "address": "Spekboom St, Heiderand Extension, Mossel Bay, 6511",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "sports coaching",
+      "sports school"
+    ],
+    "blurb": "Horse riding near Heiderand Extension."
+  },
+  {
+    "id": "the-ranch-horse-trail-rides",
+    "name": "@ The Ranch Horse Trail Rides",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.3462429,
+      "lng": 19.293996
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "address": "Hemel en Aarde Valley, Hemel en Aarde Road, Hermanus, 7200",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "sports activity location"
+    ],
+    "blurb": "Horse riding near Hemel en Aarde Road."
+  },
+  {
+    "id": "solitaire-equestrian-academy",
+    "name": "Solitaire Equestrian Academy",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.3665345,
+      "lng": 19.2212162
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "address": "Hemel en aarde, Karwyderskraal, 7201",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "sports coaching",
+      "stable"
+    ],
+    "blurb": "Horse riding near Hemel en aarde."
+  },
+  {
+    "id": "the-pink-geranium-horse-riding",
+    "name": "The Pink Geranium Horse Riding",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8168593,
+      "lng": 18.7921882
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 18,
+    "address": "The Pink Geranium Nursery N1 corner, R304, Elsenberg, 7607",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near R304."
+  },
+  {
+    "id": "two-feathers-horse-trails",
+    "name": "Two Feathers Horse Trails",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.0060146,
+      "lng": 20.4581879
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 18,
+    "address": "Koloniesbos Hut, Marloth Nature Reserve, Swellendam, 6740",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tourist attraction",
+      "tour agency"
+    ],
+    "blurb": "Horse riding near Marloth Nature Reserve."
+  },
+  {
+    "id": "bainskloof-horseriding-adventures",
+    "name": "Bainskloof Horseriding Adventures",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.6389,
+      "lng": 19.066449199999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 14,
+    "address": "Canetsfontein Wine, Olives, Fruit and Vegetable Estate, Wellington, 7655",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near Fruit and Vegetable Estate."
+  },
+  {
+    "id": "highway-west-stables-accommodation",
+    "name": "Highway West Stables & Accommodation",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.979681400000004,
+      "lng": 22.9567203
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 14,
+    "address": "Portion 2, Farm 196, Mount Pleasant, Rheenendal, 6576",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "stable",
+      "pet boarding service"
+    ],
+    "blurb": "Horse riding near Mount Pleasant."
+  },
+  {
+    "id": "painted-horse-riding-worcester",
+    "name": "Painted Horse Riding Worcester",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.6168525,
+      "lng": 19.396665799999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 13,
+    "address": "Farm D4, UnNamed Road Brandwaght, Worcester, 6850",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "sports school",
+      "sports coaching"
+    ],
+    "blurb": "Horse riding near UnNamed Road Brandwaght."
+  },
+  {
+    "id": "stellenbosch-endurance-yard-and-horse-tr",
+    "name": "Stellenbosch Endurance Yard and Horse Trails",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8988175,
+      "lng": 18.8423671
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 12,
+    "address": "Stellenbosch",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "sports activity location"
+    ],
+    "blurb": "Horse riding in the Western Cape."
+  },
+  {
+    "id": "milkwood-horse-trails",
+    "name": "Milkwood Horse Trails",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.3628948,
+      "lng": 20.6135555
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 10,
+    "address": "Melkhoutrivier plot 492, Malgas, 6740",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near Melkhoutrivier plot 492."
+  },
+  {
+    "id": "winelands-horse-trails",
+    "name": "Winelands Horse Trails",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.787942799999996,
+      "lng": 19.9180214
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 10,
+    "address": "De Hoop Road, Robertson, 6705",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near De Hoop Road."
+  },
+  {
+    "id": "maple-ranch-adventures",
+    "name": "Maple Ranch Adventures",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9838479,
+      "lng": 23.439273999999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 10,
+    "address": "1 Pinehaven Rd, Keurboom Heights, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "adventure sports center"
+    ],
+    "blurb": "Horse riding near Keurboom Heights."
+  },
+  {
+    "id": "abbotsdale-horse-riding",
+    "name": "Abbotsdale Horse Riding",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.489925,
+      "lng": 18.679914
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 9,
+    "address": "Church Street, Abbotsdale, Cape Town, 7300",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Horse riding near Abbotsdale."
+  },
+  {
+    "id": "klein-paradys-equestrian-centre",
+    "name": "Klein Paradys Equestrian Centre",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.2324773,
+      "lng": 19.203940799999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 9,
+    "address": "Main Road, Bot River, 7185",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "sports activity location"
+    ],
+    "blurb": "Horse riding near Main Road."
+  },
+  {
+    "id": "k-rides-equine-education-energy-rescue-c",
+    "name": "K-Rides Equine Education Energy Rescue Centre",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0442099,
+      "lng": 23.2935973
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4,
+    "reviewCount": 8,
+    "address": "PORTION 19 OF THE FARM HOLT HILL. 434, N2, Harkerville, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "horse riding",
+      "sports coaching",
+      "non profit organization"
+    ],
+    "blurb": "Horse riding near Harkerville."
+  },
+  {
+    "id": "sandboarding-cape-town",
+    "name": "Sandboarding Cape Town",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.5986616,
+      "lng": 18.4492084
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 338,
+    "address": "Klein Dassenberg Rd, Atlantis, Cape Town, 0083",
+    "phone": null,
+    "tags": [
+      "sandboarding",
+      "tourist attraction",
+      "tour agency"
+    ],
+    "blurb": "Playful destination for sandboarding offering gear, basic training & rides to the top of the dunes."
+  },
+  {
+    "id": "dragon-dune-sandboarding",
+    "name": "Dragon Dune Sandboarding",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.1817103,
+      "lng": 22.0383289
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 54,
+    "address": "Field St, Mossel Bay, 6506",
+    "phone": null,
+    "tags": [
+      "sandboarding",
+      "tourist attraction"
+    ],
+    "blurb": "Sandboarding near Field St."
+  },
+  {
+    "id": "bettys-bay-sandboarding",
+    "name": "Betty's Bay Sandboarding",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.368423799999995,
+      "lng": 18.862876
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 41,
+    "address": "Watsonia St, Betty's Bay, 7141",
+    "phone": null,
+    "tags": [
+      "sandboarding",
+      "transportation service"
+    ],
+    "blurb": "Sandboarding near Watsonia St."
+  },
+  {
+    "id": "tsitsikamma-canopy-tours",
+    "name": "Tsitsikamma Canopy Tours",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9742926,
+      "lng": 23.8874837
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 1689,
+    "address": "101 Darnell St, Stormsrivier, 6308",
+    "phone": null,
+    "tags": [
+      "ziplining",
+      "tourist attraction",
+      "adventure sports center"
+    ],
+    "blurb": "Built around giant Outeniqua Yellowwood trees, this canopy tour takes visitors through the treetops."
+  },
+  {
+    "id": "mossel-bay-zipline",
+    "name": "Mossel Bay Zipline",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.1860175,
+      "lng": 22.1592913
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 1392,
+    "address": "6 Point Rd, Mossel Bay, 6500",
+    "phone": null,
+    "tags": [
+      "ziplining"
+    ],
+    "blurb": "Ziplining near 6 Point Rd."
+  },
+  {
+    "id": "zipline-tsitsikamma-falls-adventure",
+    "name": "ZIPLINE @ Tsitsikamma Falls Adventure",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9833687,
+      "lng": 24.022298
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 1295,
+    "address": "Farm 509/1 Witelsbos Tsitsikamma, 6304",
+    "phone": null,
+    "tags": [
+      "ziplining",
+      "tourist attraction"
+    ],
+    "blurb": "Ziplining in the Western Cape."
+  },
+  {
+    "id": "cape-canopy-tour",
+    "name": "Cape Canopy Tour",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0709019,
+      "lng": 19.0495466
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 1264,
+    "address": "Forestry Rd, Grabouw, 7160",
+    "phone": null,
+    "tags": [
+      "ziplining",
+      "tourist attraction",
+      "hiking area"
+    ],
+    "blurb": "Zipline course from a mountain platform, accessed by a  hike through the surrounding nature reserve."
+  },
+  {
+    "id": "cape-town-ziplines-sa-forest-adventures",
+    "name": "Cape Town Ziplines SA Forest Adventures",
+    "category": "outdoor",
+    "area": "constantia",
+    "coords": {
+      "lat": -34.0138816,
+      "lng": 18.4041957
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 591,
+    "address": "Silvermist Estate, Hout Bay Main Rd, 2, Cape Town, 7824",
+    "phone": null,
+    "tags": [
+      "ziplining",
+      "tourist attraction"
+    ],
+    "blurb": "Ziplining near 2."
+  },
+  {
+    "id": "ceres-zipline-adventures",
+    "name": "Ceres Zipline Adventures",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.374974699999996,
+      "lng": 19.298357199999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 581,
+    "address": "1 Voortrekker St, Ceres, 6835",
+    "phone": null,
+    "tags": [
+      "ziplining",
+      "adventure sports center",
+      "nature preserve"
+    ],
+    "blurb": "Ziplining near 1 Voortrekker St."
+  },
+  {
+    "id": "knysna-ziplines",
+    "name": "Knysna Ziplines",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.03762630000001,
+      "lng": 23.2252591
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 350,
+    "address": "Sasol Harkerville - at the Yellow Office next to N2, Plettenberg Bay, Harkerville, 6604",
+    "phone": null,
+    "tags": [
+      "ziplining",
+      "adventure sports center",
+      "sports complex"
+    ],
+    "blurb": "Ziplining near Plettenberg Bay."
+  },
+  {
+    "id": "cango-caves-zipline-estate",
+    "name": "Cango Caves Zipline & Estate",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.3989044,
+      "lng": 22.2150358
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 294,
+    "address": "De Kombuys 4028 Grootkraal Farm Kango Vallei, Oudtshoorn, 6625",
+    "phone": null,
+    "tags": [
+      "ziplining",
+      "restaurant",
+      "adventure sports center"
+    ],
+    "blurb": "Ziplining near De Kombuys 4028 Grootkraal Farm Kango Vallei."
+  },
+  {
+    "id": "acrobranch-garden-route",
+    "name": "Acrobranch Garden Route",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0002784,
+      "lng": 22.6846389
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 188,
+    "address": "Timberlake Organic Village, N2 Between Wilderness and Sedgefield, George, 6560",
+    "phone": null,
+    "tags": [
+      "ziplining",
+      "adventure sports center",
+      "playground"
+    ],
+    "blurb": "Ziplining near N2 Between Wilderness and Sedgefield."
+  },
+  {
+    "id": "k3-zipline-landing-point",
+    "name": "K3 Zipline Landing Point",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.2285338,
+      "lng": 19.4853107
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 94,
+    "address": "N2, Myddleton, Caledon",
+    "phone": null,
+    "tags": [
+      "ziplining",
+      "tourist attraction"
+    ],
+    "blurb": "Ziplining near N2."
+  },
+  {
+    "id": "ziplines-in-plett",
+    "name": "Ziplines-In-Plett",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0820511,
+      "lng": 23.312348699999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "address": "A13a, Airport Rd, Plettenberg Bay",
+    "phone": null,
+    "tags": [
+      "ziplining"
+    ],
+    "blurb": "Ziplining near A13a."
+  },
+  {
+    "id": "marine-dynamics-shark-tours-shark-cage-d",
+    "name": "Marine Dynamics · Shark Tours · Shark Cage Dive",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.614983699999996,
+      "lng": 19.3528214
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 726,
+    "address": "5 Geelbek St, Van Dyks Bay, Gansbaai, 7220",
+    "phone": null,
+    "tags": [
+      "shark cage diving",
+      "tourist attraction",
+      "tour agency"
+    ],
+    "blurb": "Shark cage diving near Van Dyks Bay."
+  },
+  {
+    "id": "prodive-scuba-diving-centre-plettenberg-",
+    "name": "ProDive Scuba Diving Centre Plettenberg Bay",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0601851,
+      "lng": 23.3796687
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 509,
+    "address": "Resort, Beacon Isle Dr, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "shark cage diving",
+      "sports activity location"
+    ],
+    "blurb": "Shark cage diving near Beacon Isle Dr."
+  },
+  {
+    "id": "the-shark-lab-mini-aquarium",
+    "name": "The Shark Lab - Mini Aquarium",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.186011799999996,
+      "lng": 22.1591435
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 3.4,
+    "reviewCount": 470,
+    "address": "6 Point Rd, Mossel Bay, 6500",
+    "phone": null,
+    "tags": [
+      "shark cage diving",
+      "aquarium",
+      "historical landmark"
+    ],
+    "blurb": "Hands-on experiences with small sharks & tanks exhibiting an octopus & other marine life."
+  },
+  {
+    "id": "apex-shark-expeditions-great-white-shark",
+    "name": "Apex Shark Expeditions - Great White Shark Cage Diving Cape Town",
+    "category": "outdoor",
+    "area": "muizenberg",
+    "coords": {
+      "lat": -34.1929644,
+      "lng": 18.432096899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 298,
+    "address": "Shop 5, Boardwalk Centre, 6 Wharf St, Simon's Town, Cape Town, 7975",
+    "phone": null,
+    "tags": [
+      "shark cage diving",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Shark cage diving near Simon's Town."
+  },
+  {
+    "id": "white-shark-africa",
+    "name": "White Shark Africa",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.180617999999996,
+      "lng": 22.1430763
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 269,
+    "address": "7 Church St, Mossel Bay, 6500",
+    "phone": null,
+    "tags": [
+      "shark cage diving",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Shark cage diving near 7 Church St."
+  },
+  {
+    "id": "shark-divers",
+    "name": "Shark Divers",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.576237,
+      "lng": 19.3495836
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 228,
+    "address": "8 Bietou St, Gansbaai, 7220",
+    "phone": null,
+    "tags": [
+      "shark cage diving",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Shark cage diving near 8 Bietou St."
+  },
+  {
+    "id": "garden-route-scuba",
+    "name": "Garden Route Scuba",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.182967,
+      "lng": 22.147506
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 218,
+    "address": "40 Marsh St, Mossel Bay Central, Mossel Bay, 6506",
+    "phone": null,
+    "tags": [
+      "shark cage diving",
+      "sporting goods store",
+      "sports activity location"
+    ],
+    "blurb": "Shark cage diving near Mossel Bay Central."
+  },
+  {
+    "id": "oceans-africa",
+    "name": "Oceans Africa",
+    "category": "outdoor",
+    "area": "muizenberg",
+    "coords": {
+      "lat": -34.128871499999995,
+      "lng": 18.4187477
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 203,
+    "address": "14 Saunders Cl, Fish Hoek, Cape Town, 7975",
+    "phone": null,
+    "tags": [
+      "shark cage diving",
+      "sports coaching",
+      "tour agency"
+    ],
+    "blurb": "Shark cage diving near Fish Hoek."
+  },
+  {
+    "id": "just-africa-scuba-center-watersports-sho",
+    "name": "Just Africa Scuba Center & Watersports Shop",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.1512362,
+      "lng": 18.8593355
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 150,
+    "address": "Shop 2, Krystal Beach Hotel, 9 Breakwater Ln, Harbour Island, Cape Town, 7140",
+    "phone": null,
+    "tags": [
+      "shark cage diving",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Shark cage diving near Harbour Island."
+  },
+  {
+    "id": "sharklady-adventures-hermanus",
+    "name": "Sharklady Adventures - Hermanus",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.4216739,
+      "lng": 19.2417967
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 32,
+    "address": "61 Marine Dr, Hermanus, 7200",
+    "phone": null,
+    "tags": [
+      "shark cage diving",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Shark cage diving near 61 Marine Dr."
+  },
+  {
+    "id": "caleb-express-tours-whale-watching-shark",
+    "name": "Caleb Express Tours - Whale Watching & Shark Cage Diving Cape Town | Peninsula Tours",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.9298991,
+      "lng": 18.676945099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 21,
+    "address": "Kuils River, Cape Town, 7580",
+    "phone": null,
+    "tags": [
+      "shark cage diving",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Shark cage diving near Kuils River."
+  },
+  {
+    "id": "shark-cage-diving-net",
+    "name": "Shark-Cage-Diving.net",
+    "category": "outdoor",
+    "area": "waterfront",
+    "coords": {
+      "lat": -33.9050434,
+      "lng": 18.419055999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 14,
+    "address": "280 Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "shark cage diving",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Shark cage diving near Victoria & Alfred Waterfront."
+  },
+  {
+    "id": "shark-zone",
+    "name": "Shark Zone",
+    "category": "outdoor",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9220286,
+      "lng": 18.419862
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.1,
+    "reviewCount": 14,
+    "address": "81 Long St, Cape Town City Centre, Cape Town, 8000",
+    "phone": null,
+    "tags": [
+      "shark cage diving",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Shark cage diving near Cape Town City Centre."
+  },
+  {
+    "id": "shark-bookings",
+    "name": "Shark Bookings",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.561976,
+      "lng": 19.357183
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 12,
+    "address": "61 Ingang St, De Kelders, Gansbaai, 7220",
+    "phone": null,
+    "tags": [
+      "shark cage diving",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Shark cage diving near De Kelders."
+  },
+  {
+    "id": "shark-adventures-shark-cage-diving",
+    "name": "Shark Adventures - Shark Cage Diving",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.036969899999995,
+      "lng": 18.75819
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 3.5,
+    "reviewCount": 11,
+    "address": "11 Faure St, Kelderhof Country Village, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "shark cage diving",
+      "fishing charter",
+      "tour agency"
+    ],
+    "blurb": "Shark cage diving near Kelderhof Country Village."
+  },
+  {
+    "id": "shark-cage-diving-cape-town",
+    "name": "Shark Cage Diving Cape Town",
+    "category": "outdoor",
+    "area": "muizenberg",
+    "coords": {
+      "lat": -34.060491,
+      "lng": 18.469061
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 9,
+    "address": "7 Chiphillside Rd, Retreat, Cape Town, 7945",
+    "phone": null,
+    "tags": [
+      "shark cage diving",
+      "tour agency",
+      "travel agency"
+    ],
+    "blurb": "Shark cage diving near Retreat."
+  },
+  {
+    "id": "cape-town-surf-school-bianca-surf-academ",
+    "name": "Cape Town Surf School - Bianca Surf Academy",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7956506,
+      "lng": 18.45758
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 941,
+    "address": "Bottom of, Kleinbaai Beach Parking) in Trader's Bay, De Mist St, Bloubergstrand, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "learn to surf"
+    ],
+    "blurb": "Surf lessons near Bloubergstrand."
+  },
+  {
+    "id": "soft-surf-school",
+    "name": "Soft Surf School",
+    "category": "classes",
+    "area": "muizenberg",
+    "coords": {
+      "lat": -34.098024599999995,
+      "lng": 18.473214499999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 525,
+    "address": "43a The Row St, Muizenberg, Cape Town, 7945",
+    "phone": null,
+    "tags": [
+      "learn to surf"
+    ],
+    "blurb": "Surf lessons near Muizenberg."
+  },
+  {
+    "id": "stoked-surf-south-africa",
+    "name": "Stoked Surf - South Africa",
+    "category": "classes",
+    "area": "campsbay",
+    "coords": {
+      "lat": -33.955251499999996,
+      "lng": 18.3821878
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 221,
+    "address": "36 Upper Tree Rd, Camps Bay, Cape Town, 8040",
+    "phone": null,
+    "tags": [
+      "learn to surf"
+    ],
+    "blurb": "Surf lessons near Camps Bay."
+  },
+  {
+    "id": "hermanus-surf-school",
+    "name": "Hermanus surf school",
+    "category": "classes",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.4197413,
+      "lng": 19.232092299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 138,
+    "address": "12 Fourie St, Hermanus, 7404",
+    "phone": null,
+    "tags": [
+      "learn to surf"
+    ],
+    "blurb": "Surf lessons near 12 Fourie St."
+  },
+  {
+    "id": "cape-sports-center-kitesurfing-wingfoili",
+    "name": "Cape Sports Center, Kitesurfing, Wingfoiling, Windsurfing",
+    "category": "classes",
+    "area": "westcoast",
+    "coords": {
+      "lat": -33.0822534,
+      "lng": 18.032155
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 127,
+    "address": "98 Main St, Langebaan, 7357",
+    "phone": null,
+    "tags": [
+      "kitesurfing",
+      "sporting goods store",
+      "service"
+    ],
+    "blurb": "Surf lessons near 98 Main St."
+  },
+  {
+    "id": "cape-point-surf-yoga-camp",
+    "name": "Cape Point Surf Yoga Camp",
+    "category": "classes",
+    "area": "muizenberg",
+    "coords": {
+      "lat": -34.1367532,
+      "lng": 18.3907864
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 99,
+    "address": "17 Grand Bahama Dr, Capri, Cape Town, 7975",
+    "phone": null,
+    "tags": [
+      "learn to surf",
+      "yoga studio",
+      "fitness center"
+    ],
+    "blurb": "Surf lessons near Capri."
+  },
+  {
+    "id": "surfends-surf-school",
+    "name": "Surfends Surf School",
+    "category": "classes",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.996744899999996,
+      "lng": 22.5315926
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 92,
+    "address": "Victoria Bay Road 2 Victoria Bay, Wilderness, 6529",
+    "phone": null,
+    "tags": [
+      "learn to surf",
+      "sporting goods store"
+    ],
+    "blurb": "Surf lessons near Victoria Bay Road 2 Victoria Bay."
+  },
+  {
+    "id": "kitesurfing-school-constantly-kiting",
+    "name": "Kitesurfing school -Constantly Kiting",
+    "category": "classes",
+    "area": "westcoast",
+    "coords": {
+      "lat": -33.0888248,
+      "lng": 18.0356125
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 90,
+    "address": "1 St Croix Cl, Langebaan, 7357",
+    "phone": null,
+    "tags": [
+      "kitesurfing"
+    ],
+    "blurb": "Surf lessons near 1 St Croix Cl."
+  },
+  {
+    "id": "vibe-surf-school",
+    "name": "Vibe Surf School",
+    "category": "classes",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0043621,
+      "lng": 22.5488368
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 89,
+    "address": "Victoria Bay Rd, George, 6529",
+    "phone": null,
+    "tags": [
+      "learn to surf"
+    ],
+    "blurb": "Surf lessons near Victoria Bay Rd."
+  },
+  {
+    "id": "son-surf-school",
+    "name": "Son Surf School",
+    "category": "classes",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.1039996,
+      "lng": 18.816666599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 77,
+    "address": "opposite #195, Beach Rd, Strand, Cape Town, 7140",
+    "phone": null,
+    "tags": [
+      "learn to surf",
+      "sporting goods store",
+      "service"
+    ],
+    "blurb": "Surf lessons near Strand."
+  },
+  {
+    "id": "wilderness-surf-school",
+    "name": "Wilderness Surf School",
+    "category": "classes",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9961267,
+      "lng": 22.5665802
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 73,
+    "address": "22 Sands Rd, Wilderness, 6530",
+    "phone": null,
+    "tags": [
+      "learn to surf"
+    ],
+    "blurb": "Surf lessons near 22 Sands Rd."
+  },
+  {
+    "id": "k-i-s-s-keep-it-simple-surf",
+    "name": "K I S S KEEP IT SIMPLE SURF",
+    "category": "classes",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9218148,
+      "lng": 18.419213
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 62,
+    "address": "43 Shortmarket St, Cape Town City Centre, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "learn to surf",
+      "sporting goods store"
+    ],
+    "blurb": "Surf lessons near Cape Town City Centre."
+  },
+  {
+    "id": "surfs-up-mossel-bay",
+    "name": "Surf's Up Mossel Bay",
+    "category": "classes",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.1588954,
+      "lng": 22.110156
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 61,
+    "address": "Diaz Beach, Beach E Blvd, Voorbaai, Mossel Bay, 6500",
+    "phone": null,
+    "tags": [
+      "learn to surf",
+      "tourist attraction",
+      "adventure sports center"
+    ],
+    "blurb": "Surf lessons near Voorbaai."
+  },
+  {
+    "id": "cape-town-surfing",
+    "name": "Cape Town Surfing",
+    "category": "classes",
+    "area": "houtbay",
+    "coords": {
+      "lat": -34.04381970000001,
+      "lng": 18.350430199999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 57,
+    "address": "11 Victoria Ave, Hout Bay, Cape Town, 7806",
+    "phone": null,
+    "tags": [
+      "learn to surf"
+    ],
+    "blurb": "Surf lessons near Hout Bay."
+  },
+  {
+    "id": "east-side-surf-school",
+    "name": "East Side Surf School",
+    "category": "classes",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.3725953,
+      "lng": 21.428301899999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 55,
+    "address": "Harbour, Main Rd, Still Bay West, Still Bay, 6674",
+    "phone": null,
+    "tags": [
+      "learn to surf"
+    ],
+    "blurb": "Surf lessons near Still Bay West."
+  },
+  {
+    "id": "c-kite-langebaan",
+    "name": "C Kite Langebaan",
+    "category": "classes",
+    "area": "westcoast",
+    "coords": {
+      "lat": -33.0912371,
+      "lng": 18.0313823
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 53,
+    "address": "C Kite, Shop 2, Langebaan, Waterfront, Bree St, Langebaan, 7357",
+    "phone": null,
+    "tags": [
+      "kitesurfing",
+      "adventure sports center",
+      "sports complex"
+    ],
+    "blurb": "Surf lessons near Bree St."
+  },
+  {
+    "id": "learn-to-surf-plett",
+    "name": "Learn To Surf Plett",
+    "category": "classes",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.076026,
+      "lng": 23.371487
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 41,
+    "address": "Beachy Head Drive, Robberg 5 Beach, Robberg, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "learn to surf"
+    ],
+    "blurb": "Surf lessons near Robberg."
+  },
+  {
+    "id": "buffs-surf-school",
+    "name": "Buffs Surf School",
+    "category": "classes",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0864196,
+      "lng": 22.9740446
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 40,
+    "address": "Sand street, Buffalo Bay, Knysna, 6570",
+    "phone": null,
+    "tags": [
+      "learn to surf"
+    ],
+    "blurb": "Surf lessons near Buffalo Bay."
+  },
+  {
+    "id": "yzerfontein-surf",
+    "name": "Yzerfontein Surf",
+    "category": "classes",
+    "area": "westcoast",
+    "coords": {
+      "lat": -33.3467651,
+      "lng": 18.1604872
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 27,
+    "address": "39 Buitekant St, Yzerfontein, 7351",
+    "phone": null,
+    "tags": [
+      "learn to surf",
+      "coffee shop",
+      "cafe"
+    ],
+    "blurb": "Surf lessons near 39 Buitekant St."
+  },
+  {
+    "id": "surf-lessons-hermanus",
+    "name": "Surf Lessons Hermanus",
+    "category": "classes",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.4109747,
+      "lng": 19.281043399999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 17,
+    "address": "Voëlklip Beach, Hermanus, 7200",
+    "phone": null,
+    "tags": [
+      "learn to surf"
+    ],
+    "blurb": "Surf lessons near Voëlklip Beach."
+  },
+  {
+    "id": "a-k-a-w-cape-town-surf-kite-camps",
+    "name": "A K A W Cape Town Surf & Kite Camps",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.783543,
+      "lng": 18.455534999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 15,
+    "address": "63 Big Bay Beach Club, Bloubergstrand, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "learn to surf",
+      "kitesurfing"
+    ],
+    "blurb": "Surf lessons near Bloubergstrand."
+  },
+  {
+    "id": "making-waves-swim-surf-school",
+    "name": "Making Waves Swim & Surf School",
+    "category": "classes",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.1570886,
+      "lng": 18.873573
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 13,
+    "address": "16 Blue Gum Ave, Mountainside, Cape Town, 7151",
+    "phone": null,
+    "tags": [
+      "learn to surf",
+      "sports school",
+      "sports activity location"
+    ],
+    "blurb": "Surf lessons near Mountainside."
+  },
+  {
+    "id": "saldanha-surf-sanctuary-extreme-abilitie",
+    "name": "Saldanha Surf Sanctuary (Extreme Abilities NPO)",
+    "category": "classes",
+    "area": "westcoast",
+    "coords": {
+      "lat": -33.006695799999996,
+      "lng": 17.9420711
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 11,
+    "address": "16 Berg St, Saldanha, 7357",
+    "phone": null,
+    "tags": [
+      "learn to surf",
+      "sports complex",
+      "sporting goods store"
+    ],
+    "blurb": "Surf lessons near 16 Berg St."
+  },
+  {
+    "id": "robbies-surfing-lessons",
+    "name": "Robbie's Surfing Lessons",
+    "category": "classes",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.7949415,
+      "lng": 20.047200399999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 11,
+    "address": "Struis Bay, Struisbaai, 7287",
+    "phone": null,
+    "tags": [
+      "learn to surf",
+      "school",
+      "educational institution"
+    ],
+    "blurb": "Surf lessons near Struis Bay."
+  },
+  {
+    "id": "west-coast-surf-school",
+    "name": "West Coast Surf School",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.726438,
+      "lng": 18.4416193
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 8,
+    "address": "Purple House, Beach Rd, Melkbosstrand, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "learn to surf"
+    ],
+    "blurb": "Surf lessons near Melkbosstrand."
+  },
+  {
+    "id": "mav-surf-school",
+    "name": "Mav Surf School",
+    "category": "classes",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.7289406,
+      "lng": 18.439592899999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 8,
+    "address": "30 Beach Rd, Milnerton, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "learn to surf"
+    ],
+    "blurb": "Surf lessons near Milnerton."
   }
 ]

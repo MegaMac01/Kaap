@@ -1,0 +1,1160 @@
+[
+  {
+    "placeId": "ChIJGzYNMtFxeR4RZDtSY5MQ5pY",
+    "name": "Untouched Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0229394,
+      "lng": 23.8986151
+    },
+    "address": "Storms River Mouth, 6309",
+    "rating": 4.5,
+    "reviewCount": 1630,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJi_oFCyBnzB0R3lh7iwAsA3k",
+    "name": "KAYAK CLIFTON",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9406169,
+      "lng": 18.374228499999997
+    },
+    "address": "Clifton 4th, Clifton, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 1249,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJY35N5z1nzB0RZpsf1rq7kNs",
+    "name": "CAPE KAYAK ADVENTURES",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.905780799999995,
+      "lng": 18.398066999999998
+    },
+    "address": "180 Beach Rd, Three Anchor Bay, Cape Town, 8005",
+    "rating": 4.9,
+    "reviewCount": 737,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "sports_club",
+      "association_or_organization",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ200AEcqmeB4RaqBMtSOR96s",
+    "name": "WildX Adventures Wilderness",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.001362,
+      "lng": 22.690434999999997
+    },
+    "address": "Boven, Lange Valley, Wilderness, 6560",
+    "rating": 4.4,
+    "reviewCount": 721,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJu8-V68kYeR4R4AuHkfhv_ts",
+    "name": "Africanyon River Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9554569,
+      "lng": 23.4850091
+    },
+    "address": "Monkeyland Road, The Crags, Plettenberg Bay, 6602",
+    "rating": 4.8,
+    "reviewCount": 693,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJf86I1hMd1h0R3z_gloKnEMk",
+    "name": "Kaaimans Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.989325199999996,
+      "lng": 22.5520423
+    },
+    "address": "Kaaimans river, N2, Wilderness, 6560",
+    "rating": 4.6,
+    "reviewCount": 486,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Services",
+    "types": [
+      "food_court",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJkYKLPE5nzB0RQ9o7qH4g09w",
+    "name": "Atlantic Outlook - Kayak Cape Town Tours",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9025949,
+      "lng": 18.416397399999997
+    },
+    "address": "Granger Bay Blvd, Victoria & Alfred Waterfront, Cape Town, 8001",
+    "rating": 4.9,
+    "reviewCount": 475,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "adventure_sports_center",
+      "tour_agency",
+      "travel_agency",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJT0eP7MxnzB0Rd56Qw2UIE5M",
+    "name": "Kayak Adventures Waterfront",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9123328,
+      "lng": 18.4219544
+    },
+    "address": "Battery Park, Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8000",
+    "rating": 5,
+    "reviewCount": 424,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ4xeODjppzB0Rpo6Uxi3lGjA",
+    "name": "Animal Ocean Expeditions",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.041604,
+      "lng": 18.35007
+    },
+    "address": "41 Victoria Ave, Hout Bay, Cape Town, 7806",
+    "rating": 4.9,
+    "reviewCount": 390,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJhycmv9Q_zB0RNSKF26nd2qM",
+    "name": "Kayak Cape Town (Simon's Town)",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1927326,
+      "lng": 18.4324832
+    },
+    "address": "Simons Town Jetty, Wharf St, Simon's Town, Cape Town, 7995",
+    "rating": 4.8,
+    "reviewCount": 384,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJI-v9NPbqeB4RmQXXb7QJhU4",
+    "name": "Knysna Charters",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.048536999999996,
+      "lng": 23.047923299999997
+    },
+    "address": "Harbour Town, Th23 Sawtooth Ln, Thesen Island, Knysna, 6571",
+    "rating": 4.6,
+    "reviewCount": 379,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "adventure_sports_center",
+      "tourist_information_center",
+      "tourist_attraction",
+      "sports_complex",
+      "sports_activity_location",
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJF5_c35Ad1h0R4Y54R0pkhNc",
+    "name": "Eden Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9938232,
+      "lng": 22.6016579
+    },
+    "address": "Fairy Knowe Hotel, 1 Dumbleton Cres, Wilderness, 6560",
+    "rating": 4.5,
+    "reviewCount": 374,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJE8HjUlhpzB0ROjMgRcrqbT8",
+    "name": "Kayak Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0497513,
+      "lng": 18.345627000000004
+    },
+    "address": "Harbour Rd, Hout Bay Harbour, Cape Town, 7806",
+    "rating": 4.8,
+    "reviewCount": 299,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJD7brE3hnzB0RIParludLUzQ",
+    "name": "Waterfront Kayak",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9042828,
+      "lng": 18.420897099999998
+    },
+    "address": "Shop No 8, Quay 5, Victoria & Alfred Waterfront, Cape Town, 8002",
+    "rating": 4.9,
+    "reviewCount": 216,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJkcgcDjppzB0R-dzieCswIDY",
+    "name": "Kayak Adventures Simons Town",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1874648,
+      "lng": 18.4259458
+    },
+    "address": "Long Beach, Driegebroeders Road, Simon's Town, Cape Town, 7995",
+    "rating": 4.9,
+    "reviewCount": 192,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "adventure_sports_center",
+      "tour_agency",
+      "travel_agency",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ7b_0I8ylzB0RR2ZPjXB6uRE",
+    "name": "Yzerfontein Sea Sport",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.347093799999996,
+      "lng": 18.1496373
+    },
+    "address": "harbour, Yzerfontein, 7351",
+    "rating": 5,
+    "reviewCount": 140,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "adventure_sports_center",
+      "tour_agency",
+      "park",
+      "travel_agency",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJSXH24JAd1h0RF7hGRkvs87w",
+    "name": "Wilderness River Safaris",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9934096,
+      "lng": 22.6046324
+    },
+    "address": "National Park, Ebb and Flow Dr, Wilderness, 6560",
+    "rating": 4.7,
+    "reviewCount": 123,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJASZ3c-NnzB0Rrv-CQcLzAVY",
+    "name": "Kayak World",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9062549,
+      "lng": 18.398036299999998
+    },
+    "address": "beach slipway, Three Anchor Bay, Cape Town, 8005",
+    "rating": 4.1,
+    "reviewCount": 122,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJAS-LXzceeR4RN18QA-E5s_M",
+    "name": "Keurbooms Ferries",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0030003,
+      "lng": 23.4016763
+    },
+    "address": "N2 Keurbooms River Keurbooms, Plettenberg Bay, 6600",
+    "rating": 4.6,
+    "reviewCount": 111,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "picnic_ground",
+      "nature_preserve",
+      "park",
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJe679lOxnzB0RqhxMfDuLLR0",
+    "name": "TRUTH TRAVEL",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9042174,
+      "lng": 18.3984076
+    },
+    "address": "Beach Rd, Green Point, Cape Town, 8051",
+    "rating": 5,
+    "reviewCount": 98,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "adventure_sports_center",
+      "bicycle_store",
+      "health_food_store",
+      "tour_agency",
+      "travel_agency",
+      "sporting_goods_store",
+      "sports_complex",
+      "food_store",
+      "sports_activity_location",
+      "health",
+      "manufacturer",
+      "food",
+      "point_of_interest",
+      "store",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJD7KPFQvieB4RqgsQKYTokao",
+    "name": "Dolphin Adventures Sea Kayaking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.058819,
+      "lng": 23.378165
+    },
+    "address": "Central Beach Kayak Rack Next to Life Saving Club, Hopwood St, Plettenberg Bay, 6600",
+    "rating": 4.2,
+    "reviewCount": 97,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJRb0AVdBdzB0R8MNZiR-LGP0",
+    "name": "Kayak Adventures Cape Town",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9000562,
+      "lng": 18.411930899999998
+    },
+    "address": "100 Beach Road, Granger Bay Blvd, Mouille Point, Cape Town, 8060",
+    "rating": 5,
+    "reviewCount": 83,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJD-ZeaMRnzB0RUJQTP0-YatY",
+    "name": "TRUTH KAYAKING CAPE TOWN",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.904188399999995,
+      "lng": 18.398404799999998
+    },
+    "address": "160 Beach Rd, Mouille Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 56,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJqYHKM9BbzB0RgWFMiMxsPJc",
+    "name": "Amanzi Trails Orange River Adventures - Booking Office",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8560258,
+      "lng": 18.6260398
+    },
+    "address": "The, Vineyards Office Estate, 99 Jip De Jager Dr, De Bron, Cape Town, 7530",
+    "rating": 4.7,
+    "reviewCount": 55,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "hiking_area",
+      "campground",
+      "tour_agency",
+      "travel_agency",
+      "sports_activity_location",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJaXuTZyZDzB0R1x-ZKg1Pkf4",
+    "name": "Gravity Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9842527,
+      "lng": 18.4797087
+    },
+    "address": "21 Selous Rd, Claremont, Cape Town, 7708",
+    "rating": 4.4,
+    "reviewCount": 49,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "adventure_sports_center",
+      "tour_agency",
+      "travel_agency",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJBz-DJH4Lzh0RXA_UmF_d9Gw",
+    "name": "Walker Bay Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.4202264,
+      "lng": 19.2443009
+    },
+    "address": "26 Marine Dr, Hermanus, 7200",
+    "rating": 4.9,
+    "reviewCount": 48,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJQfuCMTadNBwRqHfRLyy4v4U",
+    "name": "Shelley Point Kayaking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.7129215,
+      "lng": 17.9771601
+    },
+    "address": "5th Ave, Shelley Point, St Helena Bay, 7382",
+    "rating": 4.9,
+    "reviewCount": 44,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJQ77lmPnXzR0R9gg9lyBI3jM",
+    "name": "Pura Vida Kayak Adventure - Kleinmond",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.3380765,
+      "lng": 18.9914347
+    },
+    "address": "Yetty, Lagoon, Palmiet St, Kleinmond, 7195",
+    "rating": 5,
+    "reviewCount": 41,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Services",
+    "types": [
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJuZQ8TU2GzR0RWuyPqaFl9qs",
+    "name": "Bonamanzi Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7376599,
+      "lng": 19.4867742
+    },
+    "address": "South Africa",
+    "rating": 4.5,
+    "reviewCount": 36,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJp6HyXklnzB0Rdush1Xw60bw",
+    "name": "Cape Town Kayak Safari",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.906077499999995,
+      "lng": 18.3980109
+    },
+    "address": "Beach Rd, Three Anchor Bay, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 35,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZQYxDMdnzB0RJYJfkA1CwDI",
+    "name": "Glide Kayak Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9059656,
+      "lng": 18.398072000000003
+    },
+    "address": "Three Anchor Bay Beach Beach Rd, Helen Suzman Blvd, Three Anchor Bay, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 33,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJfQeLAqdnzB0R7_L_-KG3oDU",
+    "name": "E-Kayaking Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9053028,
+      "lng": 18.3978199
+    },
+    "address": "Beach Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJLa0hP3PAeB4RWmr_5L3HpZU",
+    "name": "Dune Adventures Knysna River Kayaking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0058966,
+      "lng": 23.0088197
+    },
+    "address": "Phantom Drive, Knysna, 6571",
+    "rating": 4.6,
+    "reviewCount": 27,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "gym",
+      "sports_activity_location",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ7XLmvBVAzB0RsOL-3OuzjeY",
+    "name": "Aquatrails",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.14069310000001,
+      "lng": 18.4297482
+    },
+    "address": "150 Main Rd, Fish Hoek, Cape Town, 7974",
+    "rating": 4.5,
+    "reviewCount": 26,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sporting Goods Store",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "sporting_goods_store",
+      "point_of_interest",
+      "store",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ6Z7pJRjreB4Rj_yTt6KAABY",
+    "name": "Knysna Kayak Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0485927,
+      "lng": 23.0469793
+    },
+    "address": "Long St, Thesen Island, Knysna, 6570",
+    "rating": 5,
+    "reviewCount": 24,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJDZQhQIvheB4Ro3gz-5ltb2k",
+    "name": "Bitou Kayaks",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0096489,
+      "lng": 23.373437799999998
+    },
+    "address": "Rietvlei Rd, Plettenberg Bay",
+    "rating": 4.9,
+    "reviewCount": 22,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Services",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJubbEKGQfeR4RE8JOga8mncs",
+    "name": "Cape Nature - Kayak / Canoe Hire & Picnic Area",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.002178799999996,
+      "lng": 23.4010817
+    },
+    "address": "South Africa",
+    "rating": 4.3,
+    "reviewCount": 20,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJg8-qDUUfeR4RFndhFbBAzG0",
+    "name": "Supingkeurbooms",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.996443899999996,
+      "lng": 23.399587699999998
+    },
+    "address": "Forever, Plettenberg Bay",
+    "rating": 4.4,
+    "reviewCount": 20,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJCVDay1SZNBwRHWuBC8I7tSU",
+    "name": "Kayak Paternoster",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.8060335,
+      "lng": 17.8836379
+    },
+    "address": "1 Kreeftegang, Kliprug, Paternoster, 7381",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJaU41UhtpzB0RTqtvH0CNDoA",
+    "name": "Cape Town Kayaks",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0492391,
+      "lng": 18.3463601
+    },
+    "address": "Circe Launches, Hout Bay Harbour, Cape Town, 8001",
+    "rating": 4.9,
+    "reviewCount": 17,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ1XnJigSdNBwRJJQ-rkol4hM",
+    "name": "Shelley Point Kayaking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.709886,
+      "lng": 17.9743
+    },
+    "address": "12 21st St, Shelley Point, St Helena Bay, 7282",
+    "rating": 5,
+    "reviewCount": 13,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5wFGAnPieB4RZGD6nxKMG_M",
+    "name": "Dune Adventures -Knysna Sandboarding-Kayaking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0735659,
+      "lng": 23.0200642
+    },
+    "address": "South Africa, State President C R Swart Rd, Brenton-on-Sea, 6570",
+    "rating": 4.9,
+    "reviewCount": 7,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ2yzbA69nzB0RQqJy9gV7pjg",
+    "name": "BayRunner Kayak tours",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9056616,
+      "lng": 18.39866
+    },
+    "address": "179 Beach Rd, Green Point, Cape Town, 8000",
+    "rating": 4.8,
+    "reviewCount": 5,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ__gefOOjeB4RgCrhzZsr0wk",
+    "name": "Dawn To Dusk Safaris",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.009976,
+      "lng": 22.7810199
+    },
+    "address": "Next to N2, The Island, Sedgefield, 6573",
+    "rating": 5,
+    "reviewCount": 5,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tourist_information_center",
+      "tourist_attraction",
+      "transportation_service",
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJpYOYBioLzh0R_UfIDZpvub8",
+    "name": "South African Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.415748199999996,
+      "lng": 19.1933558
+    },
+    "address": "3 Walvis St, Hermanus, Sandbaai, 7200",
+    "rating": 5,
+    "reviewCount": 4,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tourist_information_center",
+      "tourist_attraction",
+      "airport_shuttle_service",
+      "tour_agency",
+      "travel_agency",
+      "transportation_service",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJITL_Ao9t1h0Rkp5cEdRfnF4",
+    "name": "Iconic route12 adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0539785,
+      "lng": 22.2191252
+    },
+    "address": "114 Lang St, Bergsig, Great Brak River, 6525",
+    "rating": 5,
+    "reviewCount": 3,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Club",
+    "types": [
+      "sports_club",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJSZhS5bFp1h0RRciX1pBCzpE",
+    "name": "Kayak Adventures Mossel Bay",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1789066,
+      "lng": 22.1419672
+    },
+    "address": "Harbour, Mossel Bay, 6500",
+    "rating": 5,
+    "reviewCount": 3,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ_VywB2OjeB4RHWomyahSZ6A",
+    "name": "WildX Adventures Sedgefield",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0142934,
+      "lng": 22.7994839
+    },
+    "address": "7 Flamingo Ave, Sedgefield, 6573",
+    "rating": 5,
+    "reviewCount": 3,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Services",
+    "types": [
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJSV4XHmQFzh0RcqluMOm53HY",
+    "name": "Strandveld Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.4393798,
+      "lng": 19.4553093
+    },
+    "address": "19 Queen Victoria St, Stanford, 7210",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJe-7L0_gJzh0RGnfy7hss7gk",
+    "name": "Lagoon Safari",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.4140967,
+      "lng": 19.3052378
+    },
+    "address": "Prawn Flats, R43 Voelklip, Hermanus, 7600",
+    "rating": 5,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ46rUPxrjeB4R_-QRdj7jBE4",
+    "name": "Cape Kayak Camino",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.042799599999995,
+      "lng": 23.3763908
+    },
+    "address": "Phitidis Walk, Plettenberg Bay, 6600",
+    "rating": 5,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

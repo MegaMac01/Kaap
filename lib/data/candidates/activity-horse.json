@@ -1,0 +1,1356 @@
+[
+  {
+    "placeId": "ChIJ200AEcqmeB4RaqBMtSOR96s",
+    "name": "WildX Adventures Wilderness",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.001362,
+      "lng": 22.690434999999997
+    },
+    "address": "Boven, Lange Valley, Wilderness, 6560",
+    "rating": 4.4,
+    "reviewCount": 721,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ7xVjvr5rzB0RdijkHyOYeEY",
+    "name": "The Dunes Beach Horse Rides",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.101881299999995,
+      "lng": 18.3607498
+    },
+    "address": "South Africa, 26 Protea St, Chapmans Peak, Cape Town, 7979",
+    "rating": 4.2,
+    "reviewCount": 502,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJS0Ntg-BozB0RxppXnBoF36A",
+    "name": "The Riding Centre",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0355005,
+      "lng": 18.3557559
+    },
+    "address": "Main Rd, Hout Bay, Cape Town, 7872",
+    "rating": 4.6,
+    "reviewCount": 370,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJY6ayvVf2zB0RAWadUprHOg4",
+    "name": "Mountain View Horse Trails",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.749652399999995,
+      "lng": 18.556837599999998
+    },
+    "address": "Van Schoorsdrif Rd, Cape Farms, Cape Town",
+    "rating": 4.4,
+    "reviewCount": 344,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "stable",
+      "pet_boarding_service",
+      "pet_care",
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJLfCmegrjeB4R8wjRekwEO8Y",
+    "name": "T'Niqua Stable Inn",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0948681,
+      "lng": 23.3151632
+    },
+    "address": "Robberg Rd, Plettenberg Bay, 6600",
+    "rating": 4.7,
+    "reviewCount": 318,
+    "priceLevel": null,
+    "summary": "Relaxed rooms & suites in a casual countryside guesthouse featuring a restaurant & an outdoor pool.",
+    "primaryType": "Services",
+    "types": [
+      "bed_and_breakfast",
+      "event_venue",
+      "hotel",
+      "lodging",
+      "tour_agency",
+      "travel_agency",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJVVwpiiPgzR0RjEvnomov7LQ",
+    "name": "Heaven and Earth Trails",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.361815,
+      "lng": 19.217223
+    },
+    "address": "7 Karweyderskraal Farm Karwyderskraalroad Hemel en Aarde, Hermanus, 7200",
+    "rating": 4.9,
+    "reviewCount": 315,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ_zYLX9ojeR4RQSCLNNAH6F0",
+    "name": "Kurland Park Horse Trails",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9332746,
+      "lng": 23.510085699999998
+    },
+    "address": "Loredo North, The Crags, Plettenberg Bay, 6602",
+    "rating": 4.7,
+    "reviewCount": 259,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJNZKmwP551h0R_uv7H4aQFQ4",
+    "name": "RUITERSRUS GUEST FARM",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9561111,
+      "lng": 22.0433333
+    },
+    "address": "R328 Ruiterbos, Mossel Bay, 6500",
+    "rating": 4.7,
+    "reviewCount": 190,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Guest House",
+    "types": [
+      "guest_house",
+      "farmstay",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJt-b1Hb8hzh0RjSwDZ0gm9YA",
+    "name": "Pearly Beach Horse Trails",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.6581888,
+      "lng": 19.5365649
+    },
+    "address": "Portion 1 Farm 321, Kleynhagelkraal, Pearly Beach, 7221",
+    "rating": 4.9,
+    "reviewCount": 160,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJy742S-QGzR0RgSvwFxz_sPQ",
+    "name": "Wine Valley Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8373829,
+      "lng": 18.9537773
+    },
+    "address": "Intersection R45 and, Franschhoek Wine Route, Operating from Vrede en Lust Wine Estate, Klapmuts - Simondium Rd, Franschhoek, Simondium, 7670",
+    "rating": 4.9,
+    "reviewCount": 140,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tourist_attraction",
+      "adventure_sports_center",
+      "sports_complex",
+      "tour_agency",
+      "travel_agency",
+      "sports_activity_location",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJYQzRqMj11R0Rc3m4HCKDnuQ",
+    "name": "Klein Karoo Horse Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5014071,
+      "lng": 22.583581900000002
+    },
+    "address": "Domein, Doornkraal Stompdriftdam Road, De Rust, 6650",
+    "rating": 5,
+    "reviewCount": 120,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Activity Location",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "sports_activity_location",
+      "point_of_interest",
+      "farm",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJTdIjE9CuzR0RBw-SikfABCw",
+    "name": "Cape Winelands Riding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8183982,
+      "lng": 18.9506153
+    },
+    "address": "R45, Simondium, 7670",
+    "rating": 4.7,
+    "reviewCount": 115,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJGziBPXNVzB0Rx587KWHR530",
+    "name": "Silvermist Equestrian Center",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8115574,
+      "lng": 18.7712543
+    },
+    "address": "R304 East Rural Matjieskuil Farm, Joostenberg Vlakte, Cape Town, 7599",
+    "rating": 4.6,
+    "reviewCount": 114,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJOdI9gCEd1h0R0d-61jhbxX4",
+    "name": "Perdepoort Horse trails@local-info.co.za",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9613997,
+      "lng": 22.5789922
+    },
+    "address": "George",
+    "rating": 4.8,
+    "reviewCount": 114,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJY51rPEGZNBwRBw2qulRzmVk",
+    "name": "Drikus Horse Trails Paternoster",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.7719874,
+      "lng": 17.9353527
+    },
+    "address": "Swartrug Farm, Western Cape, Paternoster, 7381",
+    "rating": 4.8,
+    "reviewCount": 111,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJFcGLvgT6zB0R1llk0EFjV1A",
+    "name": "Equine Sport Centre for Horse Riding - Stellenbosch Winelands",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.867294,
+      "lng": 18.852551599999998
+    },
+    "address": "Slaley Wine Farm, R44 &, Kromme Rhee Rd, Stellenbosch, 7600",
+    "rating": 4.9,
+    "reviewCount": 107,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "sports_school",
+      "sports_coaching",
+      "tour_agency",
+      "travel_agency",
+      "sports_activity_location",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJu2hyYUcb1h0R2m2WPBrC7e4",
+    "name": "George Riding Club",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.973193699999996,
+      "lng": 22.4978306
+    },
+    "address": "Glenwood Ave, Loerie Park, George, 6529",
+    "rating": 4.5,
+    "reviewCount": 106,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Club",
+    "types": [
+      "sports_club",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJTyjMyVlTzB0RrqMbBbQS-U8",
+    "name": "Horse Rides at Pete's - Wildlife Safari",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8395442,
+      "lng": 18.7943085
+    },
+    "address": "R304, Koelenhof, Stellenbosch, 7600",
+    "rating": 4.8,
+    "reviewCount": 97,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJgwHonJQB1B0Rd1ixpWtQ2KM",
+    "name": "Oudebosch Guest Farm",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.985391299999996,
+      "lng": 21.122557300000004
+    },
+    "address": "Korentepoort dam, Riversdale, 6670",
+    "rating": 4.9,
+    "reviewCount": 89,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJUY4ALAhXzB0R6t7Hi8E7xpQ",
+    "name": "Camelot Riding School",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8159464,
+      "lng": 18.650558099999998
+    },
+    "address": "Herta Erna Road, Schoongesig, Durbanville, Cape Town, 7550",
+    "rating": 4.8,
+    "reviewCount": 81,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_school",
+      "sports_coaching",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ4QxpSQK5zB0RGuW7SwkZfPM",
+    "name": "West Coast Horse Trails",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.3306654,
+      "lng": 18.1679526
+    },
+    "address": "Strandkombuis Rd, Yzerfontein, 7351",
+    "rating": 4.8,
+    "reviewCount": 79,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJz9pIXHi8zR0RbbY_hSJuihw",
+    "name": "Paradise Stables @ Robertsvallei",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.926090099999996,
+      "lng": 19.094849999999997
+    },
+    "address": "Robertsvlei Rd, Franschhoek, 7690",
+    "rating": 4.6,
+    "reviewCount": 76,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ7T6aKYnJzR0RsQDb2qUdWqE",
+    "name": "Journey's End Horseback Rides",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1056726,
+      "lng": 18.908373299999997
+    },
+    "address": "25A Journeys End, Sir Lowrys Pass Road, Somerset West, Cape Town, 7129",
+    "rating": 4.9,
+    "reviewCount": 70,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "sports_school",
+      "sports_coaching",
+      "tour_agency",
+      "travel_agency",
+      "sports_activity_location",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJDwr2kginzR0RVdyBteyaEto",
+    "name": "alpha equestrian",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7408427,
+      "lng": 19.048926599999998
+    },
+    "address": "Keerweder Rd, Paarl, 4676",
+    "rating": 4.7,
+    "reviewCount": 64,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJq7leTgAd1h0RzcM3F-CXGA0",
+    "name": "Garden Route Horse Trails",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9724636,
+      "lng": 22.5343229
+    },
+    "address": "43 Seven Passes Rd, Glenwood AH, George, 6529",
+    "rating": 4.9,
+    "reviewCount": 56,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJdeYatxzFzR0RBUPE_aCm23U",
+    "name": "Long Shadows Farm",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.2151376,
+      "lng": 19.0122855
+    },
+    "address": "Viljoenshoop Rd, Elgin, 7180",
+    "rating": 4.8,
+    "reviewCount": 53,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "stable",
+      "pet_boarding_service",
+      "pet_care",
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJjy93-RDheB4RBQ25chV9hMo",
+    "name": "Boschrivier Farm",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.019376099999995,
+      "lng": 23.3194652
+    },
+    "address": "Hoof Rd, Wittedrift, Plettenberg Bay, 6603",
+    "rating": 4.9,
+    "reviewCount": 53,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farmstay",
+    "types": [
+      "farmstay",
+      "sports_activity_location",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJkQXYxFfQ0x0RGoT3US2-wTY",
+    "name": "Equine Encounters and Trail Rides",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.015555299999995,
+      "lng": 20.424614
+    },
+    "address": "Hermitage N Ave, South, Swellendam, 6740",
+    "rating": 4.9,
+    "reviewCount": 51,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_coaching",
+      "sports_school",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJMS2CMZWbNBwRIBto1aHRAWk",
+    "name": "West Coast Beach Rides",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.816321699999996,
+      "lng": 17.897881299999998
+    },
+    "address": "Pelgrimsrust, Paternoster, 7381",
+    "rating": 4.6,
+    "reviewCount": 46,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJPZC2eaZqzR0RRftxDrWyaWE",
+    "name": "Horse About Livery",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.345425999999996,
+      "lng": 19.202935
+    },
+    "address": "Tulbagh",
+    "rating": 4.7,
+    "reviewCount": 45,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Pet Boarding Service",
+    "types": [
+      "stable",
+      "hiking_area",
+      "pet_boarding_service",
+      "pet_care",
+      "sports_activity_location",
+      "farm",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5f6fcPk4zR0Rw64qRhQB-P8",
+    "name": "Tulbagh Horse Trails",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.223481,
+      "lng": 19.148891
+    },
+    "address": "Winterhoek road, Tulbagh, 6820",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJN6tZuCpq0h0RSjuQNNukxHc",
+    "name": "Robertson Horse Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8288836,
+      "lng": 19.903466899999998
+    },
+    "address": "Klipdrift farm, Robertson, 6507",
+    "rating": 4.8,
+    "reviewCount": 42,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ4adEy3XT0x0RfD5eHdiQnfY",
+    "name": "Hermitage Horses",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0039878,
+      "lng": 20.4257548
+    },
+    "address": "Hermitage, 24 North Rd, Swellendam, 6740",
+    "rating": 4.9,
+    "reviewCount": 42,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_coaching",
+      "sports_school",
+      "sports_activity_location",
+      "sports_club",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ83rPrkpdzB0RUCl4zqWKD5U",
+    "name": "Oude Molen Stables",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9400488,
+      "lng": 18.489380999999998
+    },
+    "address": "Alexandra Rd, Oude Molen Village, Cape Town, 7405",
+    "rating": 4.2,
+    "reviewCount": 41,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJwxbWrZZo1h0Rfa5Vo0zARAk",
+    "name": "Adventure Horse Safaris",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1514407,
+      "lng": 22.064935
+    },
+    "address": "Unnamed Road, Vyf Brakke Fonteinen, Mossel Bay, 6520",
+    "rating": 4.7,
+    "reviewCount": 41,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "stable",
+      "pet_boarding_service",
+      "sports_coaching",
+      "sports_school",
+      "pet_care",
+      "sports_activity_location",
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJx5BcLu4azh0RDI7yzZR6oVI",
+    "name": "African Horse Company - Stanford",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.4228964,
+      "lng": 19.4734735
+    },
+    "address": "Stanford Hills Estate, Stanford, 7210",
+    "rating": 4.7,
+    "reviewCount": 34,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJGcnX_4sZzh0RPM81SR3v5zQ",
+    "name": "Gansbaai Horse Riding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.5997726,
+      "lng": 19.4081278
+    },
+    "address": "Corner of R43 and Uilenkraalsmond Resort - behind Johnny Rockets, Gansbaai, 7220",
+    "rating": 4.7,
+    "reviewCount": 31,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "sports_coaching",
+      "sports_activity_location",
+      "sports_school",
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ0z5vXD5p1h0R0wxWLWhljxE",
+    "name": "SOULED OUT STABLES",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1853826,
+      "lng": 22.0925853
+    },
+    "address": "Spekboom St, Heiderand Extension, Mossel Bay, 6511",
+    "rating": 4.7,
+    "reviewCount": 31,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_coaching",
+      "sports_school",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJCeGy_T_jzR0RXv8wIEqIyWo",
+    "name": "@ The Ranch Horse Trail Rides",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.3462429,
+      "lng": 19.293996
+    },
+    "address": "Hemel en Aarde Valley, Hemel en Aarde Road, Hermanus, 7200",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Activity Location",
+    "types": [
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJacpMlqgLzh0RzeFaigNrrn4",
+    "name": "Solitaire Equestrian Academy",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.3665345,
+      "lng": 19.2212162
+    },
+    "address": "Hemel en aarde, Karwyderskraal, 7201",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_coaching",
+      "stable",
+      "pet_boarding_service",
+      "pet_care",
+      "sports_activity_location",
+      "sports_school",
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJV3_D6DRVzB0Rcky1CDWrXvs",
+    "name": "The Pink Geranium Horse Riding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8168593,
+      "lng": 18.7921882
+    },
+    "address": "The Pink Geranium Nursery N1 corner, R304, Elsenberg, 7607",
+    "rating": 4.9,
+    "reviewCount": 18,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJNXi1Ub_R0x0RGgi7CjNeKRo",
+    "name": "Two Feathers Horse Trails",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0060146,
+      "lng": 20.4581879
+    },
+    "address": "Koloniesbos Hut, Marloth Nature Reserve, Swellendam, 6740",
+    "rating": 4.5,
+    "reviewCount": 18,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "tour_agency",
+      "travel_agency",
+      "sports_coaching",
+      "sports_school",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJuy2RUFIJzR0Rs7HumA42jgQ",
+    "name": "Bainskloof Horseriding Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.6389,
+      "lng": 19.066449199999997
+    },
+    "address": "Canetsfontein Wine, Olives, Fruit and Vegetable Estate, Wellington, 7655",
+    "rating": 5,
+    "reviewCount": 14,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJD1fFywO_eB4RVoVMZQY1wbw",
+    "name": "Highway West Stables & Accommodation",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.979681400000004,
+      "lng": 22.9567203
+    },
+    "address": "Portion 2, Farm 196, Mount Pleasant, Rheenendal, 6576",
+    "rating": 5,
+    "reviewCount": 14,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Lodging",
+    "types": [
+      "stable",
+      "pet_boarding_service",
+      "pet_care",
+      "lodging",
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJyY1oqMJ5zR0RgTlzoOAIPkk",
+    "name": "Painted Horse Riding Worcester",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.6168525,
+      "lng": 19.396665799999997
+    },
+    "address": "Farm D4, UnNamed Road Brandwaght, Worcester, 6850",
+    "rating": 4.4,
+    "reviewCount": 13,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_school",
+      "sports_coaching",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJzZfzZ_6tzR0Rpen1wrJOL9U",
+    "name": "Stellenbosch Endurance Yard and Horse Trails",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8988175,
+      "lng": 18.8423671
+    },
+    "address": "Stellenbosch",
+    "rating": 4.5,
+    "reviewCount": 12,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Activity Location",
+    "types": [
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJgSlQPJ_JzR0RsFNUY-U0Myc",
+    "name": "Cottage Stream Farm",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.114215699999995,
+      "lng": 18.9355296
+    },
+    "address": "Unnamed Rd, Helderberg Rural, Sir Lowry's Pass, 7135",
+    "rating": 4.1,
+    "reviewCount": 12,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ4fPjVRDheB4RG6jV4lboo44",
+    "name": "Equitrailing@Boschrivier Farm & Stables",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0211445,
+      "lng": 23.3195111
+    },
+    "address": "Boschrivier Farm, Hoof Rd, Wittedrift, Plettenberg Bay, 6603",
+    "rating": 4.9,
+    "reviewCount": 11,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ9WlCMCJv0R0RbK75Sqgf_xo",
+    "name": "Milkwood Horse Trails",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.3628948,
+      "lng": 20.6135555
+    },
+    "address": "Melkhoutrivier plot 492, Malgas, 6740",
+    "rating": 4.6,
+    "reviewCount": 10,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJt5vujFtp0h0R6IxaVm8SFWQ",
+    "name": "Winelands Horse Trails",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.787942799999996,
+      "lng": 19.9180214
+    },
+    "address": "De Hoop Road, Robertson, 6705",
+    "rating": 5,
+    "reviewCount": 10,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ7bJ27FjBSm4RbRVyu130a_Q",
+    "name": "Maple Ranch Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9838479,
+      "lng": 23.439273999999997
+    },
+    "address": "1 Pinehaven Rd, Keurboom Heights, Plettenberg Bay, 6600",
+    "rating": 4.3,
+    "reviewCount": 10,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "adventure_sports_center",
+      "tourist_information_center",
+      "amusement_center",
+      "tourist_attraction",
+      "sports_complex",
+      "sports_activity_location",
+      "travel_agency",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJLye5uQYhzR0Rc1jmLw5UTlA",
+    "name": "Abbotsdale Horse Riding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.489925,
+      "lng": 18.679914
+    },
+    "address": "Church Street, Abbotsdale, Cape Town, 7300",
+    "rating": 5,
+    "reviewCount": 9,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ8zUrYbHnzR0RkAIkLUXfN74",
+    "name": "Klein Paradys Equestrian Centre",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.2324773,
+      "lng": 19.203940799999998
+    },
+    "address": "Main Road, Bot River, 7185",
+    "rating": 4.9,
+    "reviewCount": 9,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Activity Location",
+    "types": [
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJQw7PlEUfeR4R2FC7GzMSReM",
+    "name": "K-Rides Equine Education Energy Rescue Centre",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0442099,
+      "lng": 23.2935973
+    },
+    "address": "PORTION 19 OF THE FARM HOLT HILL. 434, N2, Harkerville, Plettenberg Bay, 6600",
+    "rating": 4,
+    "reviewCount": 8,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_coaching",
+      "non_profit_organization",
+      "sports_activity_location",
+      "sports_school",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJa4BQMABZMxwRnGG_so3iW5M",
+    "name": "Windstone Trail Rides",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.944536,
+      "lng": 18.096327
+    },
+    "address": "WIndstone Farm, R45 Hopefield RD, Near Vredenburg, 7380",
+    "rating": 4.1,
+    "reviewCount": 7,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_coaching",
+      "sports_school",
+      "sports_activity_location",
+      "farm",
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJobQbWwRXzB0RenirsftHo-A",
+    "name": "Oak Tree Stables",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8466175,
+      "lng": 18.6230643
+    },
+    "address": "Altydgedacht, Cape Town, 7550",
+    "rating": 5,
+    "reviewCount": 6,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ-5Y-BWGjeB4R_vT3p35QKYU",
+    "name": "Rhythms Riding Centre",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0058388,
+      "lng": 22.778260799999998
+    },
+    "address": "34°00'16.2\"S 22°46'42.9\"E, Sedgefield, 6573",
+    "rating": 5,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_coaching",
+      "sports_activity_location",
+      "sports_school",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJIwnvN9Ad1h0R91ZfG5i8wvk",
+    "name": "Picardi Equestrian Farm",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9635509,
+      "lng": 22.5917578
+    },
+    "address": "39 Tien Myl Laan, Wilderness Heights, Wildernis, Wes-Kaap, 6529",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJkXSxbiLB1R0ROOTzf2hVZmc",
+    "name": "Outeniqua Uithouritklub",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5794487,
+      "lng": 22.202634699999997
+    },
+    "address": "Voortrekkerweg, Oudtshoorn, 6625",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

@@ -1,0 +1,1468 @@
+[
+  {
+    "placeId": "ChIJ0WuR2uftzB0RshObwKeQUwg",
+    "name": "Atlantis Dunes",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.598358399999995,
+      "lng": 18.4490812
+    },
+    "address": "0 Dassenberg Dr, Atlantis, Cape Town, 7349",
+    "rating": 4.7,
+    "reviewCount": 2100,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ86TALkH2zB0R5GQ6I0XkmX0",
+    "name": "Zone 7 MX - Zone 7 Motocross",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.763122599999996,
+      "lng": 18.5519294
+    },
+    "address": "Van Schoorsdrift Rd, Cape Farms, Cape Town, 7550",
+    "rating": 4.5,
+    "reviewCount": 1124,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Racecourse",
+    "types": [
+      "race_course",
+      "sports_activity_location",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ200AEcqmeB4RaqBMtSOR96s",
+    "name": "WildX Adventures Wilderness",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.001362,
+      "lng": 22.690434999999997
+    },
+    "address": "Boven, Lange Valley, Wilderness, 6560",
+    "rating": 4.4,
+    "reviewCount": 721,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJu8-V68kYeR4R4AuHkfhv_ts",
+    "name": "Africanyon River Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9554569,
+      "lng": 23.4850091
+    },
+    "address": "Monkeyland Road, The Crags, Plettenberg Bay, 6602",
+    "rating": 4.8,
+    "reviewCount": 693,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJIX-ackdozB0RBV5s3eh9hPc",
+    "name": "Cape Town Ziplines SA Forest Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0138816,
+      "lng": 18.4041957
+    },
+    "address": "Silvermist Estate, Hout Bay Main Rd, 2, Cape Town, 7824",
+    "rating": 4.7,
+    "reviewCount": 591,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5Z3MXYtPMxwRLbBWPo0_Tr4",
+    "name": "Wacky Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.0203455,
+      "lng": 18.265252
+    },
+    "address": "R45, Hopefield, 7355",
+    "rating": 4.5,
+    "reviewCount": 562,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "water_park",
+      "amusement_park",
+      "go_karting_venue",
+      "race_course",
+      "sports_activity_location",
+      "event_venue",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJO5BzTgrGzR0RlT8ejpB4uIo",
+    "name": "Trail's End Bike Hotel",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1426315,
+      "lng": 19.017629600000003
+    },
+    "address": "Worcester St, Swannie River, Grabouw, 7160",
+    "rating": 4.7,
+    "reviewCount": 456,
+    "priceLevel": null,
+    "summary": "Unfussy quarters in a casual hotel offering dining, an outdoor pool & outdoor activities.",
+    "primaryType": "Hotel",
+    "types": [
+      "hotel",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJLZRWmT3tzB0R7kG8tSQo6pE",
+    "name": "Headout Adventure Quad Bike Tours",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.598636,
+      "lng": 18.4493297
+    },
+    "address": "0 Dassenberg Dr, Cape Farms, Cape Town, 7349",
+    "rating": 4.5,
+    "reviewCount": 427,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJF5_c35Ad1h0R4Y54R0pkhNc",
+    "name": "Eden Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9938232,
+      "lng": 22.6016579
+    },
+    "address": "Fairy Knowe Hotel, 1 Dumbleton Cres, Wilderness, 6560",
+    "rating": 4.5,
+    "reviewCount": 374,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJT4Tsl6cLzh0RPn8NxCSNwU8",
+    "name": "SA Forest Adventures Hermanus",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.2861024,
+      "lng": 19.1451016
+    },
+    "address": "R43, Honingklip Farm, Hermanus, 7200",
+    "rating": 4.5,
+    "reviewCount": 359,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ0Q9xl0RDzB0RSQLJ8MM6C5U",
+    "name": "Adventure Sports and Tours 4u",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5984104,
+      "lng": 18.4491005
+    },
+    "address": "36 Bamberry Rd, Belthorn Estate, Cape Town, 7780",
+    "rating": 4.9,
+    "reviewCount": 298,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJNaj_u53tzB0Rke6aDAbI76E",
+    "name": "Atlantis Dunes WildX Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5984573,
+      "lng": 18.449242299999998
+    },
+    "address": "0 Dassenberg Dr, Atlantis, Cape Town, 7349",
+    "rating": 4.4,
+    "reviewCount": 297,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Services",
+    "types": [
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJbUvIjpC9eB4RVOxjEf2Xoss",
+    "name": "Paraglide Africa - Sedgefield",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0060475,
+      "lng": 22.794829600000003
+    },
+    "address": "100 Egret Rd, Groenvallei, Sedgefield, 6573",
+    "rating": 4.9,
+    "reviewCount": 207,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "tourist_attraction",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ0_sEfeXtzB0RFPNyjFAU18I",
+    "name": "Sand Dunes Cape Town - Sandboarding & Quadbiking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5983199,
+      "lng": 18.4504906
+    },
+    "address": "0 Dassenberg Dr, Wesfleur, Cape Town, 7349",
+    "rating": 4.8,
+    "reviewCount": 191,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "tourist_attraction",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJvZndss6meB4Rzp12c4nPlIY",
+    "name": "Acrobranch Garden Route",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0002784,
+      "lng": 22.6846389
+    },
+    "address": "Timberlake Organic Village, N2 Between Wilderness and Sedgefield, George, 6560",
+    "rating": 4.6,
+    "reviewCount": 188,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "playground",
+      "sports_complex",
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJf-oI50oF1h0RGKZ_q_34lIg",
+    "name": "Thundercycles",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9663885,
+      "lng": 22.450346099999997
+    },
+    "address": "39 York St, Dormehls Drift, George, 6529",
+    "rating": 4.4,
+    "reviewCount": 185,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Store",
+    "types": [
+      "auto_parts_store",
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJaQLWXmnzzB0RvlSH8dI05pI",
+    "name": "Melkbos 4x4",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7040949,
+      "lng": 18.467512
+    },
+    "address": "Otto du Plessis Dr, Melkbosstrand, Cape Town, 7441",
+    "rating": 4.3,
+    "reviewCount": 172,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Event Venue",
+    "types": [
+      "event_venue",
+      "catering_service",
+      "wedding_venue",
+      "race_course",
+      "sports_activity_location",
+      "food_delivery",
+      "campground",
+      "lodging",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJzStnFa3rzB0R83ZBmXJUEco",
+    "name": "Breathless Nomad | Quad Bike Tours",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.598368199999996,
+      "lng": 18.4490886
+    },
+    "address": "0 Dassenberg Dr, Atlantis, Cape Town, 7349",
+    "rating": 4.8,
+    "reviewCount": 154,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "adventure_sports_center",
+      "tour_agency",
+      "travel_agency",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJy742S-QGzR0RgSvwFxz_sPQ",
+    "name": "Wine Valley Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8373829,
+      "lng": 18.9537773
+    },
+    "address": "Intersection R45 and, Franschhoek Wine Route, Operating from Vrede en Lust Wine Estate, Klapmuts - Simondium Rd, Franschhoek, Simondium, 7670",
+    "rating": 4.9,
+    "reviewCount": 140,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "tourist_attraction",
+      "tour_agency",
+      "travel_agency",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJiw-fu-i0zR0R9C1v8YuTlcY",
+    "name": "WildX Adventures Paarl Battle Bunker",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7446184,
+      "lng": 19.0305517
+    },
+    "address": "Du Toitskloof Pass, N1, Paarl, 7646",
+    "rating": 4.2,
+    "reviewCount": 125,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJWcQ-WbLneB4RAXGkQMPAPbY",
+    "name": "Southern Comfort Quad Bikes",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0249824,
+      "lng": 23.226287799999998
+    },
+    "address": "Garden Route, Fisanthoek, Plettenberg Bay, 6604",
+    "rating": 4.1,
+    "reviewCount": 118,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJGcrNcl-yzR0RdUWN3Ubj9LQ",
+    "name": "Adventure Shop Stellenbosch",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9392934,
+      "lng": 18.8650038
+    },
+    "address": "Landbousaal, 1 Noordwal-Wes Rd, Street, Stellenbosch, 7600",
+    "rating": 4.8,
+    "reviewCount": 116,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJSQJwsZPtzB0R3SoG5JJlVV4",
+    "name": "Twin Venture - Cape Town Quad Biking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5988335,
+      "lng": 18.4501112
+    },
+    "address": "0 Dassenberg Dr, Atlantis, Cape Town, 7349",
+    "rating": 4.6,
+    "reviewCount": 110,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "adventure_sports_center",
+      "tour_agency",
+      "travel_agency",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJl_p6vzzHzR0R2bCROb8Ehw8",
+    "name": "Quad Biking Cape Town",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1423348,
+      "lng": 19.0174734
+    },
+    "address": "Worcester Street, Swannier River Grabouw, Swannie River, Cape Town, 7160",
+    "rating": 4.8,
+    "reviewCount": 101,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "adventure_sports_center",
+      "tourist_attraction",
+      "travel_agency",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJlYYszrZkeR4RheMqkrSEslI",
+    "name": "Tsitsikamma Adventure Land - Quad Biking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.023812299999996,
+      "lng": 23.948084299999998
+    },
+    "address": "Farm 438 Stormsriver Tsitsikamma Tsitsikamma, 6308",
+    "rating": 4.3,
+    "reviewCount": 80,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJizl3-YoQzh0RF7knIOa9l1A",
+    "name": "Fatbike Tours - Gansbaai",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.561976,
+      "lng": 19.357183
+    },
+    "address": "61 Ingang St, De Kelders, Gansbaai, 7220",
+    "rating": 5,
+    "reviewCount": 78,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJoSH26AZp1h0RBbKqcQ5MKEw",
+    "name": "AST Motorcycles",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1567055,
+      "lng": 22.1024241
+    },
+    "address": "Louis Fourie Rd, Voorbaai, Die Voor Bay, Mossel Bay, 6500",
+    "rating": 4.2,
+    "reviewCount": 75,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Store",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ1yxfBefreB4RoKNtyU01-L4",
+    "name": "Scootours Knysna",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.048556399999995,
+      "lng": 23.047910599999998
+    },
+    "address": "23 Sawtooth Ln, Thesen Island, Knysna, 6570",
+    "rating": 4.6,
+    "reviewCount": 65,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJIzhpWkpF0h0RMevBxsbaokA",
+    "name": "Route 62 Mountain Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7833742,
+      "lng": 20.1154089
+    },
+    "address": "10 Tanner St, Montagu, 6720",
+    "rating": 5,
+    "reviewCount": 62,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "adventure_sports_center",
+      "sports_coaching",
+      "sports_complex",
+      "sports_activity_location",
+      "school",
+      "educational_institution",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJle1xf4Rn1h0R1O7MY6YhhR0",
+    "name": "Mossel Bay Quad Biking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1128016,
+      "lng": 22.104217
+    },
+    "address": "R102, Hartenbos, Mossel Bay, 6500",
+    "rating": 4.3,
+    "reviewCount": 60,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJvTwBDrVdzB0RKmxCLV_iSU4",
+    "name": "Cape Xtreme Adventure Tours and Cape to Addo Safaris",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9176009,
+      "lng": 18.5156664
+    },
+    "address": "Unit C3, Maitland Park, 733 Voortrekker Rd, Maitland, Cape Town, 7405",
+    "rating": 4.3,
+    "reviewCount": 55,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "transportation_service",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJBz-DJH4Lzh0RXA_UmF_d9Gw",
+    "name": "Walker Bay Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.4202264,
+      "lng": 19.2443009
+    },
+    "address": "26 Marine Dr, Hermanus, 7200",
+    "rating": 4.9,
+    "reviewCount": 48,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJdb3TPrrneB4R-JeY_4bEmZs",
+    "name": "WildX Adventures Harkerville (Knysna)",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.045479,
+      "lng": 23.292292999999997
+    },
+    "address": "45, Holt Hill Farm, Bitou Rural District, Plettenberg Bay, 6600",
+    "rating": 4.4,
+    "reviewCount": 48,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Services",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJDRawxvrtzB0RXAVLojCynWg",
+    "name": "Adventure Cape Town",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5983875,
+      "lng": 18.449106999999998
+    },
+    "address": "Atlantis Dunes Dassenberg Road, Cape Farms, Cape Town, 0083",
+    "rating": 4.5,
+    "reviewCount": 42,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJfXoIg43jeB4RIAG1bhx8t6c",
+    "name": "Muddy Offroads @ Plett",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0541792,
+      "lng": 23.372772899999998
+    },
+    "address": "Church St, Plettenberg Bay, 6600",
+    "rating": 4.5,
+    "reviewCount": 41,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Store",
+    "types": [
+      "parking",
+      "car_repair",
+      "transportation_service",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJzfMZSl4ZeR4RWT1mcpNhvFU",
+    "name": "WildX Adventures The Crags in Plettenberg Bay",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9553598,
+      "lng": 23.4853643
+    },
+    "address": "Mill Decor Centre, The Crags, Animal Alley, 6600",
+    "rating": 4.2,
+    "reviewCount": 40,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJl7wLtnBnzB0RZ6Aff7XSb0Q",
+    "name": "Downhill Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9367798,
+      "lng": 18.4050109
+    },
+    "address": "Kloof St, Gardens, Cape Town, 8001",
+    "rating": 2.6,
+    "reviewCount": 33,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ19qOqbHzzB0RjKa3Su3gcB8",
+    "name": "WildX Adventures Melkbos",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7017297,
+      "lng": 18.4661741
+    },
+    "address": "R27 Highway, Cape Farms, Melkbos, Cape Farms, Cape Town, 7441",
+    "rating": 4.2,
+    "reviewCount": 33,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Services",
+    "types": [
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJQVTi5uqneB4RVxso2Oxa0kw",
+    "name": "Paradise 4x4",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0045901,
+      "lng": 22.6675482
+    },
+    "address": "Arum St, Kleinkrantz, Wilderness, 6560",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Off Roading Area",
+    "types": [
+      "off_roading_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJM7qnKhP3zB0RVqX-m7ku7qo",
+    "name": "WildX Adventures Durbanville Cape Town Ostrich Ranch",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7440209,
+      "lng": 18.556269099999998
+    },
+    "address": "Van Schoorsdrif Rd, Cape Farms, Cape Town, 7439",
+    "rating": 3,
+    "reviewCount": 28,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Services",
+    "types": [
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJIaauciAF1h0Run9rzuFEqAo",
+    "name": "WildX Adventures George - Bookings Only Basis :)",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.949292799999995,
+      "lng": 22.455541399999998
+    },
+    "address": "Arbour Rd, Heatherlands, George, 6529",
+    "rating": 4.3,
+    "reviewCount": 27,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJLa0hP3PAeB4RWmr_5L3HpZU",
+    "name": "Dune Adventures Knysna River Kayaking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0058966,
+      "lng": 23.0088197
+    },
+    "address": "Phantom Drive, Knysna, 6571",
+    "rating": 4.6,
+    "reviewCount": 27,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "gym",
+      "sports_activity_location",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJW4U8Cw-pNBwRhy-rWYWloj8",
+    "name": "Active adventures Paintballing and quad biking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.0499727,
+      "lng": 18.044389199999998
+    },
+    "address": "Mykonos, Langebaan, 7357",
+    "rating": 3.8,
+    "reviewCount": 21,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Paintball Center",
+    "types": [
+      "paintball_center",
+      "sports_complex",
+      "athletic_field",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5x4S3HjHzR0RakY3Z2wTN_4",
+    "name": "Cape Town Waterfall Offroad Buggy & Quadbike Tours",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.142775799999995,
+      "lng": 19.017042699999998
+    },
+    "address": "bike hotel, Worcester St, Grabouw, Cape Town, 7349",
+    "rating": 5,
+    "reviewCount": 21,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJcx1IXGgd1h0R7vNcULZ3Vkc",
+    "name": "Side Street Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9936516,
+      "lng": 22.5779501
+    },
+    "address": "Shop 7, The Square, 1 Owen Grant St, Wilderness, George, 6560",
+    "rating": 4.9,
+    "reviewCount": 18,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "tourist_information_center",
+      "bicycle_store",
+      "sporting_goods_store",
+      "manufacturer",
+      "store",
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJF2EZzsbvzB0RmxOT1hOnaW4",
+    "name": "Cape Town Quad Bikes - Adventure Cape Town",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.598413799999996,
+      "lng": 18.449100299999998
+    },
+    "address": "1 Klein Dassenberg Rd, Atlantis, Cape Town, 0083",
+    "rating": 4.3,
+    "reviewCount": 16,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJaz3IlbWpzR0RLh60Z3j_jyM",
+    "name": "Paarl Trails - Spice Route",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7646145,
+      "lng": 18.9194083
+    },
+    "address": "Unnamed Road, Paarl, 7464",
+    "rating": 4.1,
+    "reviewCount": 16,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "fitness_center",
+      "cycling_park",
+      "hiking_area",
+      "gym",
+      "sports_complex",
+      "sporting_goods_store",
+      "health",
+      "sports_activity_location",
+      "event_venue",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJvz_5E5Dn1R0R5P-tC_0tadE",
+    "name": "WildX Adventures Oudtshoorn",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.6848045,
+      "lng": 22.2627953
+    },
+    "address": "R62, N12, Oudtshoorn, 6620",
+    "rating": 4.7,
+    "reviewCount": 16,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Services",
+    "types": [
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJdRhwlXLieB4RwpswpmDtKpo",
+    "name": "Jamin Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.002245099999996,
+      "lng": 22.647693699999998
+    },
+    "address": "Kleinkrantz, Plettenberg Bay, Wilderness, 6600",
+    "rating": 4.1,
+    "reviewCount": 15,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Travel Agency",
+    "types": [
+      "travel_agency",
+      "movie_rental",
+      "internet_cafe",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJh552CyPtzB0RYAExKstHHVI",
+    "name": "Quad Biking Tours - Downhill Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5983618,
+      "lng": 18.4490805
+    },
+    "address": "1 Klein Dassenberg Rd, Atlantis, Cape Town, 0083",
+    "rating": 3.3,
+    "reviewCount": 12,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJeyuhkXvtzB0RuZziScdyBh0",
+    "name": "Cape Town Quad Bikes Atlantis Dunes",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5984087,
+      "lng": 18.4491037
+    },
+    "address": "1 Klein, Dassenberg Dr, Atlantis, Cape Town, 7349",
+    "rating": 4.6,
+    "reviewCount": 11,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ768fsxYfeR4RoZWKRm91REI",
+    "name": "Ingwe Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9472594,
+      "lng": 23.5042498
+    },
+    "address": "Off the N 2, R102 Firefly Falls The Crags, Plettenberg Bay, 6602",
+    "rating": 4.5,
+    "reviewCount": 10,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "event_venue",
+      "sports_activity_location",
+      "educational_institution",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ7bJ27FjBSm4RbRVyu130a_Q",
+    "name": "Maple Ranch Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9838479,
+      "lng": 23.439273999999997
+    },
+    "address": "1 Pinehaven Rd, Keurboom Heights, Plettenberg Bay, 6600",
+    "rating": 4.3,
+    "reviewCount": 10,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "adventure_sports_center",
+      "tourist_information_center",
+      "amusement_center",
+      "tourist_attraction",
+      "sports_complex",
+      "sports_activity_location",
+      "travel_agency",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJv3mj4v_tzB0RNrrnJ4Gktec",
+    "name": "Quadbiking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5973695,
+      "lng": 18.4490567
+    },
+    "address": "Antlantis Dunes, Atlantis, Cape Town, 7100",
+    "rating": 5,
+    "reviewCount": 6,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ8YDrOvfR0x0R7rCt52Go8vo",
+    "name": "Masbiekerskloof Swellendam",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0195333,
+      "lng": 20.4408624
+    },
+    "address": "19 Buitekant St, Swellendam, 6740",
+    "rating": 4.2,
+    "reviewCount": 6,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJW1hmF9epNBwRZRbUtAE-FB4",
+    "name": "Archery, Paintball And Quad Rides",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.050523399999996,
+      "lng": 18.0438276
+    },
+    "address": "Club Mykonos Resort, Mykonos Access Road, Langebaan, Western Cape, Mykonos, Langebaan, 7357",
+    "rating": 4.2,
+    "reviewCount": 5,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Paintball Center",
+    "types": [
+      "paintball_center",
+      "sports_complex",
+      "athletic_field",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJrRet3I_LzR0RG_6ZBxZ9hso",
+    "name": "Adventure Seekers",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1420253,
+      "lng": 19.017767499999998
+    },
+    "address": "Worcester St, Swannie River, Grabouw, 7160",
+    "rating": 5,
+    "reviewCount": 5,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJJ0nxg-c10h0ReYW8jAv6j7I",
+    "name": "WildX Adventures Montagu",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8202162,
+      "lng": 20.1781596
+    },
+    "address": "at Guano Cave Resort, R62, Rural, Montagu, 6720",
+    "rating": 5,
+    "reviewCount": 5,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Services",
+    "types": [
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ8ZI1ompnzB0RtqaM5Q6G0Fc",
+    "name": "vemgoo - adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9213892,
+      "lng": 18.419787799999998
+    },
+    "address": "50 Long St, Cape Town City Centre, Cape Town, 8000",
+    "rating": 5,
+    "reviewCount": 4,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJWY6MbgHtzB0RXCgVD2xq8R8",
+    "name": "Quadbiking Cape Town",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5984042,
+      "lng": 18.4490871
+    },
+    "address": "Dassenberg Rd, Cape Farms, Cape Town, Atlantis, Cape Town, 7349",
+    "rating": 5,
+    "reviewCount": 3,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJm83YsCutzR0RdVcv94PA6Cg",
+    "name": "Adventure Cape Town Quadbike Tours",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.870917399999996,
+      "lng": 18.8535227
+    },
+    "address": "Knorhoek Rd, Stellenbosch, 7600",
+    "rating": 4.7,
+    "reviewCount": 3,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Racecourse",
+    "types": [
+      "race_course",
+      "sports_activity_location",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ_VywB2OjeB4RHWomyahSZ6A",
+    "name": "WildX Adventures Sedgefield",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0142934,
+      "lng": 22.7994839
+    },
+    "address": "7 Flamingo Ave, Sedgefield, 6573",
+    "rating": 5,
+    "reviewCount": 3,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Services",
+    "types": [
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJBSubl6cLzh0RYVWw6wmJbeU",
+    "name": "Specialized Adventure",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.4213109,
+      "lng": 19.2369319
+    },
+    "address": "23 Marine Dr, Hermanus, 7200",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJGSykRNepNBwRU8VWKwnMaos",
+    "name": "West coast Quad Biking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.0350907,
+      "lng": 18.0393088
+    },
+    "address": "R27 road, Langebaan, 7357",
+    "rating": 5,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ9W5ypLTFzR0R31-ipqyQdmo",
+    "name": "WildX Adventures Elgin South Hills Wines",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.234876899999996,
+      "lng": 19.109203
+    },
+    "address": "Elgin Valley Road, Elgin, 7160",
+    "rating": 1,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Services",
+    "types": [
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJaZ8zBGDneB4RLLdJVgm7Esg",
+    "name": "Adventure Garden Route",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0393567,
+      "lng": 23.2448026
+    },
+    "address": "N2 Harkerville, Plettenberg Bay, 6600",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

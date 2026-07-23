@@ -1,0 +1,291 @@
+[
+  {
+    "placeId": "ChIJMwGZgPZueR4RMIY3XgNJAMs",
+    "name": "Tsitsikamma Canopy Tours",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9742926,
+      "lng": 23.8874837
+    },
+    "address": "101 Darnell St, Stormsrivier, 6308",
+    "rating": 4.7,
+    "reviewCount": 1689,
+    "priceLevel": null,
+    "summary": "Built around giant Outeniqua Yellowwood trees, this canopy tour takes visitors through the treetops.",
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJkXK5e8cT1h0RopI2T_UmlFc",
+    "name": "Mossel Bay Zipline",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1860175,
+      "lng": 22.1592913
+    },
+    "address": "6 Point Rd, Mossel Bay, 6500",
+    "rating": 4.4,
+    "reviewCount": 1392,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJvV3LXshkeR4RshrCiWYWvwk",
+    "name": "ZIPLINE @ Tsitsikamma Falls Adventure",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9833687,
+      "lng": 24.022298
+    },
+    "address": "Farm 509/1 Witelsbos Tsitsikamma, 6304",
+    "rating": 4.6,
+    "reviewCount": 1295,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJfWMCP3THzR0R_8QVpSATqYM",
+    "name": "Cape Canopy Tour",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0709019,
+      "lng": 19.0495466
+    },
+    "address": "Forestry Rd, Grabouw, 7160",
+    "rating": 4.9,
+    "reviewCount": 1264,
+    "priceLevel": null,
+    "summary": "Zipline course from a mountain platform, accessed by a  hike through the surrounding nature reserve.",
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJIX-ackdozB0RBV5s3eh9hPc",
+    "name": "Cape Town Ziplines SA Forest Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0138816,
+      "lng": 18.4041957
+    },
+    "address": "Silvermist Estate, Hout Bay Main Rd, 2, Cape Town, 7824",
+    "rating": 4.7,
+    "reviewCount": 591,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJPW6OD3FpzR0Ru7h1yz_BRGs",
+    "name": "Ceres Zipline Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.374974699999996,
+      "lng": 19.298357199999998
+    },
+    "address": "1 Voortrekker St, Ceres, 6835",
+    "rating": 4.7,
+    "reviewCount": 581,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "nature_preserve",
+      "hiking_area",
+      "tourist_attraction",
+      "sports_complex",
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJUaD32GzleB4RhNIynmgihCg",
+    "name": "Knysna Ziplines",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.03762630000001,
+      "lng": 23.2252591
+    },
+    "address": "Sasol Harkerville - at the Yellow Office next to N2, Plettenberg Bay, Harkerville, 6604",
+    "rating": 4.8,
+    "reviewCount": 350,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ0RRHEeq91R0RcoSZZlkW3yA",
+    "name": "Cango Caves Zipline & Estate",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.3989044,
+      "lng": 22.2150358
+    },
+    "address": "De Kombuys 4028 Grootkraal Farm Kango Vallei, Oudtshoorn, 6625",
+    "rating": 4.6,
+    "reviewCount": 294,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "adventure_sports_center",
+      "farmstay",
+      "guest_house",
+      "family_restaurant",
+      "deli",
+      "pizza_restaurant",
+      "sports_complex",
+      "lodging",
+      "sports_activity_location",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJvZndss6meB4Rzp12c4nPlIY",
+    "name": "Acrobranch Garden Route",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0002784,
+      "lng": 22.6846389
+    },
+    "address": "Timberlake Organic Village, N2 Between Wilderness and Sedgefield, George, 6560",
+    "rating": 4.6,
+    "reviewCount": 188,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "playground",
+      "sports_complex",
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJe4opbgD5zR0RUkJRZpKTv34",
+    "name": "K3 Zipline Landing Point",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.2285338,
+      "lng": 19.4853107
+    },
+    "address": "N2, Myddleton, Caledon",
+    "rating": 4.6,
+    "reviewCount": 94,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJywoafvZueR4RuK7aYP2dDOk",
+    "name": "Stormsriver Adventures (Tsitsikamma Canopy Tour, Woodcutters Journey & Guided Hikes)",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9744819,
+      "lng": 23.8876857
+    },
+    "address": "Tsitsikamma, 101 Darnell St, Stormsrivier, 6308",
+    "rating": 4.7,
+    "reviewCount": 73,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJXQJiN8vjeB4R5fgCIEIUFWc",
+    "name": "Ziplines-In-Plett",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0820511,
+      "lng": 23.312348699999998
+    },
+    "address": "A13a, Airport Rd, Plettenberg Bay",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Point of interest",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJtYDyBErneB4RmhhqOJC3E7Y",
+    "name": "Knysna Ziplines - Sa Forest Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0377632,
+      "lng": 23.2253023
+    },
+    "address": "Sasol garage of the, N2, Harkerville, 6604",
+    "rating": 4.9,
+    "reviewCount": 18,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

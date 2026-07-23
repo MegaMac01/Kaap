@@ -1,0 +1,1034 @@
+[
+  {
+    "placeId": "ChIJ9Wye4Vkc1h0R2JE-BnbAYeY",
+    "name": "Map of Africa",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9929268,
+      "lng": 22.560810099999998
+    },
+    "address": "Hoekwil, Wilderness, Hoekwil, Wilderness, 6538",
+    "rating": 4.5,
+    "reviewCount": 2750,
+    "priceLevel": null,
+    "summary": "Panoramic views over peaks & a river valley shaped like Africa, with paraglider launch spots nearby.",
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJzZRXw3hnzB0RQz_Flk1FFXw",
+    "name": "Cape Town Tandem Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9175918,
+      "lng": 18.4028428
+    },
+    "address": "2 Signal Hill Rd, Signal Hill, Cape Town, 8001",
+    "rating": 4.7,
+    "reviewCount": 1502,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "tourist_attraction",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "educational_institution",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJifK53QhnzB0RKu3cVt9VR-s",
+    "name": "Parapax Tandem Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.917878900000005,
+      "lng": 18.4026964
+    },
+    "address": "Signal Hill Rd, Signal Hill, Cape Town, 8001",
+    "rating": 4.8,
+    "reviewCount": 913,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "scenic_spot",
+      "tourist_attraction",
+      "tour_agency",
+      "travel_agency",
+      "taxi_service",
+      "transportation_service",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJed-G5AhnzB0RfXtIxB_i-iA",
+    "name": "Hi5 Tandem Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.917723599999995,
+      "lng": 18.4025337
+    },
+    "address": "1 Signal Hill Rd, Signal Hill, Cape Town, 8001",
+    "rating": 5,
+    "reviewCount": 714,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "scenic_spot",
+      "tourist_attraction",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "educational_institution",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJb4RAEy1nzB0R_s_fOMvH_Xk",
+    "name": "Paragliding Cape Town - Square 1 Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.917723599999995,
+      "lng": 18.4025337
+    },
+    "address": "1 Signal Hill Rd, Signal Hill, Cape Town, 8001",
+    "rating": 5,
+    "reviewCount": 631,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "tourist_attraction",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJX_M_yfhmzB0R48HC_lLzB5E",
+    "name": "Fly Cape Town Tandem Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.936434999999996,
+      "lng": 18.419800000000002
+    },
+    "address": "26 Virginia Ave, Vredehoek, Cape Town, 8001",
+    "rating": 4.9,
+    "reviewCount": 589,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "adventure_sports_center",
+      "tour_agency",
+      "travel_agency",
+      "sporting_goods_store",
+      "sports_complex",
+      "sports_activity_location",
+      "store",
+      "point_of_interest",
+      "service",
+      "educational_institution",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZaqqquZp1h0Rx1_zga6_R3Q",
+    "name": "Skydive Mossel Bay - Mossel Bay Airfield",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1590285,
+      "lng": 22.0601243
+    },
+    "address": "Skydive Hangar, Airfield, 69 Rooikat, Aalwyndal, Mossel Bay, 6500",
+    "rating": 4.8,
+    "reviewCount": 475,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Activity Location",
+    "types": [
+      "adventure_sports_center",
+      "tourist_attraction",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJUUSsJ6od1h0R2ml7nLiqYJU",
+    "name": "Wild2Fly Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0025651,
+      "lng": 22.647191199999998
+    },
+    "address": "Erf 1435 Protea str, Kleinkrantz, Wilderness, 6560",
+    "rating": 5,
+    "reviewCount": 396,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Educational Institution",
+    "types": [
+      "transportation_service",
+      "point_of_interest",
+      "educational_institution",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJF_rxSCmjeB4RmViVX61S9Tc",
+    "name": "Fly Time Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0057863,
+      "lng": 22.794497099999997
+    },
+    "address": "Egret Rd, Sedgefield, 6572",
+    "rating": 4.9,
+    "reviewCount": 388,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "tourist_attraction",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJLdhOad9nzB0RIqmC2wnJqbg",
+    "name": "Skyride Paragliding Cape Town",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.917680499999996,
+      "lng": 18.4026618
+    },
+    "address": "2 Signal Hill Rd, Signal Hill, Cape Town, 8001",
+    "rating": 5,
+    "reviewCount": 256,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "tourist_attraction",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "educational_institution",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJP2x4wVtnzB0RyEme0qBIco4",
+    "name": "Cape Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9175918,
+      "lng": 18.4028428
+    },
+    "address": "2 Signal Hill Rd, Signal Hill, Cape Town, 8001",
+    "rating": 5,
+    "reviewCount": 253,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJnR-gP7FnzB0RtyKd8qrEdWQ",
+    "name": "TABLE MOUNTAIN PARAGLIDING",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.917866499999995,
+      "lng": 18.4028985
+    },
+    "address": "1 Signal Hill Rd, Signal Hill, Cape Town, 8001",
+    "rating": 4.9,
+    "reviewCount": 247,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJXVvGeD9nzB0RxK86b1iqXTE",
+    "name": "Signal Hill Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9178782,
+      "lng": 18.4023474
+    },
+    "address": "Table Mountain National Park, 1 Signal Hill Rd, Signal Hill, Cape Town, 8005",
+    "rating": 4.9,
+    "reviewCount": 244,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "tourist_attraction",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJPw-Oy9xnzB0RbM2d_dVQpco",
+    "name": "Paraglide Africa - Cape Town",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.917723599999995,
+      "lng": 18.4025337
+    },
+    "address": "1 Signal Hill Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.9,
+    "reviewCount": 231,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "tourist_attraction",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ913CrgMd1h0Rib5P0R1MYW8",
+    "name": "Let’s Fly Paragliding Wilderness",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9932249,
+      "lng": 22.560755
+    },
+    "address": "Remskoen St, Hoekwil, Wilderness, 6560",
+    "rating": 4.9,
+    "reviewCount": 229,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJbUvIjpC9eB4RVOxjEf2Xoss",
+    "name": "Paraglide Africa - Sedgefield",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0060475,
+      "lng": 22.794829600000003
+    },
+    "address": "100 Egret Rd, Groenvallei, Sedgefield, 6573",
+    "rating": 4.9,
+    "reviewCount": 207,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJd9w82AhnzB0RDk1xub9-6gc",
+    "name": "The Tandem Flight Co.",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9178924,
+      "lng": 18.4026241
+    },
+    "address": "3 Signal Hill Rd, Signal Hill, Cape Town, 8001",
+    "rating": 4.8,
+    "reviewCount": 204,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJYS_fOHJnzB0RD6Tacz4vcy8",
+    "name": "Airventures Tandem Paragliding Capetown",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.917723599999995,
+      "lng": 18.4025337
+    },
+    "address": "1 Signal Hill Rd, Signal Hill, Cape Town, 8001",
+    "rating": 4.9,
+    "reviewCount": 200,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ8wg2vjCneB4RpQWoUQh4YAM",
+    "name": "Dolphin Paragliding Tandem Flights",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0048763,
+      "lng": 22.792671799999997
+    },
+    "address": "Sedgeview Paragliding Site, ERF 1640 Egret Street, Sedgefield, 6572",
+    "rating": 4.9,
+    "reviewCount": 180,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJIUZoY4od1h0RVPWQCkTBCL0",
+    "name": "Cloudbase Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9955709,
+      "lng": 22.6189333
+    },
+    "address": "581 Lake Rd, Wilderness, 6560",
+    "rating": 4.9,
+    "reviewCount": 174,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "tourist_attraction",
+      "sports_complex",
+      "tour_agency",
+      "travel_agency",
+      "sports_activity_location",
+      "transportation_service",
+      "educational_institution",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJNy-IwglnzB0RCAFxRDhpzOs",
+    "name": "Cape Hope Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9178272,
+      "lng": 18.402450899999998
+    },
+    "address": "1, Signal Hill, Cape Town, 8001",
+    "rating": 5,
+    "reviewCount": 158,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJRReW_jxfzB0R-EVh3oDeNdU",
+    "name": "Birdmen Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8254174,
+      "lng": 18.502049900000003
+    },
+    "address": "36 Champagne Rd, Table View, Cape Town, 7441",
+    "rating": 4.9,
+    "reviewCount": 150,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Educational Institution",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "educational_institution",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ712xjT9nzB0RNvQKFGiefXc",
+    "name": "Skywings Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.917723599999995,
+      "lng": 18.4025337
+    },
+    "address": "1 Signal Hill Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.8,
+    "reviewCount": 141,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Activity Location",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJK7sGwXShe24R4sjhHbg-Nu8",
+    "name": "Sky Safari Paragliding - Cape Town 🪂",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9175918,
+      "lng": 18.4028428
+    },
+    "address": "1 Signal Hill Rd, Signal Hill, Cape Town, 8001",
+    "rating": 5,
+    "reviewCount": 126,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "educational_institution",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJG3STF0hnzB0R1xu9x1tdhaY",
+    "name": "Go Paragliding in Cape Town",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9178845,
+      "lng": 18.4024319
+    },
+    "address": "4 Signal Hill Rd, Cape Town, 8001",
+    "rating": 4.8,
+    "reviewCount": 114,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "adventure_sports_center",
+      "tourist_attraction",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJP-Cz6T9nzB0RoGvPZqDCPP4",
+    "name": "Icarus Tandem Paragliding - Cape Town",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.917723599999995,
+      "lng": 18.4025337
+    },
+    "address": "1 Signal Hill Rd, Signal Hill, Cape Town, 8001",
+    "rating": 4.9,
+    "reviewCount": 106,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJBe4oAdAd1h0Rxzw0jsumNCE",
+    "name": "Paraglide Africa - Map of Africa",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.993211099999996,
+      "lng": 22.560132199999998
+    },
+    "address": "1 Remskoen St, Wilderness, 8653",
+    "rating": 4.9,
+    "reviewCount": 95,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJAUjvmDujeB4R2RrQ8Enyopo",
+    "name": "SA Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.992871799999996,
+      "lng": 22.5612945
+    },
+    "address": "1 Remskoen St, Hoekwil, Wilderness, 6538",
+    "rating": 4.9,
+    "reviewCount": 55,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJfcrIji6neB4RqkDf97JTx1I",
+    "name": "Kleinkrantz Dune Paragliding Wilderness Launch Site",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0059045,
+      "lng": 22.659618299999998
+    },
+    "address": "Hibiscus St, Kleinkrantz, Wilderness, 6530",
+    "rating": 4.7,
+    "reviewCount": 51,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Club",
+    "types": [
+      "sports_club",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5bIrJ5Yd1h0RMavQhdLjX0I",
+    "name": "Paraglide Africa - Beach Hotel",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9991941,
+      "lng": 22.6142413
+    },
+    "address": "1 South St, Wilderness, 6538",
+    "rating": 4.9,
+    "reviewCount": 45,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "tourist_attraction",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJSdRgkgZnzB0Rhnr8JnSzz1I",
+    "name": "Fly Cape Town Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9175912,
+      "lng": 18.4028427
+    },
+    "address": "Signal Hill Rd, Signal Hill, Cape Town, 8005",
+    "rating": 4.7,
+    "reviewCount": 39,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Educational Institution",
+    "types": [
+      "point_of_interest",
+      "educational_institution",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJq_QAPzeneB4Rm2vlKz_6Clg",
+    "name": "Wallend-Air Tandem Paragliding School",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0032724,
+      "lng": 22.6464599
+    },
+    "address": "Kleinkrantz, Wilderness, 6560",
+    "rating": 5,
+    "reviewCount": 39,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJV4W3v38d1h0RRPgJW8b-_Ks",
+    "name": "Paraglide Africa - Wilderness",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9711089,
+      "lng": 22.613661999999998
+    },
+    "address": "3 Outeniqua Rd, Hoekwil, Wilderness, 6538",
+    "rating": 5,
+    "reviewCount": 35,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJT0lLmu0blR4RoR-2Al15yQk",
+    "name": "Safari Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9176875,
+      "lng": 18.4025878
+    },
+    "address": "1 Signal Hill Rd, Cape Town, 8001",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJe-6YSdJnzB0RqJM6kBlr5eo",
+    "name": "Let’s Fly Paragliding Cape Town",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9177263,
+      "lng": 18.402724199999998
+    },
+    "address": "Signal Hill Rd, Signal Hill, Cape Town, 7400",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJEUWvSV1dzB0Rj2D8HvQUi0s",
+    "name": "Lion’s Head Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9248836,
+      "lng": 18.4534803
+    },
+    "address": "Unit 3, Nearby Park, 10 Railway St, Woodstock, Cape Town, 7925",
+    "rating": 4.5,
+    "reviewCount": 17,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJi6xFdcgd1h0RUUs62w8ktys",
+    "name": "Cloudbase Paragliding Map of Africa",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9932778,
+      "lng": 22.5602394
+    },
+    "address": "Remskoen St, Hoekwil, Wilderness, 6538",
+    "rating": 4.6,
+    "reviewCount": 10,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJXQWPjjGjeB4RlXdLHN9dP4I",
+    "name": "Cloudbase Paragliding Sedgefield",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.005851,
+      "lng": 22.7942827
+    },
+    "address": "Egret Rd, Sedgefield, 6572",
+    "rating": 5,
+    "reviewCount": 9,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Adventure Sports Center",
+    "types": [
+      "adventure_sports_center",
+      "sports_complex",
+      "sports_activity_location",
+      "school",
+      "educational_institution",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJaxD7WVEKzh0RM4A-ShSTSGQ",
+    "name": "Paragliding launch site Hermanus",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.4022159,
+      "lng": 19.2422982
+    },
+    "address": "Mountain Rd, Somerset West, Cape Town, 7130",
+    "rating": 4.9,
+    "reviewCount": 7,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Complex",
+    "types": [
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJQTl0dRkd1h0RZP0jeZn6Hkw",
+    "name": "Dolphin Paragliding : Wilderness Beach Hotel Paragliding TANDEM Flight Experience",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9988251,
+      "lng": 22.6136674
+    },
+    "address": "Marine Dr, east, Wilderness, 6529",
+    "rating": 4,
+    "reviewCount": 6,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Club",
+    "types": [
+      "sports_club",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJs0mZ2RupNBwRO9w3iyYDoBU",
+    "name": "Langebaan Takeoff - Birdmen Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.011784899999995,
+      "lng": 18.0196511
+    },
+    "address": "West Coast Peninsula",
+    "rating": 5,
+    "reviewCount": 4,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Complex",
+    "types": [
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJxeB8hg3ieB4R_5z7-kTEfsY",
+    "name": "SA Paragliding :Piesang Valley Paragliding Site",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0589821,
+      "lng": 23.3726342
+    },
+    "address": "2 Callander Street, Plettenberg Bay, 6600",
+    "rating": 5,
+    "reviewCount": 3,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Club",
+    "types": [
+      "sports_club",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJL_iSrDUb1h0Rty4SZExgsHU",
+    "name": "SA Paragliding : Garden Route : South Africa",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9614027,
+      "lng": 22.497791199999998
+    },
+    "address": "57 Bokmakierie Street, Eden George, George, 6529",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_school",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJm35BWCHreB4RyHWwhE_4pT4",
+    "name": "Dolphin Paragliding :Brenton On Sea Paragliding",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.073085,
+      "lng": 23.019092
+    },
+    "address": "Dolphin Paragliding, The Beach, Brenton-on-Sea, 6571",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_school",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJT7T02o5p1h0RuJuUHdh6Yw8",
+    "name": "Mossel Bay Paragliding TANDEM Flight Experience",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1387528,
+      "lng": 22.1120528
+    },
+    "address": "Hannes Pienaar St, Bay View, Mossel Bay, 6520",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ3feXTUPjeB4RiCTQvemPs58",
+    "name": "Plettenberg Paragliding Flights TANDEM Flight Experience",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.058549,
+      "lng": 23.3709714
+    },
+    "address": "Crow's Nest St, Plettenberg Bay, 6600",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Club",
+    "types": [
+      "sports_club",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

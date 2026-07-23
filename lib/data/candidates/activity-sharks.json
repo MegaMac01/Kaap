@@ -1,0 +1,816 @@
+[
+  {
+    "placeId": "ChIJ6yF_7cEQzh0RYjFS0enKmZs",
+    "name": "Marine Dynamics · Shark Tours · Shark Cage Dive",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.614983699999996,
+      "lng": 19.3528214
+    },
+    "address": "5 Geelbek St, Van Dyks Bay, Gansbaai, 7220",
+    "rating": 4.6,
+    "reviewCount": 726,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tourist_attraction",
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJxU6J_e0Qzh0R6fpG-aff1c0",
+    "name": "White Shark Diving Company",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.6155184,
+      "lng": 19.3549892
+    },
+    "address": "Van Dyk's Bay, 9 Kus Dr, Gansbaai, 7220",
+    "rating": 4.4,
+    "reviewCount": 510,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tourist_attraction",
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ-QlHmnTieB4RnbU1VxNwoqY",
+    "name": "ProDive Scuba Diving Centre Plettenberg Bay",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0601851,
+      "lng": 23.3796687
+    },
+    "address": "Resort, Beacon Isle Dr, Plettenberg Bay, 6600",
+    "rating": 4.8,
+    "reviewCount": 509,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Activity Location",
+    "types": [
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJu3eQeDgXzh0R_6j2YF1FVAs",
+    "name": "Shark Cage Diving Gansbaai | White Shark Projects™",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.6156492,
+      "lng": 19.354554099999998
+    },
+    "address": "16 Geelbek Street Van dyks bay, Kleinbaai, Gansbaai, 7220",
+    "rating": 4.7,
+    "reviewCount": 508,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ9cNewQ5q1h0RIMfOq8NSST8",
+    "name": "The Shark Lab - Mini Aquarium",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.186011799999996,
+      "lng": 22.1591435
+    },
+    "address": "6 Point Rd, Mossel Bay, 6500",
+    "rating": 3.4,
+    "reviewCount": 470,
+    "priceLevel": null,
+    "summary": "Hands-on experiences with small sharks & tanks exhibiting an octopus & other marine life.",
+    "primaryType": "Aquarium",
+    "types": [
+      "aquarium",
+      "historical_landmark",
+      "tourist_attraction",
+      "museum",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJeU4vnEcXzh0RuPCKk9vZRq4",
+    "name": "Kleinbaai Harbour",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.615885399999996,
+      "lng": 19.355660999999998
+    },
+    "address": "Swart str Kleinbaai/ van Dyks baai, Gansbaai, 7220",
+    "rating": 4.5,
+    "reviewCount": 334,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJI6GiudQ_zB0Rw2sqOvRokLc",
+    "name": "Apex Shark Expeditions - Great White Shark Cage Diving Cape Town",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1929644,
+      "lng": 18.432096899999998
+    },
+    "address": "Shop 5, Boardwalk Centre, 6 Wharf St, Simon's Town, Cape Town, 7975",
+    "rating": 4.8,
+    "reviewCount": 298,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJJy-fhh1q1h0RKYp55G8x-rQ",
+    "name": "White Shark Africa",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.180617999999996,
+      "lng": 22.1430763
+    },
+    "address": "7 Church St, Mossel Bay, 6500",
+    "rating": 4.2,
+    "reviewCount": 269,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJLxBct9Q_zB0RYmBR7BZw3yI",
+    "name": "African Shark Eco-Charters- Shark Cage Diving",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1927944,
+      "lng": 18.4321454
+    },
+    "address": "4 Wharf St, Simon's Town, Cape Town, 7975",
+    "rating": 4.7,
+    "reviewCount": 254,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "fishing_charter",
+      "sports_activity_location",
+      "sporting_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJX_TYeTgXzh0Rr17vW-Etnis",
+    "name": "Sharklady Adventures - Gansbaai",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.615546,
+      "lng": 19.3542359
+    },
+    "address": "14 Geelbek St, Gansbaai, 7220",
+    "rating": 4.4,
+    "reviewCount": 248,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZRn0jEcXzh0RWKTRRqOb2ck",
+    "name": "Shark Cage Diving with Great White Shark Tours",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.6152398,
+      "lng": 19.352633300000004
+    },
+    "address": "61A Kabeljou St, Van Dyks Bay, Gansbaai, 7220",
+    "rating": 4.6,
+    "reviewCount": 242,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tourist_attraction",
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJhURVj0cXzh0RamaqIK_37g8",
+    "name": "Shark Divers",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.576237,
+      "lng": 19.3495836
+    },
+    "address": "8 Bietou St, Gansbaai, 7220",
+    "rating": 4.9,
+    "reviewCount": 228,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJDbWLZGdp1h0RUOciUkR9em0",
+    "name": "Garden Route Scuba",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.182967,
+      "lng": 22.147506
+    },
+    "address": "40 Marsh St, Mossel Bay Central, Mossel Bay, 6506",
+    "rating": 4.9,
+    "reviewCount": 218,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Activity Location",
+    "types": [
+      "sporting_goods_store",
+      "sports_activity_location",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJqXgVLOtrzB0RTBvBc80kgk0",
+    "name": "Oceans Africa",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.128871499999995,
+      "lng": 18.4187477
+    },
+    "address": "14 Saunders Cl, Fish Hoek, Cape Town, 7975",
+    "rating": 4.9,
+    "reviewCount": 203,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "sports_coaching",
+      "tour_agency",
+      "travel_agency",
+      "sports_activity_location",
+      "school",
+      "educational_institution",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJQXS2zyw-zB0RZDpGEd6upj4",
+    "name": "Shark Explorers",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.193085499999995,
+      "lng": 18.428964399999998
+    },
+    "address": "62 St George's St, Simon's Town, Cape Town, 7975",
+    "rating": 4.8,
+    "reviewCount": 168,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJtRFcJ1nLzR0RSnUOD_ZtKag",
+    "name": "Just Africa Scuba Center & Watersports Shop",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1512362,
+      "lng": 18.8593355
+    },
+    "address": "Shop 2, Krystal Beach Hotel, 9 Breakwater Ln, Harbour Island, Cape Town, 7140",
+    "rating": 4.9,
+    "reviewCount": 150,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Activity Location",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "sporting_goods_store",
+      "clothing_store",
+      "sports_coaching",
+      "sports_activity_location",
+      "school",
+      "store",
+      "point_of_interest",
+      "health",
+      "service",
+      "educational_institution",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJE-WGyMxp1h0R8pOhaqcXIOw",
+    "name": "Go Dive Mossel Bay",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1803909,
+      "lng": 22.1430613
+    },
+    "address": "7 Church St, Mossel Bay, 6500",
+    "rating": 4.9,
+    "reviewCount": 89,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Activity Location",
+    "types": [
+      "sports_coaching",
+      "sporting_goods_store",
+      "sports_club",
+      "sports_activity_location",
+      "school",
+      "educational_institution",
+      "store",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJSRJQhEcXzh0RyGXvXm5fFAc",
+    "name": "White Shark Ventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.6154939,
+      "lng": 19.354995799999998
+    },
+    "address": "Kus Dr, Harbour, Van Dyks Bay, 7220",
+    "rating": 4,
+    "reviewCount": 54,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tourist_attraction",
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJJxtyCDgXzh0RZ0XTVWPMHdk",
+    "name": "Cape Shark Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.6142168,
+      "lng": 19.354433
+    },
+    "address": "1 Swart street, Kleinbaai, Gansbaai, 7220",
+    "rating": 4.7,
+    "reviewCount": 52,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJR5sdg1BnzB0RdEA_QY9N17w",
+    "name": "Adventure Tours Africa",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.950671199999995,
+      "lng": 18.4754954
+    },
+    "address": "18 Ayres St, Cape Town, 7700",
+    "rating": 4.7,
+    "reviewCount": 42,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJLae6pNE_zB0R72tH6Js7cWc",
+    "name": "Shark Diving Cape Town",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.19285550000001,
+      "lng": 18.432866999999998
+    },
+    "address": "1 Wharf St, Simon's Town, Cape Town, 7975",
+    "rating": 4.9,
+    "reviewCount": 35,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJkwqWLaQLzh0RrWlDFtoK0Cg",
+    "name": "Sharklady Adventures - Hermanus",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.4216739,
+      "lng": 19.2417967
+    },
+    "address": "61 Marine Dr, Hermanus, 7200",
+    "rating": 4.3,
+    "reviewCount": 32,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJO7ZGuecRzh0RQjzyMs-BtOk",
+    "name": "White Shark Projects",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.615614,
+      "lng": 19.354564399999997
+    },
+    "address": "C87R+4F, Gansbaai, 7220",
+    "rating": 4.3,
+    "reviewCount": 25,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ2W4biR5RzB0Ru-P9WUpKKO0",
+    "name": "Caleb Express Tours - Whale Watching & Shark Cage Diving Cape Town | Peninsula Tours",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9298991,
+      "lng": 18.676945099999998
+    },
+    "address": "Kuils River, Cape Town, 7580",
+    "rating": 5,
+    "reviewCount": 21,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJIz0DFF5nzB0RSeOZ0A_FaXY",
+    "name": "Shark-Cage-Diving.net",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9050434,
+      "lng": 18.419055999999998
+    },
+    "address": "280 Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001",
+    "rating": 4.3,
+    "reviewCount": 14,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJTUUHVSJnzB0Rv8dPfr4jnlI",
+    "name": "Shark Zone",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9220286,
+      "lng": 18.419862
+    },
+    "address": "81 Long St, Cape Town City Centre, Cape Town, 8000",
+    "rating": 4.1,
+    "reviewCount": 14,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJY3iy6x0Rzh0RKtT-ViOf004",
+    "name": "Shark Bookings",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.561976,
+      "lng": 19.357183
+    },
+    "address": "61 Ingang St, De Kelders, Gansbaai, 7220",
+    "rating": 4.2,
+    "reviewCount": 12,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJS5baRqBLzB0RXevJ1spMASc",
+    "name": "Shark Adventures - Shark Cage Diving",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.036969899999995,
+      "lng": 18.75819
+    },
+    "address": "11 Faure St, Kelderhof Country Village, Cape Town, 7130",
+    "rating": 3.5,
+    "reviewCount": 11,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Fishing Charter",
+    "types": [
+      "fishing_charter",
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJO9lyjL9BzB0RV0DtZurO9ik",
+    "name": "Shark Cage Diving Cape Town",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.060491,
+      "lng": 18.469061
+    },
+    "address": "7 Chiphillside Rd, Retreat, Cape Town, 7945",
+    "rating": 4.6,
+    "reviewCount": 9,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJc2PFcTgXzh0RTyA_R2_R0XM",
+    "name": "White Shark Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.615399599999996,
+      "lng": 19.3538803
+    },
+    "address": "12 Geelbek St, Van Dyks Bay, 7220",
+    "rating": 5,
+    "reviewCount": 7,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJxU2IGnhnzB0R8Q5nhpYIdsE",
+    "name": "Shark Cage Diving Tours",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9043809,
+      "lng": 18.4207829
+    },
+    "address": "Shop 8, Quay 5, Victoria & Alfred Waterfront, Cape Town, 8002",
+    "rating": 4.2,
+    "reviewCount": 6,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJcQEp0YUXzh0RXSAH4_F-QeM",
+    "name": "Apex Shark Cage Diving - Gansbaai",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.614536199999996,
+      "lng": 19.3523283
+    },
+    "address": "62 Perlemoen Straat, Van Dyks Bay, 7220",
+    "rating": 3.8,
+    "reviewCount": 4,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJQZqqRABnzB0Rwtrcw36sUc8",
+    "name": "Book Now - Shark Cage Diving",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.924909899999996,
+      "lng": 18.41553
+    },
+    "address": "Pepperclub Hotel, 167 Loop St, Cape Town City Centre, Cape Town, 8001",
+    "rating": 5,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJEwm_ll5nzB0RzSE7RcQ6oSM",
+    "name": "SHARK CAGE DIVING",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9117977,
+      "lng": 18.422697799999998
+    },
+    "address": "Shop 8, Quay 5, Victoria & Alfred Waterfront, Cape Town, 8001",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Activity Location",
+    "types": [
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ1VvQIgA_zB0RoKYg-E4fgFE",
+    "name": "Book Now - Shark Cage Diving",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.19314,
+      "lng": 18.42895
+    },
+    "address": "62 St George's St, Simon's Town, Cape Town, 7995",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJF_KwVgAXzh0RH6a2973DdvM",
+    "name": "Book Now - Shark Cage Diving with Crocodiles and Penguins",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.615885399999996,
+      "lng": 19.355660999999998
+    },
+    "address": "9 Kus Dr, Gansbaai, 7220",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ_22LHgAXzh0RQrT4xHW1wGU",
+    "name": "Book Now - Gansbaai Shark Cage Diving Cruise",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.6147978,
+      "lng": 19.352827599999998
+    },
+    "address": "5 Geelbek St, Van Dyks Bay, 7220",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

@@ -1461,5 +1461,845 @@
     "placeId": "ChIJC2ca25BQzB0RogL1JwaABO8",
     "googleName": "FRAME GALLERY",
     "address": "35 Northumberland St, Oakdale, Cape Town, 7550"
+  },
+  "atlantis-dunes": {
+    "placeId": "ChIJ0WuR2uftzB0RshObwKeQUwg",
+    "googleName": "Atlantis Dunes",
+    "address": "0 Dassenberg Dr, Atlantis, Cape Town, 7349"
+  },
+  "zone-7-mx-zone-7-motocross": {
+    "placeId": "ChIJ86TALkH2zB0R5GQ6I0XkmX0",
+    "googleName": "Zone 7 MX - Zone 7 Motocross",
+    "address": "Van Schoorsdrift Rd, Cape Farms, Cape Town, 7550"
+  },
+  "wildx-adventures-wilderness": {
+    "placeId": "ChIJ200AEcqmeB4RaqBMtSOR96s",
+    "googleName": "WildX Adventures Wilderness",
+    "address": "Boven, Lange Valley, Wilderness, 6560"
+  },
+  "wacky-adventures": {
+    "placeId": "ChIJ5Z3MXYtPMxwRLbBWPo0_Tr4",
+    "googleName": "Wacky Adventures",
+    "address": "R45, Hopefield, 7355"
+  },
+  "sa-forest-adventures-hermanus": {
+    "placeId": "ChIJT4Tsl6cLzh0RPn8NxCSNwU8",
+    "googleName": "SA Forest Adventures Hermanus",
+    "address": "R43, Honingklip Farm, Hermanus, 7200"
+  },
+  "melkbos-4x4": {
+    "placeId": "ChIJaQLWXmnzzB0RvlSH8dI05pI",
+    "googleName": "Melkbos 4x4",
+    "address": "Otto du Plessis Dr, Melkbosstrand, Cape Town, 7441"
+  },
+  "wine-valley-adventures": {
+    "placeId": "ChIJy742S-QGzR0RgSvwFxz_sPQ",
+    "googleName": "Wine Valley Adventures",
+    "address": "Intersection R45 and, Franschhoek Wine Route, Operating from Vrede en Lust Wine Estate, Klapmuts - Simondium Rd, Franschhoek, Simondium, 7670"
+  },
+  "wildx-adventures-paarl-battle-bunker": {
+    "placeId": "ChIJiw-fu-i0zR0R9C1v8YuTlcY",
+    "googleName": "WildX Adventures Paarl Battle Bunker",
+    "address": "Du Toitskloof Pass, N1, Paarl, 7646"
+  },
+  "southern-comfort-quad-bikes": {
+    "placeId": "ChIJWcQ-WbLneB4RAXGkQMPAPbY",
+    "googleName": "Southern Comfort Quad Bikes",
+    "address": "Garden Route, Fisanthoek, Plettenberg Bay, 6604"
+  },
+  "quad-biking-cape-town": {
+    "placeId": "ChIJl_p6vzzHzR0R2bCROb8Ehw8",
+    "googleName": "Quad Biking Cape Town",
+    "address": "Worcester Street, Swannier River Grabouw, Swannie River, Cape Town, 7160"
+  },
+  "tsitsikamma-adventure-land-quad-biking": {
+    "placeId": "ChIJlYYszrZkeR4RheMqkrSEslI",
+    "googleName": "Tsitsikamma Adventure Land - Quad Biking",
+    "address": "Farm 438 Stormsriver Tsitsikamma Tsitsikamma, 6308"
+  },
+  "route-62-mountain-adventures": {
+    "placeId": "ChIJIzhpWkpF0h0RMevBxsbaokA",
+    "googleName": "Route 62 Mountain Adventures",
+    "address": "10 Tanner St, Montagu, 6720"
+  },
+  "mossel-bay-quad-biking": {
+    "placeId": "ChIJle1xf4Rn1h0R1O7MY6YhhR0",
+    "googleName": "Mossel Bay Quad Biking",
+    "address": "R102, Hartenbos, Mossel Bay, 6500"
+  },
+  "cape-xtreme-adventure-tours-and-cape-to-": {
+    "placeId": "ChIJvTwBDrVdzB0RKmxCLV_iSU4",
+    "googleName": "Cape Xtreme Adventure Tours and Cape to Addo Safaris",
+    "address": "Unit C3, Maitland Park, 733 Voortrekker Rd, Maitland, Cape Town, 7405"
+  },
+  "walker-bay-adventures": {
+    "placeId": "ChIJBz-DJH4Lzh0RXA_UmF_d9Gw",
+    "googleName": "Walker Bay Adventures",
+    "address": "26 Marine Dr, Hermanus, 7200"
+  },
+  "wildx-adventures-harkerville-knysna": {
+    "placeId": "ChIJdb3TPrrneB4R-JeY_4bEmZs",
+    "googleName": "WildX Adventures Harkerville (Knysna)",
+    "address": "45, Holt Hill Farm, Bitou Rural District, Plettenberg Bay, 6600"
+  },
+  "muddy-offroads-plett": {
+    "placeId": "ChIJfXoIg43jeB4RIAG1bhx8t6c",
+    "googleName": "Muddy Offroads @ Plett",
+    "address": "Church St, Plettenberg Bay, 6600"
+  },
+  "wildx-adventures-the-crags-in-plettenber": {
+    "placeId": "ChIJzfMZSl4ZeR4RWT1mcpNhvFU",
+    "googleName": "WildX Adventures The Crags in Plettenberg Bay",
+    "address": "Mill Decor Centre, The Crags, Animal Alley, 6600"
+  },
+  "downhill-adventures": {
+    "placeId": "ChIJl7wLtnBnzB0RZ6Aff7XSb0Q",
+    "googleName": "Downhill Adventures",
+    "address": "Kloof St, Gardens, Cape Town, 8001"
+  },
+  "paradise-4x4": {
+    "placeId": "ChIJQVTi5uqneB4RVxso2Oxa0kw",
+    "googleName": "Paradise 4x4",
+    "address": "Arum St, Kleinkrantz, Wilderness, 6560"
+  },
+  "wildx-adventures-george-bookings-only-ba": {
+    "placeId": "ChIJIaauciAF1h0Run9rzuFEqAo",
+    "googleName": "WildX Adventures George - Bookings Only Basis :)",
+    "address": "Arbour Rd, Heatherlands, George, 6529"
+  },
+  "dune-adventures-knysna-river-kayaking": {
+    "placeId": "ChIJLa0hP3PAeB4RWmr_5L3HpZU",
+    "googleName": "Dune Adventures Knysna River Kayaking",
+    "address": "Phantom Drive, Knysna, 6571"
+  },
+  "active-adventures-paintballing-and-quad-": {
+    "placeId": "ChIJW4U8Cw-pNBwRhy-rWYWloj8",
+    "googleName": "Active adventures Paintballing and quad biking",
+    "address": "Mykonos, Langebaan, 7357"
+  },
+  "side-street-adventures": {
+    "placeId": "ChIJcx1IXGgd1h0R7vNcULZ3Vkc",
+    "googleName": "Side Street Adventures",
+    "address": "Shop 7, The Square, 1 Owen Grant St, Wilderness, George, 6560"
+  },
+  "paarl-trails-spice-route": {
+    "placeId": "ChIJaz3IlbWpzR0RLh60Z3j_jyM",
+    "googleName": "Paarl Trails - Spice Route",
+    "address": "Unnamed Road, Paarl, 7464"
+  },
+  "jamin-adventures": {
+    "placeId": "ChIJdRhwlXLieB4RwpswpmDtKpo",
+    "googleName": "Jamin Adventures",
+    "address": "Kleinkrantz, Plettenberg Bay, Wilderness, 6600"
+  },
+  "ingwe-adventures": {
+    "placeId": "ChIJ768fsxYfeR4RoZWKRm91REI",
+    "googleName": "Ingwe Adventures",
+    "address": "Off the N 2, R102 Firefly Falls The Crags, Plettenberg Bay, 6602"
+  },
+  "map-of-africa": {
+    "placeId": "ChIJ9Wye4Vkc1h0R2JE-BnbAYeY",
+    "googleName": "Map of Africa",
+    "address": "Hoekwil, Wilderness, Hoekwil, Wilderness, 6538"
+  },
+  "cape-town-tandem-paragliding": {
+    "placeId": "ChIJzZRXw3hnzB0RQz_Flk1FFXw",
+    "googleName": "Cape Town Tandem Paragliding",
+    "address": "2 Signal Hill Rd, Signal Hill, Cape Town, 8001"
+  },
+  "fly-cape-town-tandem-paragliding": {
+    "placeId": "ChIJX_M_yfhmzB0R48HC_lLzB5E",
+    "googleName": "Fly Cape Town Tandem Paragliding",
+    "address": "26 Virginia Ave, Vredehoek, Cape Town, 8001"
+  },
+  "skydive-mossel-bay-mossel-bay-airfield": {
+    "placeId": "ChIJZaqqquZp1h0Rx1_zga6_R3Q",
+    "googleName": "Skydive Mossel Bay - Mossel Bay Airfield",
+    "address": "Skydive Hangar, Airfield, 69 Rooikat, Aalwyndal, Mossel Bay, 6500"
+  },
+  "wild2fly-paragliding": {
+    "placeId": "ChIJUUSsJ6od1h0R2ml7nLiqYJU",
+    "googleName": "Wild2Fly Paragliding",
+    "address": "Erf 1435 Protea str, Kleinkrantz, Wilderness, 6560"
+  },
+  "fly-time-paragliding": {
+    "placeId": "ChIJF_rxSCmjeB4RmViVX61S9Tc",
+    "googleName": "Fly Time Paragliding",
+    "address": "Egret Rd, Sedgefield, 6572"
+  },
+  "cloudbase-paragliding": {
+    "placeId": "ChIJIUZoY4od1h0RVPWQCkTBCL0",
+    "googleName": "Cloudbase Paragliding",
+    "address": "581 Lake Rd, Wilderness, 6560"
+  },
+  "birdmen-paragliding": {
+    "placeId": "ChIJRReW_jxfzB0R-EVh3oDeNdU",
+    "googleName": "Birdmen Paragliding",
+    "address": "36 Champagne Rd, Table View, Cape Town, 7441"
+  },
+  "kleinkrantz-dune-paragliding-wilderness-": {
+    "placeId": "ChIJfcrIji6neB4RqkDf97JTx1I",
+    "googleName": "Kleinkrantz Dune Paragliding Wilderness Launch Site",
+    "address": "Hibiscus St, Kleinkrantz, Wilderness, 6530"
+  },
+  "paraglide-africa-beach-hotel": {
+    "placeId": "ChIJ5bIrJ5Yd1h0RMavQhdLjX0I",
+    "googleName": "Paraglide Africa - Beach Hotel",
+    "address": "1 South St, Wilderness, 6538"
+  },
+  "paraglide-africa-wilderness": {
+    "placeId": "ChIJV4W3v38d1h0RRPgJW8b-_Ks",
+    "googleName": "Paraglide Africa - Wilderness",
+    "address": "3 Outeniqua Rd, Hoekwil, Wilderness, 6538"
+  },
+  "lions-head-paragliding": {
+    "placeId": "ChIJEUWvSV1dzB0Rj2D8HvQUi0s",
+    "googleName": "Lion’s Head Paragliding",
+    "address": "Unit 3, Nearby Park, 10 Railway St, Woodstock, Cape Town, 7925"
+  },
+  "untouched-adventures": {
+    "placeId": "ChIJGzYNMtFxeR4RZDtSY5MQ5pY",
+    "googleName": "Untouched Adventures",
+    "address": "Storms River Mouth, 6309"
+  },
+  "kayak-clifton": {
+    "placeId": "ChIJi_oFCyBnzB0R3lh7iwAsA3k",
+    "googleName": "KAYAK CLIFTON",
+    "address": "Clifton 4th, Clifton, Cape Town, 8005"
+  },
+  "cape-kayak-adventures": {
+    "placeId": "ChIJY35N5z1nzB0RZpsf1rq7kNs",
+    "googleName": "CAPE KAYAK ADVENTURES",
+    "address": "180 Beach Rd, Three Anchor Bay, Cape Town, 8005"
+  },
+  "atlantic-outlook-kayak-cape-town-tours": {
+    "placeId": "ChIJkYKLPE5nzB0RQ9o7qH4g09w",
+    "googleName": "Atlantic Outlook - Kayak Cape Town Tours",
+    "address": "Granger Bay Blvd, Victoria & Alfred Waterfront, Cape Town, 8001"
+  },
+  "kayak-adventures-waterfront": {
+    "placeId": "ChIJT0eP7MxnzB0Rd56Qw2UIE5M",
+    "googleName": "Kayak Adventures Waterfront",
+    "address": "Battery Park, Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8000"
+  },
+  "animal-ocean-expeditions": {
+    "placeId": "ChIJ4xeODjppzB0Rpo6Uxi3lGjA",
+    "googleName": "Animal Ocean Expeditions",
+    "address": "41 Victoria Ave, Hout Bay, Cape Town, 7806"
+  },
+  "kayak-cape-town-simons-town": {
+    "placeId": "ChIJhycmv9Q_zB0RNSKF26nd2qM",
+    "googleName": "Kayak Cape Town (Simon's Town)",
+    "address": "Simons Town Jetty, Wharf St, Simon's Town, Cape Town, 7995"
+  },
+  "knysna-charters": {
+    "placeId": "ChIJI-v9NPbqeB4RmQXXb7QJhU4",
+    "googleName": "Knysna Charters",
+    "address": "Harbour Town, Th23 Sawtooth Ln, Thesen Island, Knysna, 6571"
+  },
+  "kayak-adventures": {
+    "placeId": "ChIJE8HjUlhpzB0ROjMgRcrqbT8",
+    "googleName": "Kayak Adventures",
+    "address": "Harbour Rd, Hout Bay Harbour, Cape Town, 7806"
+  },
+  "waterfront-kayak": {
+    "placeId": "ChIJD7brE3hnzB0RIParludLUzQ",
+    "googleName": "Waterfront Kayak",
+    "address": "Shop No 8, Quay 5, Victoria & Alfred Waterfront, Cape Town, 8002"
+  },
+  "kayak-adventures-simons-town": {
+    "placeId": "ChIJkcgcDjppzB0R-dzieCswIDY",
+    "googleName": "Kayak Adventures Simons Town",
+    "address": "Long Beach, Driegebroeders Road, Simon's Town, Cape Town, 7995"
+  },
+  "yzerfontein-sea-sport": {
+    "placeId": "ChIJ7b_0I8ylzB0RR2ZPjXB6uRE",
+    "googleName": "Yzerfontein Sea Sport",
+    "address": "harbour, Yzerfontein, 7351"
+  },
+  "wilderness-river-safaris": {
+    "placeId": "ChIJSXH24JAd1h0RF7hGRkvs87w",
+    "googleName": "Wilderness River Safaris",
+    "address": "National Park, Ebb and Flow Dr, Wilderness, 6560"
+  },
+  "keurbooms-ferries": {
+    "placeId": "ChIJAS-LXzceeR4RN18QA-E5s_M",
+    "googleName": "Keurbooms Ferries",
+    "address": "N2 Keurbooms River Keurbooms, Plettenberg Bay, 6600"
+  },
+  "dolphin-adventures-sea-kayaking": {
+    "placeId": "ChIJD7KPFQvieB4RqgsQKYTokao",
+    "googleName": "Dolphin Adventures Sea Kayaking",
+    "address": "Central Beach Kayak Rack Next to Life Saving Club, Hopwood St, Plettenberg Bay, 6600"
+  },
+  "kayak-adventures-cape-town": {
+    "placeId": "ChIJRb0AVdBdzB0R8MNZiR-LGP0",
+    "googleName": "Kayak Adventures Cape Town",
+    "address": "100 Beach Road, Granger Bay Blvd, Mouille Point, Cape Town, 8060"
+  },
+  "amanzi-trails-orange-river-adventures-bo": {
+    "placeId": "ChIJqYHKM9BbzB0RgWFMiMxsPJc",
+    "googleName": "Amanzi Trails Orange River Adventures - Booking Office",
+    "address": "The, Vineyards Office Estate, 99 Jip De Jager Dr, De Bron, Cape Town, 7530"
+  },
+  "gravity-adventures": {
+    "placeId": "ChIJaXuTZyZDzB0R1x-ZKg1Pkf4",
+    "googleName": "Gravity Adventures",
+    "address": "21 Selous Rd, Claremont, Cape Town, 7708"
+  },
+  "shelley-point-kayaking": {
+    "placeId": "ChIJQfuCMTadNBwRqHfRLyy4v4U",
+    "googleName": "Shelley Point Kayaking",
+    "address": "5th Ave, Shelley Point, St Helena Bay, 7382"
+  },
+  "pura-vida-kayak-adventure-kleinmond": {
+    "placeId": "ChIJQ77lmPnXzR0R9gg9lyBI3jM",
+    "googleName": "Pura Vida Kayak Adventure - Kleinmond",
+    "address": "Yetty, Lagoon, Palmiet St, Kleinmond, 7195"
+  },
+  "bonamanzi-adventures": {
+    "placeId": "ChIJuZQ8TU2GzR0RWuyPqaFl9qs",
+    "googleName": "Bonamanzi Adventures",
+    "address": "South Africa"
+  },
+  "aquatrails": {
+    "placeId": "ChIJ7XLmvBVAzB0RsOL-3OuzjeY",
+    "googleName": "Aquatrails",
+    "address": "150 Main Rd, Fish Hoek, Cape Town, 7974"
+  },
+  "bitou-kayaks": {
+    "placeId": "ChIJDZQhQIvheB4Ro3gz-5ltb2k",
+    "googleName": "Bitou Kayaks",
+    "address": "Rietvlei Rd, Plettenberg Bay"
+  },
+  "supingkeurbooms": {
+    "placeId": "ChIJg8-qDUUfeR4RFndhFbBAzG0",
+    "googleName": "Supingkeurbooms",
+    "address": "Forever, Plettenberg Bay"
+  },
+  "kayak-paternoster": {
+    "placeId": "ChIJCVDay1SZNBwRHWuBC8I7tSU",
+    "googleName": "Kayak Paternoster",
+    "address": "1 Kreeftegang, Kliprug, Paternoster, 7381"
+  },
+  "shelley-point-kayaking-2": {
+    "placeId": "ChIJ1XnJigSdNBwRJJQ-rkol4hM",
+    "googleName": "Shelley Point Kayaking",
+    "address": "12 21st St, Shelley Point, St Helena Bay, 7282"
+  },
+  "the-dunes-beach-horse-rides": {
+    "placeId": "ChIJ7xVjvr5rzB0RdijkHyOYeEY",
+    "googleName": "The Dunes Beach Horse Rides",
+    "address": "South Africa, 26 Protea St, Chapmans Peak, Cape Town, 7979"
+  },
+  "the-riding-centre": {
+    "placeId": "ChIJS0Ntg-BozB0RxppXnBoF36A",
+    "googleName": "The Riding Centre",
+    "address": "Main Rd, Hout Bay, Cape Town, 7872"
+  },
+  "mountain-view-horse-trails": {
+    "placeId": "ChIJY6ayvVf2zB0RAWadUprHOg4",
+    "googleName": "Mountain View Horse Trails",
+    "address": "Van Schoorsdrif Rd, Cape Farms, Cape Town"
+  },
+  "tniqua-stable-inn": {
+    "placeId": "ChIJLfCmegrjeB4R8wjRekwEO8Y",
+    "googleName": "T'Niqua Stable Inn",
+    "address": "Robberg Rd, Plettenberg Bay, 6600"
+  },
+  "heaven-and-earth-trails": {
+    "placeId": "ChIJVVwpiiPgzR0RjEvnomov7LQ",
+    "googleName": "Heaven and Earth Trails",
+    "address": "7 Karweyderskraal Farm Karwyderskraalroad Hemel en Aarde, Hermanus, 7200"
+  },
+  "kurland-park-horse-trails": {
+    "placeId": "ChIJ_zYLX9ojeR4RQSCLNNAH6F0",
+    "googleName": "Kurland Park Horse Trails",
+    "address": "Loredo North, The Crags, Plettenberg Bay, 6602"
+  },
+  "pearly-beach-horse-trails": {
+    "placeId": "ChIJt-b1Hb8hzh0RjSwDZ0gm9YA",
+    "googleName": "Pearly Beach Horse Trails",
+    "address": "Portion 1 Farm 321, Kleynhagelkraal, Pearly Beach, 7221"
+  },
+  "klein-karoo-horse-adventures": {
+    "placeId": "ChIJYQzRqMj11R0Rc3m4HCKDnuQ",
+    "googleName": "Klein Karoo Horse Adventures",
+    "address": "Domein, Doornkraal Stompdriftdam Road, De Rust, 6650"
+  },
+  "cape-winelands-riding": {
+    "placeId": "ChIJTdIjE9CuzR0RBw-SikfABCw",
+    "googleName": "Cape Winelands Riding",
+    "address": "R45, Simondium, 7670"
+  },
+  "silvermist-equestrian-center": {
+    "placeId": "ChIJGziBPXNVzB0Rx587KWHR530",
+    "googleName": "Silvermist Equestrian Center",
+    "address": "R304 East Rural Matjieskuil Farm, Joostenberg Vlakte, Cape Town, 7599"
+  },
+  "perdepoort-horse-trails-local-info-co-za": {
+    "placeId": "ChIJOdI9gCEd1h0R0d-61jhbxX4",
+    "googleName": "Perdepoort Horse trails@local-info.co.za",
+    "address": "George"
+  },
+  "drikus-horse-trails-paternoster": {
+    "placeId": "ChIJY51rPEGZNBwRBw2qulRzmVk",
+    "googleName": "Drikus Horse Trails Paternoster",
+    "address": "Swartrug Farm, Western Cape, Paternoster, 7381"
+  },
+  "equine-sport-centre-for-horse-riding-ste": {
+    "placeId": "ChIJFcGLvgT6zB0R1llk0EFjV1A",
+    "googleName": "Equine Sport Centre for Horse Riding - Stellenbosch Winelands",
+    "address": "Slaley Wine Farm, R44 &, Kromme Rhee Rd, Stellenbosch, 7600"
+  },
+  "horse-rides-at-petes-wildlife-safari": {
+    "placeId": "ChIJTyjMyVlTzB0RrqMbBbQS-U8",
+    "googleName": "Horse Rides at Pete's - Wildlife Safari",
+    "address": "R304, Koelenhof, Stellenbosch, 7600"
+  },
+  "oudebosch-guest-farm": {
+    "placeId": "ChIJgwHonJQB1B0Rd1ixpWtQ2KM",
+    "googleName": "Oudebosch Guest Farm",
+    "address": "Korentepoort dam, Riversdale, 6670"
+  },
+  "west-coast-horse-trails": {
+    "placeId": "ChIJ4QxpSQK5zB0RGuW7SwkZfPM",
+    "googleName": "West Coast Horse Trails",
+    "address": "Strandkombuis Rd, Yzerfontein, 7351"
+  },
+  "paradise-stables-robertsvallei": {
+    "placeId": "ChIJz9pIXHi8zR0RbbY_hSJuihw",
+    "googleName": "Paradise Stables @ Robertsvallei",
+    "address": "Robertsvlei Rd, Franschhoek, 7690"
+  },
+  "journeys-end-horseback-rides": {
+    "placeId": "ChIJ7T6aKYnJzR0RsQDb2qUdWqE",
+    "googleName": "Journey's End Horseback Rides",
+    "address": "25A Journeys End, Sir Lowrys Pass Road, Somerset West, Cape Town, 7129"
+  },
+  "alpha-equestrian": {
+    "placeId": "ChIJDwr2kginzR0RVdyBteyaEto",
+    "googleName": "alpha equestrian",
+    "address": "Keerweder Rd, Paarl, 4676"
+  },
+  "garden-route-horse-trails": {
+    "placeId": "ChIJq7leTgAd1h0RzcM3F-CXGA0",
+    "googleName": "Garden Route Horse Trails",
+    "address": "43 Seven Passes Rd, Glenwood AH, George, 6529"
+  },
+  "long-shadows-farm": {
+    "placeId": "ChIJdeYatxzFzR0RBUPE_aCm23U",
+    "googleName": "Long Shadows Farm",
+    "address": "Viljoenshoop Rd, Elgin, 7180"
+  },
+  "boschrivier-farm": {
+    "placeId": "ChIJjy93-RDheB4RBQ25chV9hMo",
+    "googleName": "Boschrivier Farm",
+    "address": "Hoof Rd, Wittedrift, Plettenberg Bay, 6603"
+  },
+  "equine-encounters-and-trail-rides": {
+    "placeId": "ChIJkQXYxFfQ0x0RGoT3US2-wTY",
+    "googleName": "Equine Encounters and Trail Rides",
+    "address": "Hermitage N Ave, South, Swellendam, 6740"
+  },
+  "west-coast-beach-rides": {
+    "placeId": "ChIJMS2CMZWbNBwRIBto1aHRAWk",
+    "googleName": "West Coast Beach Rides",
+    "address": "Pelgrimsrust, Paternoster, 7381"
+  },
+  "horse-about-livery": {
+    "placeId": "ChIJPZC2eaZqzR0RRftxDrWyaWE",
+    "googleName": "Horse About Livery",
+    "address": "Tulbagh"
+  },
+  "tulbagh-horse-trails": {
+    "placeId": "ChIJ5f6fcPk4zR0Rw64qRhQB-P8",
+    "googleName": "Tulbagh Horse Trails",
+    "address": "Winterhoek road, Tulbagh, 6820"
+  },
+  "robertson-horse-adventures": {
+    "placeId": "ChIJN6tZuCpq0h0RSjuQNNukxHc",
+    "googleName": "Robertson Horse Adventures",
+    "address": "Klipdrift farm, Robertson, 6507"
+  },
+  "hermitage-horses": {
+    "placeId": "ChIJ4adEy3XT0x0RfD5eHdiQnfY",
+    "googleName": "Hermitage Horses",
+    "address": "Hermitage, 24 North Rd, Swellendam, 6740"
+  },
+  "oude-molen-stables": {
+    "placeId": "ChIJ83rPrkpdzB0RUCl4zqWKD5U",
+    "googleName": "Oude Molen Stables",
+    "address": "Alexandra Rd, Oude Molen Village, Cape Town, 7405"
+  },
+  "adventure-horse-safaris": {
+    "placeId": "ChIJwxbWrZZo1h0Rfa5Vo0zARAk",
+    "googleName": "Adventure Horse Safaris",
+    "address": "Unnamed Road, Vyf Brakke Fonteinen, Mossel Bay, 6520"
+  },
+  "african-horse-company-stanford": {
+    "placeId": "ChIJx5BcLu4azh0RDI7yzZR6oVI",
+    "googleName": "African Horse Company - Stanford",
+    "address": "Stanford Hills Estate, Stanford, 7210"
+  },
+  "gansbaai-horse-riding": {
+    "placeId": "ChIJGcnX_4sZzh0RPM81SR3v5zQ",
+    "googleName": "Gansbaai Horse Riding",
+    "address": "Corner of R43 and Uilenkraalsmond Resort - behind Johnny Rockets, Gansbaai, 7220"
+  },
+  "souled-out-stables": {
+    "placeId": "ChIJ0z5vXD5p1h0R0wxWLWhljxE",
+    "googleName": "SOULED OUT STABLES",
+    "address": "Spekboom St, Heiderand Extension, Mossel Bay, 6511"
+  },
+  "the-ranch-horse-trail-rides": {
+    "placeId": "ChIJCeGy_T_jzR0RXv8wIEqIyWo",
+    "googleName": "@ The Ranch Horse Trail Rides",
+    "address": "Hemel en Aarde Valley, Hemel en Aarde Road, Hermanus, 7200"
+  },
+  "solitaire-equestrian-academy": {
+    "placeId": "ChIJacpMlqgLzh0RzeFaigNrrn4",
+    "googleName": "Solitaire Equestrian Academy",
+    "address": "Hemel en aarde, Karwyderskraal, 7201"
+  },
+  "the-pink-geranium-horse-riding": {
+    "placeId": "ChIJV3_D6DRVzB0Rcky1CDWrXvs",
+    "googleName": "The Pink Geranium Horse Riding",
+    "address": "The Pink Geranium Nursery N1 corner, R304, Elsenberg, 7607"
+  },
+  "two-feathers-horse-trails": {
+    "placeId": "ChIJNXi1Ub_R0x0RGgi7CjNeKRo",
+    "googleName": "Two Feathers Horse Trails",
+    "address": "Koloniesbos Hut, Marloth Nature Reserve, Swellendam, 6740"
+  },
+  "bainskloof-horseriding-adventures": {
+    "placeId": "ChIJuy2RUFIJzR0Rs7HumA42jgQ",
+    "googleName": "Bainskloof Horseriding Adventures",
+    "address": "Canetsfontein Wine, Olives, Fruit and Vegetable Estate, Wellington, 7655"
+  },
+  "highway-west-stables-accommodation": {
+    "placeId": "ChIJD1fFywO_eB4RVoVMZQY1wbw",
+    "googleName": "Highway West Stables & Accommodation",
+    "address": "Portion 2, Farm 196, Mount Pleasant, Rheenendal, 6576"
+  },
+  "painted-horse-riding-worcester": {
+    "placeId": "ChIJyY1oqMJ5zR0RgTlzoOAIPkk",
+    "googleName": "Painted Horse Riding Worcester",
+    "address": "Farm D4, UnNamed Road Brandwaght, Worcester, 6850"
+  },
+  "stellenbosch-endurance-yard-and-horse-tr": {
+    "placeId": "ChIJzZfzZ_6tzR0Rpen1wrJOL9U",
+    "googleName": "Stellenbosch Endurance Yard and Horse Trails",
+    "address": "Stellenbosch"
+  },
+  "milkwood-horse-trails": {
+    "placeId": "ChIJ9WlCMCJv0R0RbK75Sqgf_xo",
+    "googleName": "Milkwood Horse Trails",
+    "address": "Melkhoutrivier plot 492, Malgas, 6740"
+  },
+  "winelands-horse-trails": {
+    "placeId": "ChIJt5vujFtp0h0R6IxaVm8SFWQ",
+    "googleName": "Winelands Horse Trails",
+    "address": "De Hoop Road, Robertson, 6705"
+  },
+  "maple-ranch-adventures": {
+    "placeId": "ChIJ7bJ27FjBSm4RbRVyu130a_Q",
+    "googleName": "Maple Ranch Adventures",
+    "address": "1 Pinehaven Rd, Keurboom Heights, Plettenberg Bay, 6600"
+  },
+  "abbotsdale-horse-riding": {
+    "placeId": "ChIJLye5uQYhzR0Rc1jmLw5UTlA",
+    "googleName": "Abbotsdale Horse Riding",
+    "address": "Church Street, Abbotsdale, Cape Town, 7300"
+  },
+  "klein-paradys-equestrian-centre": {
+    "placeId": "ChIJ8zUrYbHnzR0RkAIkLUXfN74",
+    "googleName": "Klein Paradys Equestrian Centre",
+    "address": "Main Road, Bot River, 7185"
+  },
+  "k-rides-equine-education-energy-rescue-c": {
+    "placeId": "ChIJQw7PlEUfeR4R2FC7GzMSReM",
+    "googleName": "K-Rides Equine Education Energy Rescue Centre",
+    "address": "PORTION 19 OF THE FARM HOLT HILL. 434, N2, Harkerville, Plettenberg Bay, 6600"
+  },
+  "sandboarding-cape-town": {
+    "placeId": "ChIJU2qdVtBozB0RUAR9-iYQByw",
+    "googleName": "Sandboarding Cape Town",
+    "address": "Klein Dassenberg Rd, Atlantis, Cape Town, 0083"
+  },
+  "dragon-dune-sandboarding": {
+    "placeId": "ChIJZy-64rlr1h0Ra1nfDxZ20pQ",
+    "googleName": "Dragon Dune Sandboarding",
+    "address": "Field St, Mossel Bay, 6506"
+  },
+  "bettys-bay-sandboarding": {
+    "placeId": "ChIJNyql0FvUzR0RBGAHcYORseg",
+    "googleName": "Betty's Bay Sandboarding",
+    "address": "Watsonia St, Betty's Bay, 7141"
+  },
+  "tsitsikamma-canopy-tours": {
+    "placeId": "ChIJMwGZgPZueR4RMIY3XgNJAMs",
+    "googleName": "Tsitsikamma Canopy Tours",
+    "address": "101 Darnell St, Stormsrivier, 6308"
+  },
+  "mossel-bay-zipline": {
+    "placeId": "ChIJkXK5e8cT1h0RopI2T_UmlFc",
+    "googleName": "Mossel Bay Zipline",
+    "address": "6 Point Rd, Mossel Bay, 6500"
+  },
+  "zipline-tsitsikamma-falls-adventure": {
+    "placeId": "ChIJvV3LXshkeR4RshrCiWYWvwk",
+    "googleName": "ZIPLINE @ Tsitsikamma Falls Adventure",
+    "address": "Farm 509/1 Witelsbos Tsitsikamma, 6304"
+  },
+  "cape-canopy-tour": {
+    "placeId": "ChIJfWMCP3THzR0R_8QVpSATqYM",
+    "googleName": "Cape Canopy Tour",
+    "address": "Forestry Rd, Grabouw, 7160"
+  },
+  "cape-town-ziplines-sa-forest-adventures": {
+    "placeId": "ChIJIX-ackdozB0RBV5s3eh9hPc",
+    "googleName": "Cape Town Ziplines SA Forest Adventures",
+    "address": "Silvermist Estate, Hout Bay Main Rd, 2, Cape Town, 7824"
+  },
+  "ceres-zipline-adventures": {
+    "placeId": "ChIJPW6OD3FpzR0Ru7h1yz_BRGs",
+    "googleName": "Ceres Zipline Adventures",
+    "address": "1 Voortrekker St, Ceres, 6835"
+  },
+  "knysna-ziplines": {
+    "placeId": "ChIJUaD32GzleB4RhNIynmgihCg",
+    "googleName": "Knysna Ziplines",
+    "address": "Sasol Harkerville - at the Yellow Office next to N2, Plettenberg Bay, Harkerville, 6604"
+  },
+  "cango-caves-zipline-estate": {
+    "placeId": "ChIJ0RRHEeq91R0RcoSZZlkW3yA",
+    "googleName": "Cango Caves Zipline & Estate",
+    "address": "De Kombuys 4028 Grootkraal Farm Kango Vallei, Oudtshoorn, 6625"
+  },
+  "acrobranch-garden-route": {
+    "placeId": "ChIJvZndss6meB4Rzp12c4nPlIY",
+    "googleName": "Acrobranch Garden Route",
+    "address": "Timberlake Organic Village, N2 Between Wilderness and Sedgefield, George, 6560"
+  },
+  "k3-zipline-landing-point": {
+    "placeId": "ChIJe4opbgD5zR0RUkJRZpKTv34",
+    "googleName": "K3 Zipline Landing Point",
+    "address": "N2, Myddleton, Caledon"
+  },
+  "ziplines-in-plett": {
+    "placeId": "ChIJXQJiN8vjeB4R5fgCIEIUFWc",
+    "googleName": "Ziplines-In-Plett",
+    "address": "A13a, Airport Rd, Plettenberg Bay"
+  },
+  "marine-dynamics-shark-tours-shark-cage-d": {
+    "placeId": "ChIJ6yF_7cEQzh0RYjFS0enKmZs",
+    "googleName": "Marine Dynamics · Shark Tours · Shark Cage Dive",
+    "address": "5 Geelbek St, Van Dyks Bay, Gansbaai, 7220"
+  },
+  "prodive-scuba-diving-centre-plettenberg-": {
+    "placeId": "ChIJ-QlHmnTieB4RnbU1VxNwoqY",
+    "googleName": "ProDive Scuba Diving Centre Plettenberg Bay",
+    "address": "Resort, Beacon Isle Dr, Plettenberg Bay, 6600"
+  },
+  "the-shark-lab-mini-aquarium": {
+    "placeId": "ChIJ9cNewQ5q1h0RIMfOq8NSST8",
+    "googleName": "The Shark Lab - Mini Aquarium",
+    "address": "6 Point Rd, Mossel Bay, 6500"
+  },
+  "apex-shark-expeditions-great-white-shark": {
+    "placeId": "ChIJI6GiudQ_zB0Rw2sqOvRokLc",
+    "googleName": "Apex Shark Expeditions - Great White Shark Cage Diving Cape Town",
+    "address": "Shop 5, Boardwalk Centre, 6 Wharf St, Simon's Town, Cape Town, 7975"
+  },
+  "white-shark-africa": {
+    "placeId": "ChIJJy-fhh1q1h0RKYp55G8x-rQ",
+    "googleName": "White Shark Africa",
+    "address": "7 Church St, Mossel Bay, 6500"
+  },
+  "shark-divers": {
+    "placeId": "ChIJhURVj0cXzh0RamaqIK_37g8",
+    "googleName": "Shark Divers",
+    "address": "8 Bietou St, Gansbaai, 7220"
+  },
+  "garden-route-scuba": {
+    "placeId": "ChIJDbWLZGdp1h0RUOciUkR9em0",
+    "googleName": "Garden Route Scuba",
+    "address": "40 Marsh St, Mossel Bay Central, Mossel Bay, 6506"
+  },
+  "oceans-africa": {
+    "placeId": "ChIJqXgVLOtrzB0RTBvBc80kgk0",
+    "googleName": "Oceans Africa",
+    "address": "14 Saunders Cl, Fish Hoek, Cape Town, 7975"
+  },
+  "just-africa-scuba-center-watersports-sho": {
+    "placeId": "ChIJtRFcJ1nLzR0RSnUOD_ZtKag",
+    "googleName": "Just Africa Scuba Center & Watersports Shop",
+    "address": "Shop 2, Krystal Beach Hotel, 9 Breakwater Ln, Harbour Island, Cape Town, 7140"
+  },
+  "sharklady-adventures-hermanus": {
+    "placeId": "ChIJkwqWLaQLzh0RrWlDFtoK0Cg",
+    "googleName": "Sharklady Adventures - Hermanus",
+    "address": "61 Marine Dr, Hermanus, 7200"
+  },
+  "caleb-express-tours-whale-watching-shark": {
+    "placeId": "ChIJ2W4biR5RzB0Ru-P9WUpKKO0",
+    "googleName": "Caleb Express Tours - Whale Watching & Shark Cage Diving Cape Town | Peninsula Tours",
+    "address": "Kuils River, Cape Town, 7580"
+  },
+  "shark-cage-diving-net": {
+    "placeId": "ChIJIz0DFF5nzB0RSeOZ0A_FaXY",
+    "googleName": "Shark-Cage-Diving.net",
+    "address": "280 Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001"
+  },
+  "shark-zone": {
+    "placeId": "ChIJTUUHVSJnzB0Rv8dPfr4jnlI",
+    "googleName": "Shark Zone",
+    "address": "81 Long St, Cape Town City Centre, Cape Town, 8000"
+  },
+  "shark-bookings": {
+    "placeId": "ChIJY3iy6x0Rzh0RKtT-ViOf004",
+    "googleName": "Shark Bookings",
+    "address": "61 Ingang St, De Kelders, Gansbaai, 7220"
+  },
+  "shark-adventures-shark-cage-diving": {
+    "placeId": "ChIJS5baRqBLzB0RXevJ1spMASc",
+    "googleName": "Shark Adventures - Shark Cage Diving",
+    "address": "11 Faure St, Kelderhof Country Village, Cape Town, 7130"
+  },
+  "shark-cage-diving-cape-town": {
+    "placeId": "ChIJO9lyjL9BzB0RV0DtZurO9ik",
+    "googleName": "Shark Cage Diving Cape Town",
+    "address": "7 Chiphillside Rd, Retreat, Cape Town, 7945"
+  },
+  "cape-town-surf-school-bianca-surf-academ": {
+    "placeId": "ChIJh_3odmb1zB0Rwticaqga6iM",
+    "googleName": "Cape Town Surf School - Bianca Surf Academy",
+    "address": "Bottom of, Kleinbaai Beach Parking) in Trader's Bay, De Mist St, Bloubergstrand, Cape Town, 7441"
+  },
+  "soft-surf-school": {
+    "placeId": "ChIJQcCRlhlBzB0Rzs4-oEG5o1k",
+    "googleName": "Soft Surf School",
+    "address": "43a The Row St, Muizenberg, Cape Town, 7945"
+  },
+  "stoked-surf-south-africa": {
+    "placeId": "ChIJlfdHXqxnzB0RXR_KCQNpDsE",
+    "googleName": "Stoked Surf - South Africa",
+    "address": "36 Upper Tree Rd, Camps Bay, Cape Town, 8040"
+  },
+  "hermanus-surf-school": {
+    "placeId": "ChIJ__eFLgYLzh0R3UUnHmGNgCA",
+    "googleName": "Hermanus surf school",
+    "address": "12 Fourie St, Hermanus, 7404"
+  },
+  "cape-sports-center-kitesurfing-wingfoili": {
+    "placeId": "ChIJT5Vgz_apNBwRcbyckx5QOcU",
+    "googleName": "Cape Sports Center, Kitesurfing, Wingfoiling, Windsurfing",
+    "address": "98 Main St, Langebaan, 7357"
+  },
+  "cape-point-surf-yoga-camp": {
+    "placeId": "ChIJS3zsNNprzB0RSO4BEqyQJis",
+    "googleName": "Cape Point Surf Yoga Camp",
+    "address": "17 Grand Bahama Dr, Capri, Cape Town, 7975"
+  },
+  "surfends-surf-school": {
+    "placeId": "ChIJi3OLGHcd1h0RE4sx9ZOLl-M",
+    "googleName": "Surfends Surf School",
+    "address": "Victoria Bay Road 2 Victoria Bay, Wilderness, 6529"
+  },
+  "kitesurfing-school-constantly-kiting": {
+    "placeId": "ChIJ94f3rWZZzB0R-RMC2qD2d4I",
+    "googleName": "Kitesurfing school -Constantly Kiting",
+    "address": "1 St Croix Cl, Langebaan, 7357"
+  },
+  "vibe-surf-school": {
+    "placeId": "ChIJ5zZzwaQF1h0RrRWM2iX6VQY",
+    "googleName": "Vibe Surf School",
+    "address": "Victoria Bay Rd, George, 6529"
+  },
+  "son-surf-school": {
+    "placeId": "ChIJQWOXUbDKzR0RAiRanLOr9RI",
+    "googleName": "Son Surf School",
+    "address": "opposite #195, Beach Rd, Strand, Cape Town, 7140"
+  },
+  "wilderness-surf-school": {
+    "placeId": "ChIJizRyTFWneB4R8iiRjfmp_kY",
+    "googleName": "Wilderness Surf School",
+    "address": "22 Sands Rd, Wilderness, 6530"
+  },
+  "k-i-s-s-keep-it-simple-surf": {
+    "placeId": "ChIJARW3LmRnzB0R3laZ1sJ_igE",
+    "googleName": "K I S S KEEP IT SIMPLE SURF",
+    "address": "43 Shortmarket St, Cape Town City Centre, Cape Town, 8001"
+  },
+  "surfs-up-mossel-bay": {
+    "placeId": "ChIJ0dEtmg9q1h0RwXSLQbG892E",
+    "googleName": "Surf's Up Mossel Bay",
+    "address": "Diaz Beach, Beach E Blvd, Voorbaai, Mossel Bay, 6500"
+  },
+  "cape-town-surfing": {
+    "placeId": "ChIJmyFeoCRpzB0RWGaQfPxHqvI",
+    "googleName": "Cape Town Surfing",
+    "address": "11 Victoria Ave, Hout Bay, Cape Town, 7806"
+  },
+  "east-side-surf-school": {
+    "placeId": "ChIJlaOODErB1h0RFIHEL7vHzIM",
+    "googleName": "East Side Surf School",
+    "address": "Harbour, Main Rd, Still Bay West, Still Bay, 6674"
+  },
+  "c-kite-langebaan": {
+    "placeId": "ChIJ_28SQByqNBwRCD2W9i4C_iM",
+    "googleName": "C Kite Langebaan",
+    "address": "C Kite, Shop 2, Langebaan, Waterfront, Bree St, Langebaan, 7357"
+  },
+  "learn-to-surf-plett": {
+    "placeId": "ChIJyyiTR3vieB4R6IaW_Hze1cU",
+    "googleName": "Learn To Surf Plett",
+    "address": "Beachy Head Drive, Robberg 5 Beach, Robberg, Plettenberg Bay, 6600"
+  },
+  "buffs-surf-school": {
+    "placeId": "ChIJ6crQNeaUeB4RgbcdDx9YilU",
+    "googleName": "Buffs Surf School",
+    "address": "Sand street, Buffalo Bay, Knysna, 6570"
+  },
+  "yzerfontein-surf": {
+    "placeId": "ChIJBYR2FT6lzB0RJ3-u2RkwwUM",
+    "googleName": "Yzerfontein Surf",
+    "address": "39 Buitekant St, Yzerfontein, 7351"
+  },
+  "surf-lessons-hermanus": {
+    "placeId": "ChIJH4F9Hx8Lzh0RNNkgGDFhdeU",
+    "googleName": "Surf Lessons Hermanus",
+    "address": "Voëlklip Beach, Hermanus, 7200"
+  },
+  "a-k-a-w-cape-town-surf-kite-camps": {
+    "placeId": "ChIJdcmNC2v1zB0RRFNHRDaQ6O4",
+    "googleName": "A K A W Cape Town Surf & Kite Camps",
+    "address": "63 Big Bay Beach Club, Bloubergstrand, Cape Town, 7441"
+  },
+  "making-waves-swim-surf-school": {
+    "placeId": "ChIJY8kj-o3LzR0Rtmziqn8nzPw",
+    "googleName": "Making Waves Swim & Surf School",
+    "address": "16 Blue Gum Ave, Mountainside, Cape Town, 7151"
+  },
+  "saldanha-surf-sanctuary-extreme-abilitie": {
+    "placeId": "ChIJjTbb5oGlNBwRCVy4WbdtzD8",
+    "googleName": "Saldanha Surf Sanctuary (Extreme Abilities NPO)",
+    "address": "16 Berg St, Saldanha, 7357"
+  },
+  "robbies-surfing-lessons": {
+    "placeId": "ChIJabPZLYGx0R0Rpgyhr05f2ow",
+    "googleName": "Robbie's Surfing Lessons",
+    "address": "Struis Bay, Struisbaai, 7287"
+  },
+  "west-coast-surf-school": {
+    "placeId": "ChIJG43aECX1zB0RNUhzMtT11sE",
+    "googleName": "West Coast Surf School",
+    "address": "Purple House, Beach Rd, Melkbosstrand, Cape Town, 7441"
+  },
+  "mav-surf-school": {
+    "placeId": "ChIJ__33Ucb1zB0RCaS7Vwi3Ojc",
+    "googleName": "Mav Surf School",
+    "address": "30 Beach Rd, Milnerton, Cape Town, 7441"
   }
 }
