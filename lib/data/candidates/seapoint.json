@@ -1,0 +1,5804 @@
+[
+  {
+    "placeId": "ChIJMW70K09nzB0ROXRQqLI9zac",
+    "name": "DHL Stadium",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9034439,
+      "lng": 18.411154700000004
+    },
+    "address": "Fritz Sonnenberg Rd, Green Point, Cape Town, 8051",
+    "rating": 4.6,
+    "reviewCount": 17411,
+    "priceLevel": null,
+    "summary": "Modern, 55,000-capacity sports stadium & concert venue offering behind-the-scenes guided tours.",
+    "primaryType": "Stadium",
+    "types": [
+      "stadium",
+      "tourist_attraction",
+      "sports_complex",
+      "live_music_venue",
+      "event_venue",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJETLciCFnzB0RH1qo-JSNf38",
+    "name": "Mojo Market",
+    "category": "bars",
+    "coords": {
+      "lat": -33.9192971,
+      "lng": 18.3858253
+    },
+    "address": "30 Regent Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.5,
+    "reviewCount": 17080,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": "Vibrant, modern indoor market featuring international food stalls, 4 bars, live music & boutiques.",
+    "primaryType": "Market",
+    "types": [
+      "market",
+      "food_court",
+      "tourist_attraction",
+      "sports_bar",
+      "live_music_venue",
+      "bar",
+      "event_venue",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJrfmRVzZnzB0RupuFfQj-5D0",
+    "name": "Green Point Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9041068,
+      "lng": 18.4010964
+    },
+    "address": "1 Fritz Sonnenberg Rd, Green Point, Cape Town, 8051",
+    "rating": 4.7,
+    "reviewCount": 12752,
+    "priceLevel": null,
+    "summary": "Spacious urban park offering a stadium, biodiversity garden, exercise circuit & lots of green space.",
+    "primaryType": "Park",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJx_0XoxJnzB0Rcl1yAPvVaEk",
+    "name": "The President Hotel",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9231822,
+      "lng": 18.3796244
+    },
+    "address": "4 Alexander Rd, Bantry Bay, Cape Town, 8001",
+    "rating": 4.5,
+    "reviewCount": 5662,
+    "priceLevel": null,
+    "summary": "Airy rooms with kitchenettes and free WiFi, plus an outdoor pool, a restaurant and a lounge bar.",
+    "primaryType": "Hotel",
+    "types": [
+      "hotel",
+      "resort_hotel",
+      "spa",
+      "cafe",
+      "bar",
+      "restaurant",
+      "service",
+      "event_venue",
+      "food",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJuUIgXE9nzB0RZX1AgH84_ys",
+    "name": "McDonald's Greenpoint Drive-Thru",
+    "category": "eat",
+    "coords": {
+      "lat": -33.906287999999996,
+      "lng": 18.4110253
+    },
+    "address": "Fritz Sonnenberg Rd, Green Point, Cape Town, 8051",
+    "rating": 3.8,
+    "reviewCount": 4913,
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "summary": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "primaryType": "Hamburger Restaurant",
+    "types": [
+      "hamburger_restaurant",
+      "family_restaurant",
+      "fast_food_restaurant",
+      "meal_takeaway",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ9ZAgDSFnzB0RtaIfaO0TS9k",
+    "name": "Sea Point Pavilion",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9183115,
+      "lng": 18.3844044
+    },
+    "address": "Lower, Beach Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.4,
+    "reviewCount": 4645,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Swimming Pool",
+    "types": [
+      "swimming_pool",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJwWdbDkZnzB0RwrvOWd0A1qg",
+    "name": "The Hussar Grill Mouille Point",
+    "category": "eat",
+    "coords": {
+      "lat": -33.904113699999996,
+      "lng": 18.398816
+    },
+    "address": "New Cumberland Building, Beach Rd, Mouille Point, Cape Town, 8005",
+    "rating": 4.5,
+    "reviewCount": 3908,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Steak House",
+    "types": [
+      "steak_house",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ31cJiTpnzB0RYcPUoQS85Vo",
+    "name": "KFC Sea Point (Main Road)",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9101381,
+      "lng": 18.3949118
+    },
+    "address": "Century Hotel Complex, 271 Main Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.3,
+    "reviewCount": 3745,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": "Restaurant chain known for its buckets of fried chicken, plus combo meals & sides.",
+    "primaryType": "Fast Food Restaurant",
+    "types": [
+      "fast_food_restaurant",
+      "chicken_restaurant",
+      "meal_takeaway",
+      "chicken_wings_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ880OJCBnzB0RLQv_25AQjzo",
+    "name": "JARRYDS.",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9215552,
+      "lng": 18.382167199999998
+    },
+    "address": "90 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.5,
+    "reviewCount": 3346,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Brunch Restaurant",
+    "types": [
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "family_restaurant",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJg1lANDRnzB0R6ACHIgkfTEY",
+    "name": "The Butcher Shop & Grill",
+    "category": "bars",
+    "coords": {
+      "lat": -33.9015718,
+      "lng": 18.400574499999998
+    },
+    "address": "125 Beach Rd, Mouille Point, Cape Town, 8005",
+    "rating": 4.5,
+    "reviewCount": 3251,
+    "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+    "summary": null,
+    "primaryType": "Steak House",
+    "types": [
+      "steak_house",
+      "bar_and_grill",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJxcwIdCNnzB0RRTgJ9_XA1qc",
+    "name": "Checkers Sea Point",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9206828,
+      "lng": 18.3834314
+    },
+    "address": "Cnr Regent and, St Andrews Rd, Rds, Cape Town, 8005",
+    "rating": 4.3,
+    "reviewCount": 3017,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Supermarket",
+    "types": [
+      "supermarket",
+      "deli",
+      "butcher_shop",
+      "bakery",
+      "food_delivery",
+      "coffee_shop",
+      "cafe",
+      "grocery_store",
+      "food_store",
+      "service",
+      "food",
+      "point_of_interest",
+      "store",
+      "manufacturer",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ-74sbiNnzB0ROe7feGGXevo",
+    "name": "McDonald's Seapoint Drive-Thru",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9159706,
+      "lng": 18.3897942
+    },
+    "address": "Main Rd, Sea Point, Cape Town, 8060",
+    "rating": 3.3,
+    "reviewCount": 2961,
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "summary": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "primaryType": "Hamburger Restaurant",
+    "types": [
+      "hamburger_restaurant",
+      "fast_food_restaurant",
+      "family_restaurant",
+      "american_restaurant",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJoSQsuqxnzB0Rza9F8ZJA2eE",
+    "name": "Giovanni's",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9080128,
+      "lng": 18.4095782
+    },
+    "address": "103 Main Rd, Green Point, Cape Town, 8051",
+    "rating": 4.7,
+    "reviewCount": 2585,
+    "priceLevel": null,
+    "summary": "Classic Italian deli with meats, breads & pantry staples, plus a covered patio for sandwiches.",
+    "primaryType": "Deli",
+    "types": [
+      "deli",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ6xIY1yNnzB0RLzphUeWQjeA",
+    "name": "The Winchester Boutique Hotel Cape Town",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9106404,
+      "lng": 18.390715399999998
+    },
+    "address": "221 Beach Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.4,
+    "reviewCount": 2493,
+    "priceLevel": null,
+    "summary": "Plush quarters in a refined hotel with ocean views & courtyard dining, plus an outdoor pool & a spa.",
+    "primaryType": "Hotel",
+    "types": [
+      "hotel",
+      "spa",
+      "bar",
+      "lodging",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ4amzlTZnzB0R1h8ApFUoWOA",
+    "name": "Green Point Park - Park Road Gate",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9040981,
+      "lng": 18.399590399999997
+    },
+    "address": "3 Park Rd, Mouille Point, Cape Town, 8005",
+    "rating": 4.7,
+    "reviewCount": 2486,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJkQCIw0VnzB0RLx7D5DZ0qSk",
+    "name": "Jason Bakery",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9083793,
+      "lng": 18.4108145
+    },
+    "address": "83 Main Rd, Green Point, Cape Town, 8005",
+    "rating": 4.5,
+    "reviewCount": 2356,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Bakery",
+    "types": [
+      "bakery",
+      "breakfast_restaurant",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJkYsauiRnzB0R32SkO1Sbp7o",
+    "name": "Posticino Italian Restaurant",
+    "category": "eat",
+    "coords": {
+      "lat": -33.913706399999995,
+      "lng": 18.3917417
+    },
+    "address": "323 Main Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.4,
+    "reviewCount": 2235,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": "Laid-back, family-friendly Italian restaurant for large pizzas, pasta and meat dinner specials.",
+    "primaryType": "Italian Restaurant",
+    "types": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5wVizgpnzB0RPL4zNXFTp0I",
+    "name": "Bobo's by Kove Collection",
+    "category": "bars",
+    "coords": {
+      "lat": -33.900155,
+      "lng": 18.405630800000004
+    },
+    "address": "Cnr Beach Rd, and, Two Oceans Beach, Surrey Pl, Mouille Point, Cape Town, 8001",
+    "rating": 4.4,
+    "reviewCount": 2208,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "wine_bar",
+      "cocktail_bar",
+      "vegetarian_restaurant",
+      "seafood_restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJoyov10dnzB0R-gRGst00XmE",
+    "name": "Cafe Extrablatt",
+    "category": "bars",
+    "coords": {
+      "lat": -33.9085296,
+      "lng": 18.4109372
+    },
+    "address": "79 Main Rd, Green Point, Cape Town, 8005",
+    "rating": 4.2,
+    "reviewCount": 2202,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJBV_AQ0pnzB0RO4L_-1McRGQ",
+    "name": "Lily's by Kove Collection",
+    "category": "bars",
+    "coords": {
+      "lat": -33.900164499999995,
+      "lng": 18.405299199999998
+    },
+    "address": "Cnr Beach Rd & Surrey Pl Shop 1, East West, Mouille Point, Cape Town, 8001",
+    "rating": 4.2,
+    "reviewCount": 2183,
+    "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "breakfast_restaurant",
+      "cocktail_bar",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJT4QVzSFnzB0RBUWexXYPiTg",
+    "name": "NV-80 Grill & Bar",
+    "category": "eat",
+    "coords": {
+      "lat": -33.920726099999996,
+      "lng": 18.3833064
+    },
+    "address": "8, The Point Mall | Shopping Centre | Sea Point, 76 Regent Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.6,
+    "reviewCount": 2174,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Steak House",
+    "types": [
+      "steak_house",
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJzYFxUiRnzB0Rh7OskIN5bVM",
+    "name": "Rockpool Cape Town",
+    "category": "bars",
+    "coords": {
+      "lat": -33.9092735,
+      "lng": 18.3934332
+    },
+    "address": "205 Beach Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.3,
+    "reviewCount": 2142,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": "From morning coffee to party nights, beach bar with outdoor tables, local beer & homemade pizza.",
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "cafe",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJnecEKiBnzB0RvYu7KO8_as8",
+    "name": "Three Wise Monkeys",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9215387,
+      "lng": 18.382750599999998
+    },
+    "address": "La Rhone Building, 77 Regent Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.4,
+    "reviewCount": 2094,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Ramen Restaurant",
+    "types": [
+      "ramen_restaurant",
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ50k4eSFnzB0RJVibXjx9rAs",
+    "name": "La Perla Restaurant Cape Town",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9186793,
+      "lng": 18.3856569
+    },
+    "address": "281 Beach Rd, Sea Point, Cape Town, 8005",
+    "rating": 3.9,
+    "reviewCount": 1952,
+    "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+    "summary": "Airy, contemporary space with carved wooden chairs and ocean-view terrace, for classic Italian food.",
+    "primaryType": "Italian Restaurant",
+    "types": [
+      "italian_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJT4QVzSFnzB0ReybWqQR2uKk",
+    "name": "The Point Mall | Shopping Centre | Sea Point",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9209861,
+      "lng": 18.3832631
+    },
+    "address": "76 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.2,
+    "reviewCount": 1609,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Shopping Mall",
+    "types": [
+      "shopping_mall",
+      "medical_center",
+      "wellness_center",
+      "business_center",
+      "cell_phone_store",
+      "bank",
+      "hospital",
+      "finance",
+      "grocery_store",
+      "gym",
+      "sports_activity_location",
+      "restaurant",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "health",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5Xi_tzZnzB0RGIFFMzfNpsg",
+    "name": "The Creamery Café Mouille Point",
+    "category": "family",
+    "coords": {
+      "lat": -33.904218,
+      "lng": 18.399154499999998
+    },
+    "address": "2 Park Rd, Mouille Point, Cape Town, 8005",
+    "rating": 4.5,
+    "reviewCount": 1557,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Ice Cream Shop",
+    "types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJj0uA9B9nzB0RB485uQxbZqk",
+    "name": "Kleinsky's Delicatessen",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9215861,
+      "lng": 18.3821093
+    },
+    "address": "92 Regent Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.6,
+    "reviewCount": 1550,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJmRLIPTRnzB0RyR_5Uo0YHE0",
+    "name": "Newport Market & Deli",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9018003,
+      "lng": 18.4007224
+    },
+    "address": "125 Beach Rd, Mouille Point, Cape Town, 8005",
+    "rating": 4.3,
+    "reviewCount": 1469,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "coffee_shop",
+      "cafe",
+      "bakery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJlUdC999mzB0R1-3tZkoNvd8",
+    "name": "Strolla Restaurant & Bar",
+    "category": "bars",
+    "coords": {
+      "lat": -33.9214585,
+      "lng": 18.3800042
+    },
+    "address": "309 Beach Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.1,
+    "reviewCount": 1343,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "bar",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJL-pNvvNnzB0RrGyFSsBsPEY",
+    "name": "Grand Pavilion",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9183697,
+      "lng": 18.385980699999998
+    },
+    "address": "277 Beach Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.2,
+    "reviewCount": 1291,
+    "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJk4paLiJnzB0RfKjxFHUGex4",
+    "name": "Crumbs & Cream",
+    "category": "family",
+    "coords": {
+      "lat": -33.912857699999996,
+      "lng": 18.39203
+    },
+    "address": "126 Main Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.3,
+    "reviewCount": 1264,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Ice Cream Shop",
+    "types": [
+      "ice_cream_shop",
+      "coffee_shop",
+      "cafe",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJxyNocExnzB0RZkPzvrq3yiM",
+    "name": "Mouille Point Beach",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8992594,
+      "lng": 18.4090575
+    },
+    "address": "Mouille Point Beach, Mouille Point, Cape Town, 8005",
+    "rating": 4.4,
+    "reviewCount": 1258,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Beach",
+    "types": [
+      "beach",
+      "natural_feature",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJG-DzB3FnzB0RxCoZyxwcyf8",
+    "name": "Radisson Blu Le Vendome Hotel, Cape Town",
+    "category": "bars",
+    "coords": {
+      "lat": -33.912759,
+      "lng": 18.390615999999998
+    },
+    "address": "20 London Rd, Sea Point, Cape Town, 8005",
+    "rating": 4,
+    "reviewCount": 1227,
+    "priceLevel": null,
+    "summary": "Sophisticated rooms in a polished oceanside hotel with an outdoor pool, dining & free breakfast.",
+    "primaryType": "Hotel",
+    "types": [
+      "hotel",
+      "bar",
+      "lodging",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJmc0OwzdnzB0Rk34idX2aiQ0",
+    "name": "Virgin Active Green Point (Collection Club)",
+    "category": "classes",
+    "coords": {
+      "lat": -33.906296,
+      "lng": 18.402847899999998
+    },
+    "address": "Bill Peters Dr, Green Point, Cape Town, 8001",
+    "rating": 3.9,
+    "reviewCount": 1225,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "gym",
+      "fitness_center",
+      "wellness_center",
+      "sports_activity_location",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJuwRkHyVnzB0RRzgr_LreyEc",
+    "name": "The Hyde Hotel",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9120565,
+      "lng": 18.390646999999998
+    },
+    "address": "13 London Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.3,
+    "reviewCount": 1206,
+    "priceLevel": null,
+    "summary": "Upmarket all-suite option with a rooftop pool, plus free breakfast, a local shuttle, & parking.",
+    "primaryType": "Hotel",
+    "types": [
+      "hotel",
+      "spa",
+      "lodging",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJFflLGjRnzB0RWIymc2up73k",
+    "name": "The Blue Train Park",
+    "category": "family",
+    "coords": {
+      "lat": -33.9025368,
+      "lng": 18.398949899999998
+    },
+    "address": "132 Beach Rd, Mouille Point, Cape Town, 8005",
+    "rating": 4.2,
+    "reviewCount": 1072,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Amusement Center",
+    "types": [
+      "playground",
+      "amusement_center",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJPyOXCP9nzB0RAHvPxmPOGEI",
+    "name": "Moro Gelato, Regent Rd, Sea Point",
+    "category": "family",
+    "coords": {
+      "lat": -33.9220124,
+      "lng": 18.3817758
+    },
+    "address": "85 Regent Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.7,
+    "reviewCount": 1047,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Ice Cream Shop",
+    "types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJh6_lTSNnzB0RXJWSYvnQ3n0",
+    "name": "Tiger's Milk Green Point",
+    "category": "bars",
+    "coords": {
+      "lat": -33.908868500000004,
+      "lng": 18.412097799999998
+    },
+    "address": "Shop 105-107, 47 Main Rd, Green Point, Cape Town, 8051",
+    "rating": 4.4,
+    "reviewCount": 1045,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "cocktail_bar",
+      "bar_and_grill",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJPfFRUHtnzB0RMmv5fHSbwtA",
+    "name": "Gelato Mania Green Point",
+    "category": "family",
+    "coords": {
+      "lat": -33.9087416,
+      "lng": 18.4113349
+    },
+    "address": "65 Main Rd, Green Point, Cape Town, 8005",
+    "rating": 4.4,
+    "reviewCount": 1029,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Ice Cream Shop",
+    "types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJAQAAdN6pNBwRmVeZdu_Pv3k",
+    "name": "The Greek Fisherman",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9211914,
+      "lng": 18.3828095
+    },
+    "address": "78 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.3,
+    "reviewCount": 1017,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Seafood Restaurant",
+    "types": [
+      "seafood_restaurant",
+      "mediterranean_restaurant",
+      "family_restaurant",
+      "greek_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJoRH0R31nzB0RNzDLExxzR-E",
+    "name": "Ariel Modern Italian",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9215903,
+      "lng": 18.382105799999998
+    },
+    "address": "90 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.5,
+    "reviewCount": 982,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJg1lANDRnzB0RlryVIW0A7pc",
+    "name": "Caffe Neo",
+    "category": "eat",
+    "coords": {
+      "lat": -33.901933899999996,
+      "lng": 18.3999335
+    },
+    "address": "129 Beach Rd, Mouille Point, Cape Town, 8005",
+    "rating": 4.1,
+    "reviewCount": 965,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "coffee_shop",
+      "deli",
+      "breakfast_restaurant",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJOyr15cpnzB0RkSKOlVBhfHA",
+    "name": "The Nines by Kove Collection",
+    "category": "eat",
+    "coords": {
+      "lat": -33.918891699999996,
+      "lng": 18.3874323
+    },
+    "address": "9th Floor, Station House, 19 Kloof Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.3,
+    "reviewCount": 964,
+    "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJbY3whGZnzB0RBJ3dr6xjftA",
+    "name": "BUTTER - All Day Breakfast & Bistro Bar",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9143709,
+      "lng": 18.3906176
+    },
+    "address": "Centre, 146 Main Rd, Sea Point, Cape Town, 8006",
+    "rating": 4.3,
+    "reviewCount": 925,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": "Relaxed cafe offering butter-based treats, with a menu that includes cocktails & all-day breakfast.",
+    "primaryType": "Cafe",
+    "types": [
+      "cafe",
+      "brunch_restaurant",
+      "breakfast_restaurant",
+      "bistro",
+      "coffee_shop",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJr1neg4hnzB0R5vZxQ1FL1bU",
+    "name": "Zest Restaurant",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9218148,
+      "lng": 18.381308699999998
+    },
+    "address": "Piazza Da Luz, 94 Regent Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.6,
+    "reviewCount": 920,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJd_2FLyBnzB0R-5zK0F4aaCI",
+    "name": "Only Fools",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9213364,
+      "lng": 18.3823826
+    },
+    "address": "82 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.5,
+    "reviewCount": 898,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Hamburger Restaurant",
+    "types": [
+      "hamburger_restaurant",
+      "pizza_delivery",
+      "diner",
+      "meal_delivery",
+      "meal_takeaway",
+      "pizza_restaurant",
+      "american_restaurant",
+      "food_delivery",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJXVRau2dnzB0RDF_9Sl-yx28",
+    "name": "Checkers Sea Point Towers",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9165,
+      "lng": 18.389499999999998
+    },
+    "address": "365 Main Rd, Sea Point, Cape Town, 8001",
+    "rating": 4.4,
+    "reviewCount": 862,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Supermarket",
+    "types": [
+      "supermarket",
+      "deli",
+      "butcher_shop",
+      "bakery",
+      "food_delivery",
+      "coffee_shop",
+      "cafe",
+      "grocery_store",
+      "food_store",
+      "service",
+      "food",
+      "point_of_interest",
+      "store",
+      "manufacturer",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJofb7MF5nzB0RxvdtVMuM8JY",
+    "name": "Hugo Social Club",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9225321,
+      "lng": 18.3811312
+    },
+    "address": "9th Floor, 2 Kings Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.7,
+    "reviewCount": 847,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJJ1VOsCtnzB0R1oAoUKyL6T0",
+    "name": "BRASH",
+    "category": "eat",
+    "coords": {
+      "lat": -33.921538600000005,
+      "lng": 18.382245599999997
+    },
+    "address": "90 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.7,
+    "reviewCount": 839,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5RqmcCBnzB0RhJQZ1TpZivM",
+    "name": "Sunset Beach",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9202508,
+      "lng": 18.3803168
+    },
+    "address": "Sunset Beach, Sea Point, Cape Town, 8060",
+    "rating": 4.5,
+    "reviewCount": 827,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Beach",
+    "types": [
+      "beach",
+      "natural_feature",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJdXYFmSNnzB0RyI_wK_BAwqo",
+    "name": "The Press Bar & Grill",
+    "category": "bars",
+    "coords": {
+      "lat": -33.9119399,
+      "lng": 18.3932833
+    },
+    "address": "Laughtons Building, 299 Main Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.4,
+    "reviewCount": 808,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "bar_and_grill",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJjbd4kOJmzB0RkE0iy_wAkQc",
+    "name": "The Rock",
+    "category": "chill",
+    "coords": {
+      "lat": -33.931356199999996,
+      "lng": 18.3792635
+    },
+    "address": "405 Ocean View Dr, Bantry Bay, Cape Town, 8005",
+    "rating": 4.8,
+    "reviewCount": 804,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Observation Deck",
+    "types": [
+      "observation_deck",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJc74DME5nzB0RYm_mp-QJLfE",
+    "name": "Tobago's Restaurant, Bar and Terrace",
+    "category": "eat",
+    "coords": {
+      "lat": -33.899150899999995,
+      "lng": 18.4124653
+    },
+    "address": "100 Beach Road, Granger Bay Blvd, Waterfront, Cape Town, 8002",
+    "rating": 4.3,
+    "reviewCount": 790,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJOcnEGqxnzB0RfBeIJzJZM7E",
+    "name": "Sea Point Promenade",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9098934,
+      "lng": 18.3904723
+    },
+    "address": "Beach Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.6,
+    "reviewCount": 782,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5dWRLK1nzB0R2Z8ER-g7kQY",
+    "name": "Una Más - Mezcaleria",
+    "category": "bars",
+    "coords": {
+      "lat": -33.921543899999996,
+      "lng": 18.382598299999998
+    },
+    "address": "Shop 2, 77 Regent Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.4,
+    "reviewCount": 656,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Mexican Restaurant",
+    "types": [
+      "mexican_restaurant",
+      "cocktail_bar",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJEcjomhVnzB0RP9yWpn3cVAE",
+    "name": "Kanéla Café",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9211914,
+      "lng": 18.3828095
+    },
+    "address": "78 Regent Rd, Sea Point, Cape Town, 8001",
+    "rating": 4.6,
+    "reviewCount": 643,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Cafe",
+    "types": [
+      "cafe",
+      "tea_house",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJmbgSf2JnzB0RlD0dc3b7gnc",
+    "name": "Nice To Matcha",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9179143,
+      "lng": 18.387609700000002
+    },
+    "address": "206 Main Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.9,
+    "reviewCount": 618,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Cafe",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJzQ436ahnzB0RuyXAWZPL2qw",
+    "name": "Jack@SKYE Rooftop Bar and Restaurant",
+    "category": "classes",
+    "coords": {
+      "lat": -33.91204,
+      "lng": 18.39065
+    },
+    "address": "13 London Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.4,
+    "reviewCount": 603,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "swimming_pool",
+      "cocktail_bar",
+      "bar",
+      "sports_activity_location",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJFVVtANxnzB0RATKtZsCjFz8",
+    "name": "Pauline's",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9111194,
+      "lng": 18.3939574
+    },
+    "address": "277 Main Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.5,
+    "reviewCount": 594,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Coffee Shop",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJIV_Jh_BnzB0Rts345xxPueY",
+    "name": "Naked coffee",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9117971,
+      "lng": 18.392806699999998
+    },
+    "address": "2 Wisbeach Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.4,
+    "reviewCount": 584,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Coffee Shop",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ25lfSCVnzB0RtZyndDgIil8",
+    "name": "Duchess of Wisbeach",
+    "category": "bars",
+    "coords": {
+      "lat": -33.9136452,
+      "lng": 18.392157800000003
+    },
+    "address": "2 Conifer Road, 321 Main Rd, Sea Point, Cape Town, 8005",
+    "rating": 3.9,
+    "reviewCount": 540,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": "Hip cross between a New York speakeasy and a Parisian cafe, with music and a Mediterranean menu.",
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "bar",
+      "association_or_organization",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJgVdb9jZnzB0RRXXXawaO5Ww",
+    "name": "Park Café",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9046021,
+      "lng": 18.4007433
+    },
+    "address": "1056 Bill Peters Dr, Green Point, Cape Town, 8001",
+    "rating": 4.2,
+    "reviewCount": 530,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Cafe",
+    "types": [
+      "cafe",
+      "coffee_shop",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZekTzCRnzB0RaAJqV1YkwvY",
+    "name": "Milky Lane Sea Point",
+    "category": "family",
+    "coords": {
+      "lat": -33.9131642,
+      "lng": 18.391714099999998
+    },
+    "address": "Shop 2, London House, Main Rd, Sea Point, Cape Town, 8001",
+    "rating": 3.7,
+    "reviewCount": 515,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": "Modern chain ice cream parlour serving sundaes, shakes, waffles & cakes to eat in or take away.",
+    "primaryType": "Ice Cream Shop",
+    "types": [
+      "ice_cream_shop",
+      "meal_takeaway",
+      "dessert_shop",
+      "confectionery",
+      "restaurant",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJiRJ53uRnzB0RA_il9WHTX8s",
+    "name": "ANEW Hotel Green Point Cape Town",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9080756,
+      "lng": 18.403785799999998
+    },
+    "address": "181 Main Rd, Green Point, Cape Town, 8005",
+    "rating": 4.2,
+    "reviewCount": 479,
+    "priceLevel": null,
+    "summary": "Compact rooms & suites in a sleek hotel offering a rooftop pool, plus an airy restaurant & bar.",
+    "primaryType": "Hotel",
+    "types": [
+      "hotel",
+      "lodging",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJrTjyvTVnzB0RVEwRq3WidLg",
+    "name": "La Splendida",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9015651,
+      "lng": 18.4008732
+    },
+    "address": "121 Beach Rd, Mouille Point, Cape Town, 8005",
+    "rating": 4.1,
+    "reviewCount": 459,
+    "priceLevel": null,
+    "summary": "Airy rooms & suites with mountain or ocean views, plus Mediterranean dining & free Wi-Fi.",
+    "primaryType": "Hotel",
+    "types": [
+      "hotel",
+      "lodging",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5-zd50hnzB0RudtTZRQ_LF4",
+    "name": "Green Point Athletic Stadium",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9054441,
+      "lng": 18.4087736
+    },
+    "address": "Vlei Rd, Green Point, Cape Town, 8005",
+    "rating": 4.6,
+    "reviewCount": 402,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Athletic Field",
+    "types": [
+      "athletic_field",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ-4CZ_SJnzB0RjSCQ_UItFwk",
+    "name": "Hotel on the Promenade",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9167081,
+      "lng": 18.387636999999998
+    },
+    "address": "11 Arthurs Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.5,
+    "reviewCount": 347,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": "Stylish lodging offering rooms with Mac computers, plus free breakfast and a vibrant bistro.",
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "hotel",
+      "lodging",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJOZ--Rz9nzB0RVKqA8hcX7uw",
+    "name": "KIKI",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9219718,
+      "lng": 18.3819586
+    },
+    "address": "85 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.7,
+    "reviewCount": 346,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJCXwEiUtnzB0Re1u6_wPDtOs",
+    "name": "Maggy Lou's",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9179143,
+      "lng": 18.387609700000002
+    },
+    "address": "206 Main Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.5,
+    "reviewCount": 332,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJG9PXUntnzB0R31_ybheznRs",
+    "name": "Norfolk Deli",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9110598,
+      "lng": 18.3922715
+    },
+    "address": "6 Norfolk Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.7,
+    "reviewCount": 332,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Cafe",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ7-QgRzRnzB0RpOdVfyTwxqw",
+    "name": "Promenade",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.901424999999996,
+      "lng": 18.3998652
+    },
+    "address": "100 Beach Rd, Green Point, Cape Town, 8005",
+    "rating": 4.8,
+    "reviewCount": 325,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJUx2ZEkZnzB0Re-yLmqApIAU",
+    "name": "Randy Warthog",
+    "category": "bars",
+    "coords": {
+      "lat": -33.907779399999995,
+      "lng": 18.4091119
+    },
+    "address": "107 Main Rd, Green Point, Cape Town, 8005",
+    "rating": 4.4,
+    "reviewCount": 309,
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "summary": null,
+    "primaryType": "Bar",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ8W4uByNnzB0RHaU-_04LmGc",
+    "name": "Bokeh Karaoke Bar & Lounge",
+    "category": "bars",
+    "coords": {
+      "lat": -33.921415599999996,
+      "lng": 18.382377599999998
+    },
+    "address": "84 Regent Rd, Sea Point, Cape Town, 8000",
+    "rating": 4.2,
+    "reviewCount": 302,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Bar",
+    "types": [
+      "karaoke",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJEZV51_xmzB0RjInEwYCwJZw",
+    "name": "Clifton 1st",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9338945,
+      "lng": 18.3769791
+    },
+    "address": "Clifton 1st, Clifton, Cape Town, 8005",
+    "rating": 4.6,
+    "reviewCount": 298,
+    "priceLevel": null,
+    "summary": "Peaceful white sandy beach with some tree cover, a rocky cove & scenic surroundings.",
+    "primaryType": "Beach",
+    "types": [
+      "beach",
+      "natural_feature",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJuc9zkjpnzB0RjZQczC9FgnE",
+    "name": "Into the Blue Scuba Dive Centre Cape Town",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9103658,
+      "lng": 18.394178099999998
+    },
+    "address": "88_b, Main Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.8,
+    "reviewCount": 297,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sporting Goods Store",
+    "types": [
+      "sports_coaching",
+      "sporting_goods_store",
+      "sports_activity_location",
+      "school",
+      "educational_institution",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ16a55B9nzB0RKm_TbylwcuQ",
+    "name": "Brian's Pub",
+    "category": "bars",
+    "coords": {
+      "lat": -33.9227875,
+      "lng": 18.3805792
+    },
+    "address": "115 Regent Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.1,
+    "reviewCount": 259,
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "summary": null,
+    "primaryType": "Bar",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJkWja0EdnzB0ReuedxyQ_ydA",
+    "name": "Hatyai Thai Massage - Greenpoint",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9079119,
+      "lng": 18.4094004
+    },
+    "address": "1st floor, Paramount House, 105 Main Rd, Green Point, Cape Town, 8001",
+    "rating": 4,
+    "reviewCount": 255,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Massage spa",
+    "types": [
+      "massage_spa",
+      "massage",
+      "spa",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJr_zlgFtnzB0R3YJLlZ4IDAs",
+    "name": "Body+Mind Wellness Spa",
+    "category": "chill",
+    "coords": {
+      "lat": -33.918714099999995,
+      "lng": 18.387563099999998
+    },
+    "address": "Ste 203, Sea Point Medical Centre, 11 Kloof Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.4,
+    "reviewCount": 243,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJRdb8yUVnzB0Rijlc2LEOUE0",
+    "name": "The Glam Hair & Beauty Bar",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9089154,
+      "lng": 18.4112244
+    },
+    "address": "Next door to Gelato Mania, Shop 2, Winston Place, 65 Main Rd, Green Point, Cape Town, 8005",
+    "rating": 4.5,
+    "reviewCount": 242,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Beauty Salon",
+    "types": [
+      "beauty_salon",
+      "tanning_studio",
+      "nail_salon",
+      "hair_salon",
+      "hair_care",
+      "massage_spa",
+      "massage",
+      "spa",
+      "medical_clinic",
+      "health",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJX7dy0DBnzB0RKKG-s08ErT0",
+    "name": "Outdoor Gym @ Three Anchors Bay (Sea Point Promenade)",
+    "category": "classes",
+    "coords": {
+      "lat": -33.906612599999995,
+      "lng": 18.396997
+    },
+    "address": "Sea Point Promenade, Sea Point, Cape Town, 8005",
+    "rating": 4.5,
+    "reviewCount": 225,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "gym",
+      "sports_activity_location",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJiQZNm9BnzB0RXXfhRsnv9L8",
+    "name": "The Greek Club Restaurant",
+    "category": "eat",
+    "coords": {
+      "lat": -33.900734,
+      "lng": 18.4068579
+    },
+    "address": "24 Bay Rd, Mouille Point, Cape Town, 8005",
+    "rating": 4.3,
+    "reviewCount": 220,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJQYQusiNnzB0RFS7-SwLzies",
+    "name": "O on Kloof Boutique Hotel & Spa",
+    "category": "chill",
+    "coords": {
+      "lat": -33.924796,
+      "lng": 18.382849999999998
+    },
+    "address": "92 Kloof Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.3,
+    "reviewCount": 217,
+    "priceLevel": null,
+    "summary": "Chic hotel offering refined rooms and suites, plus an upscale restaurant, an indoor pool and a spa.",
+    "primaryType": "Hotel",
+    "types": [
+      "hotel",
+      "spa",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJL0UPiuBmzB0RicEyB8Id_LI",
+    "name": "Saunders' Rocks Beach",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9237945,
+      "lng": 18.3769791
+    },
+    "address": "Saunders' Rocks Beach, Cape Town, 8005",
+    "rating": 4.6,
+    "reviewCount": 210,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Beach",
+    "types": [
+      "beach",
+      "natural_feature",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJHTFkKCJnzB0RJOAwsxxkNd4",
+    "name": "Horizen Gym Sea Point",
+    "category": "classes",
+    "coords": {
+      "lat": -33.912857699999996,
+      "lng": 18.39203
+    },
+    "address": "126 Main Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.9,
+    "reviewCount": 205,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "gym",
+      "sports_activity_location",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ45_XAzdnzB0RAzV6Zt7cLP0",
+    "name": "Platō Coffee - Sea Point",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9125291,
+      "lng": 18.3921062
+    },
+    "address": "120 Main Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.5,
+    "reviewCount": 199,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Coffee Shop",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJSXVZOydnzB0RtHvmdux12pY",
+    "name": "La Vita spa",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9176852,
+      "lng": 18.3864592
+    },
+    "address": "273 Beach Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.4,
+    "reviewCount": 198,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJxcXfaOJnzB0R7kzN7_Vkf0k",
+    "name": "Pro Spa Mobile Spa",
+    "category": "chill",
+    "coords": {
+      "lat": -33.929960699999995,
+      "lng": 18.379569
+    },
+    "address": "52 De Wet Rd, Fresnaye, Cape Town, 8000",
+    "rating": 4.8,
+    "reviewCount": 184,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "wellness_center",
+      "massage_spa",
+      "massage",
+      "beauty_salon",
+      "health",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJT9fjbDRnzB0Ra_QtZQ4B688",
+    "name": "Mouille Point Adventure Playground",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9016307,
+      "lng": 18.3988746
+    },
+    "address": "8005, Mouille Point, Cape Town, 8005",
+    "rating": 4.5,
+    "reviewCount": 183,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ7eQewpxnzB0RAYma5L8TdDI",
+    "name": "Isla Malie Tropical Spa (Green Point)",
+    "category": "chill",
+    "coords": {
+      "lat": -33.908877499999996,
+      "lng": 18.4020689
+    },
+    "address": "8 Hill Rd, Green Point, Cape Town, 8051",
+    "rating": 4.8,
+    "reviewCount": 182,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Massage spa",
+    "types": [
+      "massage_spa",
+      "massage",
+      "spa",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZ3JQZGZnzB0RptFic2JDulM",
+    "name": "Lanna Thai Massage & Beauty (Sea Point Cape town)",
+    "category": "chill",
+    "coords": {
+      "lat": -33.915309,
+      "lng": 18.389727999999998
+    },
+    "address": "156 Main Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.5,
+    "reviewCount": 167,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Massage",
+    "types": [
+      "massage_spa",
+      "spa",
+      "massage",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJAepNpSNnzB0R_ASQhrYQTKE",
+    "name": "Cube Sports Bar",
+    "category": "bars",
+    "coords": {
+      "lat": -33.9092647,
+      "lng": 18.3960726
+    },
+    "address": "261 Main Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.3,
+    "reviewCount": 165,
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "summary": null,
+    "primaryType": "Bar",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJW9xAIYRnzB0RtEN8lclkdfM",
+    "name": "The Loft Spa",
+    "category": "chill",
+    "coords": {
+      "lat": -33.913699799999996,
+      "lng": 18.3947584
+    },
+    "address": "192 High Level Rd, Sea Point, Cape Town, 8051",
+    "rating": 4.7,
+    "reviewCount": 155,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Beauty Salon",
+    "types": [
+      "beauty_salon",
+      "spa",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ83YdJTtnzB0RgRI_B0zLp1k",
+    "name": "Amare",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9260454,
+      "lng": 18.37908
+    },
+    "address": "29 Victoria Rd, Bantry Bay, Cape Town, 8005",
+    "rating": 4,
+    "reviewCount": 155,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJr0SCjUlnzB0R8IB9aOxqltI",
+    "name": "Green Point Salesian Football Club",
+    "category": "classes",
+    "coords": {
+      "lat": -33.902676299999996,
+      "lng": 18.4054279
+    },
+    "address": "Stephan Way, Green Point, Cape Town, 8051",
+    "rating": 4.5,
+    "reviewCount": 152,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Club",
+    "types": [
+      "sports_bar",
+      "sports_complex",
+      "athletic_field",
+      "bar",
+      "sports_club",
+      "event_venue",
+      "sports_activity_location",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJsQrOM1BnzB0RE_jZN6jukyE",
+    "name": "Amani Spa and Wellness at Radisson Collection Waterfront, Cape Town",
+    "category": "chill",
+    "coords": {
+      "lat": -33.8999762,
+      "lng": 18.4117634
+    },
+    "address": "Radisson Collection Hotel, Waterfront 100 Beach Road, Granger Bay Blvd, Mouille Point, Cape Town, 8002",
+    "rating": 4.6,
+    "reviewCount": 142,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJWfUTxt9mzB0RV_eLaQifnAE",
+    "name": "Queen's Beach",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.921266599999996,
+      "lng": 18.3780917
+    },
+    "address": "Queen's Beach, Sea Point, Cape Town, 8060",
+    "rating": 4.4,
+    "reviewCount": 139,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Beach",
+    "types": [
+      "beach",
+      "natural_feature",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJd4b1tiNnzB0RvhLrojf5ZxM",
+    "name": "The Movement Lab",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9178338,
+      "lng": 18.387735499999998
+    },
+    "address": "202b Main Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.8,
+    "reviewCount": 139,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "sports_complex",
+      "gym",
+      "sports_school",
+      "sports_activity_location",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJq8_HieBnzB0Rhcb5EHPVMrs",
+    "name": "Motley Crew CrossFit Seaboard",
+    "category": "classes",
+    "coords": {
+      "lat": -33.912670399999996,
+      "lng": 18.392045
+    },
+    "address": "120 Main Rd, Sea Point, Cape Town, 8060",
+    "rating": 5,
+    "reviewCount": 131,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Fitness center",
+    "types": [
+      "fitness_center",
+      "gym",
+      "sports_activity_location",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ91WLxiFnzB0R96OiFsFHZwY",
+    "name": "I-SPA AESTHETICS CLINIC",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9204194,
+      "lng": 18.384057000000002
+    },
+    "address": "3rd floor Office 312, Seapoint, Near Checkers Point Mall, Gribaltar House, 74 Regent Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.2,
+    "reviewCount": 128,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJWRHbxOtnzB0RuLq-ycfvBYc",
+    "name": "Hermanos Barber Shop",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9085963,
+      "lng": 18.4113452
+    },
+    "address": "Shop 5, Winston Place, 65 Main Rd, Green Point, Cape Town, 8005",
+    "rating": 4.9,
+    "reviewCount": 125,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Barber shop",
+    "types": [
+      "barber_shop",
+      "hair_salon",
+      "hair_care",
+      "massage_spa",
+      "massage",
+      "beauty_salon",
+      "spa",
+      "supplier",
+      "manufacturer",
+      "store",
+      "health",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ4da2o_ZnzB0RxK1r9YA4mTk",
+    "name": "Hard Punch Boxing Gym,Fitness Trainer",
+    "category": "classes",
+    "coords": {
+      "lat": -33.920052399999996,
+      "lng": 18.384698699999998
+    },
+    "address": "56 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 123,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Coaching",
+    "types": [
+      "fitness_center",
+      "sports_complex",
+      "gym",
+      "sports_coaching",
+      "sports_activity_location",
+      "sports_school",
+      "sports_club",
+      "health",
+      "point_of_interest",
+      "association_or_organization",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJJcVb7R1nzB0RTJUghgqAL44",
+    "name": "SWEAT 1000",
+    "category": "classes",
+    "coords": {
+      "lat": -33.920726099999996,
+      "lng": 18.3833064
+    },
+    "address": "3rd Floor, The Point Mall | Shopping Centre | Sea Point, 76 Regent Rd, Seapoint, Cape Town, 8005",
+    "rating": 4.8,
+    "reviewCount": 121,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "gym",
+      "wellness_center",
+      "fitness_center",
+      "sports_activity_location",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJU_VdlCNnzB0RE7ARU750YM0",
+    "name": "Checkers LiquorShop Sea Point",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9207,
+      "lng": 18.3843
+    },
+    "address": "Galleria Shopping Centre, 76 Galleria Road, Sea Point, Cape Town, 8005",
+    "rating": 4,
+    "reviewCount": 99,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Liquor Store",
+    "types": [
+      "liquor_store",
+      "car_wash",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJe679lOxnzB0RqhxMfDuLLR0",
+    "name": "TRUTH TRAVEL",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9042174,
+      "lng": 18.3984076
+    },
+    "address": "Beach Rd, Green Point, Cape Town, 8051",
+    "rating": 5,
+    "reviewCount": 98,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "adventure_sports_center",
+      "health_food_store",
+      "bicycle_store",
+      "sports_complex",
+      "sporting_goods_store",
+      "manufacturer",
+      "sports_activity_location",
+      "food_store",
+      "store",
+      "tour_agency",
+      "travel_agency",
+      "health",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJfyBviCFnzB0Rqh9KWOhJxEs",
+    "name": "BUC Fitness Club",
+    "category": "classes",
+    "coords": {
+      "lat": -33.920726099999996,
+      "lng": 18.3833064
+    },
+    "address": "The Point Mall | Shopping Centre | Sea Point, 76 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.1,
+    "reviewCount": 95,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "gym",
+      "wellness_center",
+      "massage",
+      "yoga_studio",
+      "sports_complex",
+      "fitness_center",
+      "sports_school",
+      "sports_coaching",
+      "sports_activity_location",
+      "point_of_interest",
+      "health",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJAUm4FBJnzB0R7ZH_x6lBVk4",
+    "name": "The Ivy Room",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9154157,
+      "lng": 18.3895825
+    },
+    "address": "Fl 3, Suite 301B, The Equinox, Milton Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.9,
+    "reviewCount": 95,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "sports_complex",
+      "gym",
+      "sports_school",
+      "sports_activity_location",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ-ZGfnM5nzB0RjGUjwrMbtqc",
+    "name": "Salon301barbers",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9120811,
+      "lng": 18.393259999999998
+    },
+    "address": "301 Main Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.7,
+    "reviewCount": 93,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Barber shop",
+    "types": [
+      "barber_shop",
+      "hair_salon",
+      "nail_salon",
+      "massage_spa",
+      "body_art_service",
+      "beauty_salon",
+      "hair_care",
+      "spa",
+      "massage",
+      "health",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJxUPyEjhnzB0RA2Kf3xJx3_U",
+    "name": "Natural Aesthetics - Cape Town",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9078808,
+      "lng": 18.4043582
+    },
+    "address": "173 Main Rd, Green Point, Cape Town, 8005",
+    "rating": 4.8,
+    "reviewCount": 91,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Skin Care Clinic",
+    "types": [
+      "skin_care_clinic",
+      "spa",
+      "medical_clinic",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJuRWkvv1mzB0RUyBD1R8tOTs",
+    "name": "Clifton View",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9323707,
+      "lng": 18.3765724
+    },
+    "address": "4 Victoria Rd, Clifton, Cape Town, 8005",
+    "rating": 4.7,
+    "reviewCount": 89,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Observation Deck",
+    "types": [
+      "observation_deck",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ-Vq4SD9nzB0RhPcxQXDisdA",
+    "name": "Gelato Mania Sea Point",
+    "category": "family",
+    "coords": {
+      "lat": -33.921849,
+      "lng": 18.3821016
+    },
+    "address": "83A Regent Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.4,
+    "reviewCount": 87,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Ice Cream Shop",
+    "types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJOU-6VNZnzB0RWo8Qmw7CbI8",
+    "name": "Hatyai Thai Massage - Seapoint",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9177128,
+      "lng": 18.3878956
+    },
+    "address": "196 B Main Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.4,
+    "reviewCount": 85,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Massage spa",
+    "types": [
+      "massage_spa",
+      "spa",
+      "massage",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJh78sVXFnzB0R0M--mfp4q1c",
+    "name": "THE CLUB. Pilates Studios",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9143933,
+      "lng": 18.3913232
+    },
+    "address": "343 Main Rd, Sea Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 85,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "sports_complex",
+      "gym",
+      "sports_school",
+      "sports_activity_location",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJs9F-MTtnzB0R2GeZSA175kw",
+    "name": "Lavender Thai And Chinese Massage Spa",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9128506,
+      "lng": 18.392066
+    },
+    "address": "1st floor, 122 Main Rd, Sea Point, Cape Town, 8001",
+    "rating": 4,
+    "reviewCount": 80,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Massage",
+    "types": [
+      "massage_spa",
+      "spa",
+      "massage",
+      "health",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJicG9undnzB0RwqbsYeQWuOs",
+    "name": "BABY",
+    "category": "bars",
+    "coords": {
+      "lat": -33.919443099999995,
+      "lng": 18.3863041
+    },
+    "address": "1st Floor, 13-17 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.7,
+    "reviewCount": 78,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Bar",
+    "types": [
+      "bar",
+      "cocktail_bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJl6PikfNnzB0RDcGWnZaSYlU",
+    "name": "Yoga(Space)",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9101285,
+      "lng": 18.3941886
+    },
+    "address": "1st Floor, 82 Main Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.8,
+    "reviewCount": 70,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Yoga Studio",
+    "types": [
+      "yoga_studio",
+      "fitness_center",
+      "sports_complex",
+      "gym",
+      "sports_activity_location",
+      "sports_school",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJAXkBoCZnzB0RXm6_Fu9I3bw",
+    "name": "Milton Beach",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.914344299999996,
+      "lng": 18.385879799999998
+    },
+    "address": "Milton Beach, Sea Point, Cape Town, 8060",
+    "rating": 4.4,
+    "reviewCount": 65,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Beach",
+    "types": [
+      "beach",
+      "natural_feature",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJR8Ia0GZnzB0Ryxfo08Gn6n8",
+    "name": "Icezeit Gelateria and Espresso Bar",
+    "category": "family",
+    "coords": {
+      "lat": -33.9180163,
+      "lng": 18.385593999999998
+    },
+    "address": "3 Beach Rd, Sea Point, Cape Town, 8001",
+    "rating": 4,
+    "reviewCount": 59,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Ice Cream Shop",
+    "types": [
+      "ice_cream_shop",
+      "coffee_stand",
+      "tea_house",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJoW2Pe1hnzB0Re-EY4t_HOSg",
+    "name": "Gelato Mania Mojo Market",
+    "category": "family",
+    "coords": {
+      "lat": -33.9192584,
+      "lng": 18.3858008
+    },
+    "address": "30 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 3.7,
+    "reviewCount": 58,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Ice Cream Shop",
+    "types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJNxZVMyJnzB0RtmpUSMlDyeQ",
+    "name": "McQueens Boutique Spa",
+    "category": "chill",
+    "coords": {
+      "lat": -33.918891699999996,
+      "lng": 18.3874323
+    },
+    "address": "Ground Floor, Station House, 19 Kloof Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.8,
+    "reviewCount": 58,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Beauty Salon",
+    "types": [
+      "beauty_salon",
+      "spa",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJz7T0zB5nzB0R8O-3VmBgb-c",
+    "name": "Moro Gelato, Wisbeach Rd, Sea Point",
+    "category": "family",
+    "coords": {
+      "lat": -33.911704400000005,
+      "lng": 18.3930547
+    },
+    "address": "102C Main Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.5,
+    "reviewCount": 53,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Ice Cream Shop",
+    "types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ33rbP4xnzB0R18448sY4B5U",
+    "name": "BODYROLL Studio Cape Town",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9150059,
+      "lng": 18.3900676
+    },
+    "address": "Unit 504, 154 Main Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.9,
+    "reviewCount": 53,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "fitness_center",
+      "gym",
+      "beauty_salon",
+      "spa",
+      "sports_activity_location",
+      "health",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJp5s51lRnzB0RjPeff0CUmwo",
+    "name": "Yemaya Bantry Bay",
+    "category": "chill",
+    "coords": {
+      "lat": -33.924796,
+      "lng": 18.3828504
+    },
+    "address": "O On Kloof Boutique Hotel, 92 Kloof Rd, Bantry Bay, Cape Town, 8005",
+    "rating": 3.7,
+    "reviewCount": 52,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJK6XAwL9nzB0Rbz0YbzXW9IU",
+    "name": "Leopard Lagree",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9207669,
+      "lng": 18.3832454
+    },
+    "address": "76 Regent Road The Point Mall Shopping Centre, Shop 310B (3rd floor, Sea Point, Cape Town, 8005",
+    "rating": 4.6,
+    "reviewCount": 48,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Fitness center",
+    "types": [
+      "fitness_center",
+      "gym",
+      "sports_activity_location",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJt2f3xiFnzB0RSs2nUZbn9kA",
+    "name": "The Beauty Spot Sea Point - Skin & Body Clinic",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9203949,
+      "lng": 18.384106799999998
+    },
+    "address": "74 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.5,
+    "reviewCount": 47,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Beauty Salon",
+    "types": [
+      "beauty_salon",
+      "nail_salon",
+      "massage_spa",
+      "hair_care",
+      "spa",
+      "massage",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJu-HPMlJnzB0RzeyAfsBLEJA",
+    "name": "Le Beauty Bar Cpt",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9079119,
+      "lng": 18.4094004
+    },
+    "address": "1st floor, paramount, 105 Main Rd, Green Point, Cape Town, 7441",
+    "rating": 4.4,
+    "reviewCount": 42,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJsa-OSjRpzB0RtUP9lolkBAk",
+    "name": "Bind Movement - Pilates & Functional Strength",
+    "category": "classes",
+    "coords": {
+      "lat": -33.900659499999996,
+      "lng": 18.4066847
+    },
+    "address": "The Hellenic Club, 24 Bay Rd, Mouille Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 42,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "sports_complex",
+      "gym",
+      "sports_activity_location",
+      "sports_school",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5T26JzdnzB0RCepCS87KslI",
+    "name": "The Ring Reloaded Boxing Club",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9111739,
+      "lng": 18.3940509
+    },
+    "address": "277 Main Rd, Sea Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 40,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Coaching",
+    "types": [
+      "sports_coaching",
+      "sports_complex",
+      "gym",
+      "sports_activity_location",
+      "sports_school",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJQWxdACFnzB0R8PehAUsdkz8",
+    "name": "Pavilion Rotary Park",
+    "category": "family",
+    "coords": {
+      "lat": -33.9188707,
+      "lng": 18.3831123
+    },
+    "address": "Promenade Road, Sea Point, Cape Town, 8005",
+    "rating": 4.5,
+    "reviewCount": 39,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Playground",
+    "types": [
+      "playground",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJQ2iIpiJnzB0RLC0HCRCkGd8",
+    "name": "St Johns Road Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9201932,
+      "lng": 18.3907026
+    },
+    "address": "26 St Johns Rd, Sea Point, Cape Town, 8060",
+    "rating": 3.9,
+    "reviewCount": 39,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "City Park",
+    "types": [
+      "city_park",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJsfOMsCRnzB0Rmba6HZPUF-Q",
+    "name": "La Bruixa",
+    "category": "bars",
+    "coords": {
+      "lat": -33.914109100000005,
+      "lng": 18.3913781
+    },
+    "address": "341 Main Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.5,
+    "reviewCount": 39,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Bar",
+    "types": [
+      "bar",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJsS7S1ONnzB0RY6rFEnv8Nuw",
+    "name": "YOU&I Art Gallery Sea Point",
+    "category": "arts",
+    "coords": {
+      "lat": -33.921653299999996,
+      "lng": 18.382732
+    },
+    "address": "77 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 38,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Art Gallery",
+    "types": [
+      "art_gallery",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJWXQN51pnzB0RUXjW66Dg50s",
+    "name": "Mommy Wellness Day Spa Seapoint",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9196069,
+      "lng": 18.3857379
+    },
+    "address": "35 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.9,
+    "reviewCount": 36,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJWVNYWyFnzB0RvSGU6jT2JCk",
+    "name": "Brokenbath Beach",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.917094999999996,
+      "lng": 18.3855089
+    },
+    "address": "Brokenbath Beach",
+    "rating": 4.5,
+    "reviewCount": 34,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Beach",
+    "types": [
+      "beach",
+      "natural_feature",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJj9jdYXRnzB0RaL03kgNR9AQ",
+    "name": "Do Martial Arts Centre",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9120126,
+      "lng": 18.3937085
+    },
+    "address": "2 Mount Nelson Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.9,
+    "reviewCount": 34,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_school",
+      "sports_activity_location",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJYQIOKv1nzB0R-d44PSm6I5Y",
+    "name": "Hermanos Aesthetics",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9088655,
+      "lng": 18.411279999999998
+    },
+    "address": "Shop 1, 65 Main Rd, Green Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 33,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJs6_2NYdnzB0RJGFejQU-2PY",
+    "name": "The Yoga Sanctuary",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9220056,
+      "lng": 18.3806159
+    },
+    "address": "8 Solomons Rd, Sea Point, Cape Town, 8060",
+    "rating": 5,
+    "reviewCount": 32,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Yoga Studio",
+    "types": [
+      "yoga_studio",
+      "wellness_center",
+      "sports_complex",
+      "fitness_center",
+      "gym",
+      "sports_school",
+      "sports_activity_location",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJRUiS8aVnzB0RwaTB6ZdxeDU",
+    "name": "Studio54 Pilates",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9118707,
+      "lng": 18.3934845
+    },
+    "address": "295 Main Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.9,
+    "reviewCount": 32,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "sports_complex",
+      "gym",
+      "sports_school",
+      "sports_activity_location",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJSQMeYyNnzB0RPqYsRskmCF8",
+    "name": "BODYTEC Sea Point",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9220684,
+      "lng": 18.3811336
+    },
+    "address": "Piazza da Luz, 94 Regent Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.7,
+    "reviewCount": 31,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "gym",
+      "sports_activity_location",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJGVZggE1mzB0Rq1XOm8JjY2k",
+    "name": "BASI Pilates Academy Cape Town",
+    "category": "classes",
+    "coords": {
+      "lat": -33.920726099999996,
+      "lng": 18.3833064
+    },
+    "address": "Ste 310, The Point Mall | Shopping Centre | Sea Point, 76 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 30,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "sports_complex",
+      "gym",
+      "sports_school",
+      "sports_activity_location",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJzTh_LjRnzB0R90CnXf5-PSQ",
+    "name": "Green Point Park - West Gate",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9021994,
+      "lng": 18.4005486
+    },
+    "address": "Bay Rd, Green Point, Cape Town, 8001",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJcyTRd5dnzB0RlpHOMmNuHzA",
+    "name": "Breathe Barre Cape Town",
+    "category": "classes",
+    "coords": {
+      "lat": -33.911497499999996,
+      "lng": 18.393032899999998
+    },
+    "address": "ONEHUNDRED ON M, Mezzanine Floor, 100 Main Rd, Sea Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 29,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "sports_complex",
+      "gym",
+      "sports_school",
+      "sports_activity_location",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJUfa_DplnzB0RFWtqU9NsyeQ",
+    "name": "The Ozone Lounge",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9207217,
+      "lng": 18.3833086
+    },
+    "address": "3rd Floor, The Point Mall Shopping Centre in Sea Point Shopping Centre, Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 28,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ__-B3_pnzB0RmoDjoswoOI4",
+    "name": "Mouille Point Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9013382,
+      "lng": 18.398566499999998
+    },
+    "address": "Mouille Point, Cape Town, 8005",
+    "rating": 4.8,
+    "reviewCount": 27,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "City Park",
+    "types": [
+      "city_park",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJNd7R1DBnzB0RzDUc-of0vdo",
+    "name": "Three Anchor Bay",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9061897,
+      "lng": 18.3978404
+    },
+    "address": "Three Anchor Bay, Cape Town, 8005",
+    "rating": 4.4,
+    "reviewCount": 27,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Beach",
+    "types": [
+      "beach",
+      "natural_feature",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJFzh__ctnzB0Rgtwp201QjSM",
+    "name": "bourn. Gym",
+    "category": "classes",
+    "coords": {
+      "lat": -33.902277399999996,
+      "lng": 18.4066482
+    },
+    "address": "1 Stephen Way, Green Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 27,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "gym",
+      "sports_activity_location",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJe-8qzyZnzB0RIQ7S9V7k0lM",
+    "name": "Dinkys Sea Point",
+    "category": "family",
+    "coords": {
+      "lat": -33.910453,
+      "lng": 18.3941178
+    },
+    "address": "92 Main Rd, Sea Point, Cape Town, 8001",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Ice Cream Shop",
+    "types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ_VWOii9nzB0Ro8V0_d-xM14",
+    "name": "Rhinocerus (Image of a Rhino through various single elements)",
+    "category": "arts",
+    "coords": {
+      "lat": -33.9095076,
+      "lng": 18.3907821
+    },
+    "address": "Sea Point Promenade, Sea Point, Cape Town, 8060",
+    "rating": 4.5,
+    "reviewCount": 25,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Art Gallery",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5fazScJnzB0RWqNnr3Xuydo",
+    "name": "KravMagaAfrica",
+    "category": "classes",
+    "coords": {
+      "lat": -33.920052399999996,
+      "lng": 18.384698699999998
+    },
+    "address": "56 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 25,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports School",
+    "types": [
+      "sports_activity_location",
+      "sports_school",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJMxfCYrxnzB0RsAmYoLU_xF4",
+    "name": "Harveys Bar @ The Winchester",
+    "category": "bars",
+    "coords": {
+      "lat": -33.9106922,
+      "lng": 18.3905729
+    },
+    "address": "221 Beach Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.7,
+    "reviewCount": 25,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Bar",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ9zYE1jdnzB0Rl6EMeQ6Z9Qg",
+    "name": "Cape Town Hotel School Restaurant",
+    "category": "eat",
+    "coords": {
+      "lat": -33.899392299999995,
+      "lng": 18.411293
+    },
+    "address": "Mouille Point, Cape Town, 8005",
+    "rating": 4.3,
+    "reviewCount": 25,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJD5HWciBnzB0R0V9Ln5V2pjs",
+    "name": "Marine Research Aquarium",
+    "category": "family",
+    "coords": {
+      "lat": -33.9206934,
+      "lng": 18.3807595
+    },
+    "address": "Next to Beach, 4 Beach Rd, Sea Point, Cape Town, 8001",
+    "rating": 4.5,
+    "reviewCount": 24,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Aquarium",
+    "types": [
+      "aquarium",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJbc24gDtnzB0R-yOfEUKEY8c",
+    "name": "Sanctuary Spas Winchester",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9106313,
+      "lng": 18.3906639
+    },
+    "address": "221 Beach Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.7,
+    "reviewCount": 24,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJKR9VsPhnzB0RyySQoxtPZXo",
+    "name": "TAP'D at Mojo Market",
+    "category": "bars",
+    "coords": {
+      "lat": -33.9192584,
+      "lng": 18.3858008
+    },
+    "address": "30 Regent Rd, Sea Point, Cape Town, 8060",
+    "rating": 3.3,
+    "reviewCount": 24,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Bar",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJT9uiOHdnzB0RVdWpqD7b60U",
+    "name": "Baglios Portofino - Green Point",
+    "category": "family",
+    "coords": {
+      "lat": -33.9079889,
+      "lng": 18.409384199999998
+    },
+    "address": "105 Main Rd, Green Point, Cape Town, 8051",
+    "rating": 4.5,
+    "reviewCount": 23,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Ice Cream Shop",
+    "types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ6fdtyyVnzB0RFp4m--unVVg",
+    "name": "Graaff's Pool",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9127692,
+      "lng": 18.3873632
+    },
+    "address": "Graaff's Pool, Sea Point, Cape Town, 8060",
+    "rating": 4.1,
+    "reviewCount": 23,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Beach",
+    "types": [
+      "beach",
+      "natural_feature",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJY7XY_ehnzB0ROgvXyoHwvtw",
+    "name": "Art HAUS Sea Point Art Gallery",
+    "category": "arts",
+    "coords": {
+      "lat": -33.9198367,
+      "lng": 18.3855783
+    },
+    "address": "3 Clarens Rd, Sea Point, Cape Town, 8060",
+    "rating": 5,
+    "reviewCount": 19,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Art Gallery",
+    "types": [
+      "art_gallery",
+      "art_museum",
+      "gift_shop",
+      "museum",
+      "clothing_store",
+      "event_venue",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJmbqLAwBnzB0RWf2ubZRDXPs",
+    "name": "Sea Point Promenade",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.916947,
+      "lng": 18.386085599999998
+    },
+    "address": "Sea Point Promenade, Sea Point, Cape Town, 8005",
+    "rating": 4.7,
+    "reviewCount": 19,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJTyNjEjBnzB0Ru6bq7vf2Mc4",
+    "name": "Rocklands Beach",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9085979,
+      "lng": 18.393290399999998
+    },
+    "address": "Rocklands Beach, Three Anchor Bay, Cape Town, 8005",
+    "rating": 4.4,
+    "reviewCount": 19,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Beach",
+    "types": [
+      "beach",
+      "natural_feature",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJeazjYgdnzB0Rw0mg_X-Zy5M",
+    "name": "Zen-Strength",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9153093,
+      "lng": 18.3897275
+    },
+    "address": "The Equinox, 154 Main Rd, Sea Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 19,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Fitness center",
+    "types": [
+      "fitness_center",
+      "sports_complex",
+      "gym",
+      "sports_school",
+      "sports_activity_location",
+      "point_of_interest",
+      "health",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJEez8DgBnzB0RyNoB8GXhZZY",
+    "name": "Noons Gun Hiking trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9138279,
+      "lng": 18.398093199999998
+    },
+    "address": "Rhine Rd, Sea Point, Cape Town, 8060",
+    "rating": 4,
+    "reviewCount": 18,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJV0dhdDBnzB0RVdfuy19eA-s",
+    "name": "Sea Point Outdoor Gym",
+    "category": "classes",
+    "coords": {
+      "lat": -33.909059,
+      "lng": 18.3922422
+    },
+    "address": "Beach Rd & Three Anchor Bay Rd, Three Anchor Bay, Cape Town, 8005",
+    "rating": 3.9,
+    "reviewCount": 18,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "gym",
+      "sports_activity_location",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJl1ZI7TZnzB0Ryi4xIIp_-NM",
+    "name": "Childrens Play Park",
+    "category": "family",
+    "coords": {
+      "lat": -33.9050807,
+      "lng": 18.400945699999998
+    },
+    "address": "3 Park Rd, Mouille Point, Cape Town, 8005",
+    "rating": 4.5,
+    "reviewCount": 17,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Amusement Center",
+    "types": [
+      "amusement_center",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJPW5ddW1nzB0RnaY_IwmjHoI",
+    "name": "Bud Lounge Sea Point",
+    "category": "bars",
+    "coords": {
+      "lat": -33.9166344,
+      "lng": 18.388638099999998
+    },
+    "address": "I, 176 Main Rd, Sea Point, Cape Town, 8005",
+    "rating": 3.8,
+    "reviewCount": 17,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Lounge bar",
+    "types": [
+      "lounge_bar",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJDYjiqvZnzB0R1EQL_M4lRLY",
+    "name": "Marcel’s Frozen Yoghurt",
+    "category": "family",
+    "coords": {
+      "lat": -33.9192971,
+      "lng": 18.3858253
+    },
+    "address": "Waterfront, Cape Town, 8060",
+    "rating": 4.5,
+    "reviewCount": 16,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Ice Cream Shop",
+    "types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJu99Na5BnzB0RoI-P3NmoggA",
+    "name": "Warrior heart boxing&fitness",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9041383,
+      "lng": 18.4013912
+    },
+    "address": "Bay Rd, Green Point, Cape Town, 8051",
+    "rating": 5,
+    "reviewCount": 16,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Coaching",
+    "types": [
+      "sports_coaching",
+      "sports_complex",
+      "gym",
+      "sports_activity_location",
+      "sports_school",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJs8xlKDtnzB0RF0AUgQ3IsG4",
+    "name": "One 18 Sports Bar & Lounge",
+    "category": "bars",
+    "coords": {
+      "lat": -33.912191,
+      "lng": 18.3925719
+    },
+    "address": "Sea Point, Cape Town, 8060",
+    "rating": 3.8,
+    "reviewCount": 16,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Bar",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJfxPWLklnzB0Rg27jiamu6t4",
+    "name": "ATC Multisport",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9044601,
+      "lng": 18.4075715
+    },
+    "address": "cnr Fritz Sonnenberg Rd &, Vlei Rd, Green Point, Cape Town, 8051",
+    "rating": 4.9,
+    "reviewCount": 15,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Complex",
+    "types": [
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJnaupBjdnzB0RLbR7McQN5g0",
+    "name": "Three Anchor Bay Tennis Club 🎾",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9061918,
+      "lng": 18.4001748
+    },
+    "address": "Bill Peters Dr, Green Point, Cape Town, 8051",
+    "rating": 5,
+    "reviewCount": 14,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tennis Court",
+    "types": [
+      "tennis_court",
+      "athletic_field",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJQZcPEn5nzB0RyZAoRXudZag",
+    "name": "Mooi Mochi",
+    "category": "family",
+    "coords": {
+      "lat": -33.919183499999995,
+      "lng": 18.3858419
+    },
+    "address": "28 Regent Rd, Sea Point, Cape Town, 8001",
+    "rating": 4.7,
+    "reviewCount": 13,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Ice Cream Shop",
+    "types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJK4PgSSJnzB0RwkSGLn_qSU4",
+    "name": "The Spa Room",
+    "category": "chill",
+    "coords": {
+      "lat": -33.918714099999995,
+      "lng": 18.387563099999998
+    },
+    "address": "Sea Point Medical Centre 11 Kloof Road Second, Floor Room 202 A, Kloof Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.9,
+    "reviewCount": 13,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJLyOXVh5nzB0RstkFpuvyIQ0",
+    "name": "Sapphire Spa",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9248198,
+      "lng": 18.3828484
+    },
+    "address": "O on Kloof Boutique Hotel & Spa, 92 Kloof Rd, Bantry Bay, Cape Town, 8005",
+    "rating": 4.4,
+    "reviewCount": 13,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJc49TQNNnzB0RdXZrO2-YZWQ",
+    "name": "Metropolitan Golf Club Restaurant",
+    "category": "eat",
+    "coords": {
+      "lat": -33.90052540000001,
+      "lng": 18.4087824
+    },
+    "address": "Green Point, Cape Town, 8005",
+    "rating": 4.8,
+    "reviewCount": 13,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJT6an2elnzB0RDfLQ_PMDhWg",
+    "name": "The Dermal Collection",
+    "category": "chill",
+    "coords": {
+      "lat": -33.908201,
+      "lng": 18.4100564
+    },
+    "address": "Unit 5, Green Point Mews, 99 Main Rd, Green Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 12,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Skin Care Clinic",
+    "types": [
+      "skin_care_clinic",
+      "hair_care",
+      "body_art_service",
+      "massage_spa",
+      "massage",
+      "beauty_salon",
+      "spa",
+      "medical_clinic",
+      "health",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJb7Gk2-BnzB0RS473EmJpljU",
+    "name": "Cove Wellness Spa",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9234048,
+      "lng": 18.379528600000004
+    },
+    "address": "4 Alexander Rd, Bantry Bay, Cape Town, 8001",
+    "rating": 4.7,
+    "reviewCount": 12,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJbbE4OdVnzB0RnX66mb6prh8",
+    "name": "Dr A Aesthetics",
+    "category": "chill",
+    "coords": {
+      "lat": -33.920726099999996,
+      "lng": 18.3833064
+    },
+    "address": "76 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 12,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Skin Care Clinic",
+    "types": [
+      "skin_care_clinic",
+      "spa",
+      "medical_clinic",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJjRj2ta1nzB0RTYFcMXK0PmM",
+    "name": "Prom Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.904188399999995,
+      "lng": 18.398404799999998
+    },
+    "address": "160 Beach Rd, Mouille Point, Cape Town, 8001",
+    "rating": 4.6,
+    "reviewCount": 11,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ0z4ik55nzB0Rjefq5WA5JL4",
+    "name": "Home of Champions Boxing Gym & Fitness Training",
+    "category": "classes",
+    "coords": {
+      "lat": -33.920052399999996,
+      "lng": 18.384698699999998
+    },
+    "address": "56 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 11,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Fitness center",
+    "types": [
+      "fitness_center",
+      "gym",
+      "sports_activity_location",
+      "sports_club",
+      "health",
+      "point_of_interest",
+      "association_or_organization",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZ9gcAQBnzB0RvrFTzo2Jm9Y",
+    "name": "Cassette Wine Bar",
+    "category": "bars",
+    "coords": {
+      "lat": -33.9179143,
+      "lng": 18.387609700000002
+    },
+    "address": "206 Main Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.1,
+    "reviewCount": 11,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Bar",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJgRcCNNVnzB0Rj_J87k1RD9I",
+    "name": "Spa at O'Two Hotel",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9003769,
+      "lng": 18.4054338
+    },
+    "address": "3 Surrey Pl, Mouille Point, Cape Town, 8005",
+    "rating": 4.6,
+    "reviewCount": 10,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ6dnuRX9nzB0Rfu92yQGbAYM",
+    "name": "Pilates with Azille Coetzee",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9153832,
+      "lng": 18.3890666
+    },
+    "address": "Floor 3, Suite 301B, The Equinox, Milton Rd, Sea Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 10,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "sports_complex",
+      "gym",
+      "sports_activity_location",
+      "sports_school",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJbXHGr0lnzB0RNSDirmq3Us0",
+    "name": "Green Point Common Sports Ground",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9039226,
+      "lng": 18.4063788
+    },
+    "address": "Green Point, Cape Town, 8051",
+    "rating": 4.6,
+    "reviewCount": 10,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Complex",
+    "types": [
+      "sports_complex",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJTbiRQ1FnzB0RR6WwFkIVGMw",
+    "name": "Green Point Park - East Gate",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.906695899999995,
+      "lng": 18.4057219
+    },
+    "address": "Green Point, Cape Town, 8051",
+    "rating": 5,
+    "reviewCount": 9,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJA6y-KxVnzB0RmNnYpEcUVRI",
+    "name": "Mount Nelson Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9126402,
+      "lng": 18.3944863
+    },
+    "address": "Sea Point, Cape Town, 8005",
+    "rating": 4.3,
+    "reviewCount": 9,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ7QWpepZnzB0RQdgS1RHSspA",
+    "name": "Hyde and Seek",
+    "category": "family",
+    "coords": {
+      "lat": -33.9120565,
+      "lng": 18.390646999999998
+    },
+    "address": "13 London Rd, Sea Point, Cape Town, 8005",
+    "rating": 2.4,
+    "reviewCount": 8,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "playground",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJUy4QnBNnzB0R9XntVHNcB0s",
+    "name": "Leonard massages",
+    "category": "chill",
+    "coords": {
+      "lat": -33.910453,
+      "lng": 18.3941178
+    },
+    "address": "92 Main Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "massage",
+      "spa",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJHdhNDs1nzB0RmgA_KCq_Do8",
+    "name": "Green PointPark Playground",
+    "category": "family",
+    "coords": {
+      "lat": -33.905087099999996,
+      "lng": 18.4009567
+    },
+    "address": "21 Stephen Way, Green Point, Cape Town, 8005",
+    "rating": 4.6,
+    "reviewCount": 7,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Playground",
+    "types": [
+      "playground",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJs43gTTZnzB0Ru3CirBNuKWE",
+    "name": "Fenced playground",
+    "category": "family",
+    "coords": {
+      "lat": -33.9049982,
+      "lng": 18.401719099999998
+    },
+    "address": "Bill Peters Dr, Green Point, Cape Town, 8051",
+    "rating": 4.4,
+    "reviewCount": 7,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Playground",
+    "types": [
+      "playground",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ8Wm6lCFnzB0R8k903xS8mu4",
+    "name": "Mojo Boxing & Fitness",
+    "category": "classes",
+    "coords": {
+      "lat": -33.920052399999996,
+      "lng": 18.384698699999998
+    },
+    "address": "56 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.3,
+    "reviewCount": 7,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Coaching",
+    "types": [
+      "sports_complex",
+      "gym",
+      "sports_coaching",
+      "sports_activity_location",
+      "sports_school",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJP9bNCXZnzB0Rh6QXTS68l1I",
+    "name": "La Familia Street Culture Sea Point",
+    "category": "bars",
+    "coords": {
+      "lat": -33.9105685,
+      "lng": 18.3943686
+    },
+    "address": "Adelphi Galleria Centre, 277 Main Rd, Sea Point, Cape Town, 8060",
+    "rating": 5,
+    "reviewCount": 7,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Clothing Store",
+    "types": [
+      "clothing_store",
+      "coffee_shop",
+      "cafe",
+      "lounge_bar",
+      "night_club",
+      "shoe_store",
+      "bar",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJXYvhZX65_Y0RghmB8QUYi94",
+    "name": "ZZZen Massage Studio",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9108302,
+      "lng": 18.4104737
+    },
+    "address": "7 Thornhill Rd, Green Point, Cape Town, 8001",
+    "rating": 4.7,
+    "reviewCount": 6,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJP-05lSFnzB0RVUgxY86EtyE",
+    "name": "First Principles Gym",
+    "category": "classes",
+    "coords": {
+      "lat": -33.920052399999996,
+      "lng": 18.384698699999998
+    },
+    "address": "2nd & 3rd Floor, Clarensville Building, 56 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 4.3,
+    "reviewCount": 6,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Fitness center",
+    "types": [
+      "fitness_center",
+      "massage",
+      "sports_complex",
+      "gym",
+      "sports_school",
+      "sports_coaching",
+      "sports_activity_location",
+      "school",
+      "point_of_interest",
+      "health",
+      "service",
+      "educational_institution",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJhQ0SaDpnzB0R81Y7UBGlBhw",
+    "name": "Frere Road Park",
+    "category": "family",
+    "coords": {
+      "lat": -33.9100795,
+      "lng": 18.3955497
+    },
+    "address": "Frere Rd, Sea Point, Cape Town, 8005",
+    "rating": 3.4,
+    "reviewCount": 5,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "City Park",
+    "types": [
+      "city_park",
+      "playground",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJW2NcBDBnzB0RKZ3eP6OPu-E",
+    "name": "Playground @ Rocklands Beach",
+    "category": "family",
+    "coords": {
+      "lat": -33.908970599999996,
+      "lng": 18.3925752
+    },
+    "address": "Sea Point, Cape Town, 8005",
+    "rating": 4.4,
+    "reviewCount": 5,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Playground",
+    "types": [
+      "playground",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJwcUM9k1nzB0R6MPL4EuNuWs",
+    "name": "Out of Bounds Golf Simulator",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9044682,
+      "lng": 18.4076162
+    },
+    "address": "111 Vlei Rd, Green Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 5,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Indoor Golf Course",
+    "types": [
+      "indoor_golf_course",
+      "golf_course",
+      "athletic_field",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJFxhciSFnzB0Ryffzz8tqEeE",
+    "name": "HS Fitness Hub",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9040606,
+      "lng": 18.399077899999998
+    },
+    "address": "2 Park Rd, Mouille Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 5,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "fitness_center",
+      "gym",
+      "sports_activity_location",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJNUUGnT5nzB0Rd_TiBd_Url8",
+    "name": "Koko Kitchen",
+    "category": "eat",
+    "coords": {
+      "lat": -33.916640699999995,
+      "lng": 18.387654
+    },
+    "address": "11 Arthurs Rd, Sea Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 5,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJEYeSSxdnzB0R7_tRHLTTZF0",
+    "name": "Ungermann Ice Cream",
+    "category": "family",
+    "coords": {
+      "lat": -33.9192584,
+      "lng": 18.3858008
+    },
+    "address": "30 Regent Rd, Sea Point, Cape Town, 8060",
+    "rating": 4.5,
+    "reviewCount": 4,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Ice Cream Shop",
+    "types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5WkH3jZnzB0RTKI8sMeWt0w",
+    "name": "Public Playground",
+    "category": "family",
+    "coords": {
+      "lat": -33.9072002,
+      "lng": 18.3952378
+    },
+    "address": "191 M6, Three Anchor Bay, Cape Town, 8005",
+    "rating": 4,
+    "reviewCount": 4,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Playground",
+    "types": [
+      "playground",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJS0CIfABnzB0RcGtTAarkugs",
+    "name": "Lions Head End Point",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.930570599999996,
+      "lng": 18.382518299999997
+    },
+    "address": "34 Top Rd, Fresnaye, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 4,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJp12A_GFnzB0R3J9N3lEZA40",
+    "name": "Talent Massage Studio",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9185374,
+      "lng": 18.3876968
+    },
+    "address": "Seapoint medical center, 11 Kloof Rd, Sea Point, Cape Town, 8060",
+    "rating": 3.5,
+    "reviewCount": 4,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ9VRGZttnzB0RB5JiiY01jlo",
+    "name": "Shamanessence® Products & Services",
+    "category": "classes",
+    "coords": {
+      "lat": -33.911685999999996,
+      "lng": 18.389488
+    },
+    "address": "403 Beach Crt, 1 London Rd, Sea Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 4,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Services",
+    "types": [
+      "sports_complex",
+      "gym",
+      "sports_activity_location",
+      "sports_school",
+      "medical_clinic",
+      "health",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJeXFlHr1ZzB0RId2IbQ0mvsg",
+    "name": "Lisha Fitness",
+    "category": "classes",
+    "coords": {
+      "lat": -33.920726099999996,
+      "lng": 18.3833064
+    },
+    "address": "76 Regent Rd, Sea Point, Cape Town, 8060",
+    "rating": 5,
+    "reviewCount": 4,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "gym",
+      "sports_activity_location",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJpRv0zbpnzB0RAa4B1THQaO0",
+    "name": "DOLPHIN INN CAFE",
+    "category": "eat",
+    "coords": {
+      "lat": -33.90058,
+      "lng": 18.40421
+    },
+    "address": "75 Beach Rd, Mouille Point, Cape Town, 8005",
+    "rating": 4,
+    "reviewCount": 4,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Coffee Shop",
+    "types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ7-lgp4xnzB0R0ogL9Lgwvg4",
+    "name": "Clamber Club Toddlers Atlantic Seaboard",
+    "category": "classes",
+    "coords": {
+      "lat": -33.925488699999995,
+      "lng": 18.3877109
+    },
+    "address": "31 Ave Fresnaye, Fresnaye, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 3,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "gym",
+      "sports_activity_location",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ4csJZgNnzB0R4nui_M-CqzI",
+    "name": "Jade Fisher Biokineticist",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9200168,
+      "lng": 18.3847198
+    },
+    "address": "56 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 3,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Health",
+    "types": [
+      "fitness_center",
+      "gym",
+      "sports_activity_location",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ3SxtrsRnzB0RpX44oLTddrA",
+    "name": "The Lisa King Gallery/Art Trader",
+    "category": "arts",
+    "coords": {
+      "lat": -33.920935,
+      "lng": 18.3841385
+    },
+    "address": "Trafalgar Place, 67A Regent Rd, Sea Point, Cape Town, 8010",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Art Gallery",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJlclIInhnzB0RnMcEdkRImnc",
+    "name": "JAFFER MODERN Gallery",
+    "category": "arts",
+    "coords": {
+      "lat": -33.9080756,
+      "lng": 18.403785799999998
+    },
+    "address": "181 Main Rd, Green Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Art Gallery",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJk18ChuFmzB0RNEOJZVRb44M",
+    "name": "Christel Read Art",
+    "category": "arts",
+    "coords": {
+      "lat": -33.927555999999996,
+      "lng": 18.3779
+    },
+    "address": "103A Miramar, 40A Victoria Road, Bantry Bay, Cape Town, 8005",
+    "rating": 3,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "art_gallery",
+      "building_materials_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ9w71RwBnzB0REUK_7pruRqo",
+    "name": "Water wheel",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9044972,
+      "lng": 18.4027135
+    },
+    "address": "3CW3+63, De Waterkant, Kaapstad, 8051",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJqwn3NABnzB0R4G2iV9nD3lU",
+    "name": "Trees with Shade",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9034087,
+      "lng": 18.4012062
+    },
+    "address": "Green Point Park, 1 Fritz Sonnenberg Rd, Green Point, Cape Town, 8051",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJuexZKgBnzB0RSQ0TzZY7Vtk",
+    "name": "The Labyrinth",
+    "category": "chill",
+    "coords": {
+      "lat": -33.902525,
+      "lng": 18.400502499999998
+    },
+    "address": "125 Beach Rd, Mouille Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Garden",
+    "types": [
+      "garden",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ0SxwCvJnzB0RXfY2pd8FhFI",
+    "name": "Jojo's Sportpark",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9039904,
+      "lng": 18.4002119
+    },
+    "address": "Green Point Green Point Park, Green Point, Cape Town, 8051",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Fitness center",
+    "types": [
+      "fitness_center",
+      "gym",
+      "spa",
+      "sports_complex",
+      "sports_activity_location",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJc8GR_fZnzB0REk38ylN5FJ0",
+    "name": "Up Heat Mobile Sauna",
+    "category": "chill",
+    "coords": {
+      "lat": -33.91850480000001,
+      "lng": 18.3839954
+    },
+    "address": "Lower, Beach Rd, Sea Point, Cape Town, 8060",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sauna",
+    "types": [
+      "sauna",
+      "public_bath",
+      "spa",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJRZFu5dtnzB0RPhmQA_hAvNY",
+    "name": "Blaise Boxing, Cape Town",
+    "category": "classes",
+    "coords": {
+      "lat": -33.920052399999996,
+      "lng": 18.384698699999998
+    },
+    "address": "56 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Sports Coaching",
+    "types": [
+      "sports_complex",
+      "gym",
+      "sports_coaching",
+      "sports_activity_location",
+      "sports_school",
+      "sports_club",
+      "health",
+      "point_of_interest",
+      "association_or_organization",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJNfimEgBnzB0Rm8N265JLcfI",
+    "name": "Vee Yummy Tummy Reastoranr",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9169494,
+      "lng": 18.3875487
+    },
+    "address": "Sea Point, Cape Town, 8060",
+    "rating": 3,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJtWQMFABnzB0RFdATpO6MP_s",
+    "name": "Covco Sea Point",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9169494,
+      "lng": 18.3875487
+    },
+    "address": "Sea Point, Cape Town, 8060",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJoyBnkF1nzB0RMP1PG1SuRHc",
+    "name": "Vasco @Hammies",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9021121,
+      "lng": 18.4067234
+    },
+    "address": "1 Stephen Way, Green Point, Cape Town, 8051",
+    "rating": 3,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJVVVVVUhnzB0ROc12FiWt9dQ",
+    "name": "Rouge French Loungeroom and Restaurant",
+    "category": "eat",
+    "coords": {
+      "lat": -33.904510099999996,
+      "lng": 18.4075696
+    },
+    "address": "111 Vlei Rd, Green Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ_UhiWwBnzB0RyLPOIP4k9_Q",
+    "name": "Playground",
+    "category": "family",
+    "coords": {
+      "lat": -33.9105504,
+      "lng": 18.4105305
+    },
+    "address": "Cederberg, 12 Upper Portswood Rd, Green Point, Cape Town, 8051",
+    "rating": 1,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Playground",
+    "types": [
+      "playground",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ8x2E7Y5nzB0RI3RcEnWdeok",
+    "name": "Art on The Beach",
+    "category": "arts",
+    "coords": {
+      "lat": -33.918033199999996,
+      "lng": 18.3851552
+    },
+    "address": "Shop 4 Beach Road, Sea Point Promenade, Sea Point, Cape Town, 7439",
+    "rating": 5,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Art Gallery",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJodmylfxnzB0RX2PqpA7Rhis",
+    "name": "Clifford Road Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9166767,
+      "lng": 18.3926341
+    },
+    "address": "2 Clifford Rd, Sea Point, Cape Town, 8060",
+    "rating": 3,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "City Park",
+    "types": [
+      "city_park",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJyafItapnzB0R775iqO0lqBI",
+    "name": "Norman Road Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9091271,
+      "lng": 18.410809
+    },
+    "address": "Green Point, Cape Town, 8051",
+    "rating": 1,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "City Park",
+    "types": [
+      "city_park",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJj85IEi5nzB0R6EMrP47srkQ",
+    "name": "Blackrose Studio",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9196139,
+      "lng": 18.3858545
+    },
+    "address": "19 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJYTlYKQBnzB0RAdP2dD9nfQ4",
+    "name": "Beach Volleyball court",
+    "category": "classes",
+    "coords": {
+      "lat": -33.903820200000006,
+      "lng": 18.4004725
+    },
+    "address": "21 Stephen Way, Green Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "gym",
+      "sports_activity_location",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJsw6VeT9nzB0Rxl8H8KlwPjM",
+    "name": "Daveobikan",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9229279,
+      "lng": 18.3802003
+    },
+    "address": "20 Queens Rd, Bantry Bay, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Fitness center",
+    "types": [
+      "fitness_center",
+      "gym",
+      "sports_activity_location",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJE0EqJABnzB0RBQQC-p3pzAU",
+    "name": "Mini bar",
+    "category": "bars",
+    "coords": {
+      "lat": -33.917049999999996,
+      "lng": 18.38827
+    },
+    "address": "ERF414 Main Rd, Sea Point, Cape Town, 8060",
+    "rating": 5,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Bar",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ78B-7t5nzB0RDwflpoW4I8M",
+    "name": "NoName Hospitality Group",
+    "category": "bars",
+    "coords": {
+      "lat": -33.9215132,
+      "lng": 18.3819957
+    },
+    "address": "90 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": 5,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "hotel",
+      "bar",
+      "lodging",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJXyx3FiRnzB0RGkOA_N1-haY",
+    "name": "Milton Road Park",
+    "category": "family",
+    "coords": {
+      "lat": -33.9146145,
+      "lng": 18.3876076
+    },
+    "address": "Sea Point, Cape Town, 8005",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Playground",
+    "types": [
+      "playground",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ3THwwvJnzB0RxDYo4SMri2g",
+    "name": "Ice cream",
+    "category": "family",
+    "coords": {
+      "lat": -33.900408999999996,
+      "lng": 18.4031254
+    },
+    "address": "Mouille Point, Cape Town, 8005",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Ice Cream Shop",
+    "types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJj83_de5nzB0RswyrWlsYTSc",
+    "name": "Cape Town Sensory Safari for Kids",
+    "category": "family",
+    "coords": {
+      "lat": -33.9106677,
+      "lng": 18.3984202
+    },
+    "address": "165 High Level Rd, Sea Point, Cape Town, 8005",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Amusement Center",
+    "types": [
+      "amusement_center",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJERVtvRVnzB0RTgEY1x1o6UU",
+    "name": "scary polony",
+    "category": "arts",
+    "coords": {
+      "lat": -33.920413499999995,
+      "lng": 18.3840172
+    },
+    "address": "74, Gibraltar House, 315 Regent Rd, Sea Point, Cape Town, 8005",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Art Gallery",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJmTQx0HxnzB0RQZ7qlyOmd_I",
+    "name": "Stuart Valentine-Rambridge",
+    "category": "arts",
+    "coords": {
+      "lat": -33.9120817,
+      "lng": 18.3923725
+    },
+    "address": "19 Hall Rd, Sea Point, Cape Town, 8000",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Art Gallery",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJl0OMcG5nzB0RQ9dU020LrVI",
+    "name": "Modern Art Gallery operated by YOU&I",
+    "category": "arts",
+    "coords": {
+      "lat": -33.9117971,
+      "lng": 18.392806699999998
+    },
+    "address": "2 Wisbeach Rd, Sea Point, Cape Town, 8060",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Art Gallery",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJTTQLWQBnzB0RXf3wKercEjg",
+    "name": "Green Point Amphitheater",
+    "category": "arts",
+    "coords": {
+      "lat": -33.9050345,
+      "lng": 18.4013798
+    },
+    "address": "21 Stephen Way, Green Point, Cape Town, 8005",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Amphitheater",
+    "types": [
+      "amphitheatre",
+      "performing_arts_theater",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJA0Q-l5JfzB0RFWixTU1s2UM",
+    "name": "Theatre d'impro",
+    "category": "arts",
+    "coords": {
+      "lat": -33.900659499999996,
+      "lng": 18.4066847
+    },
+    "address": "24 Bay Rd, Mouille Point, Cape Town, 8005",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Performing Arts Theater",
+    "types": [
+      "performing_arts_theater",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJBa1b7WBnzB0RbZ2blw8GkXU",
+    "name": "West Prints Emporium",
+    "category": "arts",
+    "coords": {
+      "lat": -33.9249754,
+      "lng": 18.3801082
+    },
+    "address": "6 Fir Ave, Bantry Bay, Cape Town, 8005",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Art Gallery",
+    "types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ1zaEJYNnzB0RF01-f8nyCyY",
+    "name": "Northumbria Road Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9175945,
+      "lng": 18.3933712
+    },
+    "address": "604 Northumbria, Sea Point, Cape Town, 8060",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ66HuD3dnzB0RlwPbWe-lhQ0",
+    "name": "Surfer Park",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.919376299999996,
+      "lng": 18.3836862
+    },
+    "address": "287 Beach Rd, Sea Point, Cape Town, 8060",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "City Park",
+    "types": [
+      "city_park",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJW6faAABnzB0R5OlL02vFn6M",
+    "name": "Momentum multiply bike rental",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.918399199999996,
+      "lng": 18.385529299999998
+    },
+    "address": "280A Beach Rd, Sea Point, Cape Town, 8005",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZ_kfJbBnzB0R_u_risuIILY",
+    "name": "Marais road rocklands pos",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.913441899999995,
+      "lng": 18.390268
+    },
+    "address": "Marais Rd, Sea Point, Cape Town, 8060",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJR7Gc_WpnzB0Rc9dITCbY8C4",
+    "name": "STALLION'S M2M CAPE TOWN",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9169494,
+      "lng": 18.3875487
+    },
+    "address": "Sea Point, Cape Town, 8001",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJscMbOXpnzB0RbAc16OR3pLw",
+    "name": "FMS Wine Marketing",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9197311,
+      "lng": 18.3826856
+    },
+    "address": "Unit 106, Rapallo, 292 Beach Rd, Sea Point, Cape Town, 8005",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Wholesaler",
+    "types": [
+      "winery",
+      "wholesaler",
+      "farm",
+      "service",
+      "food",
+      "point_of_interest",
+      "manufacturer",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJzb1eYFBnzB0RaYz9ENXglY0",
+    "name": "Helen's Heaven",
+    "category": "chill",
+    "coords": {
+      "lat": -33.9169494,
+      "lng": 18.3875487
+    },
+    "address": "108, Sea Point, Cape Town, 1227",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Massage spa",
+    "types": [
+      "massage_spa",
+      "spa",
+      "massage",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ4U28e6pnzB0RGb4IEuJtU5Y",
+    "name": "Black Tie - SPA",
+    "category": "chill",
+    "coords": {
+      "lat": -33.8993536,
+      "lng": 18.412304300000002
+    },
+    "address": "Radisson Blu, Amani spa 100 Beach road, Granger Bay Blvd, Mouille Point, Cape Town, 8001",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Spa",
+    "types": [
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJD0flI0xnzB0RsPODKKdzZzs",
+    "name": "JDBS Group",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9160814,
+      "lng": 18.3867309
+    },
+    "address": "Beach Rd, Sea Point, Cape Town, 8005",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Fitness center",
+    "types": [
+      "fitness_center",
+      "gym",
+      "sports_activity_location",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZR5LTndnzB0RFcFm-UpCqbg",
+    "name": "B Balanced Pilates",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9169494,
+      "lng": 18.3875487
+    },
+    "address": "76 Regent Rd, Sea Point, Cape Town, 8060",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gym",
+    "types": [
+      "sports_complex",
+      "gym",
+      "sports_activity_location",
+      "sports_school",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ__8DQUlnzB0RbGT6ltkhr6c",
+    "name": "CAPE TOWN GOLF PERFORMANCE STUDIOS",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9006334,
+      "lng": 18.4087031
+    },
+    "address": "Fritz Sonnenberg Rd, Green Point, Cape Town, 8051",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Indoor Golf Course",
+    "types": [
+      "indoor_golf_course",
+      "golf_course",
+      "athletic_field",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJCf8yIiJnzB0RgcxWqhHlhpo",
+    "name": "Earth Yoga",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9051791,
+      "lng": 18.4012392
+    },
+    "address": "Urban Park, Green Point, Cape Town, 8005",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Yoga Studio",
+    "types": [
+      "yoga_studio",
+      "fitness_center",
+      "sports_complex",
+      "gym",
+      "sports_activity_location",
+      "sports_school",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJwaPgN4VnzB0RKR0wbfqc0r0",
+    "name": "FOTIA Fitness Cape Town",
+    "category": "classes",
+    "coords": {
+      "lat": -33.9195016,
+      "lng": 18.3858952
+    },
+    "address": "17 Regent Rd, Sea Point, Cape Town, 8001",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Fitness center",
+    "types": [
+      "fitness_center",
+      "gym",
+      "sports_activity_location",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ-_SkFEdnzB0R2wDd2xcURcY",
+    "name": "Diamonds Liquor",
+    "category": "bars",
+    "coords": {
+      "lat": -33.9169494,
+      "lng": 18.3875487
+    },
+    "address": "Sea Point, Cape Town, 8060",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Bar",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZwNV_nFnzB0R5FfJ1tVSGA8",
+    "name": "Trio Chills",
+    "category": "bars",
+    "coords": {
+      "lat": -33.9044616,
+      "lng": 18.4077238
+    },
+    "address": "111 Vlei Rd, Green Point, Cape Town, 8005",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Bar & Grill",
+    "types": [
+      "bar_and_grill",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJoydbJABnzB0ROa1zwey87kU",
+    "name": "Speakeasy Bru",
+    "category": "bars",
+    "coords": {
+      "lat": -33.909056299999996,
+      "lng": 18.3940657
+    },
+    "address": "ERF1062 Beach Rd, Three Anchor Bay, Cape Town, 8005",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Bar",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJO1uFsXlnzB0R49sewVY_6gg",
+    "name": "Saycheers Cakes & Gift",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9120653,
+      "lng": 18.389829199999998
+    },
+    "address": "8 London Rd, Sea Point, Cape Town, 8060",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Cake Shop",
+    "types": [
+      "cake_shop",
+      "bakery",
+      "wholesaler",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "manufacturer",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJx5-EahhnzB0RSkOnW7W40ns",
+    "name": "Chef'Chaouen",
+    "category": "eat",
+    "coords": {
+      "lat": -33.9169494,
+      "lng": 18.3875487
+    },
+    "address": "Sea Point, Cape Town, 8005",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Fast Food Restaurant",
+    "types": [
+      "fast_food_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

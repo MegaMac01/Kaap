@@ -3321,5 +3321,460 @@
     "placeId": "ChIJR9rS34IF1h0RS2VkK36CFSA",
     "googleName": "Power Stream Hiking Trail",
     "address": "George"
+  },
+  "castle-of-good-hope": {
+    "placeId": "ChIJwUYG_oddzB0RZYGNwMhCuy0",
+    "googleName": "Castle of Good Hope",
+    "address": "Castle St, Foreshore, Cape Town, 8001"
+  },
+  "iziko-bo-kaap-museum": {
+    "placeId": "ChIJjSQp42VnzB0R6WYFH3MPXjk",
+    "googleName": "Iziko Bo-Kaap Museum",
+    "address": "71 Wale St, Schotsche Kloof, Cape Town, 8001"
+  },
+  "stardust-theatrical-dining": {
+    "placeId": "ChIJc6IAMYRdzB0R9yLw41HjQtM",
+    "googleName": "Stardust Theatrical Dining",
+    "address": "118 Sir Lowry Rd, Woodstock, Cape Town, 7925"
+  },
+  "district-six-museum": {
+    "placeId": "ChIJXdpUhHtnzB0RI8TYhHL5028",
+    "googleName": "District Six Museum",
+    "address": "25A Buitenkant St, District Six, Cape Town, 8000"
+  },
+  "museum-of-illusions-cape-town": {
+    "placeId": "ChIJ-acdUQBnzB0RcjUMHFYec2g",
+    "googleName": "Museum of Illusions Cape Town",
+    "address": "10 Kloof St, Gardens, Cape Town, 8001"
+  },
+  "south-african-national-gallery": {
+    "placeId": "ChIJ1_aClHpnzB0RgC7vAuZ7a7c",
+    "googleName": "South African National Gallery",
+    "address": "Government Ave, Gardens, Cape Town, 8001"
+  },
+  "iziko-slave-lodge": {
+    "placeId": "ChIJv3trkmRnzB0RnqgKLSzSOEE",
+    "googleName": "Iziko Slave Lodge",
+    "address": "Corner Adderley Street and, Wale St, Cape Town City Centre, Cape Town, 8000"
+  },
+  "youngblood-africa": {
+    "placeId": "ChIJoT_rjWZnzB0Rgd5ehX45N3c",
+    "googleName": "Youngblood-Africa",
+    "address": "70, 72 Bree St, Cape Town City Centre, Cape Town, 8001"
+  },
+  "ground-art-caffe": {
+    "placeId": "ChIJI3jz7WdnzB0RQPQb_RNbUoU",
+    "googleName": "Ground Art Caffe",
+    "address": "160 Strand St, De Waterkant, Cape Town, 8001"
+  },
+  "copa-restaurant": {
+    "placeId": "ChIJFaIBn-pnzB0RceFLraYa7r0",
+    "googleName": "COPA Restaurant",
+    "address": "167 Loop St, Cape Town City Centre, Cape Town, 8001"
+  },
+  "lumenocity": {
+    "placeId": "ChIJmQKYeApnzB0RpgVfHXNyuJs",
+    "googleName": "LUMENOCITY",
+    "address": "Company Gardens, Gardens, Cape Town, 8001"
+  },
+  "rust-en-vreugd": {
+    "placeId": "ChIJUftll3tnzB0R85X3vXo4yR4",
+    "googleName": "Rust En Vreugd",
+    "address": "78 Buitenkant St, Cape Town City Centre, Cape Town, 8000"
+  },
+  "christopher-moller-art-gallery-cape-town": {
+    "placeId": "ChIJa9Grz2VnzB0RnslqlLoTIk8",
+    "googleName": "Christopher Moller Art Gallery | Cape Town",
+    "address": "7 Kloof Nek Rd, Gardens, Cape Town, 8001"
+  },
+  "eastern-food-bazaar": {
+    "placeId": "ChIJNa_uZWNnzB0RVv-g5Wj6Xo4",
+    "googleName": "Eastern Food Bazaar",
+    "address": "96 Longmarket St, Cape Town City Centre, Cape Town, 8001"
+  },
+  "the-dogs-bollocks-at-yard": {
+    "placeId": "ChIJZdIh1ntnzB0RAjkMOWET5X8",
+    "googleName": "The Dog's Bollocks at YARD",
+    "address": "6 Roodehek St, Gardens, Cape Town, 8001"
+  },
+  "pigalle-restaurant": {
+    "placeId": "ChIJQzy7VENnzB0RYZWUTTOByco",
+    "googleName": "Pigalle Restaurant",
+    "address": "57A Somerset Rd, Green Point, Cape Town, 8051"
+  },
+  "mama-africa": {
+    "placeId": "ChIJ-f-De2VnzB0RwYNmkT4nR1A",
+    "googleName": "Mama Africa",
+    "address": "178 Long St, Cape Town City Centre, Cape Town, 8001"
+  },
+  "marcos-african-place": {
+    "placeId": "ChIJvfaarWdnzB0Re4U_lVgwKGI",
+    "googleName": "Marco's African Place",
+    "address": "4 Rose Ln, Schotsche Kloof, Cape Town, 8001"
+  },
+  "our-local-kloof-street": {
+    "placeId": "ChIJS163JlBnzB0R5Bb6f6fSCFQ",
+    "googleName": "Our Local Kloof Street",
+    "address": "117 Kloof St, Gardens, Cape Town, 8001"
+  },
+  "nelsons-eye-restaurant": {
+    "placeId": "ChIJnYj9K3FnzB0R2Vxg83DTVEQ",
+    "googleName": "Nelsons Eye Restaurant",
+    "address": "9 Hof St, Gardens, Cape Town, 8001"
+  },
+  "the-village-buffet": {
+    "placeId": "ChIJ980dy2VnzB0R3G5nKEVK5yY",
+    "googleName": "The Village Buffet",
+    "address": "102 Long St, Cape Town City Centre, Cape Town, 8001"
+  },
+  "ala-turkish-restaurant": {
+    "placeId": "ChIJa9hdRkRnzB0RD-BzYIcQ9-k",
+    "googleName": "Ala Turkish Restaurant",
+    "address": "Shop 110, The Rockwell, Napier St, De Waterkant, Cape Town, 8001"
+  },
+  "bokaap-deli": {
+    "placeId": "ChIJF3suzTRnzB0RAC598N5CTOU",
+    "googleName": "Bokaap Deli",
+    "address": "97, 114 Church St, Bokaap, Cape Town, 8001"
+  },
+  "the-woodlands-eatery": {
+    "placeId": "ChIJz3Sp9oNnzB0ROYNdyl2qUC8",
+    "googleName": "The Woodlands Eatery",
+    "address": "8 Breda St, Oranjezicht, Cape Town, 8001"
+  },
+  "the-blue-cafe": {
+    "placeId": "ChIJsZupSG1nzB0RrgSH8WXX9lI",
+    "googleName": "The Blue Cafe",
+    "address": "13 Brownlow Rd, Tamboerskloof, Cape Town, 8001"
+  },
+  "bo-kaap-kombuis": {
+    "placeId": "ChIJyc1tK2hnzB0RMRgKOyWj35Q",
+    "googleName": "Bo-Kaap Kombuis",
+    "address": "8001, 7 August St, Schotsche Kloof, Cape Town, 8001"
+  },
+  "bootlegger-green-point": {
+    "placeId": "ChIJb0aD-kRnzB0R6P_aw6oiafM",
+    "googleName": "Bootlegger Green Point",
+    "address": "37 Main Rd, Green Point, Cape Town, 8051"
+  },
+  "tigers-milk-long-street": {
+    "placeId": "ChIJqzqOH2RnzB0RYb0HL78H0ao",
+    "googleName": "Tiger's Milk Long Street",
+    "address": "44 Long St, Cape Town City Centre, Cape Town, 8000"
+  },
+  "tigers-milk-kloof-street": {
+    "placeId": "ChIJ0_nJwHFnzB0RU0yMujIlU3E",
+    "googleName": "Tiger's Milk Kloof Street",
+    "address": "55 Kloof St, Gardens, Cape Town, 8001"
+  },
+  "cuba-a-foreshore": {
+    "placeId": "ChIJGe27VENnzB0Rt1uBU6yC44M",
+    "googleName": "Cubaña Foreshore",
+    "address": "89 Hertzog Blvd, Foreshore, Cape Town, 8001"
+  },
+  "asoka-restaurant-bar-and-lounge": {
+    "placeId": "ChIJl5Jcv3NnzB0RuG1OswkRez0",
+    "googleName": "Asoka Restaurant, Bar and Lounge",
+    "address": "68 Kloof St, Gardens, Cape Town, 8001"
+  },
+  "utopia-cape-town": {
+    "placeId": "ChIJn5Y5l2dnzB0Rh5Bm-QZC0fo",
+    "googleName": "Utopia Cape Town",
+    "address": "15th floor, 40 Chiappini St, De Waterkant, Cape Town, 8001"
+  },
+  "clarkes-bar-dining-room": {
+    "placeId": "ChIJnTuF52VnzB0RTGAL7oSEWTU",
+    "googleName": "Clarke's Bar & Dining Room",
+    "address": "133 Bree St, Cape Town City Centre, Cape Town, 8001"
+  },
+  "marias-greek-caf": {
+    "placeId": "ChIJ4yj-EnpnzB0RGKY9bZACqaM",
+    "googleName": "Maria's Greek Café",
+    "address": "31 Barnet St, Gardens, Cape Town, 8001"
+  },
+  "harringtons-cocktail-lounge": {
+    "placeId": "ChIJvagy-nxnzB0RN0R-TLaOZa8",
+    "googleName": "Harringtons Cocktail Lounge",
+    "address": "61B Harrington St, District Six, Cape Town, 7925"
+  },
+  "perseverance-tavern": {
+    "placeId": "ChIJdfBdkntnzB0RdYPIHV0ExNY",
+    "googleName": "Perseverance Tavern",
+    "address": "83 Buitenkant St, Cape Town City Centre, Cape Town, 8001"
+  },
+  "kong-lounge-bar": {
+    "placeId": "ChIJjxfzbxRnzB0RjES5fHyUmXM",
+    "googleName": "Kong Lounge Bar",
+    "address": "10-12 Cobern St, De Waterkant, Cape Town, 8001"
+  },
+  "modular-club": {
+    "placeId": "ChIJFW2YKmFnzB0RfyppqfYyUCk",
+    "googleName": "Modular Club",
+    "address": "Riebeek St, Cape Town City Centre, Cape Town, 8001"
+  },
+  "the-labia-theatre": {
+    "placeId": "ChIJ9SlUsnFnzB0RBuDJN-_3nN8",
+    "googleName": "The Labia Theatre",
+    "address": "68 Orange St, Gardens, Cape Town, 8000"
+  },
+  "bubble-waffle": {
+    "placeId": "ChIJT8BCeodnzB0RmuYo4qrp0UM",
+    "googleName": "Bubble Waffle",
+    "address": "8 Parliament St, Cape Town City Centre, Cape Town, 8000"
+  },
+  "everyday-we-waffeling": {
+    "placeId": "ChIJm9zqkn5nzB0R0-PfRavjEP4",
+    "googleName": "Everyday we waffeling",
+    "address": "2 Long St, Cape Town City Centre, Cape Town, 8000"
+  },
+  "de-waal-park": {
+    "placeId": "ChIJuRUmUnZnzB0Rke1WGkG790A",
+    "googleName": "De Waal Park",
+    "address": "Molteno Rd, CBD, Cape Town, 8000"
+  },
+  "the-companys-garden": {
+    "placeId": "ChIJC8hJ4oFnzB0RsmmEiDYi_Vk",
+    "googleName": "The Company’s Garden",
+    "address": "12 Government Ave, Cape Town City Centre, Cape Town, 8000"
+  },
+  "prestwich-memorial": {
+    "placeId": "ChIJIyDlLmdnzB0RrMF8T7hgZbY",
+    "googleName": "Prestwich Memorial",
+    "address": "Buitengracht St, Cape Town City Centre, Cape Town, 8001"
+  },
+  "erf-81-community-tamboerskloof-farm": {
+    "placeId": "ChIJVVVVRWxnzB0RESsGGpf3yfw",
+    "googleName": "Erf 81 Community (Tamboerskloof Farm)",
+    "address": "Erf81, Military Rd, Tamboerskloof, Cape Town, 8001"
+  },
+  "the-shack": {
+    "placeId": "ChIJLRPXbn5nzB0RvCANY-x-WyA",
+    "googleName": "The Shack",
+    "address": "45 De Villiers St, District Six, Cape Town, 7925"
+  },
+  "long-street-baths": {
+    "placeId": "ChIJF58Q229nzB0RP3jv0e6Pyo0",
+    "googleName": "Long Street Baths",
+    "address": "Long St, Gardens, Cape Town, 8001"
+  },
+  "cape-town-city-hall": {
+    "placeId": "ChIJJUj_OmNnzB0RGBwoRd497Os",
+    "googleName": "Cape Town City Hall",
+    "address": "Darling St, CBD, Cape Town, 8001"
+  },
+  "gs-africa-eagle-rider-motorcycle-rentals": {
+    "placeId": "ChIJq-Ri3N9YzB0RXnX4NYJkink",
+    "googleName": "GS Africa | Eagle Rider Motorcycle Rentals & Tours (BMW, Harley-Davidson, KTM, Yamaha, Honda, Ducati)",
+    "address": "21A Rose St, Cape Town City Centre, Cape Town, 8001"
+  },
+  "shukokai-sport-shooting-range": {
+    "placeId": "ChIJuUjS5Y9nzB0RxpQXlhpUw0M",
+    "googleName": "Shukokai Sport Shooting Range",
+    "address": "19 Military Rd, Schotsche Kloof, Cape Town, 8001"
+  },
+  "dhl-stadium": {
+    "placeId": "ChIJMW70K09nzB0ROXRQqLI9zac",
+    "googleName": "DHL Stadium",
+    "address": "Fritz Sonnenberg Rd, Green Point, Cape Town, 8051"
+  },
+  "sea-point-pavilion": {
+    "placeId": "ChIJ9ZAgDSFnzB0RtaIfaO0TS9k",
+    "googleName": "Sea Point Pavilion",
+    "address": "Lower, Beach Rd, Sea Point, Cape Town, 8060"
+  },
+  "jack-skye-rooftop-bar-and-restaurant": {
+    "placeId": "ChIJzQ436ahnzB0RuyXAWZPL2qw",
+    "googleName": "Jack@SKYE Rooftop Bar and Restaurant",
+    "address": "13 London Rd, Sea Point, Cape Town, 8005"
+  },
+  "into-the-blue-scuba-dive-centre-cape-tow": {
+    "placeId": "ChIJuc9zkjpnzB0RjZQczC9FgnE",
+    "googleName": "Into the Blue Scuba Dive Centre Cape Town",
+    "address": "88_b, Main Rd, Sea Point, Cape Town, 8005"
+  },
+  "mojo-market": {
+    "placeId": "ChIJETLciCFnzB0RH1qo-JSNf38",
+    "googleName": "Mojo Market",
+    "address": "30 Regent Rd, Sea Point, Cape Town, 8060"
+  },
+  "the-butcher-shop-grill": {
+    "placeId": "ChIJg1lANDRnzB0R6ACHIgkfTEY",
+    "googleName": "The Butcher Shop & Grill",
+    "address": "125 Beach Rd, Mouille Point, Cape Town, 8005"
+  },
+  "bobos-by-kove-collection": {
+    "placeId": "ChIJ5wVizgpnzB0RPL4zNXFTp0I",
+    "googleName": "Bobo's by Kove Collection",
+    "address": "Cnr Beach Rd, and, Two Oceans Beach, Surrey Pl, Mouille Point, Cape Town, 8001"
+  },
+  "cafe-extrablatt": {
+    "placeId": "ChIJoyov10dnzB0R-gRGst00XmE",
+    "googleName": "Cafe Extrablatt",
+    "address": "79 Main Rd, Green Point, Cape Town, 8005"
+  },
+  "rockpool-cape-town": {
+    "placeId": "ChIJzYFxUiRnzB0Rh7OskIN5bVM",
+    "googleName": "Rockpool Cape Town",
+    "address": "205 Beach Rd, Sea Point, Cape Town, 8005"
+  },
+  "strolla-restaurant-bar": {
+    "placeId": "ChIJlUdC999mzB0R1-3tZkoNvd8",
+    "googleName": "Strolla Restaurant & Bar",
+    "address": "309 Beach Rd, Sea Point, Cape Town, 8060"
+  },
+  "bud-lounge-sea-point": {
+    "placeId": "ChIJPW5ddW1nzB0RnaY_IwmjHoI",
+    "googleName": "Bud Lounge Sea Point",
+    "address": "I, 176 Main Rd, Sea Point, Cape Town, 8005"
+  },
+  "green-point-park": {
+    "placeId": "ChIJrfmRVzZnzB0RupuFfQj-5D0",
+    "googleName": "Green Point Park",
+    "address": "1 Fritz Sonnenberg Rd, Green Point, Cape Town, 8051"
+  },
+  "mouille-point-beach": {
+    "placeId": "ChIJxyNocExnzB0RZkPzvrq3yiM",
+    "googleName": "Mouille Point Beach",
+    "address": "Mouille Point Beach, Mouille Point, Cape Town, 8005"
+  },
+  "sunset-beach-2": {
+    "placeId": "ChIJ5RqmcCBnzB0RhJQZ1TpZivM",
+    "googleName": "Sunset Beach",
+    "address": "Sunset Beach, Sea Point, Cape Town, 8060"
+  },
+  "clifton-1st": {
+    "placeId": "ChIJEZV51_xmzB0RjInEwYCwJZw",
+    "googleName": "Clifton 1st",
+    "address": "Clifton 1st, Clifton, Cape Town, 8005"
+  },
+  "saunders-rocks-beach": {
+    "placeId": "ChIJL0UPiuBmzB0RicEyB8Id_LI",
+    "googleName": "Saunders' Rocks Beach",
+    "address": "Saunders' Rocks Beach, Cape Town, 8005"
+  },
+  "milton-beach": {
+    "placeId": "ChIJAXkBoCZnzB0RXm6_Fu9I3bw",
+    "googleName": "Milton Beach",
+    "address": "Milton Beach, Sea Point, Cape Town, 8060"
+  },
+  "brokenbath-beach": {
+    "placeId": "ChIJWVNYWyFnzB0RvSGU6jT2JCk",
+    "googleName": "Brokenbath Beach",
+    "address": "Brokenbath Beach"
+  },
+  "three-anchor-bay": {
+    "placeId": "ChIJNd7R1DBnzB0RzDUc-of0vdo",
+    "googleName": "Three Anchor Bay",
+    "address": "Three Anchor Bay, Cape Town, 8005"
+  },
+  "noons-gun-hiking-trail": {
+    "placeId": "ChIJEez8DgBnzB0RyNoB8GXhZZY",
+    "googleName": "Noons Gun Hiking trail",
+    "address": "Rhine Rd, Sea Point, Cape Town, 8060"
+  },
+  "the-rock": {
+    "placeId": "ChIJjbd4kOJmzB0RkE0iy_wAkQc",
+    "googleName": "The Rock",
+    "address": "405 Ocean View Dr, Bantry Bay, Cape Town, 8005"
+  },
+  "amani-spa-and-wellness-at-radisson-colle": {
+    "placeId": "ChIJsQrOM1BnzB0RE_jZN6jukyE",
+    "googleName": "Amani Spa and Wellness at Radisson Collection Waterfront, Cape Town",
+    "address": "Radisson Collection Hotel, Waterfront 100 Beach Road, Granger Bay Blvd, Mouille Point, Cape Town, 8002"
+  },
+  "the-hussar-grill-mouille-point": {
+    "placeId": "ChIJwWdbDkZnzB0RwrvOWd0A1qg",
+    "googleName": "The Hussar Grill Mouille Point",
+    "address": "New Cumberland Building, Beach Rd, Mouille Point, Cape Town, 8005"
+  },
+  "jarryds": {
+    "placeId": "ChIJ880OJCBnzB0RLQv_25AQjzo",
+    "googleName": "JARRYDS.",
+    "address": "90 Regent Rd, Sea Point, Cape Town, 8005"
+  },
+  "giovannis": {
+    "placeId": "ChIJoSQsuqxnzB0Rza9F8ZJA2eE",
+    "googleName": "Giovanni's",
+    "address": "103 Main Rd, Green Point, Cape Town, 8051"
+  },
+  "posticino-italian-restaurant": {
+    "placeId": "ChIJkYsauiRnzB0R32SkO1Sbp7o",
+    "googleName": "Posticino Italian Restaurant",
+    "address": "323 Main Rd, Sea Point, Cape Town, 8060"
+  },
+  "la-perla-restaurant-cape-town": {
+    "placeId": "ChIJ50k4eSFnzB0RJVibXjx9rAs",
+    "googleName": "La Perla Restaurant Cape Town",
+    "address": "281 Beach Rd, Sea Point, Cape Town, 8005"
+  },
+  "newport-market-deli": {
+    "placeId": "ChIJmRLIPTRnzB0RyR_5Uo0YHE0",
+    "googleName": "Newport Market & Deli",
+    "address": "125 Beach Rd, Mouille Point, Cape Town, 8005"
+  },
+  "tobagos-restaurant-bar-and-terrace": {
+    "placeId": "ChIJc74DME5nzB0RYm_mp-QJLfE",
+    "googleName": "Tobago's Restaurant, Bar and Terrace",
+    "address": "100 Beach Road, Granger Bay Blvd, Waterfront, Cape Town, 8002"
+  },
+  "paulines": {
+    "placeId": "ChIJFVVtANxnzB0RATKtZsCjFz8",
+    "googleName": "Pauline's",
+    "address": "277 Main Rd, Sea Point, Cape Town, 8005"
+  },
+  "the-greek-club-restaurant": {
+    "placeId": "ChIJiQZNm9BnzB0RXXfhRsnv9L8",
+    "googleName": "The Greek Club Restaurant",
+    "address": "24 Bay Rd, Mouille Point, Cape Town, 8005"
+  },
+  "amare": {
+    "placeId": "ChIJ83YdJTtnzB0RgRI_B0zLp1k",
+    "googleName": "Amare",
+    "address": "29 Victoria Rd, Bantry Bay, Cape Town, 8005"
+  },
+  "the-creamery-caf-mouille-point": {
+    "placeId": "ChIJ5Xi_tzZnzB0RGIFFMzfNpsg",
+    "googleName": "The Creamery Café Mouille Point",
+    "address": "2 Park Rd, Mouille Point, Cape Town, 8005"
+  },
+  "crumbs-cream": {
+    "placeId": "ChIJk4paLiJnzB0RfKjxFHUGex4",
+    "googleName": "Crumbs & Cream",
+    "address": "126 Main Rd, Sea Point, Cape Town, 8060"
+  },
+  "moro-gelato-regent-rd-sea-point": {
+    "placeId": "ChIJPyOXCP9nzB0RAHvPxmPOGEI",
+    "googleName": "Moro Gelato, Regent Rd, Sea Point",
+    "address": "85 Regent Rd, Sea Point, Cape Town, 8060"
+  },
+  "gelato-mania-green-point": {
+    "placeId": "ChIJPfFRUHtnzB0RMmv5fHSbwtA",
+    "googleName": "Gelato Mania Green Point",
+    "address": "65 Main Rd, Green Point, Cape Town, 8005"
+  },
+  "icezeit-gelateria-and-espresso-bar": {
+    "placeId": "ChIJR8Ia0GZnzB0Ryxfo08Gn6n8",
+    "googleName": "Icezeit Gelateria and Espresso Bar",
+    "address": "3 Beach Rd, Sea Point, Cape Town, 8001"
+  },
+  "dinkys-sea-point": {
+    "placeId": "ChIJe-8qzyZnzB0RIQ7S9V7k0lM",
+    "googleName": "Dinkys Sea Point",
+    "address": "92 Main Rd, Sea Point, Cape Town, 8001"
+  },
+  "you-i-art-gallery-sea-point": {
+    "placeId": "ChIJsS7S1ONnzB0RY6rFEnv8Nuw",
+    "googleName": "YOU&I Art Gallery Sea Point",
+    "address": "77 Regent Rd, Sea Point, Cape Town, 8005"
+  },
+  "rhinocerus-image-of-a-rhino-through-vari": {
+    "placeId": "ChIJ_VWOii9nzB0Ro8V0_d-xM14",
+    "googleName": "Rhinocerus (Image of a Rhino through various single elements)",
+    "address": "Sea Point Promenade, Sea Point, Cape Town, 8060"
+  },
+  "art-haus-sea-point-art-gallery": {
+    "placeId": "ChIJY7XY_ehnzB0ROgvXyoHwvtw",
+    "googleName": "Art HAUS Sea Point Art Gallery",
+    "address": "3 Clarens Rd, Sea Point, Cape Town, 8060"
   }
 }

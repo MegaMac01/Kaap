@@ -13759,5 +13759,1943 @@
       "sports activity location"
     ],
     "blurb": "Forest stream trail in the Wilderness section of the Garden Route park."
+  },
+  {
+    "id": "castle-of-good-hope",
+    "name": "Castle of Good Hope",
+    "category": "arts",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.926046,
+      "lng": 18.428058099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 13018,
+    "address": "Castle St, Foreshore, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "castle",
+      "tourist attraction",
+      "museum"
+    ],
+    "blurb": "South Africa's oldest colonial building: a star-shaped fort with museums, cannon-firing and courtyard tours."
+  },
+  {
+    "id": "iziko-bo-kaap-museum",
+    "name": "Iziko Bo-Kaap Museum",
+    "category": "arts",
+    "area": "bokaap",
+    "coords": {
+      "lat": -33.9215332,
+      "lng": 18.4149866
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 6560,
+    "address": "71 Wale St, Schotsche Kloof, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "museum",
+      "tourist attraction"
+    ],
+    "blurb": "A restored 1760s house telling the story of the Bo-Kaap's Cape Malay community."
+  },
+  {
+    "id": "stardust-theatrical-dining",
+    "name": "Stardust Theatrical Dining",
+    "category": "arts",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.927679499999996,
+      "lng": 18.434541499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 3064,
+    "address": "118 Sir Lowry Rd, Woodstock, Cape Town, 7925",
+    "phone": null,
+    "tags": [
+      "performing arts theater",
+      "live music venue",
+      "restaurant"
+    ],
+    "blurb": "Dinner where the waiters drop the trays to sing, a Cape Town cabaret institution."
+  },
+  {
+    "id": "district-six-museum",
+    "name": "District Six Museum",
+    "category": "arts",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9277222,
+      "lng": 18.423676999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 2622,
+    "address": "25A Buitenkant St, District Six, Cape Town, 8000",
+    "phone": null,
+    "tags": [
+      "museum"
+    ],
+    "blurb": "Moving memorial to the community forcibly removed under apartheid, told in its own residents' voices."
+  },
+  {
+    "id": "museum-of-illusions-cape-town",
+    "name": "Museum of Illusions Cape Town",
+    "category": "arts",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9276915,
+      "lng": 18.412873899999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 1592,
+    "address": "10 Kloof St, Gardens, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "art museum",
+      "museum"
+    ],
+    "blurb": "Optical tricks, tilted rooms and photo-bait illusions, a hit with kids and cameras."
+  },
+  {
+    "id": "south-african-national-gallery",
+    "name": "South African National Gallery",
+    "category": "arts",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.929023,
+      "lng": 18.4172166
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 1038,
+    "address": "Government Ave, Gardens, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "art museum",
+      "tourist attraction",
+      "museum"
+    ],
+    "blurb": "The country's premier art collection, from old masters to bold contemporary South African work."
+  },
+  {
+    "id": "iziko-slave-lodge",
+    "name": "Iziko Slave Lodge",
+    "category": "arts",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9248867,
+      "lng": 18.4205032
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 937,
+    "address": "Corner Adderley Street and, Wale St, Cape Town City Centre, Cape Town, 8000",
+    "phone": null,
+    "tags": [
+      "museum",
+      "tourist attraction"
+    ],
+    "blurb": "One of the city's oldest buildings, now a museum confronting the history of slavery at the Cape."
+  },
+  {
+    "id": "youngblood-africa",
+    "name": "Youngblood-Africa",
+    "category": "arts",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9201681,
+      "lng": 18.4189747
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 558,
+    "address": "70, 72 Bree St, Cape Town City Centre, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "art studio",
+      "cultural center"
+    ],
+    "blurb": "Multi-floor gallery championing emerging South African artists, with a rooftop cafe."
+  },
+  {
+    "id": "ground-art-caffe",
+    "name": "Ground Art Caffe",
+    "category": "arts",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9171416,
+      "lng": 18.416949199999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 525,
+    "address": "160 Strand St, De Waterkant, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "coffee shop",
+      "art gallery",
+      "cafe"
+    ],
+    "blurb": "Coffee and canvases under one roof, a gallery-cafe on the city's edge."
+  },
+  {
+    "id": "copa-restaurant",
+    "name": "COPA Restaurant",
+    "category": "arts",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.924909899999996,
+      "lng": 18.41553
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 228,
+    "address": "167 Loop St, Cape Town City Centre, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "breakfast restaurant",
+      "performing arts theater"
+    ],
+    "blurb": "Latin supper club where the tables clear for salsa as the night heats up."
+  },
+  {
+    "id": "lumenocity",
+    "name": "LUMENOCITY",
+    "category": "arts",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9312009,
+      "lng": 18.4137252
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 48,
+    "address": "Company Gardens, Gardens, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "art gallery"
+    ],
+    "blurb": "Immersive digital-light art space in the city centre."
+  },
+  {
+    "id": "rust-en-vreugd",
+    "name": "Rust En Vreugd",
+    "category": "arts",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9303689,
+      "lng": 18.4205376
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.9,
+    "reviewCount": 38,
+    "address": "78 Buitenkant St, Cape Town City Centre, Cape Town, 8000",
+    "phone": null,
+    "tags": [
+      "museum",
+      "tourist attraction"
+    ],
+    "blurb": "An 18th-century mansion and garden housing a collection of colonial-era Cape art."
+  },
+  {
+    "id": "christopher-moller-art-gallery-cape-town",
+    "name": "Christopher Moller Art Gallery | Cape Town",
+    "category": "arts",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9303206,
+      "lng": 18.4085639
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 27,
+    "address": "7 Kloof Nek Rd, Gardens, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "art gallery"
+    ],
+    "blurb": "Gardens gallery known for portraiture and contemporary South African painting."
+  },
+  {
+    "id": "eastern-food-bazaar",
+    "name": "Eastern Food Bazaar",
+    "category": "eat",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.924579099999995,
+      "lng": 18.4224076
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 4.3,
+    "reviewCount": 9807,
+    "address": "96 Longmarket St, Cape Town City Centre, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "indian restaurant",
+      "fast food restaurant",
+      "turkish restaurant"
+    ],
+    "blurb": "A bustling pan-Asian and Middle Eastern food hall: curries, kebabs and dosas at canteen prices."
+  },
+  {
+    "id": "the-dogs-bollocks-at-yard",
+    "name": "The Dog's Bollocks at YARD",
+    "category": "eat",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.932265,
+      "lng": 18.419169
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 3514,
+    "address": "6 Roodehek St, Gardens, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "hamburger restaurant",
+      "american restaurant",
+      "chicken wings restaurant"
+    ],
+    "blurb": "Cult smash-patty burgers slung from a courtyard window, worth the queue."
+  },
+  {
+    "id": "pigalle-restaurant",
+    "name": "Pigalle Restaurant",
+    "category": "eat",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9129563,
+      "lng": 18.416268300000002
+    },
+    "priceBand": 3,
+    "priceEstimate": "R250–450 pp",
+    "rating": 4.5,
+    "reviewCount": 2752,
+    "address": "57A Somerset Rd, Green Point, Cape Town, 8051",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Old-school glamour: seafood, steaks and a live band with the dance floor swinging."
+  },
+  {
+    "id": "mama-africa",
+    "name": "Mama Africa",
+    "category": "eat",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9251094,
+      "lng": 18.4160568
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 2456,
+    "address": "178 Long St, Cape Town City Centre, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "african restaurant",
+      "restaurant"
+    ],
+    "blurb": "Long Street landmark for pan-African game meats and marimba bands."
+  },
+  {
+    "id": "marcos-african-place",
+    "name": "Marco's African Place",
+    "category": "eat",
+    "area": "bokaap",
+    "coords": {
+      "lat": -33.9187595,
+      "lng": 18.418136099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 2225,
+    "address": "4 Rose Ln, Schotsche Kloof, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "african restaurant"
+    ],
+    "blurb": "Bo-Kaap institution plating springbok, ostrich and Cape Malay classics with live jazz."
+  },
+  {
+    "id": "our-local-kloof-street",
+    "name": "Our Local Kloof Street",
+    "category": "eat",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9325987,
+      "lng": 18.4085091
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 2130,
+    "address": "117 Kloof St, Gardens, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Easygoing Kloof Street all-rounder for tapas-style plates and cocktails."
+  },
+  {
+    "id": "nelsons-eye-restaurant",
+    "name": "Nelsons Eye Restaurant",
+    "category": "eat",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.932741199999995,
+      "lng": 18.412632
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 2120,
+    "address": "9 Hof St, Gardens, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "steak house",
+      "restaurant"
+    ],
+    "blurb": "A 1960s steakhouse that's barely changed, and that's the point: superb aged steaks."
+  },
+  {
+    "id": "the-village-buffet",
+    "name": "The Village Buffet",
+    "category": "eat",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9227549,
+      "lng": 18.4185652
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.7,
+    "reviewCount": 1947,
+    "address": "102 Long St, Cape Town City Centre, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "buffet restaurant",
+      "restaurant"
+    ],
+    "blurb": "Sprawling all-you-can-eat spread in the city centre."
+  },
+  {
+    "id": "ala-turkish-restaurant",
+    "name": "Ala Turkish Restaurant",
+    "category": "eat",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9149846,
+      "lng": 18.4189266
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 1839,
+    "address": "Shop 110, The Rockwell, Napier St, De Waterkant, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "turkish restaurant",
+      "restaurant"
+    ],
+    "blurb": "Generous Turkish grills, mezze and pide in the CBD."
+  },
+  {
+    "id": "bokaap-deli",
+    "name": "Bokaap Deli",
+    "category": "eat",
+    "area": "bokaap",
+    "coords": {
+      "lat": -33.9207223,
+      "lng": 18.4158191
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 1592,
+    "address": "97, 114 Church St, Bokaap, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "halal restaurant",
+      "breakfast restaurant",
+      "diner"
+    ],
+    "blurb": "Halal deli doing hearty breakfasts and Cape Malay-leaning plates in the Bo-Kaap."
+  },
+  {
+    "id": "the-woodlands-eatery",
+    "name": "The Woodlands Eatery",
+    "category": "eat",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9347341,
+      "lng": 18.4160272
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 1448,
+    "address": "8 Breda St, Oranjezicht, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Leafy Gardens cafe for wholesome breakfasts and garden lunches."
+  },
+  {
+    "id": "the-blue-cafe",
+    "name": "The Blue Cafe",
+    "category": "eat",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9278574,
+      "lng": 18.4051182
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 1306,
+    "address": "13 Brownlow Rd, Tamboerskloof, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "cafe",
+      "breakfast restaurant",
+      "deli"
+    ],
+    "blurb": "Neighbourhood cafe-deli with generous all-day breakfasts."
+  },
+  {
+    "id": "bo-kaap-kombuis",
+    "name": "Bo-Kaap Kombuis",
+    "category": "eat",
+    "area": "bokaap",
+    "coords": {
+      "lat": -33.9174676,
+      "lng": 18.412909199999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 1083,
+    "address": "8001, 7 August St, Schotsche Kloof, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Home-style Cape Malay cooking with a Table Mountain view over the Bo-Kaap rooftops."
+  },
+  {
+    "id": "bootlegger-green-point",
+    "name": "Bootlegger Green Point",
+    "category": "eat",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9096395,
+      "lng": 18.4132856
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 914,
+    "address": "37 Main Rd, Green Point, Cape Town, 8051",
+    "phone": null,
+    "tags": [
+      "coffee shop",
+      "coffee roastery",
+      "cafe"
+    ],
+    "blurb": "Green Point branch of the reliable local roastery, coffee and all-day breakfasts."
+  },
+  {
+    "id": "tigers-milk-long-street",
+    "name": "Tiger's Milk Long Street",
+    "category": "bars",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.921251,
+      "lng": 18.420230999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 5042,
+    "address": "44 Long St, Cape Town City Centre, Cape Town, 8000",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "cocktail bar",
+      "bar and grill"
+    ],
+    "blurb": "Long Street's buzzy burgers-and-cocktails hangout: always loud, always full."
+  },
+  {
+    "id": "tigers-milk-kloof-street",
+    "name": "Tiger's Milk Kloof Street",
+    "category": "bars",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9292781,
+      "lng": 18.411650299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 4776,
+    "address": "55 Kloof St, Gardens, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "cocktail bar",
+      "bar and grill"
+    ],
+    "blurb": "The Kloof Street original: pizzas, craft beer and a permanent good-time crowd."
+  },
+  {
+    "id": "cuba-a-foreshore",
+    "name": "Cubaña Foreshore",
+    "category": "bars",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.921265999999996,
+      "lng": 18.4314091
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4,
+    "reviewCount": 3799,
+    "address": "89 Hertzog Blvd, Foreshore, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "cafe",
+      "bar"
+    ],
+    "blurb": "Foreshore cafe-bar for cocktails and late-night energy."
+  },
+  {
+    "id": "asoka-restaurant-bar-and-lounge",
+    "name": "Asoka Restaurant, Bar and Lounge",
+    "category": "bars",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9323635,
+      "lng": 18.408345999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 2745,
+    "address": "68 Kloof St, Gardens, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "lounge bar",
+      "night club"
+    ],
+    "blurb": "Kloof Street's candlelit bar around a real olive tree, with live jazz nights."
+  },
+  {
+    "id": "utopia-cape-town",
+    "name": "Utopia Cape Town",
+    "category": "bars",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9173932,
+      "lng": 18.417866
+    },
+    "priceBand": 3,
+    "priceEstimate": "R250–450 pp",
+    "rating": 4.4,
+    "reviewCount": 2646,
+    "address": "15th floor, 40 Chiappini St, De Waterkant, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "bistro",
+      "fine dining restaurant"
+    ],
+    "blurb": "Glossy Gardens fine-dining lounge that turns clubby after dark."
+  },
+  {
+    "id": "clarkes-bar-dining-room",
+    "name": "Clarke's Bar & Dining Room",
+    "category": "bars",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9223425,
+      "lng": 18.4171662
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 2510,
+    "address": "133 Bree St, Cape Town City Centre, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "breakfast restaurant",
+      "brunch restaurant"
+    ],
+    "blurb": "Bree Street brunch-and-cocktails favourite, denim aprons and good playlists."
+  },
+  {
+    "id": "marias-greek-caf",
+    "name": "Maria's Greek Café",
+    "category": "bars",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9315947,
+      "lng": 18.4166733
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 1625,
+    "address": "31 Barnet St, Gardens, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "deli",
+      "diner"
+    ],
+    "blurb": "Long-running Greek taverna in Dunkley Square with a leafy terrace."
+  },
+  {
+    "id": "harringtons-cocktail-lounge",
+    "name": "Harringtons Cocktail Lounge",
+    "category": "bars",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.928446199999996,
+      "lng": 18.4240784
+    },
+    "priceBand": 3,
+    "priceEstimate": "R250–450 pp",
+    "rating": 4.3,
+    "reviewCount": 1070,
+    "address": "61B Harrington St, District Six, Cape Town, 7925",
+    "phone": null,
+    "tags": [
+      "cocktail bar",
+      "bar"
+    ],
+    "blurb": "East City cocktail lounge at the heart of the Harrington nightlife strip."
+  },
+  {
+    "id": "perseverance-tavern",
+    "name": "Perseverance Tavern",
+    "category": "bars",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9305164,
+      "lng": 18.420860200000003
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 857,
+    "address": "83 Buitenkant St, Cape Town City Centre, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "pub",
+      "bar",
+      "restaurant"
+    ],
+    "blurb": "Cape Town's oldest surviving pub, pouring since 1808 in Gardens."
+  },
+  {
+    "id": "kong-lounge-bar",
+    "name": "Kong Lounge Bar",
+    "category": "bars",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9145367,
+      "lng": 18.4185136
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 378,
+    "address": "10-12 Cobern St, De Waterkant, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "lounge bar",
+      "night club",
+      "bar"
+    ],
+    "blurb": "Asian-leaning cocktail lounge and late-night spot in the CBD."
+  },
+  {
+    "id": "modular-club",
+    "name": "Modular Club",
+    "category": "bars",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9184282,
+      "lng": 18.4217411
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 365,
+    "address": "Riebeek St, Cape Town City Centre, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "night club"
+    ],
+    "blurb": "City-centre nightclub for electronic line-ups."
+  },
+  {
+    "id": "the-labia-theatre",
+    "name": "The Labia Theatre",
+    "category": "family",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.930101799999996,
+      "lng": 18.4123591
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 4019,
+    "address": "68 Orange St, Gardens, Cape Town, 8000",
+    "phone": null,
+    "tags": [
+      "movie theater"
+    ],
+    "blurb": "Cape Town's beloved independent art-house cinema, running since 1949."
+  },
+  {
+    "id": "bubble-waffle",
+    "name": "Bubble Waffle",
+    "category": "family",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9242098,
+      "lng": 18.4219138
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 130,
+    "address": "8 Parliament St, Cape Town City Centre, Cape Town, 8000",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "dessert shop",
+      "confectionery"
+    ],
+    "blurb": "CBD sweet stop for loaded bubble waffles and soft serve."
+  },
+  {
+    "id": "everyday-we-waffeling",
+    "name": "Everyday we waffeling",
+    "category": "family",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.918477599999996,
+      "lng": 18.423062299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.9,
+    "reviewCount": 20,
+    "address": "2 Long St, Cape Town City Centre, Cape Town, 8000",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "dessert shop",
+      "confectionery"
+    ],
+    "blurb": "Tiny waffle counter for a quick sugar hit."
+  },
+  {
+    "id": "de-waal-park",
+    "name": "De Waal Park",
+    "category": "outdoor",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9363496,
+      "lng": 18.4123977
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.5,
+    "reviewCount": 2603,
+    "address": "Molteno Rd, CBD, Cape Town, 8000",
+    "phone": null,
+    "tags": [
+      "park",
+      "tourist attraction"
+    ],
+    "blurb": "Leafy Gardens park with a famous summer concert series and a serious dog-walking scene."
+  },
+  {
+    "id": "the-companys-garden",
+    "name": "The Company’s Garden",
+    "category": "outdoor",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.925254599999995,
+      "lng": 18.4196523
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.6,
+    "reviewCount": 171,
+    "address": "12 Government Ave, Cape Town City Centre, Cape Town, 8000",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "The city's original 1650s garden: shaded lawns, cheeky squirrels and a rose walk."
+  },
+  {
+    "id": "prestwich-memorial",
+    "name": "Prestwich Memorial",
+    "category": "outdoor",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.917539399999995,
+      "lng": 18.4195514
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.2,
+    "reviewCount": 38,
+    "address": "Buitengracht St, Cape Town City Centre, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "tourist attraction",
+      "park"
+    ],
+    "blurb": "A quiet De Waterkant memorial and ossuary with a cafe, honouring the city's early dead."
+  },
+  {
+    "id": "erf-81-community-tamboerskloof-farm",
+    "name": "Erf 81 Community (Tamboerskloof Farm)",
+    "category": "outdoor",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9253113,
+      "lng": 18.4075761
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.3,
+    "reviewCount": 35,
+    "address": "Erf81, Military Rd, Tamboerskloof, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Community food garden on the city slopes, with volunteer days and fresh veg."
+  },
+  {
+    "id": "the-shack",
+    "name": "The Shack",
+    "category": "bars",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9322241,
+      "lng": 18.425624199999998
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 4.2,
+    "reviewCount": 1014,
+    "address": "45 De Villiers St, District Six, Cape Town, 7925",
+    "phone": null,
+    "tags": [
+      "bar",
+      "sports complex",
+      "event venue"
+    ],
+    "blurb": "Rambling, dive-y Gardens institution: pool tables, cheap drinks and zero pretension."
+  },
+  {
+    "id": "long-street-baths",
+    "name": "Long Street Baths",
+    "category": "classes",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9272796,
+      "lng": 18.4140682
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 657,
+    "address": "Long St, Gardens, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "swimming pool",
+      "sports activity location"
+    ],
+    "blurb": "Heated Victorian public baths and Turkish steam rooms in the CBD, open since 1908."
+  },
+  {
+    "id": "cape-town-city-hall",
+    "name": "Cape Town City Hall",
+    "category": "arts",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9253403,
+      "lng": 18.4238614
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 571,
+    "address": "Darling St, CBD, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "city hall",
+      "tourist attraction",
+      "local government office"
+    ],
+    "blurb": "The grand Edwardian hall where Mandela gave his first speech as a free man, balcony and all."
+  },
+  {
+    "id": "gs-africa-eagle-rider-motorcycle-rentals",
+    "name": "GS Africa Motorcycle Rentals",
+    "category": "classes",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.919270499999996,
+      "lng": 18.4176051
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 269,
+    "address": "21A Rose St, Cape Town City Centre, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "off roading area",
+      "sports activity location",
+      "tour agency"
+    ],
+    "blurb": "Rent a BMW or Harley and ride the Cape's mountain passes, guided or solo."
+  },
+  {
+    "id": "shukokai-sport-shooting-range",
+    "name": "Shukokai Sport Shooting Range",
+    "category": "classes",
+    "area": "citybowl",
+    "coords": {
+      "lat": -33.9216747,
+      "lng": 18.410686
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 18,
+    "address": "19 Military Rd, Schotsche Kloof, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "sports complex",
+      "sports activity location"
+    ],
+    "blurb": "Indoor pistol range in the CBD with supervised shooting sessions."
+  },
+  {
+    "id": "dhl-stadium",
+    "name": "DHL Stadium",
+    "category": "family",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9034439,
+      "lng": 18.411154700000004
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 17411,
+    "address": "Fritz Sonnenberg Rd, Green Point, Cape Town, 8051",
+    "phone": null,
+    "tags": [
+      "stadium",
+      "tourist attraction",
+      "sports complex"
+    ],
+    "blurb": "The 55,000-seat Cape Town Stadium in Green Point: matches, concerts and rooftop tours."
+  },
+  {
+    "id": "sea-point-pavilion",
+    "name": "Sea Point Pavilion",
+    "category": "classes",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9183115,
+      "lng": 18.3844044
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 4645,
+    "address": "Lower, Beach Rd, Sea Point, Cape Town, 8060",
+    "phone": null,
+    "tags": [
+      "swimming pool",
+      "sports activity location"
+    ],
+    "blurb": "The grand Art Deco outdoor pools on the Sea Point promenade, four pools over the sea."
+  },
+  {
+    "id": "jack-skye-rooftop-bar-and-restaurant",
+    "name": "Jack@SKYE Rooftop Bar and Restaurant",
+    "category": "bars",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.91204,
+      "lng": 18.39065
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 603,
+    "address": "13 London Rd, Sea Point, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "swimming pool",
+      "cocktail bar"
+    ],
+    "blurb": "Rooftop pool-deck bar with 360-degree city and sea views from the CBD."
+  },
+  {
+    "id": "into-the-blue-scuba-dive-centre-cape-tow",
+    "name": "Into the Blue Scuba Dive Centre Cape Town",
+    "category": "classes",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9103658,
+      "lng": 18.394178099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 297,
+    "address": "88_b, Main Rd, Sea Point, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "sports coaching",
+      "sporting goods store",
+      "sports activity location"
+    ],
+    "blurb": "Green Point dive school running courses and Atlantic dives."
+  },
+  {
+    "id": "mojo-market",
+    "name": "Mojo Market",
+    "category": "bars",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9192971,
+      "lng": 18.3858253
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 17080,
+    "address": "30 Regent Rd, Sea Point, Cape Town, 8060",
+    "phone": null,
+    "tags": [
+      "market",
+      "food court",
+      "tourist attraction"
+    ],
+    "blurb": "Sea Point's buzzing indoor food-and-music market, dozens of stalls under one roof."
+  },
+  {
+    "id": "the-butcher-shop-grill",
+    "name": "The Butcher Shop & Grill",
+    "category": "bars",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9015718,
+      "lng": 18.400574499999998
+    },
+    "priceBand": 3,
+    "priceEstimate": "R250–450 pp",
+    "rating": 4.5,
+    "reviewCount": 3251,
+    "address": "125 Beach Rd, Mouille Point, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "steak house",
+      "bar and grill",
+      "bar"
+    ],
+    "blurb": "Serious steaks with a butchery attached, on the Mouille Point seafront."
+  },
+  {
+    "id": "bobos-by-kove-collection",
+    "name": "Bobo's by Kove Collection",
+    "category": "bars",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.900155,
+      "lng": 18.405630800000004
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 2208,
+    "address": "Cnr Beach Rd, and, Two Oceans Beach, Surrey Pl, Mouille Point, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "wine bar",
+      "cocktail bar"
+    ],
+    "blurb": "Stylish Sea Point restaurant-bar for cocktails and sharing plates."
+  },
+  {
+    "id": "cafe-extrablatt",
+    "name": "Cafe Extrablatt",
+    "category": "bars",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9085296,
+      "lng": 18.4109372
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 2202,
+    "address": "79 Main Rd, Green Point, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "bar"
+    ],
+    "blurb": "German-style cafe-bar on the Sea Point strip, big portions and bigger beers."
+  },
+  {
+    "id": "rockpool-cape-town",
+    "name": "Rockpool Cape Town",
+    "category": "bars",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9092735,
+      "lng": 18.3934332
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 2142,
+    "address": "205 Beach Rd, Sea Point, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "cafe",
+      "bar"
+    ],
+    "blurb": "Sea Point promenade cafe-bar with sundowners over the Atlantic."
+  },
+  {
+    "id": "strolla-restaurant-bar",
+    "name": "Strolla Restaurant & Bar",
+    "category": "bars",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9214585,
+      "lng": 18.3800042
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 1343,
+    "address": "309 Beach Rd, Sea Point, Cape Town, 8060",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "bar",
+      "cafe"
+    ],
+    "blurb": "Promenade-front bar for cocktails as the sun drops into the sea."
+  },
+  {
+    "id": "bud-lounge-sea-point",
+    "name": "Bud Lounge Sea Point",
+    "category": "bars",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9166344,
+      "lng": 18.388638099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.8,
+    "reviewCount": 17,
+    "address": "I, 176 Main Rd, Sea Point, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "lounge bar",
+      "night club",
+      "bar"
+    ],
+    "blurb": "Late-night Sea Point lounge bar."
+  },
+  {
+    "id": "green-point-park",
+    "name": "Green Point Park",
+    "category": "outdoor",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9041068,
+      "lng": 18.4010964
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.7,
+    "reviewCount": 12752,
+    "address": "1 Fritz Sonnenberg Rd, Green Point, Cape Town, 8051",
+    "phone": null,
+    "tags": [
+      "park",
+      "tourist attraction"
+    ],
+    "blurb": "Sprawling Green Point urban park and biodiversity garden below the stadium."
+  },
+  {
+    "id": "mouille-point-beach",
+    "name": "Mouille Point Beach",
+    "category": "outdoor",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.8992594,
+      "lng": 18.4090575
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.4,
+    "reviewCount": 1258,
+    "address": "Mouille Point Beach, Mouille Point, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "beach",
+      "natural feature"
+    ],
+    "blurb": "Rocky Mouille Point shoreline with the candy-striped lighthouse and tidal pools."
+  },
+  {
+    "id": "sunset-beach-2",
+    "name": "Sunset Beach",
+    "category": "outdoor",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9202508,
+      "lng": 18.3803168
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.5,
+    "reviewCount": 827,
+    "address": "Sunset Beach, Sea Point, Cape Town, 8060",
+    "phone": null,
+    "tags": [
+      "beach",
+      "natural feature"
+    ],
+    "blurb": "A tucked-away Atlantic cove for sundowners on the seaboard."
+  },
+  {
+    "id": "clifton-1st",
+    "name": "Clifton 1st",
+    "category": "outdoor",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9338945,
+      "lng": 18.3769791
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.6,
+    "reviewCount": 298,
+    "address": "Clifton 1st, Clifton, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "beach",
+      "natural feature"
+    ],
+    "blurb": "The first of Clifton's four wind-sheltered white-sand coves: granite boulders and cold clear water."
+  },
+  {
+    "id": "saunders-rocks-beach",
+    "name": "Saunders' Rocks Beach",
+    "category": "outdoor",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9237945,
+      "lng": 18.3769791
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.6,
+    "reviewCount": 210,
+    "address": "Saunders' Rocks Beach, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "beach",
+      "natural feature"
+    ],
+    "blurb": "A small sheltered Sea Point beach with a tidal pool, popular with families."
+  },
+  {
+    "id": "milton-beach",
+    "name": "Milton Beach",
+    "category": "outdoor",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.914344299999996,
+      "lng": 18.385879799999998
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.4,
+    "reviewCount": 65,
+    "address": "Milton Beach, Sea Point, Cape Town, 8060",
+    "phone": null,
+    "tags": [
+      "beach",
+      "natural feature"
+    ],
+    "blurb": "Compact Sea Point tidal-pool beach below the promenade."
+  },
+  {
+    "id": "brokenbath-beach",
+    "name": "Brokenbath Beach",
+    "category": "outdoor",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.917094999999996,
+      "lng": 18.3855089
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.5,
+    "reviewCount": 34,
+    "address": "Brokenbath Beach",
+    "phone": null,
+    "tags": [
+      "beach",
+      "natural feature"
+    ],
+    "blurb": "Rocky Sea Point cove for a quiet sea dip."
+  },
+  {
+    "id": "three-anchor-bay",
+    "name": "Three Anchor Bay",
+    "category": "outdoor",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9061897,
+      "lng": 18.3978404
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.4,
+    "reviewCount": 27,
+    "address": "Three Anchor Bay, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "beach",
+      "natural feature"
+    ],
+    "blurb": "Small rocky bay at the Green Point end of the promenade."
+  },
+  {
+    "id": "noons-gun-hiking-trail",
+    "name": "Noons Gun Hiking trail",
+    "category": "outdoor",
+    "area": "bokaap",
+    "coords": {
+      "lat": -33.9138279,
+      "lng": 18.398093199999998
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4,
+    "reviewCount": 18,
+    "address": "Rhine Rd, Sea Point, Cape Town, 8060",
+    "phone": null,
+    "tags": [
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "The short steep walk above the Bo-Kaap to the Noon Gun that booms over the city at midday."
+  },
+  {
+    "id": "the-rock",
+    "name": "The Rock",
+    "category": "chill",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.931356199999996,
+      "lng": 18.3792635
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 804,
+    "address": "405 Ocean View Dr, Bantry Bay, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "observation deck",
+      "tourist attraction"
+    ],
+    "blurb": "A flat rock ledge on the Bantry Bay shore that fills with sundowner crowds at dusk."
+  },
+  {
+    "id": "amani-spa-and-wellness-at-radisson-colle",
+    "name": "Amani Spa and Wellness at Radisson Collection Waterfront, Cape Town",
+    "category": "chill",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.8999762,
+      "lng": 18.4117634
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 142,
+    "address": "Radisson Collection Hotel, Waterfront 100 Beach Road, Granger Bay Blvd, Mouille Point, Cape Town, 8002",
+    "phone": null,
+    "tags": [
+      "spa"
+    ],
+    "blurb": "Luxe Waterfront-edge spa for a proper pamper day."
+  },
+  {
+    "id": "the-hussar-grill-mouille-point",
+    "name": "The Hussar Grill Mouille Point",
+    "category": "eat",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.904113699999996,
+      "lng": 18.398816
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 3908,
+    "address": "New Cumberland Building, Beach Rd, Mouille Point, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "steak house",
+      "restaurant"
+    ],
+    "blurb": "Seafront branch of the classic Cape steakhouse, white linen and aged cuts."
+  },
+  {
+    "id": "jarryds",
+    "name": "JARRYDS.",
+    "category": "eat",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9215552,
+      "lng": 18.382167199999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 3346,
+    "address": "90 Regent Rd, Sea Point, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "brunch restaurant",
+      "breakfast restaurant",
+      "family restaurant"
+    ],
+    "blurb": "Sea Point's perpetually-busy brunch spot for eggs, bowls and good coffee."
+  },
+  {
+    "id": "giovannis",
+    "name": "Giovanni's",
+    "category": "eat",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9080128,
+      "lng": 18.4095782
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 2585,
+    "address": "103 Main Rd, Green Point, Cape Town, 8051",
+    "phone": null,
+    "tags": [
+      "deli",
+      "cafe",
+      "food store"
+    ],
+    "blurb": "Green Point's beloved Italian deli: espresso, sandwiches and a pavement scene."
+  },
+  {
+    "id": "posticino-italian-restaurant",
+    "name": "Posticino Italian Restaurant",
+    "category": "eat",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.913706399999995,
+      "lng": 18.3917417
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 2235,
+    "address": "323 Main Rd, Sea Point, Cape Town, 8060",
+    "phone": null,
+    "tags": [
+      "italian restaurant",
+      "restaurant"
+    ],
+    "blurb": "Sea Point Italian stalwart for wood-fired pizza and pasta by the sea."
+  },
+  {
+    "id": "la-perla-restaurant-cape-town",
+    "name": "La Perla Restaurant Cape Town",
+    "category": "eat",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9186793,
+      "lng": 18.3856569
+    },
+    "priceBand": 3,
+    "priceEstimate": "R250–450 pp",
+    "rating": 3.9,
+    "reviewCount": 1952,
+    "address": "281 Beach Rd, Sea Point, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "italian restaurant",
+      "restaurant"
+    ],
+    "blurb": "A Sea Point seafront institution since 1959, Italian classics with an Atlantic view."
+  },
+  {
+    "id": "newport-market-deli",
+    "name": "Newport Market & Deli",
+    "category": "eat",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9018003,
+      "lng": 18.4007224
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 1469,
+    "address": "125 Beach Rd, Mouille Point, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "coffee shop",
+      "cafe"
+    ],
+    "blurb": "Promenade-side deli-cafe where cyclists and runners refuel."
+  },
+  {
+    "id": "tobagos-restaurant-bar-and-terrace",
+    "name": "Tobago's Restaurant, Bar and Terrace",
+    "category": "eat",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.899150899999995,
+      "lng": 18.4124653
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 790,
+    "address": "100 Beach Road, Granger Bay Blvd, Waterfront, Cape Town, 8002",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Seafront terrace dining with wide Atlantic views."
+  },
+  {
+    "id": "paulines",
+    "name": "Pauline's",
+    "category": "eat",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9111194,
+      "lng": 18.3939574
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 594,
+    "address": "277 Main Rd, Sea Point, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "coffee shop",
+      "cafe",
+      "food store"
+    ],
+    "blurb": "Cosy Sea Point corner cafe for coffee and comfort plates."
+  },
+  {
+    "id": "the-greek-club-restaurant",
+    "name": "The Greek Club Restaurant",
+    "category": "eat",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.900734,
+      "lng": 18.4068579
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 220,
+    "address": "24 Bay Rd, Mouille Point, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Authentic Greek plates and the odd plate-smashing night in Mouille Point."
+  },
+  {
+    "id": "amare",
+    "name": "Amare",
+    "category": "eat",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9260454,
+      "lng": 18.37908
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4,
+    "reviewCount": 155,
+    "address": "29 Victoria Rd, Bantry Bay, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Small Sea Point restaurant with a Mediterranean lean."
+  },
+  {
+    "id": "the-creamery-caf-mouille-point",
+    "name": "The Creamery Café Mouille Point",
+    "category": "family",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.904218,
+      "lng": 18.399154499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 1557,
+    "address": "2 Park Rd, Mouille Point, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "dessert shop",
+      "confectionery"
+    ],
+    "blurb": "Small-batch ice cream on the Mouille Point seafront."
+  },
+  {
+    "id": "crumbs-cream",
+    "name": "Crumbs & Cream",
+    "category": "family",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.912857699999996,
+      "lng": 18.39203
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 1264,
+    "address": "126 Main Rd, Sea Point, Cape Town, 8060",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "coffee shop",
+      "cafe"
+    ],
+    "blurb": "Sea Point dessert cafe for ice cream sandwiches and coffee."
+  },
+  {
+    "id": "moro-gelato-regent-rd-sea-point",
+    "name": "Moro Gelato, Regent Rd, Sea Point",
+    "category": "family",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9220124,
+      "lng": 18.3817758
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 1047,
+    "address": "85 Regent Rd, Sea Point, Cape Town, 8060",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "dessert shop",
+      "confectionery"
+    ],
+    "blurb": "Authentic Italian gelato on the Sea Point strip."
+  },
+  {
+    "id": "gelato-mania-green-point",
+    "name": "Gelato Mania Green Point",
+    "category": "family",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9087416,
+      "lng": 18.4113349
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 1029,
+    "address": "65 Main Rd, Green Point, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "dessert shop",
+      "confectionery"
+    ],
+    "blurb": "Green Point gelateria with a wall of rotating flavours."
+  },
+  {
+    "id": "icezeit-gelateria-and-espresso-bar",
+    "name": "Icezeit Gelateria and Espresso Bar",
+    "category": "family",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9180163,
+      "lng": 18.385593999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4,
+    "reviewCount": 59,
+    "address": "3 Beach Rd, Sea Point, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "coffee stand",
+      "tea house"
+    ],
+    "blurb": "Austrian-style gelato and espresso near the promenade."
+  },
+  {
+    "id": "dinkys-sea-point",
+    "name": "Dinkys Sea Point",
+    "category": "family",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.910453,
+      "lng": 18.3941178
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "address": "92 Main Rd, Sea Point, Cape Town, 8001",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "dessert shop",
+      "confectionery"
+    ],
+    "blurb": "Old-school Sea Point ice cream parlour."
+  },
+  {
+    "id": "you-i-art-gallery-sea-point",
+    "name": "YOU&I Art Gallery Sea Point",
+    "category": "arts",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.921653299999996,
+      "lng": 18.382732
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 38,
+    "address": "77 Regent Rd, Sea Point, Cape Town, 8005",
+    "phone": null,
+    "tags": [
+      "art gallery",
+      "service"
+    ],
+    "blurb": "Small Sea Point gallery showing contemporary local artists."
+  },
+  {
+    "id": "rhinocerus-image-of-a-rhino-through-vari",
+    "name": "Rhinocerus Gallery",
+    "category": "arts",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9095076,
+      "lng": 18.3907821
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 25,
+    "address": "Sea Point Promenade, Sea Point, Cape Town, 8060",
+    "phone": null,
+    "tags": [
+      "art gallery"
+    ],
+    "blurb": "Sea Point gallery built around bold single-subject artworks."
+  },
+  {
+    "id": "art-haus-sea-point-art-gallery",
+    "name": "Art HAUS Sea Point Art Gallery",
+    "category": "arts",
+    "area": "seapoint",
+    "coords": {
+      "lat": -33.9198367,
+      "lng": 18.3855783
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 19,
+    "address": "3 Clarens Rd, Sea Point, Cape Town, 8060",
+    "phone": null,
+    "tags": [
+      "art gallery",
+      "art museum",
+      "gift shop"
+    ],
+    "blurb": "Sea Point gallery and gift space for accessible original art."
   }
 ]

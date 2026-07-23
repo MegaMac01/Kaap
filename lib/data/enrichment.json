@@ -574,7 +574,7 @@
       "lng": 18.4503585
     },
     "rating": 4.6,
-    "reviewCount": 28548,
+    "reviewCount": 28549,
     "phone": "+27 21 786 2329",
     "website": "https://www.sanparks.org/parks/table_mountain/tourism/attractions.php#boulders",
     "address": "Simon's Town, Cape Town, 7995",
@@ -966,7 +966,7 @@
       "lng": 18.457449999999998
     },
     "rating": 4.4,
-    "reviewCount": 7721,
+    "reviewCount": 7722,
     "phone": "+27 21 486 5999",
     "website": "https://theoldbiscuitmill.co.za/",
     "address": "373 Albert Rd, Woodstock, Cape Town, 7925",
@@ -20292,7 +20292,7 @@
       "lng": 18.8569477
     },
     "rating": 4.8,
-    "reviewCount": 3808,
+    "reviewCount": 3809,
     "phone": "+27 67 185 5858",
     "website": "http://www.vendettas.co.za/",
     "address": "15 Hamman St, Stellenbosch Central, Stellenbosch, 7600",
@@ -33348,6 +33348,4565 @@
           "close": "18:00"
         }
       ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "castle-of-good-hope": {
+    "placeId": "ChIJwUYG_oddzB0RZYGNwMhCuy0",
+    "googleName": "Castle of Good Hope",
+    "coords": {
+      "lat": -33.926046,
+      "lng": 18.428058099999998
+    },
+    "rating": 4.3,
+    "reviewCount": 13018,
+    "phone": "+27 12 461 4673",
+    "website": "https://www.castleofgoodhope.co.za/",
+    "address": "Castle St, Foreshore, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "iziko-bo-kaap-museum": {
+    "placeId": "ChIJjSQp42VnzB0R6WYFH3MPXjk",
+    "googleName": "Iziko Bo-Kaap Museum",
+    "coords": {
+      "lat": -33.9215332,
+      "lng": 18.4149866
+    },
+    "rating": 4.3,
+    "reviewCount": 6560,
+    "phone": "+27 21 481 3938",
+    "website": "https://www.iziko.org.za/museums/bo-kaap-museum/",
+    "address": "71 Wale St, Schotsche Kloof, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "stardust-theatrical-dining": {
+    "placeId": "ChIJc6IAMYRdzB0R9yLw41HjQtM",
+    "googleName": "Stardust Theatrical Dining",
+    "coords": {
+      "lat": -33.927679499999996,
+      "lng": 18.434541499999998
+    },
+    "rating": 4.7,
+    "reviewCount": 3064,
+    "phone": "+27 21 462 7777",
+    "website": "http://www.stardustcapetown.com/",
+    "address": "118 Sir Lowry Rd, Woodstock, Cape Town, 7925",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        {
+          "open": "19:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "19:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "19:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "19:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "district-six-museum": {
+    "placeId": "ChIJXdpUhHtnzB0RI8TYhHL5028",
+    "googleName": "District Six Museum",
+    "coords": {
+      "lat": -33.9277222,
+      "lng": 18.423676999999998
+    },
+    "rating": 4.4,
+    "reviewCount": 2622,
+    "phone": "+27 21 466 7200",
+    "website": "http://www.districtsix.co.za/",
+    "address": "25A Buitenkant St, District Six, Cape Town, 8000",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "museum-of-illusions-cape-town": {
+    "placeId": "ChIJ-acdUQBnzB0RcjUMHFYec2g",
+    "googleName": "Museum of Illusions Cape Town",
+    "coords": {
+      "lat": -33.9276915,
+      "lng": 18.412873899999997
+    },
+    "rating": 4.7,
+    "reviewCount": 1592,
+    "phone": "+27 21 541 0744",
+    "website": "https://moicapetown.co.za/",
+    "address": "10 Kloof St, Gardens, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "south-african-national-gallery": {
+    "placeId": "ChIJ1_aClHpnzB0RgC7vAuZ7a7c",
+    "googleName": "South African National Gallery",
+    "coords": {
+      "lat": -33.929023,
+      "lng": 18.4172166
+    },
+    "rating": 4.4,
+    "reviewCount": 1038,
+    "phone": null,
+    "website": "http://www.iziko.org.za/museums/south-african-national-gallery",
+    "address": "Government Ave, Gardens, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "iziko-slave-lodge": {
+    "placeId": "ChIJv3trkmRnzB0RnqgKLSzSOEE",
+    "googleName": "Iziko Slave Lodge",
+    "coords": {
+      "lat": -33.9248867,
+      "lng": 18.4205032
+    },
+    "rating": 4.5,
+    "reviewCount": 937,
+    "phone": "+27 21 467 7229",
+    "website": "http://www.iziko.org.za/museums/slave-lodge",
+    "address": "Corner Adderley Street and, Wale St, Cape Town City Centre, Cape Town, 8000",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "youngblood-africa": {
+    "placeId": "ChIJoT_rjWZnzB0Rgd5ehX45N3c",
+    "googleName": "Youngblood-Africa",
+    "coords": {
+      "lat": -33.9201681,
+      "lng": 18.4189747
+    },
+    "rating": 4.6,
+    "reviewCount": 558,
+    "phone": "+27 21 424 0074",
+    "website": "https://youngblood-africa.com/",
+    "address": "70, 72 Bree St, Cape Town City Centre, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "ground-art-caffe": {
+    "placeId": "ChIJI3jz7WdnzB0RQPQb_RNbUoU",
+    "googleName": "Ground Art Caffe",
+    "coords": {
+      "lat": -33.9171416,
+      "lng": 18.416949199999998
+    },
+    "rating": 4.8,
+    "reviewCount": 525,
+    "phone": "+27 21 418 1331",
+    "website": "http://www.groundartcaffe.co.za/",
+    "address": "160 Strand St, De Waterkant, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "15:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "15:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "13:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "15:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "14:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "copa-restaurant": {
+    "placeId": "ChIJFaIBn-pnzB0RceFLraYa7r0",
+    "googleName": "COPA Restaurant",
+    "coords": {
+      "lat": -33.924909899999996,
+      "lng": 18.41553
+    },
+    "rating": 4.3,
+    "reviewCount": 228,
+    "phone": "+27 21 812 8888",
+    "website": "https://www.pepperclub.co.za/dining/copa-restaurant",
+    "address": "167 Loop St, Cape Town City Centre, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "06:30",
+          "close": "10:30"
+        },
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:30",
+          "close": "10:30"
+        },
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:30",
+          "close": "10:30"
+        },
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:30",
+          "close": "10:30"
+        },
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "06:30",
+          "close": "10:30"
+        },
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "06:30",
+          "close": "10:30"
+        },
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "06:30",
+          "close": "10:30"
+        },
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "lumenocity": {
+    "placeId": "ChIJmQKYeApnzB0RpgVfHXNyuJs",
+    "googleName": "LUMENOCITY",
+    "coords": {
+      "lat": -33.9312009,
+      "lng": 18.4137252
+    },
+    "rating": 4.8,
+    "reviewCount": 48,
+    "phone": null,
+    "website": "https://www.lumenocity.co/",
+    "address": "Company Gardens, Gardens, Cape Town, 8001",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        {
+          "open": "18:00",
+          "close": "23:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "18:00",
+          "close": "23:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "18:00",
+          "close": "23:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "18:00",
+          "close": "23:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "rust-en-vreugd": {
+    "placeId": "ChIJUftll3tnzB0R85X3vXo4yR4",
+    "googleName": "Rust En Vreugd",
+    "coords": {
+      "lat": -33.9303689,
+      "lng": 18.4205376
+    },
+    "rating": 3.9,
+    "reviewCount": 38,
+    "phone": "+27 21 464 3280",
+    "website": "https://www.iziko.org.za/museums/rust-en-vreugd",
+    "address": "78 Buitenkant St, Cape Town City Centre, Cape Town, 8000",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "christopher-moller-art-gallery-cape-town": {
+    "placeId": "ChIJa9Grz2VnzB0RnslqlLoTIk8",
+    "googleName": "Christopher Moller Art Gallery | Cape Town",
+    "coords": {
+      "lat": -33.9303206,
+      "lng": 18.4085639
+    },
+    "rating": 4.9,
+    "reviewCount": 27,
+    "phone": "+27 21 422 1599",
+    "website": "http://www.christophermollerart.co.za/",
+    "address": "7 Kloof Nek Rd, Gardens, Cape Town, 8001",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "eastern-food-bazaar": {
+    "placeId": "ChIJNa_uZWNnzB0RVv-g5Wj6Xo4",
+    "googleName": "Eastern Food Bazaar",
+    "coords": {
+      "lat": -33.924579099999995,
+      "lng": 18.4224076
+    },
+    "rating": 4.3,
+    "reviewCount": 9807,
+    "phone": "+27 21 461 2458",
+    "website": "http://www.easternfoodbazaar.co.za/",
+    "address": "96 Longmarket St, Cape Town City Centre, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "the-dogs-bollocks-at-yard": {
+    "placeId": "ChIJZdIh1ntnzB0RAjkMOWET5X8",
+    "googleName": "The Dog's Bollocks at YARD",
+    "coords": {
+      "lat": -33.932265,
+      "lng": 18.419169
+    },
+    "rating": 4.7,
+    "reviewCount": 3514,
+    "phone": "+27 83 440 7843",
+    "website": "https://www.yardco.co.za/",
+    "address": "6 Roodehek St, Gardens, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "pigalle-restaurant": {
+    "placeId": "ChIJQzy7VENnzB0RYZWUTTOByco",
+    "googleName": "Pigalle Restaurant",
+    "coords": {
+      "lat": -33.9129563,
+      "lng": 18.416268300000002
+    },
+    "rating": 4.5,
+    "reviewCount": 2752,
+    "phone": "+27 21 421 4848",
+    "website": "http://www.pigalle.capetown/",
+    "address": "57A Somerset Rd, Green Point, Cape Town, 8051",
+    "hours": {
+      "mon": [
+        {
+          "open": "17:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "17:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "17:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "mama-africa": {
+    "placeId": "ChIJ-f-De2VnzB0RwYNmkT4nR1A",
+    "googleName": "Mama Africa",
+    "coords": {
+      "lat": -33.9251094,
+      "lng": 18.4160568
+    },
+    "rating": 4.2,
+    "reviewCount": 2456,
+    "phone": "+27 60 934 8063",
+    "website": "http://www.mamaafricacpt.com/",
+    "address": "178 Long St, Cape Town City Centre, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "12:00",
+          "close": "02:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "02:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "02:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "02:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "marcos-african-place": {
+    "placeId": "ChIJvfaarWdnzB0Re4U_lVgwKGI",
+    "googleName": "Marco's African Place",
+    "coords": {
+      "lat": -33.9187595,
+      "lng": 18.418136099999998
+    },
+    "rating": 4.4,
+    "reviewCount": 2225,
+    "phone": "+27 21 423 5412",
+    "website": "http://www.marcosafricanplace.com/",
+    "address": "4 Rose Ln, Schotsche Kloof, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "15:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "15:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "our-local-kloof-street": {
+    "placeId": "ChIJS163JlBnzB0R5Bb6f6fSCFQ",
+    "googleName": "Our Local Kloof Street",
+    "coords": {
+      "lat": -33.9325987,
+      "lng": 18.4085091
+    },
+    "rating": 4.4,
+    "reviewCount": 2130,
+    "phone": "+27 64 642 5004",
+    "website": "http://www.ourlocal.co.za/",
+    "address": "117 Kloof St, Gardens, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "15:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "15:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "nelsons-eye-restaurant": {
+    "placeId": "ChIJnYj9K3FnzB0R2Vxg83DTVEQ",
+    "googleName": "Nelsons Eye Restaurant",
+    "coords": {
+      "lat": -33.932741199999995,
+      "lng": 18.412632
+    },
+    "rating": 4.5,
+    "reviewCount": 2120,
+    "phone": "+27 83 701 7101",
+    "website": "http://www.nelsons-eye.co.za/",
+    "address": "9 Hof St, Gardens, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "17:00",
+          "close": "22:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "17:00",
+          "close": "22:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "17:00",
+          "close": "22:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "17:00",
+          "close": "22:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "17:00",
+          "close": "22:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "17:00",
+          "close": "22:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "17:00",
+          "close": "22:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "the-village-buffet": {
+    "placeId": "ChIJ980dy2VnzB0R3G5nKEVK5yY",
+    "googleName": "The Village Buffet",
+    "coords": {
+      "lat": -33.9227549,
+      "lng": 18.4185652
+    },
+    "rating": 3.7,
+    "reviewCount": 1947,
+    "phone": "+27 21 422 3186",
+    "website": "https://thevillagebuffet.shop/",
+    "address": "102 Long St, Cape Town City Centre, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "ala-turkish-restaurant": {
+    "placeId": "ChIJa9hdRkRnzB0RD-BzYIcQ9-k",
+    "googleName": "Ala Turkish Restaurant",
+    "coords": {
+      "lat": -33.9149846,
+      "lng": 18.4189266
+    },
+    "rating": 4.3,
+    "reviewCount": 1839,
+    "phone": "+27 21 139 0037",
+    "website": "https://alaturkish.co.za/",
+    "address": "Shop 110, The Rockwell, Napier St, De Waterkant, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "bokaap-deli": {
+    "placeId": "ChIJF3suzTRnzB0RAC598N5CTOU",
+    "googleName": "Bokaap Deli",
+    "coords": {
+      "lat": -33.9207223,
+      "lng": 18.4158191
+    },
+    "rating": 4.2,
+    "reviewCount": 1592,
+    "phone": "+27 76 346 6207",
+    "website": null,
+    "address": "97, 114 Church St, Bokaap, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "16:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "16:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "16:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "16:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "the-woodlands-eatery": {
+    "placeId": "ChIJz3Sp9oNnzB0ROYNdyl2qUC8",
+    "googleName": "The Woodlands Eatery",
+    "coords": {
+      "lat": -33.9347341,
+      "lng": 18.4160272
+    },
+    "rating": 4.7,
+    "reviewCount": 1448,
+    "phone": "+27 63 710 4742",
+    "website": "https://www.thewoodlandseatery.com/",
+    "address": "8 Breda St, Oranjezicht, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "the-blue-cafe": {
+    "placeId": "ChIJsZupSG1nzB0RrgSH8WXX9lI",
+    "googleName": "The Blue Cafe",
+    "coords": {
+      "lat": -33.9278574,
+      "lng": 18.4051182
+    },
+    "rating": 4.5,
+    "reviewCount": 1306,
+    "phone": "+27 21 426 0250",
+    "website": "http://www.thebluecafe.co.za/",
+    "address": "13 Brownlow Rd, Tamboerskloof, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "bo-kaap-kombuis": {
+    "placeId": "ChIJyc1tK2hnzB0RMRgKOyWj35Q",
+    "googleName": "Bo-Kaap Kombuis",
+    "coords": {
+      "lat": -33.9174676,
+      "lng": 18.412909199999998
+    },
+    "rating": 4.3,
+    "reviewCount": 1083,
+    "phone": "+27 21 422 5446",
+    "website": "https://bokaapkombuis.co.za/",
+    "address": "8001, 7 August St, Schotsche Kloof, Cape Town, 8001",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "16:00"
+        },
+        {
+          "open": "18:00",
+          "close": "21:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "16:00"
+        },
+        {
+          "open": "18:00",
+          "close": "21:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "16:00"
+        },
+        {
+          "open": "18:00",
+          "close": "21:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "16:00"
+        },
+        {
+          "open": "18:00",
+          "close": "21:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "16:00"
+        },
+        {
+          "open": "18:00",
+          "close": "21:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "bootlegger-green-point": {
+    "placeId": "ChIJb0aD-kRnzB0R6P_aw6oiafM",
+    "googleName": "Bootlegger Green Point",
+    "coords": {
+      "lat": -33.9096395,
+      "lng": 18.4132856
+    },
+    "rating": 4.4,
+    "reviewCount": 914,
+    "phone": "+27 21 201 6906",
+    "website": "https://ourcafes.bootlegger.coffee/FoodDrink-CapeTown-BootleggerGreenPoint",
+    "address": "37 Main Rd, Green Point, Cape Town, 8051",
+    "hours": {
+      "mon": [
+        {
+          "open": "06:00",
+          "close": "21:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:00",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:00",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:00",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "06:00",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "21:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "tigers-milk-long-street": {
+    "placeId": "ChIJqzqOH2RnzB0RYb0HL78H0ao",
+    "googleName": "Tiger's Milk Long Street",
+    "coords": {
+      "lat": -33.921251,
+      "lng": 18.420230999999998
+    },
+    "rating": 4.6,
+    "reviewCount": 5042,
+    "phone": "+27 21 422 3556",
+    "website": "https://www.tigersmilk.co.za/location/long-street/?utm_source=google_maps&utm_medium=website_button&utm_campaign=SP&utm_content=SP",
+    "address": "44 Long St, Cape Town City Centre, Cape Town, 8000",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "tigers-milk-kloof-street": {
+    "placeId": "ChIJ0_nJwHFnzB0RU0yMujIlU3E",
+    "googleName": "Tiger's Milk Kloof Street",
+    "coords": {
+      "lat": -33.9292781,
+      "lng": 18.411650299999998
+    },
+    "rating": 4.4,
+    "reviewCount": 4776,
+    "phone": "+27 21 137 1853",
+    "website": "https://www.tigersmilk.co.za/location/kloof-street/?utm_source=google_maps&utm_medium=website_button&utm_campaign=SP&utm_content=SP",
+    "address": "55 Kloof St, Gardens, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "cuba-a-foreshore": {
+    "placeId": "ChIJGe27VENnzB0Rt1uBU6yC44M",
+    "googleName": "Cubaña Foreshore",
+    "coords": {
+      "lat": -33.921265999999996,
+      "lng": 18.4314091
+    },
+    "rating": 4,
+    "reviewCount": 3799,
+    "phone": "+27 21 421 1109",
+    "website": "http://www.cubana.co.za/",
+    "address": "89 Hertzog Blvd, Foreshore, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "04:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "04:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "04:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "04:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "04:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "04:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "04:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "asoka-restaurant-bar-and-lounge": {
+    "placeId": "ChIJl5Jcv3NnzB0RuG1OswkRez0",
+    "googleName": "Asoka Restaurant, Bar and Lounge",
+    "coords": {
+      "lat": -33.9323635,
+      "lng": 18.408345999999998
+    },
+    "rating": 4.3,
+    "reviewCount": 2745,
+    "phone": "+27 21 422 0909",
+    "website": "https://www.asoka.za.com/",
+    "address": "68 Kloof St, Gardens, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "17:00",
+          "close": "01:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "17:00",
+          "close": "01:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "17:00",
+          "close": "01:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "17:00",
+          "close": "01:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "17:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "17:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "17:00",
+          "close": "01:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "utopia-cape-town": {
+    "placeId": "ChIJn5Y5l2dnzB0Rh5Bm-QZC0fo",
+    "googleName": "Utopia Cape Town",
+    "coords": {
+      "lat": -33.9173932,
+      "lng": 18.417866
+    },
+    "rating": 4.4,
+    "reviewCount": 2646,
+    "phone": "+27 21 418 3065",
+    "website": "http://www.utopiacapetown.co.za/",
+    "address": "15th floor, 40 Chiappini St, De Waterkant, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "06:30",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:30",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:30",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:30",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "06:30",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "06:30",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "06:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "clarkes-bar-dining-room": {
+    "placeId": "ChIJnTuF52VnzB0RTGAL7oSEWTU",
+    "googleName": "Clarke's Bar & Dining Room",
+    "coords": {
+      "lat": -33.9223425,
+      "lng": 18.4171662
+    },
+    "rating": 4.3,
+    "reviewCount": 2510,
+    "phone": "+27 21 003 8113",
+    "website": "http://clarkesdining.co.za/",
+    "address": "133 Bree St, Cape Town City Centre, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "marias-greek-caf": {
+    "placeId": "ChIJ4yj-EnpnzB0RGKY9bZACqaM",
+    "googleName": "Maria's Greek Café",
+    "coords": {
+      "lat": -33.9315947,
+      "lng": 18.4166733
+    },
+    "rating": 4.6,
+    "reviewCount": 1625,
+    "phone": "+27 21 461 3333",
+    "website": "https://www.facebook.com/MariasGreekCafe",
+    "address": "31 Barnet St, Gardens, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "harringtons-cocktail-lounge": {
+    "placeId": "ChIJvagy-nxnzB0RN0R-TLaOZa8",
+    "googleName": "Harringtons Cocktail Lounge",
+    "coords": {
+      "lat": -33.928446199999996,
+      "lng": 18.4240784
+    },
+    "rating": 4.3,
+    "reviewCount": 1070,
+    "phone": "+27 78 916 7903",
+    "website": "https://www.harringtonstreet.co.za/",
+    "address": "61B Harrington St, District Six, Cape Town, 7925",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        {
+          "open": "16:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "16:00",
+          "close": "04:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "16:00",
+          "close": "04:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "16:00",
+          "close": "04:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "perseverance-tavern": {
+    "placeId": "ChIJdfBdkntnzB0RdYPIHV0ExNY",
+    "googleName": "Perseverance Tavern",
+    "coords": {
+      "lat": -33.9305164,
+      "lng": 18.420860200000003
+    },
+    "rating": 4.2,
+    "reviewCount": 857,
+    "phone": "+27 82 487 8691",
+    "website": "https://www.facebook.com/share/1E8MLU5Vpc/",
+    "address": "83 Buitenkant St, Cape Town City Centre, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "kong-lounge-bar": {
+    "placeId": "ChIJjxfzbxRnzB0RjES5fHyUmXM",
+    "googleName": "Kong Lounge Bar",
+    "coords": {
+      "lat": -33.9145367,
+      "lng": 18.4185136
+    },
+    "rating": 4.2,
+    "reviewCount": 378,
+    "phone": "+27 71 424 9998",
+    "website": "http://www.kongcapetown.co.za/",
+    "address": "10-12 Cobern St, De Waterkant, Cape Town, 8001",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        {
+          "open": "19:00",
+          "close": "02:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "19:00",
+          "close": "02:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "19:00",
+          "close": "02:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "modular-club": {
+    "placeId": "ChIJFW2YKmFnzB0RfyppqfYyUCk",
+    "googleName": "Modular Club",
+    "coords": {
+      "lat": -33.9184282,
+      "lng": 18.4217411
+    },
+    "rating": 4.3,
+    "reviewCount": 365,
+    "phone": "+27 72 327 5926",
+    "website": "https://modularclub.com/",
+    "address": "Riebeek St, Cape Town City Centre, Cape Town, 8001",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "22:00",
+          "close": "04:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "22:00",
+          "close": "04:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "22:00",
+          "close": "04:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "22:00",
+          "close": "04:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "22:00",
+          "close": "04:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "the-labia-theatre": {
+    "placeId": "ChIJ9SlUsnFnzB0RBuDJN-_3nN8",
+    "googleName": "The Labia Theatre",
+    "coords": {
+      "lat": -33.930101799999996,
+      "lng": 18.4123591
+    },
+    "rating": 4.6,
+    "reviewCount": 4019,
+    "phone": "+27 21 424 5927",
+    "website": "http://www.thelabia.co.za/",
+    "address": "68 Orange St, Gardens, Cape Town, 8000",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "bubble-waffle": {
+    "placeId": "ChIJT8BCeodnzB0RmuYo4qrp0UM",
+    "googleName": "Bubble Waffle",
+    "coords": {
+      "lat": -33.9242098,
+      "lng": 18.4219138
+    },
+    "rating": 4.2,
+    "reviewCount": 130,
+    "phone": null,
+    "website": null,
+    "address": "8 Parliament St, Cape Town City Centre, Cape Town, 8000",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:30",
+          "close": "21:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:30",
+          "close": "21:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:30",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:30",
+          "close": "21:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:30",
+          "close": "21:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "everyday-we-waffeling": {
+    "placeId": "ChIJm9zqkn5nzB0R0-PfRavjEP4",
+    "googleName": "Everyday we waffeling",
+    "coords": {
+      "lat": -33.918477599999996,
+      "lng": 18.423062299999998
+    },
+    "rating": 3.9,
+    "reviewCount": 20,
+    "phone": null,
+    "website": null,
+    "address": "2 Long St, Cape Town City Centre, Cape Town, 8000",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "de-waal-park": {
+    "placeId": "ChIJuRUmUnZnzB0Rke1WGkG790A",
+    "googleName": "De Waal Park",
+    "coords": {
+      "lat": -33.9363496,
+      "lng": 18.4123977
+    },
+    "rating": 4.5,
+    "reviewCount": 2603,
+    "phone": "+27 84 888 8033",
+    "website": "http://www.dewaalpark.co.za/",
+    "address": "Molteno Rd, CBD, Cape Town, 8000",
+    "hours": {
+      "mon": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "the-companys-garden": {
+    "placeId": "ChIJC8hJ4oFnzB0RsmmEiDYi_Vk",
+    "googleName": "The Company’s Garden",
+    "coords": {
+      "lat": -33.925254599999995,
+      "lng": 18.4196523
+    },
+    "rating": 4.6,
+    "reviewCount": 171,
+    "phone": null,
+    "website": null,
+    "address": "12 Government Ave, Cape Town City Centre, Cape Town, 8000",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "prestwich-memorial": {
+    "placeId": "ChIJIyDlLmdnzB0RrMF8T7hgZbY",
+    "googleName": "Prestwich Memorial",
+    "coords": {
+      "lat": -33.917539399999995,
+      "lng": 18.4195514
+    },
+    "rating": 4.2,
+    "reviewCount": 38,
+    "phone": "+27 21 418 0073",
+    "website": "https://sahistory.org.za/place/prestwich-memorial-and-garden",
+    "address": "Buitengracht St, Cape Town City Centre, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "12:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "erf-81-community-tamboerskloof-farm": {
+    "placeId": "ChIJVVVVRWxnzB0RESsGGpf3yfw",
+    "googleName": "Erf 81 Community (Tamboerskloof Farm)",
+    "coords": {
+      "lat": -33.9253113,
+      "lng": 18.4075761
+    },
+    "rating": 4.3,
+    "reviewCount": 35,
+    "phone": "+27 79 956 2423",
+    "website": null,
+    "address": "Erf81, Military Rd, Tamboerskloof, Cape Town, 8001",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "the-shack": {
+    "placeId": "ChIJLRPXbn5nzB0RvCANY-x-WyA",
+    "googleName": "The Shack",
+    "coords": {
+      "lat": -33.9322241,
+      "lng": 18.425624199999998
+    },
+    "rating": 4.2,
+    "reviewCount": 1014,
+    "phone": null,
+    "website": null,
+    "address": "45 De Villiers St, District Six, Cape Town, 7925",
+    "hours": {
+      "mon": [
+        {
+          "open": "18:00",
+          "close": "04:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "18:00",
+          "close": "04:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "18:00",
+          "close": "04:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "18:00",
+          "close": "04:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "18:00",
+          "close": "04:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "18:00",
+          "close": "04:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "18:00",
+          "close": "01:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "long-street-baths": {
+    "placeId": "ChIJF58Q229nzB0RP3jv0e6Pyo0",
+    "googleName": "Long Street Baths",
+    "coords": {
+      "lat": -33.9272796,
+      "lng": 18.4140682
+    },
+    "rating": 4.3,
+    "reviewCount": 657,
+    "phone": "+27 21 444 0935",
+    "website": "https://www.capetown.gov.za/Family%20and%20home/see-all-city-facilities/our-recreational-facilities/Swimming%20pools/Long%20Street%20Indoor%20Swimming%20Pool",
+    "address": "Long St, Gardens, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "cape-town-city-hall": {
+    "placeId": "ChIJJUj_OmNnzB0RGBwoRd497Os",
+    "googleName": "Cape Town City Hall",
+    "coords": {
+      "lat": -33.9253403,
+      "lng": 18.4238614
+    },
+    "rating": 4.5,
+    "reviewCount": 571,
+    "phone": "+27 21 444 7518",
+    "website": "https://www.capetown.gov.za/Explore%20and%20enjoy/See-all-city-facilities/our-signature-venues/cape-town-city-hall",
+    "address": "Darling St, CBD, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "gs-africa-eagle-rider-motorcycle-rentals": {
+    "placeId": "ChIJq-Ri3N9YzB0RXnX4NYJkink",
+    "googleName": "GS Africa | Eagle Rider Motorcycle Rentals & Tours (BMW, Harley-Davidson, KTM, Yamaha, Honda, Ducati)",
+    "coords": {
+      "lat": -33.919270499999996,
+      "lng": 18.4176051
+    },
+    "rating": 4.8,
+    "reviewCount": 269,
+    "phone": "+27 71 515 3808",
+    "website": "https://www.gsafrica.com/?utm_source=gmb&utm_medium=organic&utm_campaign=capetown",
+    "address": "21A Rose St, Cape Town City Centre, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "17:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "shukokai-sport-shooting-range": {
+    "placeId": "ChIJuUjS5Y9nzB0RxpQXlhpUw0M",
+    "googleName": "Shukokai Sport Shooting Range",
+    "coords": {
+      "lat": -33.9216747,
+      "lng": 18.410686
+    },
+    "rating": 4.7,
+    "reviewCount": 18,
+    "phone": "+27 61 424 1278",
+    "website": "https://www.facebook.com/Shukokai.Practical.Shooting.Club/",
+    "address": "19 Military Rd, Schotsche Kloof, Cape Town, 8001",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "dhl-stadium": {
+    "placeId": "ChIJMW70K09nzB0ROXRQqLI9zac",
+    "googleName": "DHL Stadium",
+    "coords": {
+      "lat": -33.9034439,
+      "lng": 18.411154700000004
+    },
+    "rating": 4.6,
+    "reviewCount": 17411,
+    "phone": "+27 21 417 0111",
+    "website": "https://dhlstadium.co.za/",
+    "address": "Fritz Sonnenberg Rd, Green Point, Cape Town, 8051",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "sea-point-pavilion": {
+    "placeId": "ChIJ9ZAgDSFnzB0RtaIfaO0TS9k",
+    "googleName": "Sea Point Pavilion",
+    "coords": {
+      "lat": -33.9183115,
+      "lng": 18.3844044
+    },
+    "rating": 4.4,
+    "reviewCount": 4645,
+    "phone": "+27 21 814 1052",
+    "website": "https://www.capetown.gov.za/Family%20and%20home/See-all-city-facilities/Our-recreational-facilities/Swimming%20pools/Sea%20Point%20Swimming%20Pool",
+    "address": "Lower, Beach Rd, Sea Point, Cape Town, 8060",
+    "hours": {
+      "mon": [
+        {
+          "open": "12:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "jack-skye-rooftop-bar-and-restaurant": {
+    "placeId": "ChIJzQ436ahnzB0RuyXAWZPL2qw",
+    "googleName": "Jack@SKYE Rooftop Bar and Restaurant",
+    "coords": {
+      "lat": -33.91204,
+      "lng": 18.39065
+    },
+    "rating": 4.4,
+    "reviewCount": 603,
+    "phone": "+27 21 434 0205",
+    "website": "https://www.thehydehotel.com/venues",
+    "address": "13 London Rd, Sea Point, Cape Town, 8005",
+    "hours": {
+      "mon": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "into-the-blue-scuba-dive-centre-cape-tow": {
+    "placeId": "ChIJuc9zkjpnzB0RjZQczC9FgnE",
+    "googleName": "Into the Blue Scuba Dive Centre Cape Town",
+    "coords": {
+      "lat": -33.9103658,
+      "lng": 18.394178099999998
+    },
+    "rating": 4.8,
+    "reviewCount": 297,
+    "phone": "+27 64 772 2646",
+    "website": "http://www.diveschoolcapetown.co.za/",
+    "address": "88_b, Main Rd, Sea Point, Cape Town, 8005",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": []
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "mojo-market": {
+    "placeId": "ChIJETLciCFnzB0RH1qo-JSNf38",
+    "googleName": "Mojo Market",
+    "coords": {
+      "lat": -33.9192971,
+      "lng": 18.3858253
+    },
+    "rating": 4.5,
+    "reviewCount": 17080,
+    "phone": null,
+    "website": "http://mojomarket.co.za/",
+    "address": "30 Regent Rd, Sea Point, Cape Town, 8060",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "the-butcher-shop-grill": {
+    "placeId": "ChIJg1lANDRnzB0R6ACHIgkfTEY",
+    "googleName": "The Butcher Shop & Grill",
+    "coords": {
+      "lat": -33.9015718,
+      "lng": 18.400574499999998
+    },
+    "rating": 4.5,
+    "reviewCount": 3251,
+    "phone": "+27 21 434 0758",
+    "website": "http://www.thebutchershop.co.za/",
+    "address": "125 Beach Rd, Mouille Point, Cape Town, 8005",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "bobos-by-kove-collection": {
+    "placeId": "ChIJ5wVizgpnzB0RPL4zNXFTp0I",
+    "googleName": "Bobo's by Kove Collection",
+    "coords": {
+      "lat": -33.900155,
+      "lng": 18.405630800000004
+    },
+    "rating": 4.4,
+    "reviewCount": 2208,
+    "phone": "+27 21 439 9027",
+    "website": "https://www.bobos.co.za/",
+    "address": "Cnr Beach Rd, and, Two Oceans Beach, Surrey Pl, Mouille Point, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "cafe-extrablatt": {
+    "placeId": "ChIJoyov10dnzB0R-gRGst00XmE",
+    "googleName": "Cafe Extrablatt",
+    "coords": {
+      "lat": -33.9085296,
+      "lng": 18.4109372
+    },
+    "rating": 4.2,
+    "reviewCount": 2202,
+    "phone": "+27 21 434 3759",
+    "website": "http://www.cafe-extrablatt.co.za/",
+    "address": "79 Main Rd, Green Point, Cape Town, 8005",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "01:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "01:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "01:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "01:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "01:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "01:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "01:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "rockpool-cape-town": {
+    "placeId": "ChIJzYFxUiRnzB0Rh7OskIN5bVM",
+    "googleName": "Rockpool Cape Town",
+    "coords": {
+      "lat": -33.9092735,
+      "lng": 18.3934332
+    },
+    "rating": 4.3,
+    "reviewCount": 2142,
+    "phone": "+27 21 433 1530",
+    "website": "https://www.rockpoolct.co.za/",
+    "address": "205 Beach Rd, Sea Point, Cape Town, 8005",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "strolla-restaurant-bar": {
+    "placeId": "ChIJlUdC999mzB0R1-3tZkoNvd8",
+    "googleName": "Strolla Restaurant & Bar",
+    "coords": {
+      "lat": -33.9214585,
+      "lng": 18.3800042
+    },
+    "rating": 4.1,
+    "reviewCount": 1343,
+    "phone": "+27 21 430 7778",
+    "website": "http://strolla.co.za/contact/",
+    "address": "309 Beach Rd, Sea Point, Cape Town, 8060",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "bud-lounge-sea-point": {
+    "placeId": "ChIJPW5ddW1nzB0RnaY_IwmjHoI",
+    "googleName": "Bud Lounge Sea Point",
+    "coords": {
+      "lat": -33.9166344,
+      "lng": 18.388638099999998
+    },
+    "rating": 3.8,
+    "reviewCount": 17,
+    "phone": "+27 82 373 6880",
+    "website": "https://www.budlounge.co.za/",
+    "address": "I, 176 Main Rd, Sea Point, Cape Town, 8005",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "green-point-park": {
+    "placeId": "ChIJrfmRVzZnzB0RupuFfQj-5D0",
+    "googleName": "Green Point Park",
+    "coords": {
+      "lat": -33.9041068,
+      "lng": 18.4010964
+    },
+    "rating": 4.7,
+    "reviewCount": 12752,
+    "phone": "+27 21 444 3903",
+    "website": null,
+    "address": "1 Fritz Sonnenberg Rd, Green Point, Cape Town, 8051",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "mouille-point-beach": {
+    "placeId": "ChIJxyNocExnzB0RZkPzvrq3yiM",
+    "googleName": "Mouille Point Beach",
+    "coords": {
+      "lat": -33.8992594,
+      "lng": 18.4090575
+    },
+    "rating": 4.4,
+    "reviewCount": 1258,
+    "phone": "+27 83 680 464",
+    "website": null,
+    "address": "Mouille Point Beach, Mouille Point, Cape Town, 8005",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "sunset-beach-2": {
+    "placeId": "ChIJ5RqmcCBnzB0RhJQZ1TpZivM",
+    "googleName": "Sunset Beach",
+    "coords": {
+      "lat": -33.9202508,
+      "lng": 18.3803168
+    },
+    "rating": 4.5,
+    "reviewCount": 827,
+    "phone": null,
+    "website": null,
+    "address": "Sunset Beach, Sea Point, Cape Town, 8060",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "clifton-1st": {
+    "placeId": "ChIJEZV51_xmzB0RjInEwYCwJZw",
+    "googleName": "Clifton 1st",
+    "coords": {
+      "lat": -33.9338945,
+      "lng": 18.3769791
+    },
+    "rating": 4.6,
+    "reviewCount": 298,
+    "phone": null,
+    "website": null,
+    "address": "Clifton 1st, Clifton, Cape Town, 8005",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "saunders-rocks-beach": {
+    "placeId": "ChIJL0UPiuBmzB0RicEyB8Id_LI",
+    "googleName": "Saunders' Rocks Beach",
+    "coords": {
+      "lat": -33.9237945,
+      "lng": 18.3769791
+    },
+    "rating": 4.6,
+    "reviewCount": 210,
+    "phone": null,
+    "website": null,
+    "address": "Saunders' Rocks Beach, Cape Town, 8005",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "milton-beach": {
+    "placeId": "ChIJAXkBoCZnzB0RXm6_Fu9I3bw",
+    "googleName": "Milton Beach",
+    "coords": {
+      "lat": -33.914344299999996,
+      "lng": 18.385879799999998
+    },
+    "rating": 4.4,
+    "reviewCount": 65,
+    "phone": null,
+    "website": null,
+    "address": "Milton Beach, Sea Point, Cape Town, 8060",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "brokenbath-beach": {
+    "placeId": "ChIJWVNYWyFnzB0RvSGU6jT2JCk",
+    "googleName": "Brokenbath Beach",
+    "coords": {
+      "lat": -33.917094999999996,
+      "lng": 18.3855089
+    },
+    "rating": 4.5,
+    "reviewCount": 34,
+    "phone": null,
+    "website": null,
+    "address": "Brokenbath Beach",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "three-anchor-bay": {
+    "placeId": "ChIJNd7R1DBnzB0RzDUc-of0vdo",
+    "googleName": "Three Anchor Bay",
+    "coords": {
+      "lat": -33.9061897,
+      "lng": 18.3978404
+    },
+    "rating": 4.4,
+    "reviewCount": 27,
+    "phone": null,
+    "website": null,
+    "address": "Three Anchor Bay, Cape Town, 8005",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "noons-gun-hiking-trail": {
+    "placeId": "ChIJEez8DgBnzB0RyNoB8GXhZZY",
+    "googleName": "Noons Gun Hiking trail",
+    "coords": {
+      "lat": -33.9138279,
+      "lng": 18.398093199999998
+    },
+    "rating": 4,
+    "reviewCount": 18,
+    "phone": null,
+    "website": null,
+    "address": "Rhine Rd, Sea Point, Cape Town, 8060",
+    "hours": null,
+    "checkedAt": "2026-07-23"
+  },
+  "the-rock": {
+    "placeId": "ChIJjbd4kOJmzB0RkE0iy_wAkQc",
+    "googleName": "The Rock",
+    "coords": {
+      "lat": -33.931356199999996,
+      "lng": 18.3792635
+    },
+    "rating": 4.8,
+    "reviewCount": 804,
+    "phone": null,
+    "website": "https://www.capetownetc.com/things-to-do-cape-town/5-picture-perfect-spots-around-cape-town/",
+    "address": "405 Ocean View Dr, Bantry Bay, Cape Town, 8005",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "amani-spa-and-wellness-at-radisson-colle": {
+    "placeId": "ChIJsQrOM1BnzB0RE_jZN6jukyE",
+    "googleName": "Amani Spa and Wellness at Radisson Collection Waterfront, Cape Town",
+    "coords": {
+      "lat": -33.8999762,
+      "lng": 18.4117634
+    },
+    "rating": 4.6,
+    "reviewCount": 142,
+    "phone": "+27 21 441 3332",
+    "website": "https://waterfront.amanispas.co.za/",
+    "address": "Radisson Collection Hotel, Waterfront 100 Beach Road, Granger Bay Blvd, Mouille Point, Cape Town, 8002",
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "the-hussar-grill-mouille-point": {
+    "placeId": "ChIJwWdbDkZnzB0RwrvOWd0A1qg",
+    "googleName": "The Hussar Grill Mouille Point",
+    "coords": {
+      "lat": -33.904113699999996,
+      "lng": 18.398816
+    },
+    "rating": 4.5,
+    "reviewCount": 3908,
+    "phone": "+27 21 433 2081",
+    "website": "https://hussargrill.co.za/locations/mouille-point?utm_source=google_maps&utm_medium=website_button&utm_campaign=SP&utm_content=SP",
+    "address": "New Cumberland Building, Beach Rd, Mouille Point, Cape Town, 8005",
+    "hours": {
+      "mon": [
+        {
+          "open": "12:00",
+          "close": "22:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "22:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "22:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "22:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "22:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "22:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "22:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "jarryds": {
+    "placeId": "ChIJ880OJCBnzB0RLQv_25AQjzo",
+    "googleName": "JARRYDS.",
+    "coords": {
+      "lat": -33.9215552,
+      "lng": 18.382167199999998
+    },
+    "rating": 4.5,
+    "reviewCount": 3346,
+    "phone": "+27 21 023 3642",
+    "website": "https://www.nonamehg.com/jarryds",
+    "address": "90 Regent Rd, Sea Point, Cape Town, 8005",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:30",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "giovannis": {
+    "placeId": "ChIJoSQsuqxnzB0Rza9F8ZJA2eE",
+    "googleName": "Giovanni's",
+    "coords": {
+      "lat": -33.9080128,
+      "lng": 18.4095782
+    },
+    "rating": 4.7,
+    "reviewCount": 2585,
+    "phone": "+27 21 434 6893",
+    "website": "http://www.giovannisdeliworld.co.za/",
+    "address": "103 Main Rd, Green Point, Cape Town, 8051",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:30",
+          "close": "20:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "posticino-italian-restaurant": {
+    "placeId": "ChIJkYsauiRnzB0R32SkO1Sbp7o",
+    "googleName": "Posticino Italian Restaurant",
+    "coords": {
+      "lat": -33.913706399999995,
+      "lng": 18.3917417
+    },
+    "rating": 4.4,
+    "reviewCount": 2235,
+    "phone": "+27 21 439 4014",
+    "website": "http://www.posticino.co.za/",
+    "address": "323 Main Rd, Sea Point, Cape Town, 8060",
+    "hours": {
+      "mon": [
+        {
+          "open": "12:30",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "12:30",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:30",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:30",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:30",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:30",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:30",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "la-perla-restaurant-cape-town": {
+    "placeId": "ChIJ50k4eSFnzB0RJVibXjx9rAs",
+    "googleName": "La Perla Restaurant Cape Town",
+    "coords": {
+      "lat": -33.9186793,
+      "lng": 18.3856569
+    },
+    "rating": 3.9,
+    "reviewCount": 1952,
+    "phone": "+27 21 439 9538",
+    "website": "http://www.laperla.co.za/",
+    "address": "281 Beach Rd, Sea Point, Cape Town, 8005",
+    "hours": {
+      "mon": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "newport-market-deli": {
+    "placeId": "ChIJmRLIPTRnzB0RyR_5Uo0YHE0",
+    "googleName": "Newport Market & Deli",
+    "coords": {
+      "lat": -33.9018003,
+      "lng": 18.4007224
+    },
+    "rating": 4.3,
+    "reviewCount": 1469,
+    "phone": "+27 21 439 1538",
+    "website": "http://www.newportdeli.co.za/",
+    "address": "125 Beach Rd, Mouille Point, Cape Town, 8005",
+    "hours": {
+      "mon": [
+        {
+          "open": "06:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:30",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:30",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:30",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "06:30",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "06:30",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "06:30",
+          "close": "20:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "tobagos-restaurant-bar-and-terrace": {
+    "placeId": "ChIJc74DME5nzB0RYm_mp-QJLfE",
+    "googleName": "Tobago's Restaurant, Bar and Terrace",
+    "coords": {
+      "lat": -33.899150899999995,
+      "lng": 18.4124653
+    },
+    "rating": 4.3,
+    "reviewCount": 790,
+    "phone": "+27 21 441 3414",
+    "website": "https://www.radissonhotels.com/en-us/hotels/radisson-collection-cape-town-waterfront/dining",
+    "address": "100 Beach Road, Granger Bay Blvd, Waterfront, Cape Town, 8002",
+    "hours": {
+      "mon": [
+        {
+          "open": "06:30",
+          "close": "22:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "06:30",
+          "close": "22:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "06:30",
+          "close": "22:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "06:30",
+          "close": "22:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "06:30",
+          "close": "22:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "06:30",
+          "close": "22:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "06:30",
+          "close": "22:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "paulines": {
+    "placeId": "ChIJFVVtANxnzB0RATKtZsCjFz8",
+    "googleName": "Pauline's",
+    "coords": {
+      "lat": -33.9111194,
+      "lng": 18.3939574
+    },
+    "rating": 4.5,
+    "reviewCount": 594,
+    "phone": "+27 21 205 4466",
+    "website": "http://paulinescoffee.com/",
+    "address": "277 Main Rd, Sea Point, Cape Town, 8005",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "the-greek-club-restaurant": {
+    "placeId": "ChIJiQZNm9BnzB0RXXfhRsnv9L8",
+    "googleName": "The Greek Club Restaurant",
+    "coords": {
+      "lat": -33.900734,
+      "lng": 18.4068579
+    },
+    "rating": 4.3,
+    "reviewCount": 220,
+    "phone": "+27 21 801 4514",
+    "website": "https://www.eatout.co.za/venue/greek-club-restaurant-cape-town/",
+    "address": "24 Bay Rd, Mouille Point, Cape Town, 8005",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "12:30",
+          "close": "21:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:30",
+          "close": "21:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:30",
+          "close": "21:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:30",
+          "close": "21:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "amare": {
+    "placeId": "ChIJ83YdJTtnzB0RgRI_B0zLp1k",
+    "googleName": "Amare",
+    "coords": {
+      "lat": -33.9260454,
+      "lng": 18.37908
+    },
+    "rating": 4,
+    "reviewCount": 155,
+    "phone": null,
+    "website": "https://amarecapetown.com/",
+    "address": "29 Victoria Rd, Bantry Bay, Cape Town, 8005",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:30",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:30",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:30",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:30",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:30",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:30",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:30",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "the-creamery-caf-mouille-point": {
+    "placeId": "ChIJ5Xi_tzZnzB0RGIFFMzfNpsg",
+    "googleName": "The Creamery Café Mouille Point",
+    "coords": {
+      "lat": -33.904218,
+      "lng": 18.399154499999998
+    },
+    "rating": 4.5,
+    "reviewCount": 1557,
+    "phone": "+27 21 447 1014",
+    "website": "http://www.thecreamery.co.za/",
+    "address": "2 Park Rd, Mouille Point, Cape Town, 8005",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "crumbs-cream": {
+    "placeId": "ChIJk4paLiJnzB0RfKjxFHUGex4",
+    "googleName": "Crumbs & Cream",
+    "coords": {
+      "lat": -33.912857699999996,
+      "lng": 18.39203
+    },
+    "rating": 4.3,
+    "reviewCount": 1264,
+    "phone": "+27 67 446 2352",
+    "website": "http://www.crumbsandcream.co.za/",
+    "address": "126 Main Rd, Sea Point, Cape Town, 8060",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "moro-gelato-regent-rd-sea-point": {
+    "placeId": "ChIJPyOXCP9nzB0RAHvPxmPOGEI",
+    "googleName": "Moro Gelato, Regent Rd, Sea Point",
+    "coords": {
+      "lat": -33.9220124,
+      "lng": 18.3817758
+    },
+    "rating": 4.7,
+    "reviewCount": 1047,
+    "phone": null,
+    "website": "http://morogelato.co.za/",
+    "address": "85 Regent Rd, Sea Point, Cape Town, 8060",
+    "hours": {
+      "mon": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "gelato-mania-green-point": {
+    "placeId": "ChIJPfFRUHtnzB0RMmv5fHSbwtA",
+    "googleName": "Gelato Mania Green Point",
+    "coords": {
+      "lat": -33.9087416,
+      "lng": 18.4113349
+    },
+    "rating": 4.4,
+    "reviewCount": 1029,
+    "phone": "+27 73 201 8650",
+    "website": "http://www.gelatomania.co.za/",
+    "address": "65 Main Rd, Green Point, Cape Town, 8005",
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "22:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "22:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "22:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "22:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "22:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "22:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "22:30"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "icezeit-gelateria-and-espresso-bar": {
+    "placeId": "ChIJR8Ia0GZnzB0Ryxfo08Gn6n8",
+    "googleName": "Icezeit Gelateria and Espresso Bar",
+    "coords": {
+      "lat": -33.9180163,
+      "lng": 18.385593999999998
+    },
+    "rating": 4,
+    "reviewCount": 59,
+    "phone": "+27 83 399 9155",
+    "website": "http://www.icezeit.co.za/",
+    "address": "3 Beach Rd, Sea Point, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "dinkys-sea-point": {
+    "placeId": "ChIJe-8qzyZnzB0RIQ7S9V7k0lM",
+    "googleName": "Dinkys Sea Point",
+    "coords": {
+      "lat": -33.910453,
+      "lng": 18.3941178
+    },
+    "rating": 4.8,
+    "reviewCount": 25,
+    "phone": "+27 68 201 7863",
+    "website": null,
+    "address": "92 Main Rd, Sea Point, Cape Town, 8001",
+    "hours": {
+      "mon": [
+        {
+          "open": "11:30",
+          "close": "22:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:30",
+          "close": "22:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:30",
+          "close": "22:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:30",
+          "close": "22:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:30",
+          "close": "22:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:30",
+          "close": "22:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:30",
+          "close": "22:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "you-i-art-gallery-sea-point": {
+    "placeId": "ChIJsS7S1ONnzB0RY6rFEnv8Nuw",
+    "googleName": "YOU&I Art Gallery Sea Point",
+    "coords": {
+      "lat": -33.921653299999996,
+      "lng": 18.382732
+    },
+    "rating": 5,
+    "reviewCount": 38,
+    "phone": "+27 72 737 1714",
+    "website": "https://youandigallery.com/",
+    "address": "77 Regent Rd, Sea Point, Cape Town, 8005",
+    "hours": {
+      "mon": [
+        {
+          "open": "09:30",
+          "close": "17:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:30",
+          "close": "17:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:30",
+          "close": "17:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:30",
+          "close": "17:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:30",
+          "close": "17:00"
+        }
+      ],
+      "sat": [],
+      "sun": [
+        {
+          "open": "09:30",
+          "close": "15:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "rhinocerus-image-of-a-rhino-through-vari": {
+    "placeId": "ChIJ_VWOii9nzB0Ro8V0_d-xM14",
+    "googleName": "Rhinocerus (Image of a Rhino through various single elements)",
+    "coords": {
+      "lat": -33.9095076,
+      "lng": 18.3907821
+    },
+    "rating": 4.5,
+    "reviewCount": 25,
+    "phone": null,
+    "website": null,
+    "address": "Sea Point Promenade, Sea Point, Cape Town, 8060",
+    "hours": {
+      "mon": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "checkedAt": "2026-07-23"
+  },
+  "art-haus-sea-point-art-gallery": {
+    "placeId": "ChIJY7XY_ehnzB0ROgvXyoHwvtw",
+    "googleName": "Art HAUS Sea Point Art Gallery",
+    "coords": {
+      "lat": -33.9198367,
+      "lng": 18.3855783
+    },
+    "rating": 5,
+    "reviewCount": 19,
+    "phone": "+27 82 786 2181",
+    "website": "http://www.arthausct.co.za/",
+    "address": "3 Clarens Rd, Sea Point, Cape Town, 8060",
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "15:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:30",
+          "close": "14:30"
+        }
+      ],
+      "sun": []
     },
     "checkedAt": "2026-07-23"
   }

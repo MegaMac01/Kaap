@@ -89,6 +89,24 @@ const AREA_TILES: Partial<Record<AreaId, Circle[]>> = {
     { lat: -33.82, lng: 18.92, radius: 5000 }, // Simondium / Klapmuts
     { lat: -34.0787, lng: 18.8433, radius: 4000 }, // Somerset West / Helderberg
   ],
+  // Dense inner-city core: small radii because the CBD/Gardens packs more
+  // than 20 venues into a few blocks (Nearby Search caps at 20 per call).
+  citybowl: [
+    { lat: -33.922, lng: 18.419, radius: 700 }, // Long St / Bree St / CBD
+    { lat: -33.9255, lng: 18.4235, radius: 650 }, // Company's Garden / St George's Mall
+    { lat: -33.93, lng: 18.411, radius: 750 }, // Kloof St / Gardens
+    { lat: -33.9335, lng: 18.418, radius: 800 }, // Oranjezicht / Vredehoek
+    { lat: -33.919, lng: 18.413, radius: 550 }, // Bo-Kaap
+    { lat: -33.9155, lng: 18.4115, radius: 700 }, // De Waterkant / Loader St
+    { lat: -33.927, lng: 18.427, radius: 800 }, // East City / District Six fringe
+  ],
+  seapoint: [
+    { lat: -33.9155, lng: 18.385, radius: 900 }, // Sea Point Main / Regent Rd
+    { lat: -33.912, lng: 18.383, radius: 700 }, // Sea Point promenade / Beach Rd
+    { lat: -33.9075, lng: 18.4005, radius: 1100 }, // Green Point / Three Anchor Bay
+    { lat: -33.8995, lng: 18.405, radius: 800 }, // Mouille Point
+    { lat: -33.9245, lng: 18.378, radius: 1000 }, // Fresnaye / Bantry Bay
+  ],
 };
 
 /** Google place types → our categories. Order = priority when a venue
