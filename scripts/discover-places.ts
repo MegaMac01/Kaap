@@ -170,6 +170,14 @@ const ACTIVITY_SWEEPS: Record<string, { query: string; category: Category; sig: 
     category: "family",
     sig: /flower|lavender|protea|fynbos|rose|bloom|dahlia|tulp|tulip/i,
   },
+  // Hiking is dense across the Cape; the signature leans on trail/peak/kloof
+  // naming, with hiking_area/national_park/nature-reserve types catching the
+  // rest. Bike/horse "trails" that slip in get pruned at import review.
+  hike: {
+    query: "hiking trail",
+    category: "outdoor",
+    sig: /\bhik|\btrail|kloof|gorge|ravine|\bpeak\b|summit|\bnek\b|waterfall|nature reserve|forest|buttress|contour|pipe track|mountain\b/i,
+  },
 };
 
 /** Retail masquerading as activity results (board shops, repair benches). */
@@ -195,6 +203,9 @@ const ACTIVITY_OK_TYPES = new Set([
   "campground",
   "park",
   "hiking_area",
+  "national_park",
+  "nature_preserve",
+  "state_park",
   "marina",
   "amusement_park",
   "amusement_center",

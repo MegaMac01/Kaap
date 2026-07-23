@@ -2851,5 +2851,475 @@
     "placeId": "ChIJeQiJgCptzR0Ri_GffeN6cu8",
     "googleName": "Hoogwater Farm",
     "address": "Romansrivier, Wolseley"
+  },
+  "robberg-nature-reserve": {
+    "placeId": "ChIJSQ96Y1sdeR4ReYl8aax6-Q0",
+    "googleName": "Robberg Nature Reserve",
+    "address": "Robberg"
+  },
+  "jonkershoek-nature-reserve": {
+    "placeId": "ChIJOX_q6xu6zR0R4W2isx1HZBE",
+    "googleName": "Jonkershoek Nature Reserve",
+    "address": "Jonkershoek Rd, Stellenbosch, 7600"
+  },
+  "tygerberg-nature-reserve": {
+    "placeId": "ChIJt1J-Xx9azB0R6Q-Mc7GqAv8",
+    "googleName": "Tygerberg Nature Reserve",
+    "address": "27 Totius St, Welgemoed, Cape Town, 7530"
+  },
+  "alphen-trail": {
+    "placeId": "ChIJJ6NGVYtCzB0RfUs5FS3mIBI",
+    "googleName": "Alphen Trail",
+    "address": "31 Alphen Dr, Alphen, Cape Town, 7806"
+  },
+  "robberg-hiking-trail": {
+    "placeId": "ChIJ4batPp_ieB4REwAo5voKLH8",
+    "googleName": "Robberg Hiking Trail",
+    "address": "S34 06.037 E23 22.652"
+  },
+  "east-head-view-point": {
+    "placeId": "ChIJsRqYxpfreB4RgF64moJU-ec",
+    "googleName": "East Head View Point",
+    "address": "22 Glen View Rd, The Heads, Knysna, 6571"
+  },
+  "blaauwberg-nature-reserve": {
+    "placeId": "ChIJl-wbbD71zB0RObDjoMqsU7w",
+    "googleName": "Blaauwberg Nature Reserve",
+    "address": "Eerste Steen Resort, Otto du Plessis Dr, Bloubergstrand, Cape Town, 7441"
+  },
+  "majik-forest": {
+    "placeId": "ChIJr_59q1NXzB0RT7DmLNBJnNw",
+    "googleName": "Majik Forest",
+    "address": "Van Riebeeckshof Rd, Van Riebeeckshof, Cape Town, 7530"
+  },
+  "fernkloof-nature-reserve": {
+    "placeId": "ChIJWWfs_0YKzh0R_N4m1V0gC40",
+    "googleName": "Fernkloof Nature Reserve",
+    "address": "Hermanus, 7200"
+  },
+  "de-hoop-nature-reserve": {
+    "placeId": "ChIJzegVX-1s0R0Roj1vwF3tcXs",
+    "googleName": "De Hoop Nature Reserve",
+    "address": "De Hoop Nature Reserve, Potberg, 6740"
+  },
+  "kogelberg-nature-reserve": {
+    "placeId": "ChIJP-PE58bRzR0RWsw2RDweKII",
+    "googleName": "Kogelberg Nature Reserve",
+    "address": "Off- R44 between Kleinmond and, Betty's Bay, 7141"
+  },
+  "west-coast-national-park-marine-protecte": {
+    "placeId": "ChIJV0sCsXdVMxwRFn-RDtxRvKQ",
+    "googleName": "West Coast National Park Marine Protected Area",
+    "address": "Langebaan"
+  },
+  "point-of-human-origins": {
+    "placeId": "ChIJh8lQ_Clo1h0RTeYK8yc8YEI",
+    "googleName": "Point of Human Origins",
+    "address": "Pinnacle Point, Mossel Bay, 6511"
+  },
+  "haweqwa-nature-reserve": {
+    "placeId": "ChIJ1adSGekKzR0RIRaum_2vl9I",
+    "googleName": "Haweqwa Nature Reserve",
+    "address": "South Africa"
+  },
+  "the-pipe-track": {
+    "placeId": "ChIJvUz1wwBnzB0RCClk-Ln_8qw",
+    "googleName": "The Pipe Track",
+    "address": "Cape Town Lower Tafelberg 1, Table Mountain (Nature Reserve), Cape Town"
+  },
+  "goukamma-nature-reserve": {
+    "placeId": "ChIJnYDmowCWeB4R3OojoCuj41Q",
+    "googleName": "Goukamma Nature Reserve",
+    "address": "Goukamma Nature Reserve, Buffels Bay, Knysna, 6570"
+  },
+  "featherbed-nature-reserve": {
+    "placeId": "ChIJkS2GXG_reB4Rmh0KTwF9TLc",
+    "googleName": "Featherbed Nature Reserve",
+    "address": "1 Remembrance Avenue, Knysna"
+  },
+  "fransmanshoek-conservancy": {
+    "placeId": "ChIJ-epm4eVe1h0Rbc-G9lcspoM",
+    "googleName": "Fransmanshoek Conservancy",
+    "address": "Vleesbaai, 6504"
+  },
+  "kloof-corner": {
+    "placeId": "ChIJh3bwdqNnzB0RpBDzZyjRCqA",
+    "googleName": "Kloof Corner",
+    "address": "Contour Path, Table Mountain (Nature Reserve), Cape Town"
+  },
+  "sanp-garden-of-eden": {
+    "placeId": "ChIJVWRHmizmeB4RwOcrb99gP3o",
+    "googleName": "SANP Garden Of Eden",
+    "address": "Greater Plettenberg Bay, South Africa"
+  },
+  "hermanus-cliff-path-biodiversity-walk": {
+    "placeId": "ChIJ_WzpLw0Lzh0RBHA3hxjbGgg",
+    "googleName": "Hermanus Cliff Path Biodiversity Walk",
+    "address": "Cliff Path, Hermanus, 7200"
+  },
+  "klaasenbosch-greenbelt-trail": {
+    "placeId": "ChIJY1unhplCzB0RmGLPxmdNvAc",
+    "googleName": "Klaasenbosch Greenbelt Trail",
+    "address": "7 Hohenort Ave, Constantia Heights, Cape Town, 7806"
+  },
+  "grootvadersbosch-nature-reserve": {
+    "placeId": "ChIJfZ_HPyPk0x0RZzXNoE8xklk",
+    "googleName": "Grootvadersbosch Nature Reserve",
+    "address": "Grootvadersbosch Nature Reserve, Cape Agulhas, 7287"
+  },
+  "cecilia-table-mountain": {
+    "placeId": "ChIJFVCj8jxozB0RChZ3-ry2NOc",
+    "googleName": "Cecilia, Table Mountain",
+    "address": "Cecilia Forest Hiking Trail, Wynberg NU (2), Cape Town, 7824"
+  },
+  "koeberg-nature-reserve": {
+    "placeId": "ChIJ75xMcK2SzB0RPm-smbV3CF4",
+    "googleName": "Koeberg Nature Reserve",
+    "address": "Cape Farms, Cape Town"
+  },
+  "gerickes-point": {
+    "placeId": "ChIJQUMDVQOjeB4RvqpXkj1Mifw",
+    "googleName": "Gericke's Point",
+    "address": "Sedgefield"
+  },
+  "tweede-tol": {
+    "placeId": "ChIJb9nRx1UMzR0R-3laVrMgzkQ",
+    "googleName": "Tweede Tol",
+    "address": "S33.5697023, E19.1382486 R301, Bainskloof Pass"
+  },
+  "st-blaize-hiking-trail": {
+    "placeId": "ChIJKxyoPw9q1h0RaaTQe8JjfSU",
+    "googleName": "St Blaize Hiking Trail",
+    "address": "St Blaize Hiking Trail, Mossel Bay, 6511"
+  },
+  "sanparks-woodville-big-tree": {
+    "placeId": "ChIJ5eZoFN6neB4RqkYyjJr8lDA",
+    "googleName": "SANParks Woodville Big Tree",
+    "address": "South Africa"
+  },
+  "devils-peak-hike-start": {
+    "placeId": "ChIJmSuVqP9nzB0RAJkKEnQMz5c",
+    "googleName": "Devil's Peak Hike Start",
+    "address": "Tafelberg Rd, Table Mountain (Nature Reserve), Cape Town"
+  },
+  "whale-tail-lookout-point": {
+    "placeId": "ChIJK9RWPQnieB4RxhAm7FaCC3A",
+    "googleName": "Whale Tail Lookout Point",
+    "address": "18 Formosa St, Plettenberg Bay, 6600"
+  },
+  "newlands-forest-hiking-trail": {
+    "placeId": "ChIJ_____7RCzB0RVvCs2l_MXpM",
+    "googleName": "Newlands Forest Hiking Trail",
+    "address": "Newlands, Cape Town, 7824"
+  },
+  "marloth-nature-reserve": {
+    "placeId": "ChIJExHKgfrM0x0Rr1LRSe_l3Oc",
+    "googleName": "Marloth Nature Reserve",
+    "address": "Swellendam, 6740"
+  },
+  "diepwalle-forest": {
+    "placeId": "ChIJCdWJIBvDeB4R-_t_me19OkI",
+    "googleName": "Diepwalle Forest",
+    "address": "Knysna, 6570"
+  },
+  "chapmans-peak-hiking-trail-start-point": {
+    "placeId": "ChIJw7as-thrzB0RRzcnhNQwvAA",
+    "googleName": "Chapman's Peak Hiking Trail - Start Point",
+    "address": "Hout Bay, Cape Town"
+  },
+  "kromrivier-and-elandsrivier-hiking-trail": {
+    "placeId": "ChIJNRW6dg6hzR0RyI8mysloNik",
+    "googleName": "Kromrivier and Elandsrivier Hiking Trails Start",
+    "address": "Paarl"
+  },
+  "greyton-nature-reserve-start-of-boesmans": {
+    "placeId": "ChIJ0QkYpIgJ0h0RFf9vKMupBp4",
+    "googleName": "Greyton Nature Reserve - Start of Boesmanskloof Trail",
+    "address": "Park St, Greyton, 7233"
+  },
+  "otter-trail-start": {
+    "placeId": "ChIJGQmoshpveR4Rhunt_tSuKVs",
+    "googleName": "Otter Trail Start",
+    "address": "Unnamed Road"
+  },
+  "jubilee-creek-picnic-site": {
+    "placeId": "ChIJx3sdCTi4eB4RsW05vSlGTV0",
+    "googleName": "Jubilee Creek Picnic Site",
+    "address": "South Africa"
+  },
+  "constantia-nek-hiking-trail": {
+    "placeId": "ChIJk91EE5hpzB0RjmoLeKE1ONo",
+    "googleName": "Constantia Nek Hiking Trail",
+    "address": "Constantia Nek Jeep Track, Wynberg NU (2), Cape Town, 7824"
+  },
+  "kasteelspoort-hiking-trail": {
+    "placeId": "ChIJY2zNNchnzB0RxGkfjjTY1Qk",
+    "googleName": "Kasteelspoort Hiking trail",
+    "address": "Kasteelspoort, Table Mountain (Nature Reserve), Cape Town"
+  },
+  "woodstock-cave": {
+    "placeId": "ChIJAzaSLm9dzB0RcuszaqKU8nU",
+    "googleName": "Woodstock Cave",
+    "address": "Table Mountain (Nature Reserve), Cape Town"
+  },
+  "steenbras-river-gorge": {
+    "placeId": "ChIJ3YaRaJTMzR0RifJQ0qHzh1A",
+    "googleName": "Steenbras River Gorge",
+    "address": "Kogelberg Nature Reserve Trail, Helderberg Rural, Cape Town, 7135"
+  },
+  "india-venster-hiking-trail": {
+    "placeId": "ChIJuYvzTr1nzB0RHxSIuhrPO10",
+    "googleName": "India Venster Hiking Trail",
+    "address": "Contour Path, Table Mountain (Nature Reserve), Cape Town"
+  },
+  "natures-valley-beach": {
+    "placeId": "ChIJgy2Y5rsZeR4RHT30mcUCJiU",
+    "googleName": "Nature's Valley Beach",
+    "address": "134 St Michaels Ave, Natures Valley, Nature's Valley"
+  },
+  "silvermine-waterfall": {
+    "placeId": "ChIJwTd_UfNBzB0RQRgEo_2pG_E",
+    "googleName": "Silvermine Waterfall",
+    "address": "Silver Mine (Nature Reserve), Cape Town"
+  },
+  "half-collared-kingfisher-trail-waterfall": {
+    "placeId": "ChIJZRGI9XAd1h0Rzp_Fbg-fGUM",
+    "googleName": "Half Collared Kingfisher Trail Waterfall",
+    "address": "Waterside Rd, Hoekwil, Wilderness, 6538"
+  },
+  "elsies-peak": {
+    "placeId": "ChIJ28yOZgdAzB0Re87lO6kzDiU",
+    "googleName": "Elsie's Peak",
+    "address": "Glencairn, Cape Town, 7975"
+  },
+  "danie-miller-hiking-trail": {
+    "placeId": "ChIJJTmAfozLzR0R2jWKF3SQBJg",
+    "googleName": "Danie Miller Hiking Trail",
+    "address": "37 Aurora Dr, Mountainside, Cape Town, 7151"
+  },
+  "walker-bay-nature-reserve-entrance": {
+    "placeId": "ChIJk8ugYHgQzh0RmaV-idKM-5Y",
+    "googleName": "Walker Bay Nature Reserve Entrance",
+    "address": "4 Normandie St, De Kelders, 7220"
+  },
+  "banhoek-conservancy": {
+    "placeId": "ChIJV-AlSTewzR0RaqFlMEsaYpM",
+    "googleName": "Banhoek Conservancy",
+    "address": "Old banghoek rd, Swart St, Kylemore, 7600"
+  },
+  "leopards-kloof-waterfall": {
+    "placeId": "ChIJybMAVsTWzR0RpiruMDWyDp0",
+    "googleName": "Leopard's Kloof Waterfall",
+    "address": "Harold Porter Botanical Garden, Betty's Bay, 7141"
+  },
+  "kringe-in-n-bos-hiking-trail": {
+    "placeId": "ChIJ_ZKZ0mO5eB4RqihrlLimQBg",
+    "googleName": "Kringe In N Bos Hiking Trail",
+    "address": "Knysna"
+  },
+  "gamkaberg-nature-reserve": {
+    "placeId": "ChIJ4_ejKx_S1R0Rfd91-RZUVdE",
+    "googleName": "Gamkaberg Nature Reserve",
+    "address": "Gamkaberg Nature Reserve, Oudtshoorn Rural, 6625"
+  },
+  "skeleton-gorge-waterfall": {
+    "placeId": "ChIJzWyjsDtpzB0RL2JJsx0TDR8",
+    "googleName": "Skeleton Gorge Waterfall",
+    "address": "Contour Path, Wynberg NU (2), Cape Town, 7824"
+  },
+  "phillipskop-mountain-reserve": {
+    "placeId": "ChIJzz08kCsCzh0RNzSrrv5i4Y4",
+    "googleName": "Phillipskop Mountain Reserve",
+    "address": "Stanford Hills Road, Stanford, 7210"
+  },
+  "brownhooded-kingfisher-trail": {
+    "placeId": "ChIJl1E8mBGneB4RSIhH6WHQe8E",
+    "googleName": "Brownhooded Kingfisher Trail",
+    "address": "Unnamed Road, Wilderness"
+  },
+  "kranspad-staproete": {
+    "placeId": "ChIJz5UbfEMLzh0R8g-NtgyvMcI",
+    "googleName": "Kranspad-staproete",
+    "address": "Cliff Path, Hermanus, 7200"
+  },
+  "murludi-hiking-trail-and-dried-fruit": {
+    "placeId": "ChIJA85rX2s4zR0Rl1i3RJXtQz4",
+    "googleName": "Murludi Hiking Trail and Dried Fruit",
+    "address": "Posbus 30, Tulbagh, 6820"
+  },
+  "second-waterfall": {
+    "placeId": "ChIJ9zqtxGO3zR0Rycyazfz6Ung",
+    "googleName": "Second Waterfall",
+    "address": "South Africa"
+  },
+  "cape-columbine-nature-reserve": {
+    "placeId": "ChIJFaggB5KXNBwRSbCUMIgQWJM",
+    "googleName": "Cape Columbine Nature Reserve",
+    "address": "Unnamed Road, West Coast Peninsula"
+  },
+  "plett-camino-hiking-trail-slackpacking": {
+    "placeId": "ChIJ30ky8x7jeB4R-mi6biudAHU",
+    "googleName": "Plett Camino Hiking Trail Slackpacking",
+    "address": "W1, Plett, airport business park, Robberg Rd, Plettenberg Bay, 6600"
+  },
+  "ceres-mountain-fynbos-nature-reserve": {
+    "placeId": "ChIJDygb5SxqzR0Rs9WeY0eO4aQ",
+    "googleName": "Ceres Mountain Fynbos Nature Reserve",
+    "address": "Ceres"
+  },
+  "drie-damme-hiking-trail": {
+    "placeId": "ChIJHTCSKi8Kzh0Rsi3UScpzGa4",
+    "googleName": "Drie Damme Hiking Trail",
+    "address": "Unnamed Road, Hermanus, 7200"
+  },
+  "wild-wellness": {
+    "placeId": "ChIJJ4JgfPl1zh0R3IBzB-jY-n4",
+    "googleName": "Wild Wellness",
+    "address": "128 Kingfisher Rd, Mereenbosch, 7200"
+  },
+  "perlemoen-trail": {
+    "placeId": "ChIJxytGuNkhzh0RnvyhYsWUWPg",
+    "googleName": "Perlemoen Trail",
+    "address": "7 Perlemoen St, Pearly Beach, Gansbaai, 7220"
+  },
+  "sanparks-groeneweide-hiking-trail": {
+    "placeId": "ChIJFVeVRa4c1h0Rc124ZQU3oEg",
+    "googleName": "SANParks Groeneweide Hiking Trail",
+    "address": "NMU, Madiba Dr, George"
+  },
+  "vrolijkheid-nature-reserve": {
+    "placeId": "ChIJMx4cdlxr0h0RHz4tF_3bkxA",
+    "googleName": "Vrolijkheid Nature Reserve",
+    "address": "Langverwagten Rd, McGregor, 7608"
+  },
+  "the-fynbos-trail": {
+    "placeId": "ChIJXzXAsZEbzh0RgkjEghfmIRY",
+    "googleName": "The Fynbos Trail",
+    "address": "7210"
+  },
+  "witfontein-nature-reserve": {
+    "placeId": "ChIJUfXPNSwE1h0RQs64rpd1hzU",
+    "googleName": "Witfontein Nature Reserve",
+    "address": "George"
+  },
+  "old-george-dam": {
+    "placeId": "ChIJe-f4gA4F1h0RpQTimb-CUGg",
+    "googleName": "Old George Dam",
+    "address": "Camfersdrift River"
+  },
+  "helderberg-disa-kloof": {
+    "placeId": "ChIJM5hKpO21zR0Rjh1PeOb97BM",
+    "googleName": "Helderberg Disa Kloof",
+    "address": "Helderberg Nature Reserve, Cape Town, 7135"
+  },
+  "duiwelsbos-waterfall": {
+    "placeId": "ChIJx3JELn_R0x0R1ae6Y6JNzyY",
+    "googleName": "Duiwelsbos Waterfall",
+    "address": "Duiwelsbos Hiking Trail, Swellendam, 6740"
+  },
+  "tierkop": {
+    "placeId": "ChIJb0TWCogE1h0RUJk4FkBkEyU",
+    "googleName": "Tierkop",
+    "address": "George"
+  },
+  "terblans-nature-walk": {
+    "placeId": "ChIJHyjv17bBeB4RElLcqCiOSRQ",
+    "googleName": "Terblans Nature Walk",
+    "address": "Gouna Rd, Knysna"
+  },
+  "green-mountain-trail": {
+    "placeId": "ChIJLRRS4dbCzR0RNLQf-niCJTk",
+    "googleName": "Green Mountain Trail",
+    "address": "N2 Houw Hoek, 7180"
+  },
+  "ou-kraal-hiking-trail": {
+    "placeId": "ChIJexzNkUNBzB0ROYBJn14LYac",
+    "googleName": "Ou Kraal Hiking trail",
+    "address": "Boyes Dr, Kalk Bay, Cape Town"
+  },
+  "badskloof-trail": {
+    "placeId": "ChIJj4ddtc9F0h0RF1f_sukaxnw",
+    "googleName": "Badskloof Trail",
+    "address": "Tanner St, Montagu, 6720"
+  },
+  "george-peak": {
+    "placeId": "ChIJA_gDzboF1h0RJw2qwV2AiNc",
+    "googleName": "George Peak",
+    "address": "George"
+  },
+  "boesmanskloof-hiking-trail": {
+    "placeId": "ChIJffBls4oN0h0RKg5s__p667c",
+    "googleName": "Boesmanskloof Hiking Trail",
+    "address": "Riviersonderend Nature Reserve, Boesmanskloof, McGregor, 6708"
+  },
+  "van-riebeeck-park-hiking-trail": {
+    "placeId": "ChIJB0vfEIVnzB0R1oitAMghsno",
+    "googleName": "Van Riebeeck Park Hiking Trail",
+    "address": "Table Mountain (Nature Reserve), Cape Town"
+  },
+  "karoo-gardens-hiking-trails": {
+    "placeId": "ChIJOYNsC914zR0R1O74oFxLU-E",
+    "googleName": "Karoo Gardens Hiking Trails",
+    "address": "Worcester NU, Worcester, 6850"
+  },
+  "cradock-peak": {
+    "placeId": "ChIJHTT4XcQF1h0R94bPwl60FzQ",
+    "googleName": "Cradock Peak",
+    "address": "George"
+  },
+  "sleeping-beauty-day-mountain-hiking-trai": {
+    "placeId": "ChIJVfcrt1Ko1h0RTTSPRhgph8U",
+    "googleName": "Sleeping Beauty Day Mountain Hiking Trail",
+    "address": "Garcia's Mountain Pass, R323, Riversdale"
+  },
+  "cape-dune-mole-rat-trail-6-3-km-7-2-km": {
+    "placeId": "ChIJy2yZjVCleB4R_NxErx_I1XQ",
+    "googleName": "Cape Dune Mole Rat Trail- 6.3 km & 7.2 km",
+    "address": "Unnamed Road, Wilderness"
+  },
+  "secret-forest": {
+    "placeId": "ChIJ39CRi5xDzB0RI0pZ7xv9uds",
+    "googleName": "Secret Forest",
+    "address": "38 Spilhaus Ave, Constantia Heights, Cape Town, 7806"
+  },
+  "tsitsikamma-hiking-trail": {
+    "placeId": "ChIJEUDe9x8ZeR4REust2cJrE8s",
+    "googleName": "Tsitsikamma Hiking Trail",
+    "address": "Rest camp, R102, Nature's Valley, 6600"
+  },
+  "salt-river-lookout-hiking-trail": {
+    "placeId": "ChIJS_ZDkKIZeR4RbpMvjVXAReo",
+    "googleName": "Salt River Lookout Hiking Trail",
+    "address": "South Africa"
+  },
+  "3-sisters-jeans-hill-hiking-trail": {
+    "placeId": "ChIJ150z95bZzR0RaTSj9J9u4us",
+    "googleName": "3 Sisters/Jean's Hill Hiking Trail",
+    "address": "Kleinmond, 7195"
+  },
+  "hiking-dassieshoek-arangieskop-trails": {
+    "placeId": "ChIJ49veehNp0h0RsnxSB4wSJwU",
+    "googleName": "Hiking - Dassieshoek Arangieskop Trails",
+    "address": "4 Le Roux Street, Robertson, 6705"
+  },
+  "oubaai-walking-trail": {
+    "placeId": "ChIJHRMI6LgQ1h0Rf_CD7Q7zByY",
+    "googleName": "Oubaai Walking Trail",
+    "address": "Oubaai Golf Estate"
+  },
+  "geelbek-trail": {
+    "placeId": "ChIJ5V9eUmmtzB0Riz-Ped0AV80",
+    "googleName": "Geelbek Trail",
+    "address": "West Coast DC"
+  },
+  "welvanpas-hiking-trail": {
+    "placeId": "ChIJFTGof6oJzR0R6c7RWZFC7mk",
+    "googleName": "Welvanpas Hiking Trail",
+    "address": "9389+VJ, Wellington"
+  },
+  "power-stream-hiking-trail": {
+    "placeId": "ChIJR9rS34IF1h0RS2VkK36CFSA",
+    "googleName": "Power Stream Hiking Trail",
+    "address": "George"
   }
 }

@@ -1,0 +1,2530 @@
+[
+  {
+    "placeId": "ChIJSQ96Y1sdeR4ReYl8aax6-Q0",
+    "name": "Robberg Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1040227,
+      "lng": 23.3955575
+    },
+    "address": "Robberg",
+    "rating": 4.9,
+    "reviewCount": 3738,
+    "priceLevel": null,
+    "summary": "Coastal & marine preserve with dunes, Stone Age relics & wildlife like dolphins & the blue duiker.",
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "national_park",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJOX_q6xu6zR0R4W2isx1HZBE",
+    "name": "Jonkershoek Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.968728299999995,
+      "lng": 18.934723599999998
+    },
+    "address": "Jonkershoek Rd, Stellenbosch, 7600",
+    "rating": 4.7,
+    "reviewCount": 3435,
+    "priceLevel": null,
+    "summary": "Nature reserve including the Jonkershoek Mountains, with hiking, biking, waterfalls & swimming.",
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ3c0kTQRnzB0RHyTnI5OYSd4",
+    "name": "Lion's Head Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9368154,
+      "lng": 18.3948401
+    },
+    "address": "Signal Hill Rd, Signal Hill, Cape Town, 8001",
+    "rating": 4.8,
+    "reviewCount": 3104,
+    "priceLevel": null,
+    "summary": "Popular, screw-top hiking trail boasting panoramic views of the city alongside coastal views.",
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "nature_preserve",
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJt1J-Xx9azB0R6Q-Mc7GqAv8",
+    "name": "Tygerberg Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8778329,
+      "lng": 18.5998181
+    },
+    "address": "27 Totius St, Welgemoed, Cape Town, 7530",
+    "rating": 4.5,
+    "reviewCount": 2657,
+    "priceLevel": null,
+    "summary": "Hilly haven for birds & tortoises, known for nature walks, trail running & views of Cape Town.",
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJJ6NGVYtCzB0RfUs5FS3mIBI",
+    "name": "Alphen Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0135076,
+      "lng": 18.4512793
+    },
+    "address": "31 Alphen Dr, Alphen, Cape Town, 7806",
+    "rating": 4.7,
+    "reviewCount": 2133,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ4batPp_ieB4REwAo5voKLH8",
+    "name": "Robberg Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1004767,
+      "lng": 23.3774233
+    },
+    "address": "S34 06.037 E23 22.652",
+    "rating": 4.9,
+    "reviewCount": 1803,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Park",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ_2wa9o1nzB0R64vZmO-aVvg",
+    "name": "Platteklip Gorge Starting Point",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9553849,
+      "lng": 18.4157838
+    },
+    "address": "Tafelberg Rd, Table Mountain (Nature Reserve), Cape Town, 8001",
+    "rating": 4.7,
+    "reviewCount": 1762,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJsRqYxpfreB4RgF64moJU-ec",
+    "name": "East Head View Point",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.078790999999995,
+      "lng": 23.0614816
+    },
+    "address": "22 Glen View Rd, The Heads, Knysna, 6571",
+    "rating": 4.8,
+    "reviewCount": 1657,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Scenic Spot",
+    "types": [
+      "scenic_spot",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJS6calXS9zR0RCZMugBMp48E",
+    "name": "Mont Rochelle Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9043691,
+      "lng": 19.1579372
+    },
+    "address": "35X5+WQ, Franschhoek, 7690",
+    "rating": 4.7,
+    "reviewCount": 1601,
+    "priceLevel": null,
+    "summary": "Mountain conservation area with a number of hiking trails & vistas over the Franschhoek Valley.",
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJl-wbbD71zB0RObDjoMqsU7w",
+    "name": "Blaauwberg Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.777547999999996,
+      "lng": 18.4490707
+    },
+    "address": "Eerste Steen Resort, Otto du Plessis Dr, Bloubergstrand, Cape Town, 7441",
+    "rating": 4.6,
+    "reviewCount": 1587,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJr_59q1NXzB0RT7DmLNBJnNw",
+    "name": "Majik Forest",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.860220399999996,
+      "lng": 18.6138466
+    },
+    "address": "Van Riebeeckshof Rd, Van Riebeeckshof, Cape Town, 7530",
+    "rating": 4.6,
+    "reviewCount": 1573,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Garden",
+    "types": [
+      "garden",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJWWfs_0YKzh0R_N4m1V0gC40",
+    "name": "Fernkloof Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.394532500000004,
+      "lng": 19.2658868
+    },
+    "address": "Hermanus, 7200",
+    "rating": 4.7,
+    "reviewCount": 1504,
+    "priceLevel": null,
+    "summary": "Botanically diverse reserve offering scenic hiking trails, landscaped gardens & views of Walker Bay.",
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "hiking_area",
+      "sports_activity_location",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ-bSjxL21zR0RGT833C14kQY",
+    "name": "Helderberg Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.066266,
+      "lng": 18.8747565
+    },
+    "address": "Verster Ave, Helderberg Nature Reserve, Cape Town, 7135",
+    "rating": 4.7,
+    "reviewCount": 1417,
+    "priceLevel": null,
+    "summary": "The area around Helderberg Mountain is protected & houses picnic spots, trails & a visitor center.",
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJzegVX-1s0R0Roj1vwF3tcXs",
+    "name": "De Hoop Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.3716667,
+      "lng": 20.564166699999998
+    },
+    "address": "De Hoop Nature Reserve, Potberg, 6740",
+    "rating": 4.7,
+    "reviewCount": 1416,
+    "priceLevel": null,
+    "summary": "84,000-acre coastal & mountain nature reserve with whale watching, hiking trails & rich wildlife.",
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "national_park",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJP-PE58bRzR0RWsw2RDweKII",
+    "name": "Kogelberg Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.3321752,
+      "lng": 18.9877857
+    },
+    "address": "Off- R44 between Kleinmond and, Betty's Bay, 7141",
+    "rating": 4.6,
+    "reviewCount": 985,
+    "priceLevel": null,
+    "summary": "Nature reserve with hiking & cycling paths amid diverse habitats, including fynbos, plus beaches.",
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJV0sCsXdVMxwRFn-RDtxRvKQ",
+    "name": "West Coast National Park Marine Protected Area",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.1277821,
+      "lng": 18.0622856
+    },
+    "address": "Langebaan",
+    "rating": 4.7,
+    "reviewCount": 903,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "hiking_area",
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJh8lQ_Clo1h0RTeYK8yc8YEI",
+    "name": "Point of Human Origins",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.205470999999996,
+      "lng": 22.0900762
+    },
+    "address": "Pinnacle Point, Mossel Bay, 6511",
+    "rating": 4.6,
+    "reviewCount": 837,
+    "priceLevel": null,
+    "summary": "Tours of caves known as the archeological site of the earliest artifacts of modern human beings.",
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ1adSGekKzR0RIRaum_2vl9I",
+    "name": "Haweqwa Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8341346,
+      "lng": 19.211768499999998
+    },
+    "address": "South Africa",
+    "rating": 4.5,
+    "reviewCount": 786,
+    "priceLevel": null,
+    "summary": "Trails through a varied landscape of mountains, rocky valleys & rivers under dramatic waterfalls.",
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJvUz1wwBnzB0RCClk-Ln_8qw",
+    "name": "The Pipe Track",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9422742,
+      "lng": 18.394660899999998
+    },
+    "address": "Cape Town Lower Tafelberg 1, Table Mountain (Nature Reserve), Cape Town",
+    "rating": 4.8,
+    "reviewCount": 781,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJnYDmowCWeB4R3OojoCuj41Q",
+    "name": "Goukamma Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0687753,
+      "lng": 22.948249099999998
+    },
+    "address": "Goukamma Nature Reserve, Buffels Bay, Knysna, 6570",
+    "rating": 4.5,
+    "reviewCount": 766,
+    "priceLevel": null,
+    "summary": "Reserve with sand dunes & a freshwater lake lying between Knysna & Sedgefield, with vast wildlife.",
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJkS2GXG_reB4Rmh0KTwF9TLc",
+    "name": "Featherbed Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0755915,
+      "lng": 23.055845599999998
+    },
+    "address": "1 Remembrance Avenue, Knysna",
+    "rating": 4.6,
+    "reviewCount": 702,
+    "priceLevel": null,
+    "summary": "This forested coastline with sandstone cliffs & sea caves offers hiking trails with scenic views.",
+    "primaryType": "Wildlife Refuge",
+    "types": [
+      "wildlife_refuge",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ-epm4eVe1h0Rbc-G9lcspoM",
+    "name": "Fransmanshoek Conservancy",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.300070999999996,
+      "lng": 21.944851600000003
+    },
+    "address": "Vleesbaai, 6504",
+    "rating": 4.7,
+    "reviewCount": 613,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJh3bwdqNnzB0RpBDzZyjRCqA",
+    "name": "Kloof Corner",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9490666,
+      "lng": 18.3989074
+    },
+    "address": "Contour Path, Table Mountain (Nature Reserve), Cape Town",
+    "rating": 4.9,
+    "reviewCount": 609,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJVWRHmizmeB4RwOcrb99gP3o",
+    "name": "SANP Garden Of Eden",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0344526,
+      "lng": 23.1983778
+    },
+    "address": "Greater Plettenberg Bay, South Africa",
+    "rating": 4.4,
+    "reviewCount": 577,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "National Park",
+    "types": [
+      "national_park",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ_WzpLw0Lzh0RBHA3hxjbGgg",
+    "name": "Hermanus Cliff Path Biodiversity Walk",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.431273499999996,
+      "lng": 19.2259775
+    },
+    "address": "Cliff Path, Hermanus, 7200",
+    "rating": 4.8,
+    "reviewCount": 562,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJY1unhplCzB0RmGLPxmdNvAc",
+    "name": "Klaasenbosch Greenbelt Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0042262,
+      "lng": 18.436851
+    },
+    "address": "7 Hohenort Ave, Constantia Heights, Cape Town, 7806",
+    "rating": 4.7,
+    "reviewCount": 560,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJfZ_HPyPk0x0RZzXNoE8xklk",
+    "name": "Grootvadersbosch Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9856714,
+      "lng": 20.8234094
+    },
+    "address": "Grootvadersbosch Nature Reserve, Cape Agulhas, 7287",
+    "rating": 4.6,
+    "reviewCount": 560,
+    "priceLevel": null,
+    "summary": "Protected indigenous forest with hiking & biking trails, rare ghost frogs & around 200 bird species.",
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJFVCj8jxozB0RChZ3-ry2NOc",
+    "name": "Cecilia, Table Mountain",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0070775,
+      "lng": 18.4176079
+    },
+    "address": "Cecilia Forest Hiking Trail, Wynberg NU (2), Cape Town, 7824",
+    "rating": 4.7,
+    "reviewCount": 555,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ75xMcK2SzB0RPm-smbV3CF4",
+    "name": "Koeberg Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.6298183,
+      "lng": 18.421670199999998
+    },
+    "address": "Cape Farms, Cape Town",
+    "rating": 4.3,
+    "reviewCount": 542,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJQUMDVQOjeB4RvqpXkj1Mifw",
+    "name": "Gericke's Point",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0264506,
+      "lng": 22.774596499999998
+    },
+    "address": "Sedgefield",
+    "rating": 4.8,
+    "reviewCount": 521,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJb9nRx1UMzR0R-3laVrMgzkQ",
+    "name": "Tweede Tol",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.5702281,
+      "lng": 19.1382121
+    },
+    "address": "S33.5697023, E19.1382486 R301, Bainskloof Pass",
+    "rating": 4.3,
+    "reviewCount": 500,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Campground",
+    "types": [
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJKxyoPw9q1h0RaaTQe8JjfSU",
+    "name": "St Blaize Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1861931,
+      "lng": 22.1565786
+    },
+    "address": "St Blaize Hiking Trail, Mossel Bay, 6511",
+    "rating": 4.6,
+    "reviewCount": 489,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5eZoFN6neB4RqkYyjJr8lDA",
+    "name": "SANParks Woodville Big Tree",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9342792,
+      "lng": 22.645002599999998
+    },
+    "address": "South Africa",
+    "rating": 4.5,
+    "reviewCount": 488,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "National Park",
+    "types": [
+      "national_park",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJmSuVqP9nzB0RAJkKEnQMz5c",
+    "name": "Devil's Peak Hike Start",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.955160400000004,
+      "lng": 18.4245457
+    },
+    "address": "Tafelberg Rd, Table Mountain (Nature Reserve), Cape Town",
+    "rating": 4.7,
+    "reviewCount": 469,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJK9RWPQnieB4RxhAm7FaCC3A",
+    "name": "Whale Tail Lookout Point",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0527789,
+      "lng": 23.3779175
+    },
+    "address": "18 Formosa St, Plettenberg Bay, 6600",
+    "rating": 4.7,
+    "reviewCount": 467,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ_____7RCzB0RVvCs2l_MXpM",
+    "name": "Newlands Forest Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.974481600000004,
+      "lng": 18.442095
+    },
+    "address": "Newlands, Cape Town, 7824",
+    "rating": 4.8,
+    "reviewCount": 458,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJExHKgfrM0x0Rr1LRSe_l3Oc",
+    "name": "Marloth Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.005886,
+      "lng": 20.4399394
+    },
+    "address": "Swellendam, 6740",
+    "rating": 4.6,
+    "reviewCount": 414,
+    "priceLevel": null,
+    "summary": "Mountainous nature reserve with a range of hiking & biking trails, overnight huts & picnic areas.",
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJqUSTlKSzzR0RDXZ4w_eP7gs",
+    "name": "Eden Forest",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9688927,
+      "lng": 18.8653016
+    },
+    "address": "Paradyskloof Way, La Pastorale, Stellenbosch",
+    "rating": 4.6,
+    "reviewCount": 411,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJCdWJIBvDeB4R-_t_me19OkI",
+    "name": "Diepwalle Forest",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.94866,
+      "lng": 23.15737
+    },
+    "address": "Knysna, 6570",
+    "rating": 4.5,
+    "reviewCount": 406,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "tourist_attraction",
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJw7as-thrzB0RRzcnhNQwvAA",
+    "name": "Chapman's Peak Hiking Trail - Start Point",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0772866,
+      "lng": 18.364557599999998
+    },
+    "address": "Hout Bay, Cape Town",
+    "rating": 4.8,
+    "reviewCount": 373,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJNRW6dg6hzR0RyI8mysloNik",
+    "name": "Kromrivier and Elandsrivier Hiking Trails Start",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7329721,
+      "lng": 19.1209851
+    },
+    "address": "Paarl",
+    "rating": 4.6,
+    "reviewCount": 366,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ0QkYpIgJ0h0RFf9vKMupBp4",
+    "name": "Greyton Nature Reserve - Start of Boesmanskloof Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0385697,
+      "lng": 19.6137513
+    },
+    "address": "Park St, Greyton, 7233",
+    "rating": 4.7,
+    "reviewCount": 351,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJGQmoshpveR4Rhunt_tSuKVs",
+    "name": "Otter Trail Start",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0109634,
+      "lng": 23.8689577
+    },
+    "address": "Unnamed Road",
+    "rating": 4.8,
+    "reviewCount": 323,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJx3sdCTi4eB4RsW05vSlGTV0",
+    "name": "Jubilee Creek Picnic Site",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8883333,
+      "lng": 22.9663889
+    },
+    "address": "South Africa",
+    "rating": 4.7,
+    "reviewCount": 320,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "National Park",
+    "types": [
+      "national_park",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJk91EE5hpzB0RjmoLeKE1ONo",
+    "name": "Constantia Nek Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.009366899999996,
+      "lng": 18.4062006
+    },
+    "address": "Constantia Nek Jeep Track, Wynberg NU (2), Cape Town, 7824",
+    "rating": 4.8,
+    "reviewCount": 311,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJY2zNNchnzB0RxGkfjjTY1Qk",
+    "name": "Kasteelspoort Hiking trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9649815,
+      "lng": 18.389351599999998
+    },
+    "address": "Kasteelspoort, Table Mountain (Nature Reserve), Cape Town",
+    "rating": 4.7,
+    "reviewCount": 304,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJAzaSLm9dzB0RcuszaqKU8nU",
+    "name": "Woodstock Cave",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9498952,
+      "lng": 18.441941399999997
+    },
+    "address": "Table Mountain (Nature Reserve), Cape Town",
+    "rating": 4.6,
+    "reviewCount": 290,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ3YaRaJTMzR0RifJQ0qHzh1A",
+    "name": "Steenbras River Gorge",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1914465,
+      "lng": 18.836081
+    },
+    "address": "Kogelberg Nature Reserve Trail, Helderberg Rural, Cape Town, 7135",
+    "rating": 4.6,
+    "reviewCount": 277,
+    "priceLevel": null,
+    "summary": "A boulder-strewn trail through this rocky gorge leads to natural swimming pools & waterfalls.",
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJuYvzTr1nzB0RHxSIuhrPO10",
+    "name": "India Venster Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9513732,
+      "lng": 18.4029159
+    },
+    "address": "Contour Path, Table Mountain (Nature Reserve), Cape Town",
+    "rating": 4.9,
+    "reviewCount": 265,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJgy2Y5rsZeR4RHT30mcUCJiU",
+    "name": "Nature's Valley Beach",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9856522,
+      "lng": 23.5482423
+    },
+    "address": "134 St Michaels Ave, Natures Valley, Nature's Valley",
+    "rating": 4.8,
+    "reviewCount": 260,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJwTd_UfNBzB0RQRgEo_2pG_E",
+    "name": "Silvermine Waterfall",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1001092,
+      "lng": 18.4291084
+    },
+    "address": "Silver Mine (Nature Reserve), Cape Town",
+    "rating": 4.8,
+    "reviewCount": 224,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZRGI9XAd1h0Rzp_Fbg-fGUM",
+    "name": "Half Collared Kingfisher Trail Waterfall",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.987946099999995,
+      "lng": 22.6081909
+    },
+    "address": "Waterside Rd, Hoekwil, Wilderness, 6538",
+    "rating": 4.6,
+    "reviewCount": 221,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ28yOZgdAzB0Re87lO6kzDiU",
+    "name": "Elsie's Peak",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1500777,
+      "lng": 18.4355929
+    },
+    "address": "Glencairn, Cape Town, 7975",
+    "rating": 4.7,
+    "reviewCount": 215,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJPRVUwm1pzB0Ri7J_O9LAFhQ",
+    "name": "Chapmans Peak Hiking Trail North",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0579345,
+      "lng": 18.366612999999997
+    },
+    "address": "1 Chapmans Peak Dr, Hout Bay, Cape Town, 7806",
+    "rating": 4.8,
+    "reviewCount": 214,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJJTmAfozLzR0R2jWKF3SQBJg",
+    "name": "Danie Miller Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.161421499999996,
+      "lng": 18.8757509
+    },
+    "address": "37 Aurora Dr, Mountainside, Cape Town, 7151",
+    "rating": 4.4,
+    "reviewCount": 214,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJk8ugYHgQzh0RmaV-idKM-5Y",
+    "name": "Walker Bay Nature Reserve Entrance",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.5483021,
+      "lng": 19.3768405
+    },
+    "address": "4 Normandie St, De Kelders, 7220",
+    "rating": 4.7,
+    "reviewCount": 210,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJV-AlSTewzR0RaqFlMEsaYpM",
+    "name": "Banhoek Conservancy",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.915768,
+      "lng": 18.9531611
+    },
+    "address": "Old banghoek rd, Swart St, Kylemore, 7600",
+    "rating": 4.7,
+    "reviewCount": 206,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJybMAVsTWzR0RpiruMDWyDp0",
+    "name": "Leopard's Kloof Waterfall",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.343001199999996,
+      "lng": 18.9348779
+    },
+    "address": "Harold Porter Botanical Garden, Betty's Bay, 7141",
+    "rating": 4.8,
+    "reviewCount": 204,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ_ZKZ0mO5eB4RqihrlLimQBg",
+    "name": "Kringe In N Bos Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.916683299999995,
+      "lng": 22.9577833
+    },
+    "address": "Knysna",
+    "rating": 4.7,
+    "reviewCount": 194,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ4_ejKx_S1R0Rfd91-RZUVdE",
+    "name": "Gamkaberg Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.6708248,
+      "lng": 21.8887717
+    },
+    "address": "Gamkaberg Nature Reserve, Oudtshoorn Rural, 6625",
+    "rating": 4.8,
+    "reviewCount": 193,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJGeacz0wLzR0RnRv6t7hFEFk",
+    "name": "Bainskloof pass - No trucks higher than 3,68m",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.617094,
+      "lng": 19.1017551
+    },
+    "address": "Wellington, 7655",
+    "rating": 4.7,
+    "reviewCount": 174,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJzWyjsDtpzB0RL2JJsx0TDR8",
+    "name": "Skeleton Gorge Waterfall",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.982010599999995,
+      "lng": 18.4240986
+    },
+    "address": "Contour Path, Wynberg NU (2), Cape Town, 7824",
+    "rating": 4.8,
+    "reviewCount": 168,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJKc-WJ_kLzR0RF-HGjFXJ6Uw",
+    "name": "Bainskloof Adventures",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.618074799999995,
+      "lng": 19.0996068
+    },
+    "address": "Bainskloof Pass Wellington, Cape Town, 7544",
+    "rating": 4.6,
+    "reviewCount": 159,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "nature_preserve",
+      "hiking_area",
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJzz08kCsCzh0RNzSrrv5i4Y4",
+    "name": "Phillipskop Mountain Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.4074252,
+      "lng": 19.527529599999998
+    },
+    "address": "Stanford Hills Road, Stanford, 7210",
+    "rating": 4.6,
+    "reviewCount": 156,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "historical_landmark",
+      "historical_place",
+      "hiking_area",
+      "park",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJYdyaSh5QzB0RK-T1VqHkBME",
+    "name": "Dirtopia Trail Centre",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8702493,
+      "lng": 18.8758758
+    },
+    "address": "Muratie Wine Estate, Knorhoek Rd, Stellenbosch, 7607",
+    "rating": 4.3,
+    "reviewCount": 148,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "hiking_area",
+      "park",
+      "sporting_goods_store",
+      "sports_activity_location",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJl1E8mBGneB4RSIhH6WHQe8E",
+    "name": "Brownhooded Kingfisher Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9834977,
+      "lng": 22.6509195
+    },
+    "address": "Unnamed Road, Wilderness",
+    "rating": 4.6,
+    "reviewCount": 148,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJz5UbfEMLzh0R8g-NtgyvMcI",
+    "name": "Kranspad-staproete",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.416907699999996,
+      "lng": 19.247053400000002
+    },
+    "address": "Cliff Path, Hermanus, 7200",
+    "rating": 4.7,
+    "reviewCount": 138,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJNefNTecZeR4RC6V6AveWNgc",
+    "name": "Otter Trail End",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9807753,
+      "lng": 23.5665779
+    },
+    "address": "Otter Trail",
+    "rating": 4.8,
+    "reviewCount": 138,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJp02QATSqNBwRdRkVNY29Kq0",
+    "name": "Lookout Point - Postberg",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.1073632,
+      "lng": 18.0063919
+    },
+    "address": "West Coast DC",
+    "rating": 4.8,
+    "reviewCount": 135,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Observation Deck",
+    "types": [
+      "observation_deck",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJA85rX2s4zR0Rl1i3RJXtQz4",
+    "name": "Murludi Hiking Trail and Dried Fruit",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.1948423,
+      "lng": 19.170094
+    },
+    "address": "Posbus 30, Tulbagh, 6820",
+    "rating": 4.7,
+    "reviewCount": 133,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ9zqtxGO3zR0Rycyazfz6Ung",
+    "name": "Second Waterfall",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0050136,
+      "lng": 18.993238700000003
+    },
+    "address": "South Africa",
+    "rating": 4.8,
+    "reviewCount": 123,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJFaggB5KXNBwRSbCUMIgQWJM",
+    "name": "Cape Columbine Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -32.8259599,
+      "lng": 17.846354599999998
+    },
+    "address": "Unnamed Road, West Coast Peninsula",
+    "rating": 4.4,
+    "reviewCount": 118,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ30ky8x7jeB4R-mi6biudAHU",
+    "name": "Plett Camino Hiking Trail Slackpacking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0900009,
+      "lng": 23.3367321
+    },
+    "address": "W1, Plett, airport business park, Robberg Rd, Plettenberg Bay, 6600",
+    "rating": 4.9,
+    "reviewCount": 118,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJXTw85ypo1h0Rd5FXfmK-3hM",
+    "name": "St Blaze Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.2022721,
+      "lng": 22.093719099999998
+    },
+    "address": "St Blaize Hiking Trail, Pinnacle Point, Mossel Bay, 6506",
+    "rating": 4.5,
+    "reviewCount": 117,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ-Y3-GcmpzR0RuLFwVqywyQ8",
+    "name": "Bretagne Rock",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7444652,
+      "lng": 18.9420374
+    },
+    "address": "Paarl, 7620",
+    "rating": 4.6,
+    "reviewCount": 102,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJDygb5SxqzR0Rs9WeY0eO4aQ",
+    "name": "Ceres Mountain Fynbos Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.369652099999996,
+      "lng": 19.274824300000002
+    },
+    "address": "Ceres",
+    "rating": 4.5,
+    "reviewCount": 99,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJHTCSKi8Kzh0Rsi3UScpzGa4",
+    "name": "Drie Damme Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.3941155,
+      "lng": 19.2770753
+    },
+    "address": "Unnamed Road, Hermanus, 7200",
+    "rating": 4.7,
+    "reviewCount": 97,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJJ4JgfPl1zh0R3IBzB-jY-n4",
+    "name": "Wild Wellness",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.3648186,
+      "lng": 19.1080518
+    },
+    "address": "128 Kingfisher Rd, Mereenbosch, 7200",
+    "rating": 4.9,
+    "reviewCount": 96,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJxytGuNkhzh0RnvyhYsWUWPg",
+    "name": "Perlemoen Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.669758,
+      "lng": 19.507184
+    },
+    "address": "7 Perlemoen St, Pearly Beach, Gansbaai, 7220",
+    "rating": 4.5,
+    "reviewCount": 96,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tour Agency",
+    "types": [
+      "hiking_area",
+      "tour_agency",
+      "travel_agency",
+      "sports_activity_location",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJFVeVRa4c1h0Rc124ZQU3oEg",
+    "name": "SANParks Groeneweide Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9582131,
+      "lng": 22.5349203
+    },
+    "address": "NMU, Madiba Dr, George",
+    "rating": 4.2,
+    "reviewCount": 91,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Park",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJMx4cdlxr0h0RHz4tF_3bkxA",
+    "name": "Vrolijkheid Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9159198,
+      "lng": 19.877923499999998
+    },
+    "address": "Langverwagten Rd, McGregor, 7608",
+    "rating": 4.5,
+    "reviewCount": 89,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJr_xQW6dp1h0RVA84WB90cTM",
+    "name": "St Blaize Trail Danabaai Starting Point",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.203033999999995,
+      "lng": 22.056137
+    },
+    "address": "99 Malva Rd, Dana Bay, Mossel Bay, 6510",
+    "rating": 4.8,
+    "reviewCount": 89,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Historical Landmark",
+    "types": [
+      "historical_landmark",
+      "historical_place",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJXzXAsZEbzh0RgkjEghfmIRY",
+    "name": "The Fynbos Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.5211079,
+      "lng": 19.4473509
+    },
+    "address": "7210",
+    "rating": 4.9,
+    "reviewCount": 85,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJUfXPNSwE1h0RQs64rpd1hzU",
+    "name": "Witfontein Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.884479,
+      "lng": 22.481438699999998
+    },
+    "address": "George",
+    "rating": 4.6,
+    "reviewCount": 81,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Nature Preserve",
+    "types": [
+      "nature_preserve",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJawGDIVq4eB4R-S0CQXixbrE",
+    "name": "Circles in the Forest Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9166685,
+      "lng": 22.957707100000004
+    },
+    "address": "Circles in the Forest Trial",
+    "rating": 4.4,
+    "reviewCount": 78,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJxbyp-pQZeR4RDEMz179Q0X0",
+    "name": "Salt River Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9872544,
+      "lng": 23.546779299999997
+    },
+    "address": "South Africa",
+    "rating": 4.6,
+    "reviewCount": 74,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJe-f4gA4F1h0RpQTimb-CUGg",
+    "name": "Old George Dam",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9312471,
+      "lng": 22.459143899999997
+    },
+    "address": "Camfersdrift River",
+    "rating": 4.6,
+    "reviewCount": 73,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJM5hKpO21zR0Rjh1PeOb97BM",
+    "name": "Helderberg Disa Kloof",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.042400799999996,
+      "lng": 18.873975299999998
+    },
+    "address": "Helderberg Nature Reserve, Cape Town, 7135",
+    "rating": 4.8,
+    "reviewCount": 72,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJx3JELn_R0x0R1ae6Y6JNzyY",
+    "name": "Duiwelsbos Waterfall",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9927983,
+      "lng": 20.4598424
+    },
+    "address": "Duiwelsbos Hiking Trail, Swellendam, 6740",
+    "rating": 4.6,
+    "reviewCount": 70,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJb0TWCogE1h0RUJk4FkBkEyU",
+    "name": "Tierkop",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9145326,
+      "lng": 22.5124109
+    },
+    "address": "George",
+    "rating": 4.6,
+    "reviewCount": 54,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJHyjv17bBeB4RElLcqCiOSRQ",
+    "name": "Terblans Nature Walk",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9450956,
+      "lng": 23.054477
+    },
+    "address": "Gouna Rd, Knysna",
+    "rating": 4.6,
+    "reviewCount": 53,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJLRRS4dbCzR0RNLQf-niCJTk",
+    "name": "Green Mountain Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.202086,
+      "lng": 19.144567
+    },
+    "address": "N2 Houw Hoek, 7180",
+    "rating": 4.7,
+    "reviewCount": 51,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJexzNkUNBzB0ROYBJn14LYac",
+    "name": "Ou Kraal Hiking trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1158889,
+      "lng": 18.4585141
+    },
+    "address": "Boyes Dr, Kalk Bay, Cape Town",
+    "rating": 4.6,
+    "reviewCount": 46,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJj4ddtc9F0h0RF1f_sukaxnw",
+    "name": "Badskloof Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7798599,
+      "lng": 20.112772
+    },
+    "address": "Tanner St, Montagu, 6720",
+    "rating": 4.3,
+    "reviewCount": 45,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJA_gDzboF1h0RJw2qwV2AiNc",
+    "name": "George Peak",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9120612,
+      "lng": 22.462636999999997
+    },
+    "address": "George",
+    "rating": 4.9,
+    "reviewCount": 40,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJd306Jt5F0h0RFg6z7Xv-9H0",
+    "name": "Hiking - Cogmanskloof Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.7811187,
+      "lng": 20.1143263
+    },
+    "address": "2 Kort St, Montagu, 6720",
+    "rating": 4.5,
+    "reviewCount": 39,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJV0Sj4qFr1h0RH2f31YLmznA",
+    "name": "Love Cross Viewpoint",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.1852887,
+      "lng": 22.1535947
+    },
+    "address": "6 Point Rd, Mossel Bay, 6500",
+    "rating": 4.9,
+    "reviewCount": 39,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Scenic Spot",
+    "types": [
+      "scenic_spot",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJffBls4oN0h0RKg5s__p667c",
+    "name": "Boesmanskloof Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0141783,
+      "lng": 19.7035923
+    },
+    "address": "Riviersonderend Nature Reserve, Boesmanskloof, McGregor, 6708",
+    "rating": 4.6,
+    "reviewCount": 34,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJB0vfEIVnzB0R1oitAMghsno",
+    "name": "Van Riebeeck Park Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.946808499999996,
+      "lng": 18.4176605
+    },
+    "address": "Table Mountain (Nature Reserve), Cape Town",
+    "rating": 4.7,
+    "reviewCount": 29,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJOYNsC914zR0R1O74oFxLU-E",
+    "name": "Karoo Gardens Hiking Trails",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.6100932,
+      "lng": 19.4513131
+    },
+    "address": "Worcester NU, Worcester, 6850",
+    "rating": 4.3,
+    "reviewCount": 29,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJHTT4XcQF1h0R94bPwl60FzQ",
+    "name": "Cradock Peak",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.8944456,
+      "lng": 22.4604484
+    },
+    "address": "George",
+    "rating": 4.9,
+    "reviewCount": 29,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJVfcrt1Ko1h0RTTSPRhgph8U",
+    "name": "Sleeping Beauty Day Mountain Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9533291,
+      "lng": 21.2257329
+    },
+    "address": "Garcia's Mountain Pass, R323, Riversdale",
+    "rating": 4.7,
+    "reviewCount": 27,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJy2yZjVCleB4R_NxErx_I1XQ",
+    "name": "Cape Dune Mole Rat Trail- 6.3 km & 7.2 km",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9897232,
+      "lng": 22.7179789
+    },
+    "address": "Unnamed Road, Wilderness",
+    "rating": 4.1,
+    "reviewCount": 26,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "tourist_attraction",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ39CRi5xDzB0RI0pZ7xv9uds",
+    "name": "Secret Forest",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9965524,
+      "lng": 18.430694
+    },
+    "address": "38 Spilhaus Ave, Constantia Heights, Cape Town, 7806",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJTbs7AncLzh0R_cP7N9ig_xU",
+    "name": "The Hermanus Camino",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.414639699999995,
+      "lng": 19.2454143
+    },
+    "address": "62 Mitchell St, Eastclif, Hermanus, 7200",
+    "rating": 4.4,
+    "reviewCount": 25,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJEUDe9x8ZeR4REust2cJrE8s",
+    "name": "Tsitsikamma Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9712327,
+      "lng": 23.5620712
+    },
+    "address": "Rest camp, R102, Nature's Valley, 6600",
+    "rating": 4.3,
+    "reviewCount": 21,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJg75VNwS9zR0RA_qJkequDo4",
+    "name": "Hiking - Perdekop Hiking Trail - Mont Rochelle Nature Reserve",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.903269699999996,
+      "lng": 19.1614306
+    },
+    "address": "Franschhoek, 7690",
+    "rating": 5,
+    "reviewCount": 20,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJS_ZDkKIZeR4RbpMvjVXAReo",
+    "name": "Salt River Lookout Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.985586399999995,
+      "lng": 23.5350246
+    },
+    "address": "South Africa",
+    "rating": 5,
+    "reviewCount": 20,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ150z95bZzR0RaTSj9J9u4us",
+    "name": "3 Sisters/Jean's Hill Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.332350999999996,
+      "lng": 19.029596299999998
+    },
+    "address": "Kleinmond, 7195",
+    "rating": 4.9,
+    "reviewCount": 16,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJk03W9BTDeB4Rr1cTnl0wLPM",
+    "name": "Outeniqua Hiking Trail - Diepwalle Hut",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.9493333,
+      "lng": 23.1566167
+    },
+    "address": "Knysna",
+    "rating": 4.4,
+    "reviewCount": 16,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ49veehNp0h0RsnxSB4wSJwU",
+    "name": "Hiking - Dassieshoek Arangieskop Trails",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.80749,
+      "lng": 19.88476
+    },
+    "address": "4 Le Roux Street, Robertson, 6705",
+    "rating": 4.9,
+    "reviewCount": 15,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJHRMI6LgQ1h0Rf_CD7Q7zByY",
+    "name": "Oubaai Walking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.045797199999996,
+      "lng": 22.4075345
+    },
+    "address": "Oubaai Golf Estate",
+    "rating": 4.2,
+    "reviewCount": 14,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ5V9eUmmtzB0Riz-Ped0AV80",
+    "name": "Geelbek Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.1955099,
+      "lng": 18.1263133
+    },
+    "address": "West Coast DC",
+    "rating": 4.4,
+    "reviewCount": 13,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJFTGof6oJzR0R6c7RWZFC7mk",
+    "name": "Welvanpas Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.6328476,
+      "lng": 19.069055400000003
+    },
+    "address": "9389+VJ, Wellington",
+    "rating": 4.3,
+    "reviewCount": 13,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJR9rS34IF1h0RS2VkK36CFSA",
+    "name": "Power Stream Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -33.924699,
+      "lng": 22.440642399999998
+    },
+    "address": "George",
+    "rating": 4.9,
+    "reviewCount": 11,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJremIUGdp1h0Rk7ehALzmqB8",
+    "name": "South Cape Hiking",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.157590899999995,
+      "lng": 22.108341
+    },
+    "address": "34 Karveel Cres, Diaz Beach, Mossel Bay, 6507",
+    "rating": 5,
+    "reviewCount": 7,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJNXDLv_HleB4RI0gLY7jutRg",
+    "name": "Inqua Multiday Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.0797251,
+      "lng": 23.2789839
+    },
+    "address": "Cairnbrogie Farm F14 Plettenberg Bay, Plettenberg Bay, 6600",
+    "rating": 5,
+    "reviewCount": 3,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ95aZLwAR1h0RGzTkVXu-Hds",
+    "name": "Voëlklip Hiking Trail",
+    "category": "outdoor",
+    "coords": {
+      "lat": -34.054524,
+      "lng": 22.389337299999998
+    },
+    "address": "92 Gus Meyer St, Herolds Bay, 6615",
+    "rating": 5,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Hiking Area",
+    "types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

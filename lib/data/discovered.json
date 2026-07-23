@@ -10235,9 +10235,10 @@
     "tags": [
       "nature preserve",
       "tourist attraction",
-      "park"
+      "park",
+      "hiking"
     ],
-    "blurb": "Franschhoek's mountain reserve: proteas, peaks and the Perdekop trail."
+    "blurb": "Franschhoek's mountain reserve above the valley, with the Perdekop summit trail and mountain pools."
   },
   {
     "id": "helderberg-nature-reserve",
@@ -10257,7 +10258,8 @@
     "tags": [
       "nature preserve",
       "tourist attraction",
-      "park"
+      "park",
+      "hiking"
     ],
     "blurb": "Fynbos slopes above Somerset West with sugarbirds and picnic lawns."
   },
@@ -10299,7 +10301,8 @@
     "phone": null,
     "tags": [
       "hiking area",
-      "sports activity location"
+      "sports activity location",
+      "hiking"
     ],
     "blurb": "Pine-and-fynbos walking trails above Paradyskloof."
   },
@@ -10384,7 +10387,8 @@
     "tags": [
       "hiking area",
       "tourist attraction",
-      "sports activity location"
+      "sports activity location",
+      "hiking"
     ],
     "blurb": "Scramble up Paarl Rock's neighbour for granite-dome views."
   },
@@ -10467,7 +10471,8 @@
     "phone": null,
     "tags": [
       "hiking area",
-      "sports activity location"
+      "sports activity location",
+      "hiking"
     ],
     "blurb": "Franschhoek's summit day-hike: four hours up, valley views forever."
   },
@@ -11697,5 +11702,2062 @@
       "farm"
     ],
     "blurb": "Wolseley flower farm where you wade into dahlia fields with a bucket in picking season."
+  },
+  {
+    "id": "robberg-nature-reserve",
+    "name": "Robberg Nature Reserve",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.1040227,
+      "lng": 23.3955575
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 3738,
+    "address": "Robberg",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "tourist attraction"
+    ],
+    "blurb": "Coastal & marine preserve with dunes, Stone Age relics & wildlife like dolphins & the blue duiker."
+  },
+  {
+    "id": "jonkershoek-nature-reserve",
+    "name": "Jonkershoek Nature Reserve",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.968728299999995,
+      "lng": 18.934723599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 3435,
+    "address": "Jonkershoek Rd, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "tourist attraction"
+    ],
+    "blurb": "Nature reserve including the Jonkershoek Mountains, with hiking, biking, waterfalls & swimming."
+  },
+  {
+    "id": "tygerberg-nature-reserve",
+    "name": "Tygerberg Nature Reserve",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.8778329,
+      "lng": 18.5998181
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 2657,
+    "address": "27 Totius St, Welgemoed, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "tourist attraction"
+    ],
+    "blurb": "Hilly haven for birds & tortoises, known for nature walks, trail running & views of Cape Town."
+  },
+  {
+    "id": "alphen-trail",
+    "name": "Alphen Trail",
+    "category": "outdoor",
+    "area": "constantia",
+    "coords": {
+      "lat": -34.0135076,
+      "lng": 18.4512793
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 2133,
+    "address": "31 Alphen Dr, Alphen, Cape Town, 7806",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "tourist attraction"
+    ],
+    "blurb": "Shady Constantia greenbelt walk along the Diep River, a gentle local favourite under the oaks."
+  },
+  {
+    "id": "robberg-hiking-trail",
+    "name": "Robberg Hiking Trail",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.1004767,
+      "lng": 23.3774233
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 1803,
+    "address": "S34 06.037 E23 22.652",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "park",
+      "tourist attraction"
+    ],
+    "blurb": "The classic Plett peninsula circuit: cliffs, a seal colony and a tombolo beach, whales offshore in season."
+  },
+  {
+    "id": "east-head-view-point",
+    "name": "East Head View Point",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.078790999999995,
+      "lng": 23.0614816
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 1657,
+    "address": "22 Glen View Rd, The Heads, Knysna, 6571",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "scenic spot",
+      "tourist attraction"
+    ],
+    "blurb": "The clifftop lookout over the Knysna Heads where the lagoon meets the open sea."
+  },
+  {
+    "id": "blaauwberg-nature-reserve",
+    "name": "Blaauwberg Nature Reserve",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.777547999999996,
+      "lng": 18.4490707
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 1587,
+    "address": "Eerste Steen Resort, Otto du Plessis Dr, Bloubergstrand, Cape Town, 7441",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "tourist attraction"
+    ],
+    "blurb": "Coastal fynbos and a WWII battle hill above Blouberg, with trails and that Table Mountain view."
+  },
+  {
+    "id": "majik-forest",
+    "name": "Majik Forest",
+    "category": "outdoor",
+    "area": "durbanville",
+    "coords": {
+      "lat": -33.860220399999996,
+      "lng": 18.6138466
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 1573,
+    "address": "Van Riebeeckshof Rd, Van Riebeeckshof, Cape Town, 7530",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "garden"
+    ],
+    "blurb": "Pocket of pine and wetland in Durbanville laced with easy walking and running paths."
+  },
+  {
+    "id": "fernkloof-nature-reserve",
+    "name": "Fernkloof Nature Reserve",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.394532500000004,
+      "lng": 19.2658868
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 1504,
+    "address": "Hermanus, 7200",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "hiking area"
+    ],
+    "blurb": "Botanically diverse reserve offering scenic hiking trails, landscaped gardens & views of Walker Bay."
+  },
+  {
+    "id": "de-hoop-nature-reserve",
+    "name": "De Hoop Nature Reserve",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.3716667,
+      "lng": 20.564166699999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 1416,
+    "address": "De Hoop Nature Reserve, Potberg, 6740",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "tourist attraction"
+    ],
+    "blurb": "84,000-acre coastal & mountain nature reserve with whale watching, hiking trails & rich wildlife."
+  },
+  {
+    "id": "kogelberg-nature-reserve",
+    "name": "Kogelberg Nature Reserve",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.3321752,
+      "lng": 18.9877857
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 985,
+    "address": "Off- R44 between Kleinmond and, Betty's Bay, 7141",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "hiking area"
+    ],
+    "blurb": "Nature reserve with hiking & cycling paths amid diverse habitats, including fynbos, plus beaches."
+  },
+  {
+    "id": "west-coast-national-park-marine-protecte",
+    "name": "West Coast National Park",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -33.1277821,
+      "lng": 18.0622856
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 903,
+    "address": "Langebaan",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "hiking area"
+    ],
+    "blurb": "Langebaan lagoon's turquoise shallows, spring flowers at Postberg and long strandveld trails."
+  },
+  {
+    "id": "point-of-human-origins",
+    "name": "Point of Human Origins",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.205470999999996,
+      "lng": 22.0900762
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 837,
+    "address": "Pinnacle Point, Mossel Bay, 6511",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "tourist attraction",
+      "hiking area"
+    ],
+    "blurb": "Tours of caves known as the archeological site of the earliest artifacts of modern human beings."
+  },
+  {
+    "id": "haweqwa-nature-reserve",
+    "name": "Haweqwa Nature Reserve",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8341346,
+      "lng": 19.211768499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 786,
+    "address": "South Africa",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "park"
+    ],
+    "blurb": "Trails through a varied landscape of mountains, rocky valleys & rivers under dramatic waterfalls."
+  },
+  {
+    "id": "the-pipe-track",
+    "name": "The Pipe Track",
+    "category": "outdoor",
+    "area": "campsbay",
+    "coords": {
+      "lat": -33.9422742,
+      "lng": 18.394660899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 781,
+    "address": "Cape Town Lower Tafelberg 1, Table Mountain (Nature Reserve), Cape Town",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "A near-level contour path under the Twelve Apostles with the Atlantic laid out below, gold at sunset."
+  },
+  {
+    "id": "goukamma-nature-reserve",
+    "name": "Goukamma Nature Reserve",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0687753,
+      "lng": 22.948249099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 766,
+    "address": "Goukamma Nature Reserve, Buffels Bay, Knysna, 6570",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "tourist attraction"
+    ],
+    "blurb": "Reserve with sand dunes & a freshwater lake lying between Knysna & Sedgefield, with vast wildlife."
+  },
+  {
+    "id": "featherbed-nature-reserve",
+    "name": "Featherbed Nature Reserve",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0755915,
+      "lng": 23.055845599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 702,
+    "address": "1 Remembrance Avenue, Knysna",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "wildlife refuge",
+      "park"
+    ],
+    "blurb": "This forested coastline with sandstone cliffs & sea caves offers hiking trails with scenic views."
+  },
+  {
+    "id": "fransmanshoek-conservancy",
+    "name": "Fransmanshoek Conservancy",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.300070999999996,
+      "lng": 21.944851600000003
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 613,
+    "address": "Vleesbaai, 6504",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "park"
+    ],
+    "blurb": "Rocky Garden Route headland near Mossel Bay with coastal walks, caves and tidal pools."
+  },
+  {
+    "id": "kloof-corner",
+    "name": "Kloof Corner",
+    "category": "outdoor",
+    "area": "tablemtn",
+    "coords": {
+      "lat": -33.9490666,
+      "lng": 18.3989074
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 609,
+    "address": "Contour Path, Table Mountain (Nature Reserve), Cape Town",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "tourist attraction",
+      "hiking area"
+    ],
+    "blurb": "Short steep scramble to a Table Mountain ledge with a knockout City Bowl and Camps Bay view."
+  },
+  {
+    "id": "sanp-garden-of-eden",
+    "name": "Garden of Eden Forest Walk",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0344526,
+      "lng": 23.1983778
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 577,
+    "address": "Greater Plettenberg Bay, South Africa",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "national park",
+      "park"
+    ],
+    "blurb": "Boardwalk loop through towering indigenous forest off the Garden Route N2, buggy-friendly and shaded."
+  },
+  {
+    "id": "hermanus-cliff-path-biodiversity-walk",
+    "name": "Hermanus Cliff Path Biodiversity Walk",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.431273499999996,
+      "lng": 19.2259775
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 562,
+    "address": "Cliff Path, Hermanus, 7200",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "tourist attraction",
+      "hiking area"
+    ],
+    "blurb": "Twelve clifftop kilometres above Walker Bay where you watch whales without leaving the path."
+  },
+  {
+    "id": "klaasenbosch-greenbelt-trail",
+    "name": "Klaasenbosch Greenbelt Trail",
+    "category": "outdoor",
+    "area": "constantia",
+    "coords": {
+      "lat": -34.0042262,
+      "lng": 18.436851
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 560,
+    "address": "7 Hohenort Ave, Constantia Heights, Cape Town, 7806",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "tourist attraction"
+    ],
+    "blurb": "Quiet Constantia greenbelt trail through forest and horse country under the mountains."
+  },
+  {
+    "id": "grootvadersbosch-nature-reserve",
+    "name": "Grootvadersbosch Nature Reserve",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.9856714,
+      "lng": 20.8234094
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 560,
+    "address": "Grootvadersbosch Nature Reserve, Cape Agulhas, 7287",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "tourist attraction"
+    ],
+    "blurb": "Protected indigenous forest with hiking & biking trails, rare ghost frogs & around 200 bird species."
+  },
+  {
+    "id": "cecilia-table-mountain",
+    "name": "Cecilia Forest, Table Mountain",
+    "category": "outdoor",
+    "area": "constantia",
+    "coords": {
+      "lat": -34.0070775,
+      "lng": 18.4176079
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 555,
+    "address": "Cecilia Forest Hiking Trail, Wynberg NU (2), Cape Town, 7824",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "tourist attraction"
+    ],
+    "blurb": "Forest paths and a waterfall on Table Mountain's Constantia side, the shady way up to the contour paths."
+  },
+  {
+    "id": "koeberg-nature-reserve",
+    "name": "Koeberg Nature Reserve",
+    "category": "outdoor",
+    "area": "blouberg",
+    "coords": {
+      "lat": -33.6298183,
+      "lng": 18.421670199999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 542,
+    "address": "Cape Farms, Cape Town",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "tourist attraction"
+    ],
+    "blurb": "Coastal strandveld reserve north of Melkbos with flat trails and West Coast birdlife."
+  },
+  {
+    "id": "gerickes-point",
+    "name": "Gericke's Point",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0264506,
+      "lng": 22.774596499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 521,
+    "address": "Sedgefield",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "tourist attraction",
+      "hiking area"
+    ],
+    "blurb": "Sedgefield's sea-sculpted rock with fossils, caves and lagoon-mouth walks."
+  },
+  {
+    "id": "tweede-tol",
+    "name": "Tweede Tol",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.5702281,
+      "lng": 19.1382121
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 500,
+    "address": "S33.5697023, E19.1382486 R301, Bainskloof Pass",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "campground",
+      "lodging"
+    ],
+    "blurb": "Hiking trails near S33.5697023."
+  },
+  {
+    "id": "st-blaize-hiking-trail",
+    "name": "St Blaize Hiking Trail",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.1861931,
+      "lng": 22.1565786
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 489,
+    "address": "St Blaize Hiking Trail, Mossel Bay, 6511",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "tourist attraction"
+    ],
+    "blurb": "Mossel Bay's cliff-path classic from the lighthouse along the coast, caves and blowholes below."
+  },
+  {
+    "id": "sanparks-woodville-big-tree",
+    "name": "Woodville Big Tree",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9342792,
+      "lng": 22.645002599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 488,
+    "address": "South Africa",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "national park",
+      "park"
+    ],
+    "blurb": "An 800-year-old Outeniqua yellowwood giant with a short forest loop near George."
+  },
+  {
+    "id": "devils-peak-hike-start",
+    "name": "Devil's Peak Hike Start",
+    "category": "outdoor",
+    "area": "tablemtn",
+    "coords": {
+      "lat": -33.955160400000004,
+      "lng": 18.4245457
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 469,
+    "address": "Tafelberg Rd, Table Mountain (Nature Reserve), Cape Town",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "The trailhead for Devil's Peak, Table Mountain's toughest and most rewarding city-side summit."
+  },
+  {
+    "id": "whale-tail-lookout-point",
+    "name": "Whale Tail Lookout Point",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0527789,
+      "lng": 23.3779175
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 467,
+    "address": "18 Formosa St, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "tourist attraction"
+    ],
+    "blurb": "Hiking trails near 18 Formosa St."
+  },
+  {
+    "id": "newlands-forest-hiking-trail",
+    "name": "Newlands Forest Hiking Trail",
+    "category": "outdoor",
+    "area": "south",
+    "coords": {
+      "lat": -33.974481600000004,
+      "lng": 18.442095
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 458,
+    "address": "Newlands, Cape Town, 7824",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Streams, contour paths and towering trees on Table Mountain's wettest, greenest slope."
+  },
+  {
+    "id": "marloth-nature-reserve",
+    "name": "Marloth Nature Reserve",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.005886,
+      "lng": 20.4399394
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 414,
+    "address": "Swellendam, 6740",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "tourist attraction"
+    ],
+    "blurb": "Mountainous nature reserve with a range of hiking & biking trails, overnight huts & picnic areas."
+  },
+  {
+    "id": "diepwalle-forest",
+    "name": "Diepwalle Forest",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.94866,
+      "lng": 23.15737
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 406,
+    "address": "Knysna, 6570",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "tourist attraction",
+      "hiking area"
+    ],
+    "blurb": "Deep Knysna forest of ancient yellowwoods and shaded elephant-walk trails."
+  },
+  {
+    "id": "chapmans-peak-hiking-trail-start-point",
+    "name": "Chapman's Peak Hiking Trail",
+    "category": "outdoor",
+    "area": "houtbay",
+    "coords": {
+      "lat": -34.0772866,
+      "lng": 18.364557599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 373,
+    "address": "Hout Bay, Cape Town",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Steep climb off Chapman's Peak Drive to ridgelines over Hout Bay and Noordhoek."
+  },
+  {
+    "id": "kromrivier-and-elandsrivier-hiking-trail",
+    "name": "Kromrivier & Elandsrivier Trails",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7329721,
+      "lng": 19.1209851
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 366,
+    "address": "Paarl",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "River-valley trails in the Jonkershoek mountains above Stellenbosch."
+  },
+  {
+    "id": "greyton-nature-reserve-start-of-boesmans",
+    "name": "Greyton Nature Reserve",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.0385697,
+      "lng": 19.6137513
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 351,
+    "address": "Park St, Greyton, 7233",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "hiking area"
+    ],
+    "blurb": "Greyton trailhead for the famous Boesmanskloof crossing to McGregor over the mountains."
+  },
+  {
+    "id": "otter-trail-start",
+    "name": "Otter Trail Start",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0109634,
+      "lng": 23.8689577
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 323,
+    "address": "Unnamed Road",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "The start of South Africa's most storied multi-day trail: five days of wild Tsitsikamma coast."
+  },
+  {
+    "id": "jubilee-creek-picnic-site",
+    "name": "Jubilee Creek Picnic Site",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.8883333,
+      "lng": 22.9663889
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 320,
+    "address": "South Africa",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "national park",
+      "park"
+    ],
+    "blurb": "Forest stream, gold-rush history and a swimming pool of a pool in the Knysna hills."
+  },
+  {
+    "id": "constantia-nek-hiking-trail",
+    "name": "Constantia Nek Hiking Trail",
+    "category": "outdoor",
+    "area": "constantia",
+    "coords": {
+      "lat": -34.009366899999996,
+      "lng": 18.4062006
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 311,
+    "address": "Constantia Nek Jeep Track, Wynberg NU (2), Cape Town, 7824",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "The gentlest route up the Back Table, a jeep-track climb from Constantia Nek to the dams."
+  },
+  {
+    "id": "kasteelspoort-hiking-trail",
+    "name": "Kasteelspoort Hiking trail",
+    "category": "outdoor",
+    "area": "tablemtn",
+    "coords": {
+      "lat": -33.9649815,
+      "lng": 18.389351599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 304,
+    "address": "Kasteelspoort, Table Mountain (Nature Reserve), Cape Town",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "park"
+    ],
+    "blurb": "One of Table Mountain's grandest ascents, past the 'Diving Board' rock to the Twelve Apostles top."
+  },
+  {
+    "id": "woodstock-cave",
+    "name": "Woodstock Cave",
+    "category": "outdoor",
+    "area": "woodstock",
+    "coords": {
+      "lat": -33.9498952,
+      "lng": 18.441941399999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 290,
+    "address": "Table Mountain (Nature Reserve), Cape Town",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "tourist attraction"
+    ],
+    "blurb": "Short climb to a big overhang cave on Devil's Peak with a full-frontal city view."
+  },
+  {
+    "id": "steenbras-river-gorge",
+    "name": "Steenbras River Gorge",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.1914465,
+      "lng": 18.836081
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 277,
+    "address": "Kogelberg Nature Reserve Trail, Helderberg Rural, Cape Town, 7135",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "tourist attraction"
+    ],
+    "blurb": "A boulder-strewn trail through this rocky gorge leads to natural swimming pools & waterfalls."
+  },
+  {
+    "id": "india-venster-hiking-trail",
+    "name": "India Venster Hiking Trail",
+    "category": "outdoor",
+    "area": "tablemtn",
+    "coords": {
+      "lat": -33.9513732,
+      "lng": 18.4029159
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 265,
+    "address": "Contour Path, Table Mountain (Nature Reserve), Cape Town",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "An exposed, scrambly route up Table Mountain beside the cableway, for those with a head for heights."
+  },
+  {
+    "id": "natures-valley-beach",
+    "name": "Nature's Valley Beach",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9856522,
+      "lng": 23.5482423
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 260,
+    "address": "134 St Michaels Ave, Natures Valley, Nature's Valley",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Hiking trails near 134 St Michaels Ave."
+  },
+  {
+    "id": "silvermine-waterfall",
+    "name": "Silvermine Waterfall",
+    "category": "outdoor",
+    "area": "muizenberg",
+    "coords": {
+      "lat": -34.1001092,
+      "lng": 18.4291084
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 224,
+    "address": "Silver Mine (Nature Reserve), Cape Town",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "A shady stream and waterfall tucked into the Silvermine valley above Muizenberg."
+  },
+  {
+    "id": "half-collared-kingfisher-trail-waterfall",
+    "name": "Half-Collared Kingfisher Trail",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.987946099999995,
+      "lng": 22.6081909
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 221,
+    "address": "Waterside Rd, Hoekwil, Wilderness, 6538",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "tourist attraction"
+    ],
+    "blurb": "Easy riverside forest walk to a waterfall in Wilderness's Garden Route park."
+  },
+  {
+    "id": "elsies-peak",
+    "name": "Elsie's Peak",
+    "category": "outdoor",
+    "area": "muizenberg",
+    "coords": {
+      "lat": -34.1500777,
+      "lng": 18.4355929
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 215,
+    "address": "Glencairn, Cape Town, 7975",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "tourist attraction"
+    ],
+    "blurb": "Short Fish Hoek climb to a fynbos summit over False Bay and the Cape peninsula."
+  },
+  {
+    "id": "danie-miller-hiking-trail",
+    "name": "Danie Miller Hiking Trail",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.161421499999996,
+      "lng": 18.8757509
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 214,
+    "address": "37 Aurora Dr, Mountainside, Cape Town, 7151",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "tourist attraction"
+    ],
+    "blurb": "Trail through pine and fynbos above Stellenbosch on the Jonkershoek side."
+  },
+  {
+    "id": "walker-bay-nature-reserve-entrance",
+    "name": "Walker Bay Nature Reserve Entrance",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.5483021,
+      "lng": 19.3768405
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 210,
+    "address": "4 Normandie St, De Kelders, 7220",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "tourist attraction"
+    ],
+    "blurb": "Hiking trails near 4 Normandie St."
+  },
+  {
+    "id": "banhoek-conservancy",
+    "name": "Banhoek Conservancy",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.915768,
+      "lng": 18.9531611
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 206,
+    "address": "Old banghoek rd, Swart St, Kylemore, 7600",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "park"
+    ],
+    "blurb": "Steep forest-and-fynbos trails in the Banhoek valley between Stellenbosch and Franschhoek."
+  },
+  {
+    "id": "leopards-kloof-waterfall",
+    "name": "Leopard's Kloof Waterfall",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.343001199999996,
+      "lng": 18.9348779
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 204,
+    "address": "Harold Porter Botanical Garden, Betty's Bay, 7141",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "tourist attraction"
+    ],
+    "blurb": "A permit-only ravine of ferns and waterfalls in the Harold Porter gardens at Betty's Bay."
+  },
+  {
+    "id": "kringe-in-n-bos-hiking-trail",
+    "name": "Kringe In N Bos Hiking Trail",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.916683299999995,
+      "lng": 22.9577833
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 194,
+    "address": "Knysna",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "tourist attraction"
+    ],
+    "blurb": "Wilderness forest loop named for Dalene Matthee's novel, mossy and mysterious."
+  },
+  {
+    "id": "gamkaberg-nature-reserve",
+    "name": "Gamkaberg Nature Reserve",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.6708248,
+      "lng": 21.8887717
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 193,
+    "address": "Gamkaberg Nature Reserve, Oudtshoorn Rural, 6625",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "tourist attraction"
+    ],
+    "blurb": "Rugged Klein Karoo reserve near Oudtshoorn with mountain trails and rare renosterveld."
+  },
+  {
+    "id": "skeleton-gorge-waterfall",
+    "name": "Skeleton Gorge Waterfall",
+    "category": "outdoor",
+    "area": "tablemtn",
+    "coords": {
+      "lat": -33.982010599999995,
+      "lng": 18.4240986
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 168,
+    "address": "Contour Path, Wynberg NU (2), Cape Town, 7824",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "The lush ravine route up Table Mountain from Kirstenbosch: streams, ladders and forest."
+  },
+  {
+    "id": "phillipskop-mountain-reserve",
+    "name": "Phillipskop Mountain Reserve",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.4074252,
+      "lng": 19.527529599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 156,
+    "address": "Stanford Hills Road, Stanford, 7210",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "historical landmark"
+    ],
+    "blurb": "Fynbos reserve above Stanford with rock art, waterfalls and a summit trail."
+  },
+  {
+    "id": "brownhooded-kingfisher-trail",
+    "name": "Brownhooded Kingfisher Trail",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9834977,
+      "lng": 22.6509195
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 148,
+    "address": "Unnamed Road, Wilderness",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "tourist attraction"
+    ],
+    "blurb": "Short riverine forest walk in Wilderness, birdsong and dappled light."
+  },
+  {
+    "id": "kranspad-staproete",
+    "name": "Kranspad Hiking Route",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.416907699999996,
+      "lng": 19.247053400000002
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 138,
+    "address": "Cliff Path, Hermanus, 7200",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Cliff-path walking routes along the rocky Overberg coast."
+  },
+  {
+    "id": "murludi-hiking-trail-and-dried-fruit",
+    "name": "Murludi Hiking Trail",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.1948423,
+      "lng": 19.170094
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 133,
+    "address": "Posbus 30, Tulbagh, 6820",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "tourist attraction"
+    ],
+    "blurb": "Farm hiking trails in the Koue Bokkeveld with a dried-fruit stall at the end."
+  },
+  {
+    "id": "second-waterfall",
+    "name": "Second Waterfall",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0050136,
+      "lng": 18.993238700000003
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 123,
+    "address": "South Africa",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "tourist attraction"
+    ],
+    "blurb": "The upper cascade on the Jonkershoek waterfall walk above Stellenbosch."
+  },
+  {
+    "id": "cape-columbine-nature-reserve",
+    "name": "Cape Columbine Nature Reserve",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -32.8259599,
+      "lng": 17.846354599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 118,
+    "address": "Unnamed Road, West Coast Peninsula",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "tourist attraction"
+    ],
+    "blurb": "Wild granite coast at Paternoster with a lighthouse, tidal pools and strandveld walks."
+  },
+  {
+    "id": "plett-camino-hiking-trail-slackpacking",
+    "name": "Plett Camino Hiking Trail Slackpacking",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0900009,
+      "lng": 23.3367321
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 118,
+    "address": "W1, Plett, airport business park, Robberg Rd, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "A multi-day slackpacking pilgrimage along the Plett coast, beds and bags carried for you."
+  },
+  {
+    "id": "ceres-mountain-fynbos-nature-reserve",
+    "name": "Ceres Mountain Fynbos Nature Reserve",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.369652099999996,
+      "lng": 19.274824300000002
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 99,
+    "address": "Ceres",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "park"
+    ],
+    "blurb": "High fynbos trails and mountain pools above Ceres, snow-dusted in winter."
+  },
+  {
+    "id": "drie-damme-hiking-trail",
+    "name": "Drie Damme Hiking Trail",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.3941155,
+      "lng": 19.2770753
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 97,
+    "address": "Unnamed Road, Hermanus, 7200",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "tourist attraction"
+    ],
+    "blurb": "Three-dam circuit through the Overberg mountains, a good half-day loop."
+  },
+  {
+    "id": "wild-wellness",
+    "name": "Wild Wellness",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.3648186,
+      "lng": 19.1080518
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 96,
+    "address": "128 Kingfisher Rd, Mereenbosch, 7200",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Hiking trails near 128 Kingfisher Rd."
+  },
+  {
+    "id": "perlemoen-trail",
+    "name": "Perlemoen Trail",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.669758,
+      "lng": 19.507184
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 96,
+    "address": "7 Perlemoen St, Pearly Beach, Gansbaai, 7220",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "tour agency"
+    ],
+    "blurb": "Coastal walking trail around the Gansbaai cliffs and fynbos."
+  },
+  {
+    "id": "sanparks-groeneweide-hiking-trail",
+    "name": "SANParks Groeneweide Hiking Trail",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9582131,
+      "lng": 22.5349203
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 91,
+    "address": "NMU, Madiba Dr, George",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "park"
+    ],
+    "blurb": "Network of forest loops near George, from short strolls to a full-day walk."
+  },
+  {
+    "id": "vrolijkheid-nature-reserve",
+    "name": "Vrolijkheid Nature Reserve",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.9159198,
+      "lng": 19.877923499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 89,
+    "address": "Langverwagten Rd, McGregor, 7608",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "park"
+    ],
+    "blurb": "Karoo-edge reserve near Robertson with succulents, birds and desert trails."
+  },
+  {
+    "id": "the-fynbos-trail",
+    "name": "The Fynbos Trail",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.5211079,
+      "lng": 19.4473509
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 85,
+    "address": "7210",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "tourist attraction"
+    ],
+    "blurb": "A guided multi-day fynbos walk through the Grootbos and Walker Bay reserves."
+  },
+  {
+    "id": "witfontein-nature-reserve",
+    "name": "Witfontein Nature Reserve",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.884479,
+      "lng": 22.481438699999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 81,
+    "address": "George",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "nature preserve",
+      "park"
+    ],
+    "blurb": "Forest and fynbos trails on the Outeniqua slopes above George."
+  },
+  {
+    "id": "old-george-dam",
+    "name": "Old George Dam",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9312471,
+      "lng": 22.459143899999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 73,
+    "address": "Camfersdrift River",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "A quiet forest reservoir above George circled by an easy walking path."
+  },
+  {
+    "id": "helderberg-disa-kloof",
+    "name": "Helderberg Disa Kloof",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.042400799999996,
+      "lng": 18.873975299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 72,
+    "address": "Helderberg Nature Reserve, Cape Town, 7135",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Steep ravine trail in the Helderberg reserve to the red disa's summer flowering."
+  },
+  {
+    "id": "duiwelsbos-waterfall",
+    "name": "Duiwelsbos Waterfall",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.9927983,
+      "lng": 20.4598424
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 70,
+    "address": "Duiwelsbos Hiking Trail, Swellendam, 6740",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Shady kloof walk to a waterfall in the Marloth reserve above Swellendam."
+  },
+  {
+    "id": "tierkop",
+    "name": "Tierkop",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9145326,
+      "lng": 22.5124109
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 54,
+    "address": "George",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "tourist attraction"
+    ],
+    "blurb": "A stiff climb to a mountain hut and summit above George, overnight or day."
+  },
+  {
+    "id": "terblans-nature-walk",
+    "name": "Terblans Nature Walk",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9450956,
+      "lng": 23.054477
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 53,
+    "address": "Gouna Rd, Knysna",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Gentle Knysna forest loop through big yellowwoods and birdsong."
+  },
+  {
+    "id": "green-mountain-trail",
+    "name": "Green Mountain Trail",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.202086,
+      "lng": 19.144567
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 51,
+    "address": "N2 Houw Hoek, 7180",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "A four-day slackpacking trail through the Elgin and Houwhoek mountains."
+  },
+  {
+    "id": "ou-kraal-hiking-trail",
+    "name": "Ou Kraal Hiking trail",
+    "category": "outdoor",
+    "area": "muizenberg",
+    "coords": {
+      "lat": -34.1158889,
+      "lng": 18.4585141
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 46,
+    "address": "Boyes Dr, Kalk Bay, Cape Town",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Coastal fynbos trail near Cape Point's edge above the Atlantic."
+  },
+  {
+    "id": "badskloof-trail",
+    "name": "Badskloof Trail",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.7798599,
+      "lng": 20.112772
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 45,
+    "address": "Tanner St, Montagu, 6720",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "tourist attraction"
+    ],
+    "blurb": "Montagu's rocky kloof walk to pools and the old spa springs."
+  },
+  {
+    "id": "george-peak",
+    "name": "George Peak",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9120612,
+      "lng": 22.462636999999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 40,
+    "address": "George",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "A serious full-day summit of the Outeniqua range's high point above George."
+  },
+  {
+    "id": "boesmanskloof-hiking-trail",
+    "name": "Boesmanskloof Hiking Trail",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.0141783,
+      "lng": 19.7035923
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 34,
+    "address": "Riviersonderend Nature Reserve, Boesmanskloof, McGregor, 6708",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "The classic Overberg crossing between Greyton and McGregor through a dramatic kloof."
+  },
+  {
+    "id": "van-riebeeck-park-hiking-trail",
+    "name": "Van Riebeeck Park Hiking Trail",
+    "category": "outdoor",
+    "area": "tablemtn",
+    "coords": {
+      "lat": -33.946808499999996,
+      "lng": 18.4176605
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 29,
+    "address": "Table Mountain (Nature Reserve), Cape Town",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Easy fynbos trails on Table Mountain's lower slopes above the southern suburbs."
+  },
+  {
+    "id": "karoo-gardens-hiking-trails",
+    "name": "Karoo Gardens Hiking Trails",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.6100932,
+      "lng": 19.4513131
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 29,
+    "address": "Worcester NU, Worcester, 6850",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Succulent Karoo trails in the Worcester botanical reserve."
+  },
+  {
+    "id": "cradock-peak",
+    "name": "Cradock Peak",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.8944456,
+      "lng": 22.4604484
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 29,
+    "address": "George",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "tourist attraction"
+    ],
+    "blurb": "The Outeniquas' highest summit, a demanding day hike above George."
+  },
+  {
+    "id": "sleeping-beauty-day-mountain-hiking-trai",
+    "name": "Sleeping Beauty Hiking Trail",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9533291,
+      "lng": 21.2257329
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 27,
+    "address": "Garcia's Mountain Pass, R323, Riversdale",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "A shaded Garden Route mountain trail to pools below the Sleeping Beauty peak."
+  },
+  {
+    "id": "cape-dune-mole-rat-trail-6-3-km-7-2-km",
+    "name": "Cape Dune Mole Rat Trail",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9897232,
+      "lng": 22.7179789
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.1,
+    "reviewCount": 26,
+    "address": "Unnamed Road, Wilderness",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "tourist attraction"
+    ],
+    "blurb": "De Hoop reserve dune-and-vlei loops with bontebok, zebra and a whale-watching coast."
+  },
+  {
+    "id": "secret-forest",
+    "name": "Secret Forest",
+    "category": "outdoor",
+    "area": "constantia",
+    "coords": {
+      "lat": -33.9965524,
+      "lng": 18.430694
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "address": "38 Spilhaus Ave, Constantia Heights, Cape Town, 7806",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "A hidden pocket of Constantia forest with quiet, shady paths."
+  },
+  {
+    "id": "tsitsikamma-hiking-trail",
+    "name": "Tsitsikamma Hiking Trail",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9712327,
+      "lng": 23.5620712
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 21,
+    "address": "Rest camp, R102, Nature's Valley, 6600",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "The forest-and-mountain multi-day companion to the Otter, deep in Tsitsikamma."
+  },
+  {
+    "id": "salt-river-lookout-hiking-trail",
+    "name": "Salt River Lookout Hiking Trail",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.985586399999995,
+      "lng": 23.5350246
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 5,
+    "reviewCount": 20,
+    "address": "South Africa",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Wilderness ridge trail to a lookout over the Touw river mouth and the sea."
+  },
+  {
+    "id": "3-sisters-jeans-hill-hiking-trail",
+    "name": "Jean's Hill Hiking Trail",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.332350999999996,
+      "lng": 19.029596299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 16,
+    "address": "Kleinmond, 7195",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Overberg hill walk with wide views across the Elgin valley."
+  },
+  {
+    "id": "hiking-dassieshoek-arangieskop-trails",
+    "name": "Hiking - Dassieshoek Arangieskop Trails",
+    "category": "outdoor",
+    "area": "overberg",
+    "coords": {
+      "lat": -33.80749,
+      "lng": 19.88476
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 15,
+    "address": "4 Le Roux Street, Robertson, 6705",
+    "phone": null,
+    "tags": [
+      "hiking"
+    ],
+    "blurb": "Hiking trails near 4 Le Roux Street."
+  },
+  {
+    "id": "oubaai-walking-trail",
+    "name": "Oubaai Walking Trail",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.045797199999996,
+      "lng": 22.4075345
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.2,
+    "reviewCount": 14,
+    "address": "Oubaai Golf Estate",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Easy coastal walk along the Oubaai cliffs near Herolds Bay."
+  },
+  {
+    "id": "geelbek-trail",
+    "name": "Geelbek Trail",
+    "category": "outdoor",
+    "area": "westcoast",
+    "coords": {
+      "lat": -33.1955099,
+      "lng": 18.1263133
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 13,
+    "address": "West Coast DC",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Lagoon-side birding trail at Geelbek in the West Coast National Park."
+  },
+  {
+    "id": "welvanpas-hiking-trail",
+    "name": "Welvanpas Hiking Trail",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.6328476,
+      "lng": 19.069055400000003
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 13,
+    "address": "9389+VJ, Wellington",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Farm and mountain trails above Wellington, popular with trail runners."
+  },
+  {
+    "id": "power-stream-hiking-trail",
+    "name": "Power Stream Hiking Trail",
+    "category": "outdoor",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.924699,
+      "lng": 22.440642399999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.9,
+    "reviewCount": 11,
+    "address": "George",
+    "phone": null,
+    "tags": [
+      "hiking",
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Forest stream trail in the Wilderness section of the Garden Route park."
   }
 ]
