@@ -1,0 +1,1069 @@
+[
+  {
+    "placeId": "ChIJx3SZRbUP1h0RDahb1NeDuTA",
+    "name": "Redberry Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.958462,
+      "lng": 22.382282999999997
+    },
+    "address": "Geelhoutboom Road, Blanco, George, 6530",
+    "rating": 4.6,
+    "reviewCount": 8969,
+    "priceLevel": null,
+    "summary": "Charming, family-friendly strawberry farm offering berry picking, pony rides, bumper boats & more.",
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJJda7Ik5nzB0RNkLL5Oqi17c",
+    "name": "Oranjezicht City Farm Market",
+    "category": "family",
+    "coords": {
+      "lat": -33.9031083,
+      "lng": 18.417244699999998
+    },
+    "address": "Parking Deck, Breakwater Blvd, Victoria & Alfred Waterfront, Cape Town, 8001",
+    "rating": 4.6,
+    "reviewCount": 7188,
+    "priceLevel": null,
+    "summary": "Weekly farmers' market offering produce, breads, eggs & dairy products, plus artisanal foods.",
+    "primaryType": "Farmers' Market",
+    "types": [
+      "farmers_market",
+      "market",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJIdPAMhOjeB4RSw_b3sDyytw",
+    "name": "Wild Oats Community Farmers' Market",
+    "category": "family",
+    "coords": {
+      "lat": -34.0098067,
+      "lng": 22.778305099999997
+    },
+    "address": "N2, Sedgefield, 6573",
+    "rating": 4.6,
+    "reviewCount": 4419,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farmers' Market",
+    "types": [
+      "farmers_market",
+      "tourist_attraction",
+      "market",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJe0dqHFyzzR0RXMhh3Dckk_E",
+    "name": "Mooiberge Farmstall",
+    "category": "family",
+    "coords": {
+      "lat": -33.9984782,
+      "lng": 18.8264837
+    },
+    "address": "R44, Stellenbosch, 7600",
+    "rating": 4.2,
+    "reviewCount": 2818,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "winery",
+      "farm",
+      "food",
+      "point_of_interest",
+      "manufacturer",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJjUl9_O3FzR0R8VnTgTgpIyg",
+    "name": "The Orchard Farm Stall",
+    "category": "family",
+    "coords": {
+      "lat": -34.1619846,
+      "lng": 19.0100223
+    },
+    "address": "Oudebrug Rd, Grabouw, 7160",
+    "rating": 4.3,
+    "reviewCount": 2282,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ9SGOJL5CzB0RXHXRtR0BbYg",
+    "name": "Chart Farm | Roses and Coffee Shop",
+    "category": "family",
+    "coords": {
+      "lat": -34.002776499999996,
+      "lng": 18.449602799999997
+    },
+    "address": "1A Klaasens Rd, Wynberg, Cape Town, 7800",
+    "rating": 4.3,
+    "reviewCount": 2201,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Garden",
+    "types": [
+      "garden",
+      "grocery_store",
+      "market",
+      "farm",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ_zM6Fs6xzR0RQqqOJcj5BrE",
+    "name": "Hillcrest Berry Orchards",
+    "category": "family",
+    "coords": {
+      "lat": -33.9105606,
+      "lng": 18.943119
+    },
+    "address": "R310 Banhoek Valley, Stellenbosch, 7601",
+    "rating": 4.4,
+    "reviewCount": 2189,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJsQP6XfbmeB4RRrJJm2dbNmA",
+    "name": "Harkerville Saturday Market",
+    "category": "family",
+    "coords": {
+      "lat": -34.038291099999995,
+      "lng": 23.2420336
+    },
+    "address": "N2, midway between Knysna and Plettenberg Bay Harkerville, Plettenberg Bay, 6600",
+    "rating": 4.4,
+    "reviewCount": 1274,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Market",
+    "types": [
+      "market",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJwRwEXOi0zR0RRe1U-EgrZdU",
+    "name": "Helderberg Farm",
+    "category": "family",
+    "coords": {
+      "lat": -34.032826299999996,
+      "lng": 18.8339043
+    },
+    "address": "Klein Helderberg Road off, R44, Somerset West, Raithby, 7130",
+    "rating": 4.3,
+    "reviewCount": 1037,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "hiking_area",
+      "farm",
+      "sports_activity_location",
+      "sports_club",
+      "point_of_interest",
+      "association_or_organization",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJy969F86f0h0Rnsn8k6nEgZk",
+    "name": "Klondyke Cherry Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.315107999999995,
+      "lng": 19.581499
+    },
+    "address": "Klondyke Cherry Farm, Ceres, South Africa, 6835",
+    "rating": 4.5,
+    "reviewCount": 861,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJpZPZGJBOMxwRMtcOognR3Tg",
+    "name": "Plaasmol Padstal",
+    "category": "family",
+    "coords": {
+      "lat": -33.036329099999996,
+      "lng": 18.2968616
+    },
+    "address": "km out Hopefield on, 5 R45, Hartebeesfontein, Hopefield, 7355",
+    "rating": 4.2,
+    "reviewCount": 834,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Food Store",
+    "types": [
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJLUxsKNZbzB0R6GWF-vBOLok",
+    "name": "Epping Paradise Hawkers Market",
+    "category": "family",
+    "coords": {
+      "lat": -33.9303562,
+      "lng": 18.5330427
+    },
+    "address": "Gunners Cir, Goodwood, Cape Town, 7475",
+    "rating": 4.5,
+    "reviewCount": 518,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Market",
+    "types": [
+      "market",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJK-Tuz_9yzR0RralnFeJq9LA",
+    "name": "Rietdakkie Padstal & Plaaskombuis",
+    "category": "family",
+    "coords": {
+      "lat": -33.550188999999996,
+      "lng": 19.2333542
+    },
+    "address": "Ceres",
+    "rating": 4.5,
+    "reviewCount": 482,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Food Store",
+    "types": [
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJaSMTFyy5eB4RyvT8kl8TYV4",
+    "name": "Totties Country Market",
+    "category": "family",
+    "coords": {
+      "lat": -33.9513478,
+      "lng": 22.9464735
+    },
+    "address": "Rheenendal Road 12km along the, Rheenendal Rd, Knysna, 6570",
+    "rating": 4.4,
+    "reviewCount": 444,
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "summary": null,
+    "primaryType": "Farmers' Market",
+    "types": [
+      "farmers_market",
+      "market",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJla6ToQzzzB0RdUUNskVwNIE",
+    "name": "Melkbossie F.A.S.",
+    "category": "family",
+    "coords": {
+      "lat": -33.6795154,
+      "lng": 18.4664562
+    },
+    "address": "8FC8+6F South Africa, Cape Farms, Cape Town, 7441",
+    "rating": 4.8,
+    "reviewCount": 430,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJgY7LFZHR0x0Rn-CvWKj__hI",
+    "name": "The Berry Guest Farm Swellendam",
+    "category": "family",
+    "coords": {
+      "lat": -34.008535099999996,
+      "lng": 20.4258216
+    },
+    "address": "Hermatige Valley, Swellendam, 6740",
+    "rating": 4.6,
+    "reviewCount": 283,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Lodging",
+    "types": [
+      "farmstay",
+      "bed_and_breakfast",
+      "amusement_park",
+      "campground",
+      "amusement_center",
+      "guest_house",
+      "lodging",
+      "point_of_interest",
+      "farm",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJqejBcXJWzB0RyKVcpqNGLyM",
+    "name": "Stanler Farms Cape Town",
+    "category": "family",
+    "coords": {
+      "lat": -33.789705,
+      "lng": 18.701390999999997
+    },
+    "address": "Klipheuwel Rd, Fisantekraal, Cape Town, 7550",
+    "rating": 4.5,
+    "reviewCount": 277,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "garden_center",
+      "farm",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJf8gXWKYa1h0Ru-e4DGkZ4tg",
+    "name": "Let's Love Local Gift Market",
+    "category": "family",
+    "coords": {
+      "lat": -33.9600082,
+      "lng": 22.382867599999997
+    },
+    "address": "Redberry Farm, Geelhoutboom Road, Blanco, George, 6530",
+    "rating": 4.8,
+    "reviewCount": 154,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Market",
+    "types": [
+      "market",
+      "flea_market",
+      "gift_shop",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJeQiJgCptzR0Ri_GffeN6cu8",
+    "name": "Hoogwater Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.471542299999996,
+      "lng": 19.1909168
+    },
+    "address": "Romansrivier",
+    "rating": 4.7,
+    "reviewCount": 143,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJOeVL10ypzR0RPwMxC2qjJKM",
+    "name": "Blueberry Bar",
+    "category": "family",
+    "coords": {
+      "lat": -33.80417,
+      "lng": 18.885858499999998
+    },
+    "address": "Blueberry Bar, Klapmuts - Simondium Rd, Paarl, 7624",
+    "rating": 4.6,
+    "reviewCount": 136,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Food Store",
+    "types": [
+      "coffee_shop",
+      "tourist_attraction",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ1wk_tPCozR0RbM8zuqYO8aM",
+    "name": "Strawberry King",
+    "category": "family",
+    "coords": {
+      "lat": -33.7805245,
+      "lng": 18.9556365
+    },
+    "address": "Loewenstein Farm, Wemmershoek Road, Paarl, 7624",
+    "rating": 4.4,
+    "reviewCount": 135,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJIUymOzsP1h0R5b1SjKlD-jY",
+    "name": "Giant Strawberry @ Redberry Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.9595677,
+      "lng": 22.382198
+    },
+    "address": "GEELHOUTBOOM ROAD (OFF THE, R40, BLANCO, George, 6530",
+    "rating": 4.6,
+    "reviewCount": 132,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Tourist Attraction",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJTWnpYX-yzR0RtYBRc67XjIo",
+    "name": "Timberlea Farming Trust",
+    "category": "family",
+    "coords": {
+      "lat": -33.9065459,
+      "lng": 18.859859099999998
+    },
+    "address": "Klapmuts Road, R44, Cloetesville, Stellenbosch, 7600",
+    "rating": 4.4,
+    "reviewCount": 130,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJw3SPrZI_zB0Rv2i2uqUJ1qY",
+    "name": "Rocklands Farm",
+    "category": "family",
+    "coords": {
+      "lat": -34.2196694,
+      "lng": 18.4617874
+    },
+    "address": "33 Rocklands Rd, Murdock Valley, Cape Town, 7975",
+    "rating": 4.5,
+    "reviewCount": 121,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "tourist_attraction",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJR_roggni1R0RNLgescYsQIs",
+    "name": "Holgate Farm Stall",
+    "category": "family",
+    "coords": {
+      "lat": -33.8112312,
+      "lng": 22.351373199999998
+    },
+    "address": "Oudtshoorn, 6529",
+    "rating": 4.4,
+    "reviewCount": 104,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Food Store",
+    "types": [
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJR-QyP9LFzR0RhJv3KT8314I",
+    "name": "Fruitways Packing Services - Molteno Packing Operation",
+    "category": "family",
+    "coords": {
+      "lat": -34.149918899999996,
+      "lng": 19.0406717
+    },
+    "address": "Grabouw",
+    "rating": 4.5,
+    "reviewCount": 83,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Food Store",
+    "types": [
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJOb_u0FFnzB0R8EaCVNtCSLQ",
+    "name": "Oranjezicht City Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.9422,
+      "lng": 18.41472
+    },
+    "address": "87 Upper Orange St, Oranjezicht, Cape Town, 8001",
+    "rating": 4.7,
+    "reviewCount": 72,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ6bS98etMzB0RWsbU69m6lj8",
+    "name": "Limberlost Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.9852985,
+      "lng": 18.7793436
+    },
+    "address": "Annandale Rd, Lynedoch, Stellenbosch, 7603",
+    "rating": 4.5,
+    "reviewCount": 61,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJyz_fpZqozR0R-5_SY4oTaCg",
+    "name": "Rennie Farms",
+    "category": "family",
+    "coords": {
+      "lat": -33.7928563,
+      "lng": 18.9833839
+    },
+    "address": "Kliprug Minor Rd",
+    "rating": 4.2,
+    "reviewCount": 58,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJPWAUW-hozB0RGbJNCvzbSUU",
+    "name": "Meuse Farm",
+    "category": "family",
+    "coords": {
+      "lat": -34.0211105,
+      "lng": 18.3599452
+    },
+    "address": "Hout Bay, Cape Town, 7806",
+    "rating": 4.5,
+    "reviewCount": 41,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ3Y8vUuTFzR0R8w6HT-pyEnE",
+    "name": "Elgin Orchards (Pty) Ltd",
+    "category": "family",
+    "coords": {
+      "lat": -34.1731073,
+      "lng": 19.001476399999998
+    },
+    "address": "Oudebrug Rd, Grabouw, 7160",
+    "rating": 4.4,
+    "reviewCount": 37,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJleTCp1przR0RhG4dSHBcM_E",
+    "name": "Rora Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.4414484,
+      "lng": 19.2003368
+    },
+    "address": "Rora Farm, Wolseley, 6830",
+    "rating": 4.4,
+    "reviewCount": 28,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJMWkJfWcJzR0RdBi4UQIMVpM",
+    "name": "Indigo Berries",
+    "category": "family",
+    "coords": {
+      "lat": -33.6613209,
+      "lng": 19.0228577
+    },
+    "address": "Blouvlei Rd, Wellington, 7655",
+    "rating": 4.4,
+    "reviewCount": 23,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJAe7j9GsO1h0R3OF7BcvLMqU",
+    "name": "South Cape Fruit (Pty) Ltd",
+    "category": "family",
+    "coords": {
+      "lat": -33.9609118,
+      "lng": 22.351989399999997
+    },
+    "address": "Farm Highfields, Geelhoutboom, George, 6530",
+    "rating": 4.7,
+    "reviewCount": 21,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJUbowCsoP1h0RTHrUuHzQmUs",
+    "name": "Strawberry Festival @ Redberry Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.9593814,
+      "lng": 22.3824499
+    },
+    "address": "geelhoutboom road, Blanco, George, 6530",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Event Venue",
+    "types": [
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJcYU5WP9v1h0RuYYDQNVsvME",
+    "name": "Garden of Eden Berries",
+    "category": "family",
+    "coords": {
+      "lat": -33.9428567,
+      "lng": 22.3386668
+    },
+    "address": "farm groeneweide, George, 6529",
+    "rating": 4.4,
+    "reviewCount": 20,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJRRMqZgoP1h0Rs6QMrLu7GEs",
+    "name": "Haygrove Eden",
+    "category": "family",
+    "coords": {
+      "lat": -33.962553,
+      "lng": 22.380087099999997
+    },
+    "address": "Geelhoutboom Road, Geelhoutboom, George, 6530",
+    "rating": 4.4,
+    "reviewCount": 20,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJTRX5J-RNzB0R6muv-UYcE7c",
+    "name": "Gletwyn Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.949964099999995,
+      "lng": 18.7204482
+    },
+    "address": "Polkadraai Rd, Stellenbosch Farms, Cape Town, 7600",
+    "rating": 4.3,
+    "reviewCount": 16,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJAS_qMKbEzR0RzKjcQaN8adA",
+    "name": "Appleberry Farm",
+    "category": "family",
+    "coords": {
+      "lat": -34.2070887,
+      "lng": 19.0892749
+    },
+    "address": "Valley Rd",
+    "rating": 4.4,
+    "reviewCount": 16,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJKyXPRsltzR0Rme8YPEUZp_4",
+    "name": "Strathbreede Berries",
+    "category": "family",
+    "coords": {
+      "lat": -33.4378715,
+      "lng": 19.1973642
+    },
+    "address": "Voortrekker St, ext, Wolseley, 6830",
+    "rating": 4.5,
+    "reviewCount": 13,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJOajlhj0P1h0RA5UJ7-lu6tg",
+    "name": "Karma / Emery Soft Fruit Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.9746739,
+      "lng": 22.3853622
+    },
+    "address": "R404, Blanco, George, 6529",
+    "rating": 5,
+    "reviewCount": 12,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJjXXSdE1LzB0Rp6qiz1WJyTU",
+    "name": "Genesis Farm",
+    "category": "family",
+    "coords": {
+      "lat": -34.018642,
+      "lng": 18.804880999999998
+    },
+    "address": "Genesis Farm, Raithby Annendale Road, Somerset West, Raithby, 7130",
+    "rating": 4.7,
+    "reviewCount": 11,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJy32QFo3FzR0RdtCrbTpV0Ls",
+    "name": "Morning Star Apple Farm",
+    "category": "family",
+    "coords": {
+      "lat": -34.1690677,
+      "lng": 19.007750599999998
+    },
+    "address": "Oudeberg Road, Western Cape",
+    "rating": 4.3,
+    "reviewCount": 10,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJx10PuvZCzB0RbBnZRHHrXhE",
+    "name": "Zonnestraal Farm",
+    "category": "family",
+    "coords": {
+      "lat": -34.0135062,
+      "lng": 18.4555553
+    },
+    "address": "Main Rd, Constantia, Cape Town, 7806",
+    "rating": 4.3,
+    "reviewCount": 9,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJYdrcHpxUzB0Ro-GySaXa1rc",
+    "name": "Lushof Guava Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.8344769,
+      "lng": 18.7776084
+    },
+    "address": "Old Paarl Rd, Cape Town",
+    "rating": 4.8,
+    "reviewCount": 8,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJc892PegGzR0R4boWuRPkEAQ",
+    "name": "Westland (Hoekstra Fruit Farms)",
+    "category": "family",
+    "coords": {
+      "lat": -33.673818,
+      "lng": 18.927214
+    },
+    "address": "Westland Farm, Windmeul, Agter Paarl, 7630",
+    "rating": 4.8,
+    "reviewCount": 8,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJEdipYewd1h0RqsOVcw46gjY",
+    "name": "Wilderness Fruit",
+    "category": "family",
+    "coords": {
+      "lat": -33.9536509,
+      "lng": 22.579687699999997
+    },
+    "address": "Farm 385, Hoekwil, Wilderness, 6560",
+    "rating": 4.7,
+    "reviewCount": 6,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Manufacturer",
+    "types": [
+      "manufacturer",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJIS1jBL2ozR0R468FTrySej8",
+    "name": "Loewenstein Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.7869903,
+      "lng": 18.9834537
+    },
+    "address": "Paarl",
+    "rating": 3.4,
+    "reviewCount": 5,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJHfn68d3FzR0RNKx9FyuK4Tw",
+    "name": "Glen Apples C C",
+    "category": "family",
+    "coords": {
+      "lat": -34.1495876,
+      "lng": 19.004325599999998
+    },
+    "address": "9 Industrial Ave, Grabouw, 7160",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  }
+]

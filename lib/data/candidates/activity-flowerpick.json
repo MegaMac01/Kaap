@@ -1,0 +1,1027 @@
+[
+  {
+    "placeId": "ChIJjaE8RG1UzB0Ret0L1b7i-yQ",
+    "name": "Cape Garden, Joostenbergvlakte Branch",
+    "category": "family",
+    "coords": {
+      "lat": -33.83341600000001,
+      "lng": 18.7381204
+    },
+    "address": "58 Tarentaal Rd, Joostenberg Vlakte, Cape Town, 7570",
+    "rating": 4.6,
+    "reviewCount": 3065,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Garden Center",
+    "types": [
+      "garden_center",
+      "garden",
+      "breakfast_restaurant",
+      "farm",
+      "wholesaler",
+      "furniture_store",
+      "home_improvement_store",
+      "home_goods_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJe0dqHFyzzR0RXMhh3Dckk_E",
+    "name": "Mooiberge Farmstall",
+    "category": "family",
+    "coords": {
+      "lat": -33.9984782,
+      "lng": 18.8264837
+    },
+    "address": "R44, Stellenbosch, 7600",
+    "rating": 4.2,
+    "reviewCount": 2818,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "winery",
+      "farm",
+      "manufacturer",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ9SGOJL5CzB0RXHXRtR0BbYg",
+    "name": "Chart Farm | Roses and Coffee Shop",
+    "category": "family",
+    "coords": {
+      "lat": -34.002776499999996,
+      "lng": 18.449602799999997
+    },
+    "address": "1A Klaasens Rd, Wynberg, Cape Town, 7800",
+    "rating": 4.3,
+    "reviewCount": 2201,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Garden",
+    "types": [
+      "garden",
+      "farm",
+      "grocery_store",
+      "market",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ_zM6Fs6xzR0RQqqOJcj5BrE",
+    "name": "Hillcrest Berry Orchards",
+    "category": "family",
+    "coords": {
+      "lat": -33.9105606,
+      "lng": 18.943119
+    },
+    "address": "R310 Banhoek Valley, Stellenbosch, 7601",
+    "rating": 4.4,
+    "reviewCount": 2189,
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJddo2VQVRzB0RYe21WtEsAFE",
+    "name": "Bunches For Africa",
+    "category": "family",
+    "coords": {
+      "lat": -33.8868709,
+      "lng": 18.6765754
+    },
+    "address": "24 Fourie St, Brackenfell South, Cape Town, 7560",
+    "rating": 4.5,
+    "reviewCount": 1522,
+    "priceLevel": null,
+    "summary": "Breakfasts, burgers and toasted sandwiches in coffee shop set amid the blooms in flower warehouse.",
+    "primaryType": "Market",
+    "types": [
+      "bistro",
+      "florist",
+      "home_goods_store",
+      "market",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJy969F86f0h0Rnsn8k6nEgZk",
+    "name": "Klondyke Cherry Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.315107999999995,
+      "lng": 19.581499
+    },
+    "address": "Klondyke Cherry Farm, Ceres, South Africa, 6835",
+    "rating": 4.5,
+    "reviewCount": 861,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZz5GMhYPzR0RRQ37K55s7HA",
+    "name": "Langkloof Roses",
+    "category": "family",
+    "coords": {
+      "lat": -33.602806,
+      "lng": 19.030732999999998
+    },
+    "address": "36 Slangrivier Rd, Wellington, Cape Town, 7655",
+    "rating": 4.4,
+    "reviewCount": 382,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Event Venue",
+    "types": [
+      "event_venue",
+      "wedding_venue",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJpyew43tDzB0Rcvsjs3P1hZE",
+    "name": "Engelke Flowers",
+    "category": "family",
+    "coords": {
+      "lat": -34.0061866,
+      "lng": 18.5167459
+    },
+    "address": "Old Strandfontein Rd, Wetton, Cape Town, 7780",
+    "rating": 4.4,
+    "reviewCount": 328,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Florist",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJeQiJgCptzR0Ri_GffeN6cu8",
+    "name": "Hoogwater Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.471542299999996,
+      "lng": 19.1909168
+    },
+    "address": "Romansrivier",
+    "rating": 4.7,
+    "reviewCount": 143,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJTaZNW97EzR0RDsnxCGN9D_8",
+    "name": "Cheverells Farm",
+    "category": "family",
+    "coords": {
+      "lat": -34.2096367,
+      "lng": 19.0435386
+    },
+    "address": "55 Highlands Rd, Elgin Valley, Grabouw, 7180",
+    "rating": 4.9,
+    "reviewCount": 140,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Restaurant",
+    "types": [
+      "restaurant",
+      "gift_shop",
+      "wedding_venue",
+      "lodging",
+      "event_venue",
+      "store",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJjbgWrg0J1h0RTnY9bor4IUs",
+    "name": "Ludwigs Roses Outeniqua",
+    "category": "family",
+    "coords": {
+      "lat": -33.8660213,
+      "lng": 22.3618459
+    },
+    "address": "N9, Waboomskraal, George, 1140",
+    "rating": 4.6,
+    "reviewCount": 140,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Garden Center",
+    "types": [
+      "garden_center",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJcyDGZKVUzB0RjXa6MqAbSr0",
+    "name": "Ludwig's Roses Winelands",
+    "category": "family",
+    "coords": {
+      "lat": -33.8271842,
+      "lng": 18.795267799999998
+    },
+    "address": "R304, Muldersvlei, Stellenbosch, 7600",
+    "rating": 4.7,
+    "reviewCount": 132,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "building_materials_store",
+      "general_contractor",
+      "wholesaler",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJw3SPrZI_zB0Rv2i2uqUJ1qY",
+    "name": "Rocklands Farm",
+    "category": "family",
+    "coords": {
+      "lat": -34.2196694,
+      "lng": 18.4617874
+    },
+    "address": "33 Rocklands Rd, Murdock Valley, Cape Town, 7975",
+    "rating": 4.5,
+    "reviewCount": 121,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "tourist_attraction",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJo1E0eZtNzB0RjPy-M3rj3O8",
+    "name": "Canettevallei Lavender And Wine Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.9422438,
+      "lng": 18.7533282
+    },
+    "address": "Canettevallei, Stellenbosch Kloof Rd, Vlottenburg, 7604",
+    "rating": 4.8,
+    "reviewCount": 119,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Gift Shop",
+    "types": [
+      "gift_shop",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJs85b4pRCzB0RKATBPg73cJg",
+    "name": "Ludwigs Roses Cape Town",
+    "category": "family",
+    "coords": {
+      "lat": -34.003324299999996,
+      "lng": 18.4497104
+    },
+    "address": "ERF311 Klaasens Rd, Alphen, Cape Town, 7806",
+    "rating": 4.4,
+    "reviewCount": 75,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Garden Center",
+    "types": [
+      "garden_center",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJOb_u0FFnzB0R8EaCVNtCSLQ",
+    "name": "Oranjezicht City Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.9422,
+      "lng": 18.41472
+    },
+    "address": "87 Upper Orange St, Oranjezicht, Cape Town, 8001",
+    "rating": 4.7,
+    "reviewCount": 72,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJb8A_F4xnMxwRk_c1Ci_9WMU",
+    "name": "Bokmakierie Wholesale Nursery",
+    "category": "family",
+    "coords": {
+      "lat": -32.7947947,
+      "lng": 18.2110383
+    },
+    "address": "Farm 113 De Plaat, Velddrif, 7365",
+    "rating": 4.8,
+    "reviewCount": 70,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "wholesaler",
+      "farm",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ9ahHDr331R0R3Bad7vM0BZk",
+    "name": "Numbi Valley Permaculture Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.5243902,
+      "lng": 22.564149699999998
+    },
+    "address": "Numbi Valley, Middelplaas, De Rust, 6650",
+    "rating": 5,
+    "reviewCount": 69,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Guest House",
+    "types": [
+      "guest_house",
+      "farmstay",
+      "yoga_studio",
+      "fitness_center",
+      "sports_complex",
+      "gym",
+      "farm",
+      "massage",
+      "lodging",
+      "sports_activity_location",
+      "sports_school",
+      "health",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ7ZzMp2YJ1h0RZcpBgexo2uM",
+    "name": "Rosenhof Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.865525,
+      "lng": 22.362225499999997
+    },
+    "address": "N9 Waboomskraal, George, 1140",
+    "rating": 4.5,
+    "reviewCount": 47,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Florist",
+    "types": [
+      "florist",
+      "wedding_venue",
+      "event_venue",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ6Uv1ED4F1h0RHuo8263VXpY",
+    "name": "Garden Route Flowers",
+    "category": "family",
+    "coords": {
+      "lat": -33.9619761,
+      "lng": 22.4586844
+    },
+    "address": "104 Meade street, Cnr of Meade and, Multisentrum, Market St, George Central, George, 6529",
+    "rating": 4.8,
+    "reviewCount": 42,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Florist",
+    "types": [
+      "florist",
+      "gift_shop",
+      "wholesaler",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJt0k6YDtDzB0RvN3UcUuA4Tk",
+    "name": "Japhta's Flower Farm",
+    "category": "family",
+    "coords": {
+      "lat": -34.0288865,
+      "lng": 18.4379615
+    },
+    "address": "15 Brounger Rd, Southern Suburbs, Cape Town, 7806",
+    "rating": 4.7,
+    "reviewCount": 22,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Florist",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ24m1lo-czR0RaCk5lq_N9uU",
+    "name": "Bloomia South Africa",
+    "category": "family",
+    "coords": {
+      "lat": -33.737236599999996,
+      "lng": 19.3409271
+    },
+    "address": "Louwshoek, Le Domaine, Rawsonville, 6845",
+    "rating": 4.5,
+    "reviewCount": 21,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "florist",
+      "wholesaler",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJcYU5WP9v1h0RuYYDQNVsvME",
+    "name": "Garden of Eden Berries",
+    "category": "family",
+    "coords": {
+      "lat": -33.9428567,
+      "lng": 22.3386668
+    },
+    "address": "farm groeneweide, George, 6529",
+    "rating": 4.4,
+    "reviewCount": 20,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJZ4xEyrOneB4RPXhZPXe-MoA",
+    "name": "Leppan Farming (Pty) Ltd",
+    "category": "family",
+    "coords": {
+      "lat": -33.9553789,
+      "lng": 22.6629707
+    },
+    "address": "Mandalay Farm, Seven Passes Road, Hoekwil, George, 6529",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJJ_24ubFTzB0RRyxI132_Q7Y",
+    "name": "Protea Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.8794031,
+      "lng": 18.7464852
+    },
+    "address": "Stellenbosch Farms, Cape Town",
+    "rating": 4.1,
+    "reviewCount": 18,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJTZOpJIRUzB0RCf1mZA9QUG8",
+    "name": "Terra Nova Flower Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.8333933,
+      "lng": 18.7667516
+    },
+    "address": "Stellenbosch",
+    "rating": 4.4,
+    "reviewCount": 15,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJNUi6iiVUzB0R8h-y6n6-Gbs",
+    "name": "Joal Farming",
+    "category": "family",
+    "coords": {
+      "lat": -33.8155529,
+      "lng": 18.7200594
+    },
+    "address": "Plot 725 Red Hill Rd, East-Rural, Cape Town, 7570",
+    "rating": 3.9,
+    "reviewCount": 13,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Wholesaler",
+    "types": [
+      "wholesaler",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJkbKkyN5J0h0R_RqJaYET1xY",
+    "name": "Weltevrede Flowers",
+    "category": "family",
+    "coords": {
+      "lat": -33.8708762,
+      "lng": 20.1431644
+    },
+    "address": "R60, Ashton, 6715",
+    "rating": 5,
+    "reviewCount": 11,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJvWPtpiEJzR0RI0J-py3nSoI",
+    "name": "The Wild Bunch Flower Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.6425076,
+      "lng": 19.0492684
+    },
+    "address": "R301",
+    "rating": 4.6,
+    "reviewCount": 10,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJxZImAJcHzR0Rrk0vFHcXM3A",
+    "name": "FreshCap - Premium flower grower and exporter",
+    "category": "family",
+    "coords": {
+      "lat": -33.6914363,
+      "lng": 18.949534399999997
+    },
+    "address": "Eureka Farm, Noord Agter - Paarl Rd, Northern Paarl, Paarl, 7646",
+    "rating": 4.9,
+    "reviewCount": 10,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJUQNsihLS0x0R1DfRxEwpS3I",
+    "name": "No longer in business",
+    "category": "family",
+    "coords": {
+      "lat": -34.0111584,
+      "lng": 20.4052842
+    },
+    "address": "Flora Jubilee, Swellendam, 6740",
+    "rating": 4.5,
+    "reviewCount": 10,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJFXZxlyoR1h0RVoXxKow3hE8",
+    "name": "VANDERFAX",
+    "category": "family",
+    "coords": {
+      "lat": -34.00739,
+      "lng": 22.346439699999998
+    },
+    "address": "R102, Hoogekraal, George, 6970",
+    "rating": 5,
+    "reviewCount": 10,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Market",
+    "types": [
+      "market",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJY8YLLfjzzR0RdEJtlzckMgE",
+    "name": "Spinlea Farm",
+    "category": "family",
+    "coords": {
+      "lat": -34.0691179,
+      "lng": 19.422312299999998
+    },
+    "address": "Unnamed Road, Greyton, 7233",
+    "rating": 5,
+    "reviewCount": 9,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJgRIEiG7neB4RSzRV3Pc-ADk",
+    "name": "Sassenheim flower farm",
+    "category": "family",
+    "coords": {
+      "lat": -34.0378091,
+      "lng": 23.237781299999998
+    },
+    "address": "N2",
+    "rating": 4.3,
+    "reviewCount": 7,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJr5KQLs1t1h0Rl0uMzu94QfQ",
+    "name": "Bell's & Blossoms",
+    "category": "family",
+    "coords": {
+      "lat": -34.0416483,
+      "lng": 22.219500099999998
+    },
+    "address": "Grootbrak Rivier Waterfront, 1 Station Street, Bergsig, Great Brak River, 6525",
+    "rating": 5,
+    "reviewCount": 7,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Florist",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJodaMwcW_eB4RZtHve_iv_r4",
+    "name": "Khiza farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.9893942,
+      "lng": 22.9800458
+    },
+    "address": "191 46 Westford, Rheenendal, 6576",
+    "rating": 5,
+    "reviewCount": 5,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ1b0CbsIJ1h0Rb5RlSR8AiXA",
+    "name": "Florburgh Proteas",
+    "category": "family",
+    "coords": {
+      "lat": -33.8703031,
+      "lng": 22.367149599999998
+    },
+    "address": "Farm Smutskloof Waboomskraal Waboomskraal, George, 6530",
+    "rating": 4.6,
+    "reviewCount": 5,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJY6j19ZnJzR0RyInSW3BqZ-U",
+    "name": "Mellifera Farm",
+    "category": "family",
+    "coords": {
+      "lat": -34.107437499999996,
+      "lng": 18.920518899999998
+    },
+    "address": "Unnamed Road, Helderberg Rural, Cape Town, 7135",
+    "rating": 4.5,
+    "reviewCount": 4,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "farmstay",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ_3KoZsDnzB0RZQgvpNvtx98",
+    "name": "Lowensvlei Flower Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.5102891,
+      "lng": 18.6430599
+    },
+    "address": "26 Fynbos Ave, 7299",
+    "rating": 3.7,
+    "reviewCount": 3,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJxwP4sroIzR0RnN1hdCXvLR8",
+    "name": "The Wild Bunch Flower Farm Shop",
+    "category": "family",
+    "coords": {
+      "lat": -33.64148960000001,
+      "lng": 19.0100062
+    },
+    "address": "34 Bain St, Wellington, 7655",
+    "rating": 5,
+    "reviewCount": 3,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Point of interest",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJu2gunjHh0R0Rledx2Hoj1cA",
+    "name": "Concordia Flowers",
+    "category": "family",
+    "coords": {
+      "lat": -34.5859491,
+      "lng": 19.577600099999998
+    },
+    "address": "Baardskeerders Bos, Gansbaai, 7220",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJY1VVVQEQ1h0RdvC_UOCQDbE",
+    "name": "Nikwaflora",
+    "category": "family",
+    "coords": {
+      "lat": -33.9618098,
+      "lng": 22.1656183
+    },
+    "address": "Terranikwa, Great Brak River, 6530",
+    "rating": 4.5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": null,
+    "types": [
+      "market",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJd-NRZucH1h0RE3K47rP9aDc",
+    "name": "Flower Foundry",
+    "category": "family",
+    "coords": {
+      "lat": -33.8337837,
+      "lng": 22.4464342
+    },
+    "address": "CNr N9 / Doorn River, George, 6615",
+    "rating": 5,
+    "reviewCount": 2,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Market",
+    "types": [
+      "market",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJ_35CjFNrzR0RTcW1TquoFnE",
+    "name": "Tokoza Cape Flower Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.4242737,
+      "lng": 19.2087823
+    },
+    "address": "Tokoza Cape Flower Farm Left on, Smaldrif Rd, Montana, Wolseley, 6830",
+    "rating": 5,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "market",
+      "service",
+      "wholesaler",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJjwqSNgDnMhwRB6IhGw12cwE",
+    "name": "Hebron Farm & Temba Flowers Flower shop",
+    "category": "family",
+    "coords": {
+      "lat": -32.617919199999996,
+      "lng": 18.955852099999998
+    },
+    "address": "N7 Piekenierskloof Pass, 7340",
+    "rating": 5,
+    "reviewCount": 1,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Market",
+    "types": [
+      "market",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "placeId": "ChIJIRqYLgB51h0ROCtQhuJIwc0",
+    "name": "Flora Bay Farm",
+    "category": "family",
+    "coords": {
+      "lat": -33.959255,
+      "lng": 22.041965
+    },
+    "address": "22RR+7Q, Ruiterbos",
+    "rating": null,
+    "reviewCount": null,
+    "priceLevel": null,
+    "summary": null,
+    "primaryType": "Farm",
+    "types": [
+      "farm",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ]
+  }
+]

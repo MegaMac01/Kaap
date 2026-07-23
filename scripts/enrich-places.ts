@@ -272,10 +272,15 @@ async function runReviews() {
   const matches: Record<string, MatchEntry | null> = JSON.parse(
     readFileSync(MATCH_FILE, "utf8")
   );
-  const out: Record<string, SpotReview[]> = {};
+  // "new" arg: keep existing entries and only fetch spots without any, so a
+  // fresh import doesn't re-bill the whole catalogue.
+  const newOnly = process.argv[3] === "new";
+  const out: Record<string, SpotReview[]> =
+    newOnly && existsSync(REVIEWS_FILE) ? JSON.parse(readFileSync(REVIEWS_FILE, "utf8")) : {};
   for (const spot of SPOTS) {
     const match = matches[spot.id];
     if (!match) continue;
+    if (newOnly && out[spot.id]) continue;
     let raw: GoogleReview[];
     try {
       raw = await placeReviews(match.placeId);
@@ -330,10 +335,13 @@ async function runPhotos() {
   const matches: Record<string, MatchEntry | null> = JSON.parse(
     readFileSync(MATCH_FILE, "utf8")
   );
-  const out: Record<string, SpotPhotoRef[]> = {};
+  const newOnly = process.argv[3] === "new";
+  const out: Record<string, SpotPhotoRef[]> =
+    newOnly && existsSync(PHOTOS_FILE) ? JSON.parse(readFileSync(PHOTOS_FILE, "utf8")) : {};
   for (const spot of SPOTS) {
     const match = matches[spot.id];
     if (!match) continue;
+    if (newOnly && out[spot.id]) continue;
     let raw: GooglePhoto[];
     try {
       raw = await placePhotos(match.placeId);

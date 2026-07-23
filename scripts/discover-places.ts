@@ -80,6 +80,15 @@ const AREA_TILES: Partial<Record<AreaId, Circle[]>> = {
     { lat: -33.845, lng: 18.708, radius: 2800 }, // Kraaifontein
     { lat: -33.868, lng: 18.7, radius: 2800 }, // Brackenfell
   ],
+  winelands: [
+    { lat: -33.9367, lng: 18.861, radius: 2500 }, // Stellenbosch town
+    { lat: -33.98, lng: 18.85, radius: 4000 }, // Stellenbosch wine route south (R44)
+    { lat: -33.9, lng: 18.78, radius: 4500 }, // Bottelary / Koelenhof
+    { lat: -33.9106, lng: 19.1216, radius: 4000 }, // Franschhoek
+    { lat: -33.7342, lng: 18.9621, radius: 4000 }, // Paarl town
+    { lat: -33.82, lng: 18.92, radius: 5000 }, // Simondium / Klapmuts
+    { lat: -34.0787, lng: 18.8433, radius: 4000 }, // Somerset West / Helderberg
+  ],
 };
 
 /** Google place types → our categories. Order = priority when a venue
@@ -109,11 +118,15 @@ const TYPE_GROUPS: { category: Category; types: string[] }[] = [
   },
   {
     category: "chill",
-    types: ["garden", "botanical_garden", "picnic_ground", "plaza", "spa", "observation_deck"],
+    // "winery" lands here on purpose: a wine-farm tasting afternoon reads as
+    // a chill outing, not nightlife.
+    types: ["garden", "botanical_garden", "picnic_ground", "plaza", "spa", "observation_deck", "winery"],
   },
   {
+    // Gyms/yoga studios/member sports clubs proved to be guide noise
+    // (see the 2026-07 junk prune); only bookable activity venues remain.
     category: "classes",
-    types: ["sports_activity_location", "sports_club", "gym", "yoga_studio"],
+    types: ["sports_activity_location"],
   },
   {
     category: "bars",
@@ -140,6 +153,23 @@ const ACTIVITY_SWEEPS: Record<string, { query: string; category: Category; sig: 
   sharks: { query: "shark cage diving", category: "outdoor", sig: /shark/i },
   surf: { query: "surf school", category: "classes", sig: /surf/i },
   kite: { query: "kitesurfing lessons", category: "classes", sig: /kite|wing.?foil|windsurf/i },
+  // Pick-your-own farms are family outings; their signature is farm-ish
+  // naming since Google types them as plain farms or tourist attractions.
+  strawberries: {
+    query: "strawberry picking farm",
+    category: "family",
+    sig: /strawberr|berry|berrie/i,
+  },
+  fruitpick: {
+    query: "pick your own fruit farm",
+    category: "family",
+    sig: /fruit|apple|orange|citrus|cherr|peach|plum|fig\b|oliv/i,
+  },
+  flowerpick: {
+    query: "flower picking farm",
+    category: "family",
+    sig: /flower|lavender|protea|fynbos|rose|bloom|dahlia|tulp|tulip/i,
+  },
 };
 
 /** Retail masquerading as activity results (board shops, repair benches). */

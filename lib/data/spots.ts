@@ -742,6 +742,9 @@ export const ACTIVITIES: Activity[] = [
   { key: "sharks", label: "Shark cage diving", tag: "shark cage diving" },
   { key: "surf", label: "Surf lessons", tag: "learn to surf" },
   { key: "kite", label: "Kitesurfing", tag: "kitesurfing" },
+  { key: "strawberries", label: "Strawberry picking", tag: "strawberry picking" },
+  { key: "fruitpick", label: "Fruit picking", tag: "fruit picking" },
+  { key: "flowerpick", label: "Flower picking", tag: "flower picking" },
 ];
 
 export const INTERESTS: Interest[] = [

@@ -6550,5 +6550,5152 @@
       "learn to surf"
     ],
     "blurb": "Milnerton lessons on the beach break by the lagoon mouth."
+  },
+  {
+    "id": "exotic-animal-world-previously-butterfly",
+    "name": "Exotic Animal World",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.800184,
+      "lng": 18.8724319
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 4659,
+    "address": "R44, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "zoo",
+      "tourist attraction"
+    ],
+    "blurb": "Walk-through butterfly and exotic animal park on the R44 outside Stellenbosch."
+  },
+  {
+    "id": "franschhoek-station-pub-craft-bar",
+    "name": "Franschhoek Station Pub & Craft Bar",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9069718,
+      "lng": 19.1160262
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 3104,
+    "address": "4 Main Rd, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "coffee shop",
+      "cafe"
+    ],
+    "blurb": "Craft beer and pub plates in Franschhoek's old station building."
+  },
+  {
+    "id": "cheetah-outreach",
+    "name": "Cheetah Outreach",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0906399,
+      "lng": 18.8152923
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 2899,
+    "address": "Paardevlei, De Beers Ave, Somerset West, Helderberg, 7130",
+    "phone": null,
+    "tags": [
+      "zoo"
+    ],
+    "blurb": "Meet ambassador cheetahs at Paardevlei and support big-cat conservation doing it."
+  },
+  {
+    "id": "ster-kinekor-somerset",
+    "name": "Ster-Kinekor Somerset",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.08372190000001,
+      "lng": 18.8266738
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4,
+    "reviewCount": 2556,
+    "address": "N2, Firgrove Rural, Cape Town, 7110",
+    "phone": null,
+    "tags": [
+      "movie theater"
+    ],
+    "blurb": "Somerset Mall cinema for Helderberg's rainy-day blockbusters."
+  },
+  {
+    "id": "drakenstein-lion-park",
+    "name": "Drakenstein Lion Park",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.795384,
+      "lng": 18.909841
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 2078,
+    "address": "Old Paarl Rd, Paarl, 7625",
+    "phone": null,
+    "tags": [
+      "wildlife park",
+      "zoo",
+      "park"
+    ],
+    "blurb": "Sanctuary for rescued lions outside Paarl, seen from raised walkways."
+  },
+  {
+    "id": "wiesenhof-adventure-park",
+    "name": "Wiesenhof Adventure Park",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.833832699999995,
+      "lng": 18.877425
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 1976,
+    "address": "R44 Adam Tas St, Klapmuts, 7600",
+    "phone": null,
+    "tags": [
+      "water park",
+      "adventure sports center",
+      "amusement park"
+    ],
+    "blurb": "Klapmuts waterslides, pools and picnic lawns, a summer-holiday classic."
+  },
+  {
+    "id": "le-bonheur-reptiles-and-adventures",
+    "name": "Le Bonheur Reptiles and Adventures",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8184253,
+      "lng": 18.9455919
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 1849,
+    "address": "Babylonstoren Rd, Simondium, 7670",
+    "phone": null,
+    "tags": [
+      "zoo",
+      "tourist attraction"
+    ],
+    "blurb": "Crocodiles and reptiles at Simondium, with feeding tours for brave kids."
+  },
+  {
+    "id": "brenaissance-wine-stud-estate",
+    "name": "Brenaissance Wine & Stud Estate",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9194618,
+      "lng": 18.8186984
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 1083,
+    "address": "36 Devon Valley Rd, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "hotel",
+      "wedding venue",
+      "playground"
+    ],
+    "blurb": "Devon Valley estate mixing wine tasting, a deli and horses for the kids to admire."
+  },
+  {
+    "id": "clos-malverne-restaurant",
+    "name": "Clos Malverne Restaurant",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.910717,
+      "lng": 18.8138961
+    },
+    "priceBand": 3,
+    "priceEstimate": "R250–450 pp",
+    "rating": 4.5,
+    "reviewCount": 921,
+    "address": "Devon Valley Rd, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "bistro",
+      "wedding venue"
+    ],
+    "blurb": "Devon Valley cellar restaurant known for pairing menus overlooking the vines."
+  },
+  {
+    "id": "minimax-cinema",
+    "name": "Minimax Cinema",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7315167,
+      "lng": 18.9642524
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 722,
+    "address": "1 New St, Esterville, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "movie theater"
+    ],
+    "blurb": "Paarl's small independent cinema on New Street."
+  },
+  {
+    "id": "franschhoek-cellar",
+    "name": "Franschhoek Cellar",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9045467,
+      "lng": 19.1113687
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 548,
+    "address": "Main Rd, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "wine bar",
+      "winery"
+    ],
+    "blurb": "Big-name Franschhoek cellar door with easy tastings and a garden restaurant."
+  },
+  {
+    "id": "graceland-venues",
+    "name": "Graceland Venues",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7508042,
+      "lng": 18.9932363
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 417,
+    "address": "Lustigan Rd, Paarl, 7620",
+    "phone": null,
+    "tags": [
+      "water park",
+      "tourist attraction",
+      "amusement park"
+    ],
+    "blurb": "Paarl waterslide park and picnic venue for hot-day family missions."
+  },
+  {
+    "id": "cape-joy",
+    "name": "Cape Joy",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8195723,
+      "lng": 18.8781249
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 408,
+    "address": "Uitspan Farm, R44, Klapmuts, 7625",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "indoor playground",
+      "playground"
+    ],
+    "blurb": "Farm restaurant at Klapmuts with a big indoor playground so parents can finish coffee."
+  },
+  {
+    "id": "kids-factory",
+    "name": "Kids Factory",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.892288199999996,
+      "lng": 18.7375373
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 347,
+    "address": "17 Bottelary Rd, Brackenfell South, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "indoor playground",
+      "playground"
+    ],
+    "blurb": "Indoor play centre on Bottelary Road built for energy-burning."
+  },
+  {
+    "id": "neelsie-cinema",
+    "name": "Neelsie Cinema",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9330222,
+      "lng": 18.8655716
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 336,
+    "address": "37 Victoria St, Stellenbosch Central, Stellenbosch, 7602",
+    "phone": null,
+    "tags": [
+      "movie theater"
+    ],
+    "blurb": "Student-priced cinema inside Stellenbosch University's Neelsie centre."
+  },
+  {
+    "id": "wild-wild-west-kids-play-park",
+    "name": "Wild Wild West Kids Play Park",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0966221,
+      "lng": 18.8430353
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 185,
+    "address": "8 Garvin Cir, Gants Plaza, Cape Town, 7140",
+    "phone": null,
+    "tags": [
+      "indoor playground",
+      "park and ride",
+      "playground"
+    ],
+    "blurb": "Western-themed indoor play park in Strand."
+  },
+  {
+    "id": "gelato-lab-stellenbosch",
+    "name": "Gelato Lab, Stellenbosch",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9391524,
+      "lng": 18.8590238
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 129,
+    "address": "109 Dorp St, Stellenbosch, Cape Town, 7708",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "coffee shop",
+      "cafe"
+    ],
+    "blurb": "Small-batch gelato on Dorp Street, flavours that rotate with the mood."
+  },
+  {
+    "id": "kristens-kick-ass-ice-cream-somerset-wes",
+    "name": "Kristen's Kick-Ass Ice Cream",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0818921,
+      "lng": 18.8521864
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 122,
+    "address": "Unit 8B, Forum Building, 13 Drama St, Lionviham, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "ice cream shop",
+      "candy store",
+      "cafe"
+    ],
+    "blurb": "Cult small-batch ice cream in Somerset West with famously bold flavours."
+  },
+  {
+    "id": "dino-kingdom-dinosaur-theme-park-party-v",
+    "name": "Dino Kingdom",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.878282399999996,
+      "lng": 18.7925209
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.7,
+    "reviewCount": 115,
+    "address": "25 Bottelary Rd, Koelenhof, Cape Town, 7600",
+    "phone": null,
+    "tags": [
+      "amusement park",
+      "amusement center",
+      "event venue"
+    ],
+    "blurb": "Dinosaur-themed play park at Koelenhof, roars encouraged."
+  },
+  {
+    "id": "roar-around-play-park",
+    "name": "Roar Around Play Park",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0777929,
+      "lng": 18.8240953
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 88,
+    "address": "12 Pacific Cl, Somerset West, 7110",
+    "phone": null,
+    "tags": [
+      "indoor playground",
+      "playground"
+    ],
+    "blurb": "Somerset West indoor playground for toddler-speed chaos."
+  },
+  {
+    "id": "franschhoek-theatre",
+    "name": "Franschhoek Theatre",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9102102,
+      "lng": 19.121952699999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 22,
+    "address": "15 Akademie St, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "movie theater"
+    ],
+    "blurb": "Tiny Franschhoek cinema on Akademie Street."
+  },
+  {
+    "id": "paarl-trails-laborie-estate",
+    "name": "Paarl Trails - Laborie Estate",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.765110199999995,
+      "lng": 18.9584123
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 15,
+    "address": "Taillefer, Courtrai, Paarl, 7624",
+    "phone": null,
+    "tags": [
+      "adventure sports center",
+      "cycling park",
+      "playground"
+    ],
+    "blurb": "Bike trails and a playground on Laborie's estate edge in Paarl."
+  },
+  {
+    "id": "hudsons-the-burger-joint-stellenbosch",
+    "name": "Hudsons - The Burger Joint (Stellenbosch)",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9397034,
+      "lng": 18.8567282
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 6381,
+    "address": "77 Dorp St, Stellenbosch Central, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "hamburger restaurant",
+      "pizza restaurant",
+      "american restaurant"
+    ],
+    "blurb": "Dorp Street's loud, reliable burger institution with student energy."
+  },
+  {
+    "id": "thirsty-scarecrow",
+    "name": "Thirsty Scarecrow",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9984064,
+      "lng": 18.8265364
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 4417,
+    "address": "R44, Mooiberge Farm, Annandale Rd, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "family restaurant",
+      "pub"
+    ],
+    "blurb": "The pub at Mooiberge's strawberry farm: craft taps among the scarecrows."
+  },
+  {
+    "id": "bossa-somerset-west",
+    "name": "Bossa Somerset West",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0773741,
+      "lng": 18.8468445
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 3588,
+    "address": "178 Main Rd, Somerset West, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "family restaurant",
+      "bar",
+      "restaurant"
+    ],
+    "blurb": "Somerset West Bossa for cocktails, plates and screens on Main Road."
+  },
+  {
+    "id": "bossa-paarl",
+    "name": "Bossa Paarl",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7435159,
+      "lng": 18.9621207
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 2479,
+    "address": "166 Main Road, Omnipark Building, Paarl, 7620, Hoog-En-Droog, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "family restaurant",
+      "pizza restaurant",
+      "bar and grill"
+    ],
+    "blurb": "Paarl's Bossa branch, the easy default for drinks and dinner."
+  },
+  {
+    "id": "fancy-franks-somerset-west",
+    "name": "Fancy Frank's Somerset West",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.088856899999996,
+      "lng": 18.8224879
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 1487,
+    "address": "Shop 1, 2 De Beers Ave, Firgrove Rural, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "bar and grill",
+      "barbecue restaurant",
+      "bar"
+    ],
+    "blurb": "Barbecue-leaning bar-grill with craft beer at De Beers Avenue."
+  },
+  {
+    "id": "aandklas-stellenbosch",
+    "name": "Aandklas Stellenbosch",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.93399,
+      "lng": 18.858816
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 1437,
+    "address": "43 Bird St, Stellenbosch Central, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "live music venue",
+      "bar",
+      "event venue"
+    ],
+    "blurb": "Stellenbosch's rock-and-roll live venue: sticky floors, good bands, cheap beer."
+  },
+  {
+    "id": "jackson-and-black-grill-pizzeria-paarl",
+    "name": "Jackson and Black Paarl",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7604288,
+      "lng": 18.9613931
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 1093,
+    "address": "Frater Square, 40A Main Rd, Suider, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "pizza restaurant",
+      "bar and grill"
+    ],
+    "blurb": "Paarl grill-pizzeria for steaks and wood-fired bases on Main Road."
+  },
+  {
+    "id": "tuk-tuk-microbrewery-bistro",
+    "name": "Tuk Tuk Microbrewery & Bistro",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9129313,
+      "lng": 19.1211679
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 1054,
+    "address": "14 Huguenot St, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "brewpub",
+      "pub",
+      "bar"
+    ],
+    "blurb": "Franschhoek microbrewery pouring its own range with Mexican-leaning plates."
+  },
+  {
+    "id": "balboa-balcony-bar",
+    "name": "Balboa Balcony Bar",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9373667,
+      "lng": 18.861187100000002
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 854,
+    "address": "18A Andringa St, Stellenbosch Central, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "cocktail bar",
+      "bar",
+      "live music venue"
+    ],
+    "blurb": "Cocktails on a balcony above Andringa Street, Stellenbosch's people-watching perch."
+  },
+  {
+    "id": "hennies-somerset-west",
+    "name": "Hennie's Somerset West",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0840032,
+      "lng": 18.8207582
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 848,
+    "address": "Shop 7, Meltz Centre, 10 Urtel Cres, Somerset West, Cape Town, 7129",
+    "phone": null,
+    "tags": [
+      "bar and grill",
+      "bar",
+      "restaurant"
+    ],
+    "blurb": "Somerset West branch of the bar-grill the northern suburbs swear by."
+  },
+  {
+    "id": "blacksmiths-kitchen",
+    "name": "Blacksmith's Kitchen",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7046644,
+      "lng": 18.952498
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 835,
+    "address": "Bo Lang St, Groenvlei, Paarl, 7620",
+    "phone": null,
+    "tags": [
+      "mediterranean restaurant",
+      "bistro",
+      "wine bar"
+    ],
+    "blurb": "Mediterranean bistro and wine bar in a moody Paarl room."
+  },
+  {
+    "id": "ejs-sports-pub-grill",
+    "name": "EJ's Sports Pub & grill",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7023696,
+      "lng": 18.9600957
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4,
+    "reviewCount": 674,
+    "address": "558 Main Rd, Northern Paarl, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "sports bar",
+      "bar"
+    ],
+    "blurb": "Northern Paarl sports pub with screens for every fixture."
+  },
+  {
+    "id": "stellenbosch-flying-club",
+    "name": "Stellenbosch Flying Club",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.979563999999996,
+      "lng": 18.819472899999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 576,
+    "address": "R44, Stellenbosch NU, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "breakfast restaurant",
+      "wedding venue",
+      "bar"
+    ],
+    "blurb": "Airfield clubhouse breakfasts while microlights buzz the Winelands runway."
+  },
+  {
+    "id": "triggerfish-brewing",
+    "name": "Triggerfish Brewing",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.090102099999996,
+      "lng": 18.805869899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 565,
+    "address": "Unit 9 W.R. Quinan Blvd, Paardevlei, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "brewpub",
+      "pub",
+      "live music venue"
+    ],
+    "blurb": "Paardevlei taproom of one of the Cape's original craft breweries."
+  },
+  {
+    "id": "blues-groove-lounge",
+    "name": "Blues & Groove Lounge",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0986938,
+      "lng": 18.8427366
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 497,
+    "address": "25 Potgieter St, Gants Plaza, Cape Town, 7140",
+    "phone": null,
+    "tags": [
+      "sports bar",
+      "live music venue",
+      "bar"
+    ],
+    "blurb": "Strand lounge with live blues and soul on weekends."
+  },
+  {
+    "id": "proof-bar",
+    "name": "Proof Bar",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0826135,
+      "lng": 18.8509509
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 415,
+    "address": "5 Drama St, Lionviham, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "bar",
+      "cocktail bar",
+      "wine bar"
+    ],
+    "blurb": "Somerset West cocktail room taking its spirits seriously."
+  },
+  {
+    "id": "grande-provence-wine-tasting-room",
+    "name": "Grande Provence - Wine tasting room",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8980627,
+      "lng": 19.1026571
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.9,
+    "reviewCount": 328,
+    "address": "Main Rd, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "wine bar",
+      "bar"
+    ],
+    "blurb": "Tastings in Grande Provence's manicured Franschhoek estate."
+  },
+  {
+    "id": "suzanne-coffee-to-cocktails",
+    "name": "Suzanne, Coffee to Cocktails",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7652489,
+      "lng": 18.958222799999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 270,
+    "address": "Taillefer Street, Laborie Wine Estate, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "cocktail bar",
+      "coffee shop",
+      "cafe"
+    ],
+    "blurb": "Laborie estate spot that slides from morning flat whites into evening cocktails."
+  },
+  {
+    "id": "nu-bar-somerset-west",
+    "name": "Nu' Bar - Somerset West",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0865386,
+      "lng": 18.8530115
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.5,
+    "reviewCount": 252,
+    "address": "91 Main Rd, Somerset West, Cape Town, 7950",
+    "phone": null,
+    "tags": [
+      "bar"
+    ],
+    "blurb": "Main Road Somerset West bar for late rounds."
+  },
+  {
+    "id": "soul-barrel-brewing",
+    "name": "Soul Barrel Brewing",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.827168799999995,
+      "lng": 18.9509968
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 250,
+    "address": "Simondium Guild R45, Simondium, 7670",
+    "phone": null,
+    "tags": [
+      "brewery",
+      "beer garden",
+      "bar"
+    ],
+    "blurb": "Farm brewery at the Simondium Guild doing wild, barrel-aged beers."
+  },
+  {
+    "id": "yollys",
+    "name": "yollys",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9070648,
+      "lng": 19.1168998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 243,
+    "address": "1 Main Rd, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "wine bar",
+      "bar"
+    ],
+    "blurb": "Small Franschhoek wine bar at the village entrance."
+  },
+  {
+    "id": "crown-bar",
+    "name": "Crown Bar",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.722406299999996,
+      "lng": 18.9635238
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 3.7,
+    "reviewCount": 214,
+    "address": "Lemoenkloof, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "bar",
+      "bar and grill",
+      "pub"
+    ],
+    "blurb": "Paarl neighbourhood bar-grill with zero airs."
+  },
+  {
+    "id": "die-afdak-pub",
+    "name": "Die Afdak Pub",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.1051833,
+      "lng": 18.8417256
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 4.1,
+    "reviewCount": 209,
+    "address": "Main Rd, Strand, Cape Town, 7140",
+    "phone": null,
+    "tags": [
+      "pub",
+      "bar"
+    ],
+    "blurb": "Strand's corrugated-roof local for a draught after the beach."
+  },
+  {
+    "id": "old-road-wine-co",
+    "name": "Old Road Wine Co.",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.903855899999996,
+      "lng": 19.1102445
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 182,
+    "address": "R45 Main Rd, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "winery",
+      "liquor store",
+      "farm"
+    ],
+    "blurb": "Franschhoek winery on the R45 with storied single-vineyard bottles."
+  },
+  {
+    "id": "moonshine-tavern",
+    "name": "Moonshine Tavern",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.89136,
+      "lng": 18.741339999999997
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 4.3,
+    "reviewCount": 168,
+    "address": "Klein Bottelary Farm, 0A Bottelary Rd, Stellenbosch Farms, Cape Town, 7561",
+    "phone": null,
+    "tags": [
+      "bar"
+    ],
+    "blurb": "Farm tavern on Bottelary Road, honest drinks in the sticks."
+  },
+  {
+    "id": "sportsmen-tavern",
+    "name": "Sportsmen Tavern",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.72562,
+      "lng": 18.96366
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 119,
+    "address": "403 Main Rd, Lemoenkloof, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "bar"
+    ],
+    "blurb": "Paarl main-road tavern where the regulars run the pool table."
+  },
+  {
+    "id": "squirrel-inn",
+    "name": "Squirrel Inn",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0990142,
+      "lng": 18.846120799999998
+    },
+    "priceBand": 1,
+    "priceEstimate": "R50–120 pp",
+    "rating": 4.3,
+    "reviewCount": 101,
+    "address": "Newton Rd, Gants Plaza, Cape Town, 7140",
+    "phone": null,
+    "tags": [
+      "pub",
+      "bar"
+    ],
+    "blurb": "Strand pub with a garden and a faithful crowd."
+  },
+  {
+    "id": "picado-social-bar-cuisine",
+    "name": "Picado Social Bar & Cuisine",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0799735,
+      "lng": 18.847993199999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 94,
+    "address": "159 Main Rd, Lionviham, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "bar and grill",
+      "bar",
+      "restaurant"
+    ],
+    "blurb": "Somerset West bar and grill built for long social dinners."
+  },
+  {
+    "id": "the-mad-hatter-pub",
+    "name": "The Mad Hatter Pub",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9103747,
+      "lng": 19.1184895
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 77,
+    "address": "48 Huguenot St, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "bar",
+      "pub"
+    ],
+    "blurb": "Quirky Franschhoek pub hiding among the fine-dining strips."
+  },
+  {
+    "id": "colmant-cap-classique-and-champagne",
+    "name": "Colmant Cap Classique and Champagne",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.921984099999996,
+      "lng": 19.1250069
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 75,
+    "address": "Colmant rd, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "winery",
+      "wine bar",
+      "vineyard"
+    ],
+    "blurb": "Franschhoek's bubbly specialist: Cap Classique tastings in an intimate cellar."
+  },
+  {
+    "id": "the-wine-hive",
+    "name": "The Wine Hive",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.747439299999996,
+      "lng": 18.9619228
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 65,
+    "address": "132 Main Rd, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "wine bar",
+      "bar"
+    ],
+    "blurb": "Paarl wine bar pouring boutique local producers by the glass."
+  },
+  {
+    "id": "corner-pocket-lounge",
+    "name": "Corner Pocket Lounge",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.113003,
+      "lng": 18.8544071
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 53,
+    "address": "174 Magatya St, Nomzamo, Cape Town, 7140",
+    "phone": null,
+    "tags": [
+      "bar",
+      "restaurant"
+    ],
+    "blurb": "Nomzamo lounge bar with pool tables and kota-style plates."
+  },
+  {
+    "id": "the-funky-buddha-paarl",
+    "name": "The Funky Buddha Paarl",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7301352,
+      "lng": 18.972353299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 37,
+    "address": "Lady Grey Street, Bergrivier Street, Street, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "night club"
+    ],
+    "blurb": "Paarl's late-night club when the wine farms close."
+  },
+  {
+    "id": "club-le-roux",
+    "name": "Club le roux",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8950251,
+      "lng": 19.1008975
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 36,
+    "address": "32 Stiebeuel St, Le Roux, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "night club"
+    ],
+    "blurb": "Franschhoek valley nightclub keeping the town up late."
+  },
+  {
+    "id": "boudoir-lounge",
+    "name": "Boudoir Lounge",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0940441,
+      "lng": 18.8423369
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 22,
+    "address": "6 Koorzen St, Gants Plaza, Cape Town, 7140",
+    "phone": null,
+    "tags": [
+      "night club"
+    ],
+    "blurb": "Strand nightclub lounge for DJ-driven weekends."
+  },
+  {
+    "id": "mcgavins-pub",
+    "name": "McGavins Pub",
+    "category": "bars",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.113517699999996,
+      "lng": 18.8324821
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 21,
+    "address": "104B Main Rd, Strand, 7140",
+    "phone": null,
+    "tags": [
+      "bar"
+    ],
+    "blurb": "Strand main-road pub, cold and unpretentious."
+  },
+  {
+    "id": "pajamas-and-jam-eatery",
+    "name": "Pajamas and Jam eatery",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0971016,
+      "lng": 18.8453372
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 4147,
+    "address": "32 Van Zyl St, Strand, Cape Town, 7140",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Strand's famously cheerful brunch house, worth the weekend queue."
+  },
+  {
+    "id": "java-cafe-bistro-stellenbosch",
+    "name": "Java Cafe/Bistro Stellenbosch",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9380654,
+      "lng": 18.861555000000003
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 3914,
+    "address": "8 Jan Katz Building, 31 Church St, Stellenbosch Central, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "bistro",
+      "restaurant"
+    ],
+    "blurb": "Church Street bistro holding down Stellenbosch's cafe corner for decades."
+  },
+  {
+    "id": "vendettas-pizzeria",
+    "name": "Vendetta's Pizzeria",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9397319,
+      "lng": 18.8569477
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 3805,
+    "address": "15 Hamman St, Stellenbosch Central, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "pizza delivery",
+      "pizza restaurant"
+    ],
+    "blurb": "Stellenbosch pizza stalwart feeding students past midnight."
+  },
+  {
+    "id": "the-palms-restaurant",
+    "name": "The Palms Restaurant",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8924143,
+      "lng": 18.7376152
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4,
+    "reviewCount": 3625,
+    "address": "17 Bottelary Rd, Brackenfell South, Cape Town, 7560",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Brackenfell garden restaurant under actual palms."
+  },
+  {
+    "id": "bossa-stellenbosch",
+    "name": "Bossa Stellenbosch",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9627895,
+      "lng": 18.851376
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 2582,
+    "address": "Paradyskloof Centre Strand Rd, Blaauwklippen Rd, Stellenbosch, Cape Town, 7600",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Paradyskloof Bossa for easy dinners south of town."
+  },
+  {
+    "id": "potbelly-coffee-shop-and-bakery",
+    "name": "Potbelly Coffee Shop and Bakery",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.813386799999996,
+      "lng": 18.8761157
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 2503,
+    "address": "R44 en route Stellenbosch, Adjacent Farmwise Cape (Pty) Ltd, Klapmuts, 7625",
+    "phone": null,
+    "tags": [
+      "coffee shop",
+      "breakfast restaurant",
+      "cafe"
+    ],
+    "blurb": "Roadside bakery-cafe on the R44 stacked with pies and padstal treats."
+  },
+  {
+    "id": "la-pineta",
+    "name": "La Pineta",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9888976,
+      "lng": 18.8261857
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 2395,
+    "address": "R44, Stellenbosch NU, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Long-standing Italian family restaurant on the R44 with pine-shaded tables."
+  },
+  {
+    "id": "saddles-steak-ranch-bottelary",
+    "name": "Saddles Steak Ranch Bottelary",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8785391,
+      "lng": 18.7939358
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 1667,
+    "address": "25 Bottelary Rd, Koelenhof, Cape Town, 7600",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Koelenhof steak ranch doing ribs and horses-outside family dinners."
+  },
+  {
+    "id": "smiling-oven",
+    "name": "Smiling Oven",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0945278,
+      "lng": 18.843733999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 1594,
+    "address": "28 Langenegger St, Gants Plaza, Cape Town, 7140",
+    "phone": null,
+    "tags": [
+      "bakery",
+      "breakfast restaurant",
+      "food store"
+    ],
+    "blurb": "Strand bakery beloved for melktert, bread and old-school counter service."
+  },
+  {
+    "id": "the-hussar-grill-paarl",
+    "name": "The Hussar Grill Paarl",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.755249899999995,
+      "lng": 18.961769999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 1569,
+    "address": "55 &, 56 Main Rd, Paarl, Cape Town, 7646",
+    "phone": null,
+    "tags": [
+      "steak house",
+      "restaurant"
+    ],
+    "blurb": "Paarl outpost of the Cape's white-tablecloth steakhouse group."
+  },
+  {
+    "id": "ya-ya-cafe",
+    "name": "Ya-Ya Cafe",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.940416899999995,
+      "lng": 18.8501096
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 1447,
+    "address": "8 Dorp St, Stellenbosch, Cape Town, 7600",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "coffee shop",
+      "cafe"
+    ],
+    "blurb": "Dorp Street all-day cafe with courtyard tables."
+  },
+  {
+    "id": "hennies-paarl",
+    "name": "Hennie's Paarl",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7434493,
+      "lng": 18.9625271
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 1405,
+    "address": "191 Main Rd, Hoog-En-Droog, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Paarl's Hennie's for grills and easy family dinners."
+  },
+  {
+    "id": "noop",
+    "name": "Noop",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7523106,
+      "lng": 18.962197500000002
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 1206,
+    "address": "127 Main Rd, Vrykyk, Paarl, 7624",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Paarl main-road bistro with a serious kitchen and small-town warmth."
+  },
+  {
+    "id": "terbodore-caf-franschhoek",
+    "name": "Terbodore Café | Franschhoek",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9078781,
+      "lng": 19.1177945
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 1190,
+    "address": "29A Huguenot St, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "cafe",
+      "coffee shop",
+      "food store"
+    ],
+    "blurb": "Franschhoek cafe of the Great Dane roastery, big coffee and bigger dogs on the logo."
+  },
+  {
+    "id": "la-petite-colombe",
+    "name": "La Petite Colombe",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.904458399999996,
+      "lng": 19.0985866
+    },
+    "priceBand": 3,
+    "priceEstimate": "R450+ pp",
+    "rating": 4.8,
+    "reviewCount": 1185,
+    "address": "Leeu Estates, Dassenberg Rd, Franschhoek",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Franschhoek fine-dining set piece at Leeu Estates, tasting menus and theatre."
+  },
+  {
+    "id": "reubens-restaurant-bar-franschhoek",
+    "name": "Reuben's Restaurant & Bar Franschhoek",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9116888,
+      "lng": 19.1192545
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 1170,
+    "address": "2 Daniel Hugo St, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Reuben Riffel's relaxed Franschhoek flagship of modern South African cooking."
+  },
+  {
+    "id": "oceans-8-seafood-sushi-somerset-west",
+    "name": "Oceans 8 Seafood & Sushi Somerset West",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.097740099999996,
+      "lng": 18.851789399999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 1088,
+    "address": "Corner of Main Rd &, Van Der Byl Straat, Somerset West, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Somerset West seafood-and-sushi room on the Main Road corner."
+  },
+  {
+    "id": "sanook-somerset-cape-town",
+    "name": "Sanook Somerset, Cape Town",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.07989,
+      "lng": 18.84978
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 918,
+    "address": "9 Huising St, Lionviham, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Thai-leaning Sanook plates in a leafy Somerset West house."
+  },
+  {
+    "id": "clay-cafe-paarl-pottery-caf-kid-friendly",
+    "name": "Clay Cafe Paarl",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7470828,
+      "lng": 18.9778487
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 812,
+    "address": "Groot Parys, Jan Van Riebeeck Dr, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "family restaurant",
+      "restaurant"
+    ],
+    "blurb": "Paint-your-own pottery cafe on a Paarl farm, kids covered in glaze by noon."
+  },
+  {
+    "id": "babel-at-babylonstoren",
+    "name": "Babel at Babylonstoren",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8237449,
+      "lng": 18.9265497
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 697,
+    "address": "Klapmuts - Simondium Rd, Simondium",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Garden-to-table dining in Babylonstoren's glasshouse-white farm restaurant."
+  },
+  {
+    "id": "stoep",
+    "name": "Stoep",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7652649,
+      "lng": 18.9573231
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 627,
+    "address": "Corner of Taillefer & Main Road Laborie Estate, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "bistro"
+    ],
+    "blurb": "Laborie estate bistro with stoep tables under the oaks."
+  },
+  {
+    "id": "greenhouse-restaurant",
+    "name": "Greenhouse Restaurant",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8256789,
+      "lng": 18.924067
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 588,
+    "address": "Paarl",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Plant-filled Paarl restaurant doing garden lunches."
+  },
+  {
+    "id": "bootlegger-somerset-west",
+    "name": "Bootlegger Somerset West",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0821076,
+      "lng": 18.8518109
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 567,
+    "address": "42 Caledon St, Lionviham, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "coffee shop",
+      "coffee roastery",
+      "cafe"
+    ],
+    "blurb": "Bootlegger's Somerset West room: flat whites, breakfasts, laptops."
+  },
+  {
+    "id": "bluebird-caf",
+    "name": "Bluebird Café.",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9852512,
+      "lng": 18.834003799999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 532,
+    "address": "R44, Stellenbosch NU, Stellenbosch, 7603",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Farm-road cafe on the R44 for breakfast between wine stops."
+  },
+  {
+    "id": "bootlegger-strand",
+    "name": "Bootlegger Strand",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.10447,
+      "lng": 18.81768
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 518,
+    "address": "188 Beach Rd, Strand, Cape Town, 7139",
+    "phone": null,
+    "tags": [
+      "coffee shop",
+      "coffee roastery",
+      "cafe"
+    ],
+    "blurb": "Beach Road Bootlegger with sea air and strong espresso."
+  },
+  {
+    "id": "la-cotte-farm",
+    "name": "La Cotte Farm",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9054715,
+      "lng": 19.1201298
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 402,
+    "address": "24 La Cotte St, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "hotel",
+      "coffee shop",
+      "cafe"
+    ],
+    "blurb": "Warm, rustic cottages in an upmarket resort with vineyard & mountain views, plus an outdoor pool."
+  },
+  {
+    "id": "salmon-brine",
+    "name": "Salmon & Brine",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7576227,
+      "lng": 18.9787073
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 342,
+    "address": "Vendôme Wine Farm, Arboretum, Paarl, 7620",
+    "phone": null,
+    "tags": [
+      "seafood restaurant",
+      "restaurant"
+    ],
+    "blurb": "Seafood specialist on Vendôme wine farm outside Paarl."
+  },
+  {
+    "id": "lounah-caf",
+    "name": "Lounah Café",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7156066,
+      "lng": 18.9631378
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 315,
+    "address": "501 Main Rd, Groenvlei, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "coffee shop",
+      "cafe",
+      "food store"
+    ],
+    "blurb": "Paarl neighbourhood cafe for slow breakfasts."
+  },
+  {
+    "id": "giovannis-restaurant-at-the-house-of-j-c",
+    "name": "Giovannis Restaurant at the House of J.C. Le Roux",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9043925,
+      "lng": 18.810067999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 237,
+    "address": "Devon Valley Rd, Devon Valley, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Italian lunches at the House of J.C. Le Roux in Devon Valley."
+  },
+  {
+    "id": "pontac-manor-hotel-restaurant",
+    "name": "Pontac Manor Hotel Restaurant",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7414741,
+      "lng": 18.959827399999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 228,
+    "address": "Hoog-En-Droog, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "restaurant",
+      "hotel",
+      "lodging"
+    ],
+    "blurb": "Victorian manor dining in Paarl with verandah tables."
+  },
+  {
+    "id": "du-vin-restaurant",
+    "name": "Du Vin Restaurant",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8898621,
+      "lng": 18.819131
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 205,
+    "address": "R304 Stellenbosch, Cape Town, 7599",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Country restaurant on the R304 wine route."
+  },
+  {
+    "id": "lievland-caf",
+    "name": "Lievland Café",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8413369,
+      "lng": 18.8762112
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 153,
+    "address": "Lievland Vineyards, R44, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Cafe at Lievland Vineyards for post-tasting lunch."
+  },
+  {
+    "id": "fyre-dining",
+    "name": "FYRE Dining",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7948867,
+      "lng": 18.946837500000004
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 147,
+    "address": "6W4X+79, Paarl, FYRE dining, Simondium, 7670",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Open-fire cooking at Simondium, everything touched by flame."
+  },
+  {
+    "id": "blueberry-bar",
+    "name": "Blueberry Bar",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.80417,
+      "lng": 18.885858499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 136,
+    "address": "Blueberry Bar, Klapmuts - Simondium Rd, Paarl, 7624",
+    "phone": null,
+    "tags": [
+      "coffee shop",
+      "cafe",
+      "tourist attraction",
+      "strawberry picking"
+    ],
+    "blurb": "Berry-farm cafe near Simondium: pick blueberries in season, then pancakes."
+  },
+  {
+    "id": "caf-del-sol-val-de-vie-estate",
+    "name": "Café del Sol Val de Vie Estate",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8094684,
+      "lng": 18.9675378
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 132,
+    "address": "Jan Van Riebeeck Dr, Val De Vie, The Yard Wellness Centre, Paarl, 7624",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Italian-leaning cafe inside Val de Vie's wellness yard."
+  },
+  {
+    "id": "chez-shiraz",
+    "name": "Chez Shiraz",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8828787,
+      "lng": 18.804495799999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 85,
+    "address": "Bottelary Rd, Devonvale Golf & Wine Estate, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Devonvale golf-estate restaurant with fairway views."
+  },
+  {
+    "id": "ischia-restaurant-stellenbosch",
+    "name": "Ischia Restaurant Stellenbosch",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.875506099999996,
+      "lng": 18.8060842
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 57,
+    "address": "15 Alberto Drive, Devonbosch, Bottelary Rd, Koelenhof, Stellenbosch, 7605",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Italian kitchen at Devonbosch's lakeside development."
+  },
+  {
+    "id": "louiesenhof-wines",
+    "name": "Louiesenhof Wines",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8929548,
+      "lng": 18.8263174
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4,
+    "reviewCount": 37,
+    "address": "Louiesenhof Wines, R304, Koelenhof, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "bistro",
+      "guest house"
+    ],
+    "blurb": "Koelenhof winery bistro pouring its own labels."
+  },
+  {
+    "id": "plat-coffee-bottelary",
+    "name": "Platō Coffee - Bottelary",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.877580699999996,
+      "lng": 18.8139079
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 35,
+    "address": "& R304 Koelenhof, Devon Place Centre, Bottelary Rd, Stellenbosch, 7605",
+    "phone": null,
+    "tags": [
+      "coffee shop",
+      "cafe",
+      "food store"
+    ],
+    "blurb": "Platō's Bottelary stop for single-origin coffee on the wine route."
+  },
+  {
+    "id": "lorsonis-at-the-salene",
+    "name": "Lorsoni's at The Salene",
+    "category": "eat",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9123686,
+      "lng": 18.8074664
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 20,
+    "address": "Devon Valley Rd, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "restaurant"
+    ],
+    "blurb": "Estate restaurant at The Salene in Devon Valley."
+  },
+  {
+    "id": "mooiberge-farmstall",
+    "name": "Mooiberge Farmstall",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9984782,
+      "lng": 18.8264837
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 2818,
+    "address": "R44, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "strawberry picking",
+      "farm stall",
+      "winery"
+    ],
+    "blurb": "The scarecrow-famous Stellenbosch strawberry farm: pick your own punnets in season."
+  },
+  {
+    "id": "babylonstoren-wine-estate",
+    "name": "Babylonstoren Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.823710399999996,
+      "lng": 18.9267014
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 2464,
+    "address": "5WFF+GP, Klapmuts - Simondium Rd, Simondium, 7670",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "service"
+    ],
+    "blurb": "The Cape's most famous farm estate: formal gardens, tastings and farm shops at Simondium."
+  },
+  {
+    "id": "j-c-le-roux",
+    "name": "J.C Le Roux",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9043269,
+      "lng": 18.810513
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 1728,
+    "address": "Devon Valley Rd, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "tourist attraction",
+      "farm"
+    ],
+    "blurb": "South Africa's bubbly house: sparkling-wine tastings in Devon Valley."
+  },
+  {
+    "id": "devonvale-golf-wine-estate",
+    "name": "Devonvale Golf & Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8819069,
+      "lng": 18.8049185
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 1605,
+    "address": "Bottelary Road, Stellenbosch, Devonvale Golf & Wine Estate, Koelenhof, 7605",
+    "phone": null,
+    "tags": [
+      "golf course",
+      "wedding venue",
+      "athletic field"
+    ],
+    "blurb": "Golf and wine on one Bottelary estate, eighteen holes then a tasting."
+  },
+  {
+    "id": "rust-en-vrede-wine-estate",
+    "name": "Rust en Vrede Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.998382,
+      "lng": 18.8560069
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 1156,
+    "address": "Annandale Rd, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "fine dining restaurant",
+      "farm"
+    ],
+    "blurb": "Storied Annandale Road estate for serious reds and fine dining."
+  },
+  {
+    "id": "vrede-en-lust-wine-estate",
+    "name": "Vrede en Lust Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8377006,
+      "lng": 18.9537422
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 1107,
+    "address": "Intersection R45 and Simondium-Klapmuts Roads, Franschhoek Wine Route, Simondium, 7670",
+    "phone": null,
+    "tags": [
+      "winery",
+      "guest house",
+      "wedding venue"
+    ],
+    "blurb": "Simondium estate with lawns, tastings and one of the valley's prettier backdrops."
+  },
+  {
+    "id": "haute-cabri-re-the-home-of-pierre-jourda",
+    "name": "Haute Cabrière",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.91421,
+      "lng": 19.13565
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 962,
+    "address": "Lambrechts Rd, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "winery",
+      "bakery",
+      "restaurant"
+    ],
+    "blurb": "Cellar built into the Franschhoek mountainside, bubbly sabrage included."
+  },
+  {
+    "id": "kanu-wines",
+    "name": "Kanu Wines",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8899732,
+      "lng": 18.8178767
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 785,
+    "address": "R304, Stellenbosch, 7624",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "Low-key R304 winery known for Chenin."
+  },
+  {
+    "id": "ernie-els-wines",
+    "name": "Ernie Els Wines",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0146072,
+      "lng": 18.8481396
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 751,
+    "address": "Annandale Rd, Stellenbosch NU, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "tourist attraction",
+      "farm"
+    ],
+    "blurb": "The golfer's Helderberg-facing estate: big reds and bigger views."
+  },
+  {
+    "id": "peter-falke-wines",
+    "name": "Peter Falke Wines",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0008333,
+      "lng": 18.8388889
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 713,
+    "address": "Annandale Rd, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "vineyard",
+      "tourist attraction"
+    ],
+    "blurb": "Sunset-lawn tastings on Annandale Road, bring a picnic blanket attitude."
+  },
+  {
+    "id": "waterford-estate",
+    "name": "Waterford Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9982079,
+      "lng": 18.8701159
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 686,
+    "address": "Upper Blaauwklippen Rd, Helderberg Rural, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "Blaauwklippen valley estate famous for its wine-and-chocolate pairing."
+  },
+  {
+    "id": "le-lude-estate-and-orangerie-restaurant",
+    "name": "Le Lude Estate and Orangerie Restaurant",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9142711,
+      "lng": 19.1283033
+    },
+    "priceBand": 3,
+    "priceEstimate": "R250–450 pp",
+    "rating": 4.4,
+    "reviewCount": 671,
+    "address": "Bowling Green Avenue, Lambrechts Rd, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "winery",
+      "guest house",
+      "restaurant"
+    ],
+    "blurb": "Franschhoek Cap Classique house with an elegant Orangerie restaurant."
+  },
+  {
+    "id": "webersburg-wine-estate",
+    "name": "Webersburg Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0051595,
+      "lng": 18.8418961
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 662,
+    "address": "XRVV+P7 Webersburg Estate, Annandale Rd, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "hotel",
+      "guest house",
+      "winery"
+    ],
+    "blurb": "Historic Annandale werf with tastings in the old homestead."
+  },
+  {
+    "id": "guardian-peak-winery-grill",
+    "name": "Guardian Peak Winery & Grill",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.011052899999996,
+      "lng": 18.8420663
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 640,
+    "address": "Annandale Rd, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "tourist attraction",
+      "farm"
+    ],
+    "blurb": "Grill restaurant and easy-drinking reds under the Stellenbosch mountains."
+  },
+  {
+    "id": "la-petite-ferme",
+    "name": "La Petite Ferme",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.918307999999996,
+      "lng": 19.135749999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 630,
+    "address": "Pass Road, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "hotel",
+      "winery",
+      "restaurant"
+    ],
+    "blurb": "Franschhoek pass-road institution: lunch on the edge of the valley view."
+  },
+  {
+    "id": "laborie-wine-estate",
+    "name": "Laborie Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7660396,
+      "lng": 18.9576297
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 615,
+    "address": "Taillefer Street, Laborie Wine Estate, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "farm",
+      "auditorium",
+      "winery"
+    ],
+    "blurb": "Working wine estate in the middle of Paarl with lawns and a bistro."
+  },
+  {
+    "id": "nuudo-luxury-express-spa",
+    "name": "Nuudo Luxury Express Spa",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.092603499999996,
+      "lng": 18.8147771
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 597,
+    "address": "Titanium House, 19 Gardner Williams Ave, Paardevlei, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "spa"
+    ],
+    "blurb": "Express treatments in Paardevlei for a fast reset."
+  },
+  {
+    "id": "morgenster-estate",
+    "name": "Morgenster Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.083936,
+      "lng": 18.885006999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 571,
+    "address": "Vergelegen Avenue, Off Lourensford Rd, Somerset West, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "Somerset West estate pairing wine with its celebrated olive oils."
+  },
+  {
+    "id": "meulwater-botanical-garden",
+    "name": "Meulwater Botanical Garden",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7348414,
+      "lng": 18.9468344
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 547,
+    "address": "Jan Phillips, Mountain Drive, Paarl, 7620",
+    "phone": null,
+    "tags": [
+      "botanical garden"
+    ],
+    "blurb": "Fynbos garden on Paarl Mountain's slopes, waterfalls after rain."
+  },
+  {
+    "id": "blaauwklippen-tasting-house",
+    "name": "Blaauwklippen Tasting House",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9692721,
+      "lng": 18.8448708
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 534,
+    "address": "Strand Rd, R44, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "One of the Cape's oldest farms, tastings and a family-friendly werf on the R44."
+  },
+  {
+    "id": "kleine-zalze-wine-estate",
+    "name": "Kleine Zalze Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.970518999999996,
+      "lng": 18.836185999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 504,
+    "address": "Strand Rd, De Zalze Golf Estate, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "tourist attraction",
+      "farm"
+    ],
+    "blurb": "De Zalze estate cellar door with an acclaimed restaurant alongside."
+  },
+  {
+    "id": "bellevue-wine-estate",
+    "name": "Bellevue Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.878217899999996,
+      "lng": 18.761802499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 502,
+    "address": "Bottelary Rd, Koelenhof, Stellenbosch, 7605",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "Bottelary hills estate quietly making Pinotage history."
+  },
+  {
+    "id": "simonsvlei-wines",
+    "name": "Simonsvlei Wines",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7897138,
+      "lng": 18.9299978
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.2,
+    "reviewCount": 482,
+    "address": "Simonsvlei Winery, Old Paarl Rd, R101, Paarl, 7624",
+    "phone": null,
+    "tags": [
+      "winery",
+      "liquor store",
+      "storage"
+    ],
+    "blurb": "Old-school Paarl co-op cellar with generous, unfussy tastings."
+  },
+  {
+    "id": "stellenrust-wine-estate",
+    "name": "Stellenrust Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9884584,
+      "lng": 18.8494246
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 435,
+    "address": "Off the R44 between Stellenbosch & Somerset West, On the Stellenrust Road, Stellenbosch NU, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "Chenin specialist in the hills between Stellenbosch and Somerset West."
+  },
+  {
+    "id": "anura-vineyards",
+    "name": "Anura Vineyards",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8042602,
+      "lng": 18.886395699999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 423,
+    "address": "Off Simondium Road, Klapmuts, Stellenbosch, 7625",
+    "phone": null,
+    "tags": [
+      "winery",
+      "wine bar",
+      "tourist attraction"
+    ],
+    "blurb": "Klapmuts estate with wine, cheese and a resident brewery."
+  },
+  {
+    "id": "marianne-wine-estate",
+    "name": "Marianne Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8327127,
+      "lng": 18.8937113
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 407,
+    "address": "Valley Road - Off R44, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "guest house",
+      "lodging"
+    ],
+    "blurb": "Valley Road estate pairing reds with biltong tastings."
+  },
+  {
+    "id": "fort-simon-wine-estate",
+    "name": "Fort Simon Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9196075,
+      "lng": 18.755130899999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 397,
+    "address": "Bottelary Rd, Cape Town, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "Castle-like Bottelary cellar, tastings with turret views."
+  },
+  {
+    "id": "holden-manz-wine-estate",
+    "name": "Holden Manz Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.935224999999996,
+      "lng": 19.115128
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 381,
+    "address": "Green Valley Rd, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "winery",
+      "spa",
+      "guest house"
+    ],
+    "blurb": "Green Valley estate at Franschhoek's quiet end."
+  },
+  {
+    "id": "backsberg-family-wines",
+    "name": "Backsberg Family Wines",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.90579030000001,
+      "lng": 19.110709099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 370,
+    "address": "Main Road, R45, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "winery",
+      "tourist attraction",
+      "manufacturer"
+    ],
+    "blurb": "Family estate on the R45 with lawns made for long lunches."
+  },
+  {
+    "id": "noble-hill",
+    "name": "Noble Hill",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8269693,
+      "lng": 18.9367235
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 348,
+    "address": "Klapmuts - Simondium Rd, Simondium, Paarl, 7670",
+    "phone": null,
+    "tags": [
+      "winery",
+      "liquor store",
+      "tourist attraction"
+    ],
+    "blurb": "Simondium estate with a Mexican-inspired restaurant between the vines."
+  },
+  {
+    "id": "dieu-donn-vineyards-cellar-tasting-room",
+    "name": "Dieu Donné Vineyards Cellar & Tasting Room",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.896188699999996,
+      "lng": 19.1285114
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 325,
+    "address": "Uitkyk Street, Franschhoek Valley, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "winery",
+      "manufacturer",
+      "farm"
+    ],
+    "blurb": "Franschhoek cellar with craft beer and wine sharing the mountain view."
+  },
+  {
+    "id": "klein-goederust-wine-farm",
+    "name": "Klein Goederust Wine Farm",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.888157500000005,
+      "lng": 19.090785099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 323,
+    "address": "Klein Goederust Rd, Franschhoek, Cape Town, 8000",
+    "phone": null,
+    "tags": [
+      "winery",
+      "manufacturer",
+      "farm"
+    ],
+    "blurb": "Franschhoek's first fully Black-owned wine farm, warm tastings with heritage."
+  },
+  {
+    "id": "thai-sabai-day-spa-skin-clinic",
+    "name": "Thai Sabai Day Spa -Skin Clinic",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.053686,
+      "lng": 18.83406
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 322,
+    "address": "206 Irene Ave, Helderberg Estate, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "spa"
+    ],
+    "blurb": "Helderberg Thai spa for proper pressure."
+  },
+  {
+    "id": "louisvale-wines",
+    "name": "Louisvale Wines",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9091202,
+      "lng": 18.8074565
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 311,
+    "address": "Louisvale Wines, Devon Valley Rd, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "Devon Valley Chardonnay house."
+  },
+  {
+    "id": "hartenberg-wine-estate",
+    "name": "Hartenberg Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8980678,
+      "lng": 18.7919996
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 301,
+    "address": "Bottelary Rd, Koelenhof, Stellenbosch, 7605",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "Bottelary estate with celebrated Shiraz and shaded garden lunches."
+  },
+  {
+    "id": "plaisir-wine-estate",
+    "name": "Plaisir Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8426092,
+      "lng": 18.958058899999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 300,
+    "address": "R45, Simondium, 7670",
+    "phone": null,
+    "tags": [
+      "winery",
+      "tourist attraction",
+      "farm"
+    ],
+    "blurb": "Simondium estate with grand Cape Dutch bones."
+  },
+  {
+    "id": "bacco-estate-winery",
+    "name": "Bacco Estate Winery",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8014673,
+      "lng": 18.928445099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 293,
+    "address": "Simonsvlei Rd, Paarl, 7620",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "service"
+    ],
+    "blurb": "Small Paarl winery doing personal tastings."
+  },
+  {
+    "id": "chamonix-wine-farm",
+    "name": "Chamonix Wine Farm",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8996144,
+      "lng": 19.127499099999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 286,
+    "address": "Uitkyk St, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "winery",
+      "tourist attraction",
+      "manufacturer"
+    ],
+    "blurb": "Franschhoek mountainside farm with Pinot Noir worth the drive."
+  },
+  {
+    "id": "la-bri-wine-estate",
+    "name": "La Bri Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9203417,
+      "lng": 19.120575199999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 279,
+    "address": "La Bri Wine Estate, Excelsior Rd, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "winery",
+      "tourist attraction",
+      "manufacturer"
+    ],
+    "blurb": "Boutique Franschhoek estate on Excelsior Road."
+  },
+  {
+    "id": "sant-wellness-retreat-and-spa",
+    "name": "Santé Wellness Retreat and Spa",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8046867,
+      "lng": 18.935622199999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 264,
+    "address": "La Bella Vita Wine Estate, Simonsvlei Rd, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "hotel",
+      "spa",
+      "event venue"
+    ],
+    "blurb": "Wellness retreat on a wine estate outside Paarl, hydro circuits and quiet."
+  },
+  {
+    "id": "dornier-wine-estate",
+    "name": "Dornier Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.992863199999995,
+      "lng": 18.870333499999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 243,
+    "address": "Dornier Road, Upper Blaauwklippen Rd, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "wine bar",
+      "vineyard"
+    ],
+    "blurb": "Art-forward Blaauwklippen estate with a striking modern cellar."
+  },
+  {
+    "id": "rickety-bridge-estate",
+    "name": "Rickety Bridge Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.894083,
+      "lng": 19.092905299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 240,
+    "address": "R45, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "winery",
+      "resort hotel",
+      "hotel"
+    ],
+    "blurb": "Franschhoek estate with tastings, a restaurant and wine-tram traffic."
+  },
+  {
+    "id": "annandale-wines",
+    "name": "Annandale Wines",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9970308,
+      "lng": 18.830822599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 211,
+    "address": "Annandale Road, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "Old-vine reds in an unpolished, characterful Annandale cellar."
+  },
+  {
+    "id": "glenwood-vineyards",
+    "name": "GlenWood Vineyards",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9133034,
+      "lng": 19.0871086
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 209,
+    "address": "Robertsvlei Rd, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "winery",
+      "tourist attraction",
+      "manufacturer"
+    ],
+    "blurb": "Quiet Robertsvlei valley cellar away from the Franschhoek crowds."
+  },
+  {
+    "id": "leeu-passant-winery",
+    "name": "Leeu Passant Winery",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9091014,
+      "lng": 19.1037483
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 207,
+    "address": "Leeu Estates Dassenberg Road Franschhoek, Cape Town, 7690",
+    "phone": null,
+    "tags": [
+      "winery",
+      "liquor store",
+      "manufacturer"
+    ],
+    "blurb": "Fine-wine cellar at Leeu Estates for considered tastings."
+  },
+  {
+    "id": "mooiplaas-wine-estate-and-private-nature",
+    "name": "Mooiplaas Wine Estate and Private Nature Reserve",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.920939,
+      "lng": 18.740125
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 185,
+    "address": "Bottelary road, M23, Koelenhof, Stellenbosch, 7605",
+    "phone": null,
+    "tags": [
+      "winery",
+      "tourist attraction",
+      "farm"
+    ],
+    "blurb": "Bottelary estate with its own renosterveld reserve and walking trails."
+  },
+  {
+    "id": "kaapzicht-wine-estate",
+    "name": "Kaapzicht Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9133424,
+      "lng": 18.737132799999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 178,
+    "address": "M23 Bottelary Road, Stellenbosch Farms, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "tourist attraction",
+      "farm"
+    ],
+    "blurb": "Fourth-generation Bottelary farm with big-hearted tastings."
+  },
+  {
+    "id": "pigcasso",
+    "name": "Pigcasso",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8982575,
+      "lng": 19.116779599999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 176,
+    "address": "Elandskloof road, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "winery",
+      "manufacturer",
+      "farm"
+    ],
+    "blurb": "The Franschhoek farm sanctuary made world-famous by Pigcasso the painting pig."
+  },
+  {
+    "id": "phanaprai-thai-massage",
+    "name": "Phanaprai Thai Massage",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.1098594,
+      "lng": 18.83582
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 176,
+    "address": "150 Main Rd, Strand, Cape Town, 7140",
+    "phone": null,
+    "tags": [
+      "spa"
+    ],
+    "blurb": "Strand Thai massage studio on the Main Road."
+  },
+  {
+    "id": "mitres-edge-wine-estate-best-boutique-wi",
+    "name": "Mitre's Edge Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.829822899999996,
+      "lng": 18.8761539
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 156,
+    "address": "R44, Klapmuts, Stellenbosch, 7625",
+    "phone": null,
+    "tags": [
+      "winery",
+      "vineyard",
+      "liquor store"
+    ],
+    "blurb": "Boutique Klapmuts farm doing cheese-and-wine pairings."
+  },
+  {
+    "id": "stellenzicht-wines",
+    "name": "Stellenzicht Wines",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9937201,
+      "lng": 18.8647414
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 148,
+    "address": "Upper Blaauwklippen Rd, Stellenbosch, 7599",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "Golden Triangle estate reborn with granite-driven Syrah."
+  },
+  {
+    "id": "babylonstoren-garden-spa",
+    "name": "Babylonstoren Garden Spa",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.825568,
+      "lng": 18.9237163
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 144,
+    "address": "Klapmuts - Simondium Rd, Simondium, Cape Town, 7670",
+    "phone": null,
+    "tags": [
+      "spa"
+    ],
+    "blurb": "Garden spa at Babylonstoren: treatments between fynbos and orchards."
+  },
+  {
+    "id": "rupert-rothschild-vignerons",
+    "name": "Rupert & Rothschild Vignerons",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.835189299999996,
+      "lng": 18.9515066
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 135,
+    "address": "Klapmuts - Simondium Road Simondium, Cape Town, 7670",
+    "phone": null,
+    "tags": [
+      "winery",
+      "liquor store",
+      "french restaurant"
+    ],
+    "blurb": "Storied Simondium partnership estate with polished tastings."
+  },
+  {
+    "id": "stony-brook-vineyards",
+    "name": "Stony Brook Vineyards",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.939817,
+      "lng": 19.12239
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 125,
+    "address": "Green Valley Rd, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "winery",
+      "manufacturer",
+      "farm"
+    ],
+    "blurb": "Family-run Franschhoek cellar in the Green Valley."
+  },
+  {
+    "id": "glenelly-estate",
+    "name": "Glenelly Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.92085,
+      "lng": 18.87868
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 124,
+    "address": "Ida's Valley, Lelie St, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "tourist attraction",
+      "farm"
+    ],
+    "blurb": "French-founded Ida's Valley estate with a glass museum and bistro."
+  },
+  {
+    "id": "ristorante-pappa-grappa",
+    "name": "Ristorante Pappa Grappa",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7997095,
+      "lng": 18.951690499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 122,
+    "address": "R45, Simondium, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "italian restaurant",
+      "picnic ground",
+      "german restaurant"
+    ],
+    "blurb": "Italian trattoria and picnic garden on the R45 at Simondium."
+  },
+  {
+    "id": "kleinood",
+    "name": "Kleinood",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9953538,
+      "lng": 18.873785599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 108,
+    "address": "Blaauwklippen Rd, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "Tiny Blaauwklippen valley farm making elegant Syrah."
+  },
+  {
+    "id": "vend-me-wine-estate",
+    "name": "Vendôme Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.757548199999995,
+      "lng": 18.9786017
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 94,
+    "address": "Arboretum, Suider, Paarl, 7645",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "Historic Paarl family farm pouring in the old cellar."
+  },
+  {
+    "id": "black-elephant-vintners",
+    "name": "Black Elephant Vintners",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9026339,
+      "lng": 19.121794599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 93,
+    "address": "40a Uitkyk St, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "winery",
+      "tourist attraction",
+      "manufacturer"
+    ],
+    "blurb": "Winery in 40a Uitkyk St."
+  },
+  {
+    "id": "flagstone-wines",
+    "name": "Flagstone Wines",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0911555,
+      "lng": 18.807875799999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 93,
+    "address": "W.R. Quinan Blvd, Paardevlei, Cape Town, 7129",
+    "phone": null,
+    "tags": [
+      "winery",
+      "tourist attraction",
+      "farm"
+    ],
+    "blurb": "Urban winery at Paardevlei tasting big-name blends at the source."
+  },
+  {
+    "id": "klein-alto-wine-tasting-restaurant",
+    "name": "Klein Alto Wine Tasting & Restaurant",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9979698,
+      "lng": 18.8494758
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 85,
+    "address": "Annandale Rd, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "Annandale Road tasting room with country lunches."
+  },
+  {
+    "id": "natte-valleij",
+    "name": "Natte Valleij",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8338902,
+      "lng": 18.878162
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 66,
+    "address": "R44, Klapmuts, 7625",
+    "phone": null,
+    "tags": [
+      "wedding venue",
+      "winery",
+      "event venue"
+    ],
+    "blurb": "Klapmuts farm with old-vine Cinsault and a storybook werf."
+  },
+  {
+    "id": "leo-sky-farm",
+    "name": "LEO Sky Farm",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8298525,
+      "lng": 18.9424369
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 63,
+    "address": "LEO Sky Farm, X1274 Klapmuts - Simondium Rd, Klapmuts, Simondium, 7670",
+    "phone": null,
+    "tags": [
+      "winery",
+      "guest house",
+      "event venue"
+    ],
+    "blurb": "Small Simondium farm venue with tastings and valley views."
+  },
+  {
+    "id": "boekenhoutskloof-winery",
+    "name": "Boekenhoutskloof Winery",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9425804,
+      "lng": 19.1080145
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 62,
+    "address": "2 Excelsior Rd, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "winery",
+      "tourist attraction",
+      "manufacturer"
+    ],
+    "blurb": "Winery in 2 Excelsior Rd."
+  },
+  {
+    "id": "krismiskamp",
+    "name": "Krismiskamp",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7486435,
+      "lng": 18.9292502
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 53,
+    "address": "Paarl, 7620",
+    "phone": null,
+    "tags": [
+      "picnic ground"
+    ],
+    "blurb": "Picnic clearing on Paarl Mountain's slopes."
+  },
+  {
+    "id": "lievland-vineyards",
+    "name": "Lievland Vineyards",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.840933,
+      "lng": 18.8763144
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 48,
+    "address": "Lievland Vineyards, R44, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "service"
+    ],
+    "blurb": "R44 estate revived with old-vine finds."
+  },
+  {
+    "id": "groenland-wyne",
+    "name": "Groenland Wyne",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8966795,
+      "lng": 18.7351209
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "address": "Bottelary Rd, Stellenbosch Farms",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "No-frills Bottelary farm cellar."
+  },
+  {
+    "id": "mont-marie-wine-estate",
+    "name": "Mont Marie Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9824021,
+      "lng": 18.8716847
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 27,
+    "address": "Mont Marie Rd",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "Small Blaauwklippen valley estate with a wedding-pretty werf."
+  },
+  {
+    "id": "koopmanskloof-winery",
+    "name": "Koopmanskloof Winery",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9001995,
+      "lng": 18.7609289
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 24,
+    "address": "Bottelary Hills, Stellenbosch, 7605",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "Bottelary hills family cellar."
+  },
+  {
+    "id": "groot-parys-wine-estate",
+    "name": "Groot Parys Wine Estate",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7468341,
+      "lng": 18.977382000000002
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 21,
+    "address": "Jan Van Riebeeck Dr, Paarl, 7620",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "Organic-minded estate on Paarl's Jan van Riebeeck Drive."
+  },
+  {
+    "id": "the-simondium-guild",
+    "name": "The Simondium Guild",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.827443099999996,
+      "lng": 18.951910599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 20,
+    "address": "R45, Guild, Klapmuts - Simondium Rd, Paarl, 7670",
+    "phone": null,
+    "tags": [
+      "tourist attraction",
+      "brewery",
+      "coffee stand"
+    ],
+    "blurb": "Roadside collective of brewery, coffee and makers on the R45."
+  },
+  {
+    "id": "stellekaya-wines",
+    "name": "Stellekaya Wines",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9408672,
+      "lng": 18.8466633
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.1,
+    "reviewCount": 18,
+    "address": "Bosmans Crossing, 11 Distillery Rd, Stellenbosch Central, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "farm",
+      "manufacturer"
+    ],
+    "blurb": "Boutique urban cellar at Bosman's Crossing."
+  },
+  {
+    "id": "domaine-coutelier",
+    "name": "Domaine Coutelier",
+    "category": "chill",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8995524,
+      "lng": 18.7981139
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.4,
+    "reviewCount": 17,
+    "address": "45 Blumberg Drive, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "winery",
+      "vineyard",
+      "farm"
+    ],
+    "blurb": "Small Stellenbosch vineyard doing appointment tastings."
+  },
+  {
+    "id": "mont-rochelle-nature-reserve",
+    "name": "Mont Rochelle Nature Reserve",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9043691,
+      "lng": 19.1579372
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.7,
+    "reviewCount": 1601,
+    "address": "35X5+WQ, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "nature preserve",
+      "tourist attraction",
+      "park"
+    ],
+    "blurb": "Franschhoek's mountain reserve: proteas, peaks and the Perdekop trail."
+  },
+  {
+    "id": "helderberg-nature-reserve",
+    "name": "Helderberg Nature Reserve",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.066266,
+      "lng": 18.8747565
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.7,
+    "reviewCount": 1417,
+    "address": "Verster Ave, Helderberg Nature Reserve, Cape Town, 7135",
+    "phone": null,
+    "tags": [
+      "nature preserve",
+      "tourist attraction",
+      "park"
+    ],
+    "blurb": "Fynbos slopes above Somerset West with sugarbirds and picnic lawns."
+  },
+  {
+    "id": "radloff-park-dog-park",
+    "name": "Radloff Park Dog Park",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0818012,
+      "lng": 18.8697907
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.7,
+    "reviewCount": 920,
+    "address": "15 Radloff Park River Trail, Radloff Park, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "dog park",
+      "park"
+    ],
+    "blurb": "Somerset West's riverside park where every dog knows every dog."
+  },
+  {
+    "id": "eden-forest",
+    "name": "Eden Forest",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9688927,
+      "lng": 18.8653016
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.6,
+    "reviewCount": 411,
+    "address": "Paradyskloof Way, La Pastorale, Stellenbosch",
+    "phone": null,
+    "tags": [
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Pine-and-fynbos walking trails above Paradyskloof."
+  },
+  {
+    "id": "helderberg-marine-protected-area",
+    "name": "Helderberg Marine Protected Area",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.1003537,
+      "lng": 18.811890899999998
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.2,
+    "reviewCount": 218,
+    "address": "Beach Rd, Strand, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "nature preserve",
+      "tourist attraction",
+      "park"
+    ],
+    "blurb": "Protected Strand shoreline for rock pools and sea birds."
+  },
+  {
+    "id": "new-orleans-park",
+    "name": "New Orleans Park",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.711759,
+      "lng": 18.991989999999998
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 3.8,
+    "reviewCount": 216,
+    "address": "Groenheuwel, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "park",
+      "tourist attraction"
+    ],
+    "blurb": "Paarl's big riverside park with shaded lawns."
+  },
+  {
+    "id": "jan-marais-park",
+    "name": "Jan Marais Park",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9331131,
+      "lng": 18.8729145
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.5,
+    "reviewCount": 110,
+    "address": "11 Marais Rd, Stellenbosch Central, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Indigenous green lung in Stellenbosch Central."
+  },
+  {
+    "id": "bretagne-rock",
+    "name": "Bretagne Rock",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7444652,
+      "lng": 18.9420374
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.6,
+    "reviewCount": 102,
+    "address": "Paarl, 7620",
+    "phone": null,
+    "tags": [
+      "hiking area",
+      "tourist attraction",
+      "sports activity location"
+    ],
+    "blurb": "Scramble up Paarl Rock's neighbour for granite-dome views."
+  },
+  {
+    "id": "limietberg-nature-reserve",
+    "name": "Limietberg Nature Reserve",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7284295,
+      "lng": 18.9586269
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.4,
+    "reviewCount": 93,
+    "address": "27 Mill St, Lemoenkloof, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "nature preserve",
+      "park"
+    ],
+    "blurb": "Du Toitskloof mountain reserve with kloofs, pools and the Krom River trail."
+  },
+  {
+    "id": "coetzenburg-mountain-bike-trails",
+    "name": "Coetzenburg Mountain Bike Trails",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.946175499999995,
+      "lng": 18.8746492
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.7,
+    "reviewCount": 47,
+    "address": "Stellenbosch",
+    "phone": null,
+    "tags": [
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Singletrack on Stellenbosch mountain from the Coetzenburg gates."
+  },
+  {
+    "id": "paarl-arboretum",
+    "name": "Paarl Arboretum",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7409865,
+      "lng": 18.9696671
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 4.5,
+    "reviewCount": 42,
+    "address": "Green Pastures, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "park"
+    ],
+    "blurb": "Quiet tree collection along the Berg River."
+  },
+  {
+    "id": "hiking-perdekop-hiking-trail-mont-rochel",
+    "name": "Perdekop Hiking Trail",
+    "category": "outdoor",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.903269699999996,
+      "lng": 19.1614306
+    },
+    "priceBand": 0,
+    "priceEstimate": "Free",
+    "rating": 5,
+    "reviewCount": 20,
+    "address": "Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "hiking area",
+      "sports activity location"
+    ],
+    "blurb": "Franschhoek's summit day-hike: four hours up, valley views forever."
+  },
+  {
+    "id": "strand-golf-club",
+    "name": "Strand Golf Club ⛳",
+    "category": "classes",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.098472199999996,
+      "lng": 18.817274299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 1134,
+    "address": "Beach Rd, Strand, 7140",
+    "phone": null,
+    "tags": [
+      "golf course",
+      "athletic field",
+      "sports club"
+    ],
+    "blurb": "Links-ish seaside golf a block from Strand beach."
+  },
+  {
+    "id": "stellenbosch-golf-club",
+    "name": "Stellenbosch Golf Club",
+    "category": "classes",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9588198,
+      "lng": 18.8504036
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 1089,
+    "address": "Strand Rd, Stellenbosch, 7599",
+    "phone": null,
+    "tags": [
+      "golf course",
+      "athletic field",
+      "sports activity location"
+    ],
+    "blurb": "Oak-lined parkland golf on Strand Road."
+  },
+  {
+    "id": "hostile-and-munition-paintball",
+    "name": "Hostile and Munition Paintball",
+    "category": "classes",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8927816,
+      "lng": 18.7462439
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 654,
+    "address": "Klein Bottelary Farm, Bottelary Rd, Stellenbosch Farms, Cape Town, 7561",
+    "phone": null,
+    "tags": [
+      "paintball center",
+      "sports complex",
+      "athletic field"
+    ],
+    "blurb": "Bottelary farm paintball fields with proper scenarios."
+  },
+  {
+    "id": "reapers-paintball",
+    "name": "Reapers Paintball",
+    "category": "classes",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8847792,
+      "lng": 18.754081499999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 512,
+    "address": "Bottelary Rd, Brackenfell, Cape Town, 7561",
+    "phone": null,
+    "tags": [
+      "paintball center",
+      "sports complex",
+      "sports club"
+    ],
+    "blurb": "Brackenfell paintball battlefield for group war days."
+  },
+  {
+    "id": "somerset-west-golf-club",
+    "name": "Somerset West Golf Club ⛳",
+    "category": "classes",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.07965,
+      "lng": 18.83972
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.3,
+    "reviewCount": 493,
+    "address": "Rue De Jacqueline, Somerset West Country Club, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "golf course",
+      "athletic field",
+      "sports activity location"
+    ],
+    "blurb": "Country-club golf under the Helderberg."
+  },
+  {
+    "id": "the-golf-village-somerset-west",
+    "name": "The Golf Village Somerset West",
+    "category": "classes",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.088882999999996,
+      "lng": 18.822433
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4,
+    "reviewCount": 142,
+    "address": "2 De Beers Ave, Firgrove Rural, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "sports coaching",
+      "sports activity location",
+      "sports school"
+    ],
+    "blurb": "Driving range and coaching at De Beers Avenue."
+  },
+  {
+    "id": "g-spot-mtb-trails",
+    "name": "G-Spot MTB trails",
+    "category": "classes",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9504776,
+      "lng": 18.865324100000002
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 134,
+    "address": "13 Nooitgedacht St, Welgelegen, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "cycling park",
+      "sports activity location"
+    ],
+    "blurb": "Welgelegen's cheekily named singletrack network."
+  },
+  {
+    "id": "welgelegen-farm",
+    "name": "Welgelegen Farm",
+    "category": "classes",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8951478,
+      "lng": 18.7789063
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 86,
+    "address": "Steneveld Rd, Stellenbosch",
+    "phone": null,
+    "tags": [
+      "off roading area",
+      "sports activity location"
+    ],
+    "blurb": "Farm 4x4 and off-road playground outside Stellenbosch."
+  },
+  {
+    "id": "the-i2b-somerset-west-skatepark",
+    "name": "The I2B Somerset West Skatepark",
+    "category": "classes",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.078996499999995,
+      "lng": 18.8696351
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 68,
+    "address": "Lourensford Rd, Somerset West, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "skateboard park",
+      "sports complex",
+      "sports activity location"
+    ],
+    "blurb": "Concrete park at Radloff for skaters and BMX."
+  },
+  {
+    "id": "green-acres-riding-school",
+    "name": "Green Acres Riding School",
+    "category": "classes",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.871313,
+      "lng": 18.7456919
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 59,
+    "address": "Botfontein Rd, Kraaifontein, Cape Town, 7570",
+    "phone": null,
+    "tags": [
+      "stable",
+      "sports school",
+      "sports coaching"
+    ],
+    "blurb": "Kraaifontein stables teaching seat-and-reins basics."
+  },
+  {
+    "id": "de-zalze-winelands-golf-estate",
+    "name": "De Zalze Winelands Golf Estate",
+    "category": "classes",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9753799,
+      "lng": 18.8408679
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 47,
+    "address": "cnr of Webbers Valley Road & Route R44, Stellenbosch to, Strand Rd, De Zalze Golf Estate, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "golf course",
+      "athletic field",
+      "sports activity location"
+    ],
+    "blurb": "Championship golf woven through De Zalze's vineyards."
+  },
+  {
+    "id": "maties-rock-climbing-wall",
+    "name": "Maties Rock Climbing Wall",
+    "category": "classes",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9390587,
+      "lng": 18.8821165
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "address": "4 Suidwal Street, Coetzenburg St, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "sports activity location"
+    ],
+    "blurb": "University climbing wall open to visiting climbers."
+  },
+  {
+    "id": "mini-ninja-winelands",
+    "name": "Mini Ninja Winelands",
+    "category": "classes",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.782659599999995,
+      "lng": 18.949336199999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 30,
+    "address": "LG 02, Cnr Sandwyk St and, Winelands Square Shopping Centre, Old Paarl Rd, Winelands, Paarl, 7620",
+    "phone": null,
+    "tags": [
+      "sports activity location"
+    ],
+    "blurb": "Obstacle-course gym for small ninjas in Paarl."
+  },
+  {
+    "id": "boschenmeer-golf-country-estate",
+    "name": "Boschenmeer Golf & Country Estate",
+    "category": "classes",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.761718,
+      "lng": 18.983712
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 20,
+    "address": "848 Wemmershoek Rd, Boschenmeer Golf Estate, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "golf course",
+      "athletic field",
+      "sports activity location"
+    ],
+    "blurb": "Paarl golf estate along the Berg River."
+  },
+  {
+    "id": "dylan-lewis-studio-sculpture-garden",
+    "name": "Dylan Lewis Studio & Sculpture Garden",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9711785,
+      "lng": 18.8726219
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 909,
+    "address": "Dylan Lewis Sculpture Garden, Paradyskloof Rd, Paradyskloof, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "art gallery",
+      "coffee shop",
+      "cafe"
+    ],
+    "blurb": "Book ahead for the sculptor's otherworldly private garden of bronzes and fynbos."
+  },
+  {
+    "id": "huguenot-memorial-museum",
+    "name": "Huguenot Memorial Museum",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.913820799999996,
+      "lng": 19.1243668
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 868,
+    "address": "Lambrechts Rd, Dirkie Uys St, &, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "tourist attraction",
+      "museum"
+    ],
+    "blurb": "Franschhoek's museum of the French Huguenot story, beside the monument."
+  },
+  {
+    "id": "stellenbosch-university-botanical-garden",
+    "name": "Stellenbosch University Botanical Garden",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9359594,
+      "lng": 18.8657325
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 833,
+    "address": "Neethling St &, Van Riebeeck St, Stellenbosch Central, Stellenbosch, 7602",
+    "phone": null,
+    "tags": [
+      "botanical garden",
+      "gift shop",
+      "tourist attraction"
+    ],
+    "blurb": "Compact, lovely botanical garden hiding bonsai and welwitschias in town."
+  },
+  {
+    "id": "the-playhouse-theatre-somerset-west",
+    "name": "The Playhouse Theatre Somerset West",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.078557599999996,
+      "lng": 18.866275299999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 726,
+    "address": "Swalle St, Golden Acre, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "performing arts theater",
+      "event venue"
+    ],
+    "blurb": "Community theatre staging comedy and drama in Somerset West."
+  },
+  {
+    "id": "rupert-museum",
+    "name": "Rupert Museum",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.941979599999996,
+      "lng": 18.8497465
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.8,
+    "reviewCount": 674,
+    "address": "Stellentia Rd, Stellenbosch Central, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "art museum",
+      "tourist attraction",
+      "museum"
+    ],
+    "blurb": "Serious private collection of South African masters near Dorp Street."
+  },
+  {
+    "id": "oude-libertas",
+    "name": "Oude Libertas",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9404557,
+      "lng": 18.8397225
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 606,
+    "address": "Adam Tas Rd, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "amphitheatre",
+      "performing arts theater",
+      "event venue"
+    ],
+    "blurb": "Open-air amphitheatre for summer concerts among the oaks."
+  },
+  {
+    "id": "glen-carlou",
+    "name": "Glen Carlou",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8117628,
+      "lng": 18.903298200000002
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 506,
+    "address": "Klapmuts - Simondium Rd, Simondium, Klapmuts, 7625",
+    "phone": null,
+    "tags": [
+      "winery",
+      "art gallery",
+      "liquor store"
+    ],
+    "blurb": "Klapmuts winery doubling as a contemporary art gallery."
+  },
+  {
+    "id": "drostdy-theatre",
+    "name": "Drostdy Theatre",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9358202,
+      "lng": 18.858727
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 391,
+    "address": "Cnr Alexander St &, Bird St, Stellenbosch Central, Stellenbosch, 7599",
+    "phone": null,
+    "tags": [
+      "performing arts theater",
+      "concert hall",
+      "live music venue"
+    ],
+    "blurb": "Stellenbosch's historic theatre for drama and live music."
+  },
+  {
+    "id": "the-drama-factory",
+    "name": "The Drama Factory",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.1053815,
+      "lng": 18.855771700000002
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 370,
+    "address": "10 Comprop Square Henry Vos Close, Asla Cres, Somerset West Business Park, Cape Town, 7139",
+    "phone": null,
+    "tags": [
+      "performing arts theater",
+      "event venue"
+    ],
+    "blurb": "Intimate Somerset West theatre with a packed indie calendar."
+  },
+  {
+    "id": "the-gallery-at-grande-provence",
+    "name": "The Gallery at Grande Provence",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.904613999999995,
+      "lng": 19.102341
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.6,
+    "reviewCount": 340,
+    "address": "Main Rd, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "art gallery"
+    ],
+    "blurb": "Contemporary South African art in Grande Provence's estate gallery."
+  },
+  {
+    "id": "studio-g-art-gallery-creative-studio",
+    "name": "Studio G - Art Gallery & Creative Studio",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.093352599999996,
+      "lng": 18.8398224
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 174,
+    "address": "48 Mynhardt St, Gants Plaza, Cape Town, 7140",
+    "phone": null,
+    "tags": [
+      "art gallery",
+      "sculpture",
+      "service"
+    ],
+    "blurb": "Strand gallery and sculpture studio."
+  },
+  {
+    "id": "ou-meulteater-old-mill-theatre",
+    "name": "Ou Meulteater // Old Mill Theatre",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7309042,
+      "lng": 18.9581899
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 3.9,
+    "reviewCount": 105,
+    "address": "56 Mill St, Bertville, Paarl, 7680",
+    "phone": null,
+    "tags": [
+      "performing arts theater",
+      "event venue"
+    ],
+    "blurb": "Paarl's old mill turned charming little theatre."
+  },
+  {
+    "id": "lionel-smit-studio",
+    "name": "Lionel Smit Studio",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0923699,
+      "lng": 18.811738599999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 85,
+    "address": "2 Gardner Williams Ave, Paardevlei, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "art studio",
+      "art gallery"
+    ],
+    "blurb": "The portraitist's Paardevlei studio-gallery, faces at monumental scale."
+  },
+  {
+    "id": "s-n-chal-senekal",
+    "name": "Sénéchal-Senekal",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9113865,
+      "lng": 19.119293
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 74,
+    "address": "Shop 10, Franschhoek Square, 34 Huguenot St, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "art gallery",
+      "art studio"
+    ],
+    "blurb": "Franschhoek Square gallery of collectable contemporary work."
+  },
+  {
+    "id": "afrikaans-language-museum",
+    "name": "Afrikaans Language Museum",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7342416,
+      "lng": 18.9634893
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 72,
+    "address": "Pastorielaan 11, 11 Pastorie Ave, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "museum",
+      "tourist attraction"
+    ],
+    "blurb": "Paarl museum tracing the Afrikaans language's tangled roots."
+  },
+  {
+    "id": "gus-gallery",
+    "name": "GUS Gallery",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.938651199999995,
+      "lng": 18.8600304
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.5,
+    "reviewCount": 46,
+    "address": "Cnr. Bird and, Dorp St, Stellenbosch Central, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "art gallery"
+    ],
+    "blurb": "University gallery showing new and experimental work."
+  },
+  {
+    "id": "bright-street-gallery",
+    "name": "Bright Street Gallery",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.0825843,
+      "lng": 18.843212899999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 42,
+    "address": "33 Bright St, Audas Estate, Cape Town, 7130",
+    "phone": null,
+    "tags": [
+      "art gallery"
+    ],
+    "blurb": "Somerset West gallery for local contemporary artists."
+  },
+  {
+    "id": "muse-gallery-franschhoek",
+    "name": "Muse Gallery Franschhoek",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.901930899999996,
+      "lng": 19.1075882
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.9,
+    "reviewCount": 41,
+    "address": "R45 Cnr, The Siding, La Provence Rd, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "art gallery"
+    ],
+    "blurb": "Franschhoek gallery on the R45 siding."
+  },
+  {
+    "id": "carey-carter-sculpture",
+    "name": "Carey Carter Sculpture",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.899430599999995,
+      "lng": 19.128803899999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 5,
+    "reviewCount": 33,
+    "address": "41 Uitkyk St, Franschhoek, 7690",
+    "phone": null,
+    "tags": [
+      "art gallery"
+    ],
+    "blurb": "Sculptor's own Franschhoek gallery."
+  },
+  {
+    "id": "ithemba-craftart-gallery",
+    "name": "iThemba CraftArt Gallery",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.939296999999996,
+      "lng": 18.8649406
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 26,
+    "address": "1 Noordwal-Wes Rd, Stellenbosch Central, Stellenbosch, 7600",
+    "phone": null,
+    "tags": [
+      "art gallery",
+      "gift shop"
+    ],
+    "blurb": "Township-rooted craft art with proceeds to the makers."
+  },
+  {
+    "id": "babylonstoren-wine-museum",
+    "name": "Babylonstoren Wine Museum",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.8230996,
+      "lng": 18.9252266
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 22,
+    "address": "5WGG+R8, Paarl",
+    "phone": null,
+    "tags": [
+      "museum"
+    ],
+    "blurb": "The story of Cape wine told properly at Babylonstoren."
+  },
+  {
+    "id": "gallery88",
+    "name": "Gallery88",
+    "category": "arts",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7514369,
+      "lng": 18.9617769
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.7,
+    "reviewCount": 15,
+    "address": "88A Main Rd, Vrykyk, Paarl, 7646",
+    "phone": null,
+    "tags": [
+      "art gallery"
+    ],
+    "blurb": "Small Paarl gallery on Main Road."
+  },
+  {
+    "id": "redberry-farm",
+    "name": "Redberry Farm",
+    "category": "family",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.958462,
+      "lng": 22.382282999999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 8969,
+    "address": "Geelhoutboom Road, Blanco, George, 6530",
+    "phone": null,
+    "tags": [
+      "strawberry picking",
+      "tourist attraction",
+      "restaurant"
+    ],
+    "blurb": "George's strawberry mothership: picking fields, a maze and a kids' train."
+  },
+  {
+    "id": "hillcrest-berry-orchards",
+    "name": "Hillcrest Berry Orchards",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9105606,
+      "lng": 18.943119
+    },
+    "priceBand": 2,
+    "priceEstimate": "R120–250 pp",
+    "rating": 4.4,
+    "reviewCount": 2189,
+    "address": "R310 Banhoek Valley, Stellenbosch, 7601",
+    "phone": null,
+    "tags": [
+      "strawberry picking",
+      "restaurant",
+      "food store"
+    ],
+    "blurb": "Banhoek berry farm with picking in season and famous berry pies year-round."
+  },
+  {
+    "id": "helderberg-farm",
+    "name": "Helderberg Farm",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -34.032826299999996,
+      "lng": 18.8339043
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.3,
+    "reviewCount": 1037,
+    "address": "Klein Helderberg Road off, R44, Somerset West, Raithby, 7130",
+    "phone": null,
+    "tags": [
+      "strawberry picking",
+      "tourist attraction",
+      "hiking area",
+      "fruit picking"
+    ],
+    "blurb": "Raithby farm for strawberry picking, hiking trails and tractor rides."
+  },
+  {
+    "id": "the-berry-guest-farm-swellendam",
+    "name": "The Berry Farm Swellendam",
+    "category": "family",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.008535099999996,
+      "lng": 20.4258216
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 283,
+    "address": "Hermatige Valley, Swellendam, 6740",
+    "phone": null,
+    "tags": [
+      "strawberry picking",
+      "farmstay",
+      "amusement park"
+    ],
+    "blurb": "Swellendam berry farm with picking, slides and farm animals."
+  },
+  {
+    "id": "outeniqua-game-farm",
+    "name": "Outeniqua Game Farm",
+    "category": "family",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9947301,
+      "lng": 22.053228
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 220,
+    "address": "R328, Ruiterbos, Mossel Bay, 6499",
+    "phone": null,
+    "tags": [
+      "game farm",
+      "family",
+      "restaurant"
+    ],
+    "blurb": "Game farm in the Ruiterbos hills with drives and a farm restaurant."
+  },
+  {
+    "id": "strawberry-king",
+    "name": "Strawberry King",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.7805245,
+      "lng": 18.9556365
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 135,
+    "address": "Loewenstein Farm, Wemmershoek Road, Paarl, 7624",
+    "phone": null,
+    "tags": [
+      "strawberry picking",
+      "farm",
+      "service"
+    ],
+    "blurb": "Paarl strawberry fields open for picking through the season."
+  },
+  {
+    "id": "rocklands-farm",
+    "name": "Rocklands Farm",
+    "category": "family",
+    "area": "muizenberg",
+    "coords": {
+      "lat": -34.2196694,
+      "lng": 18.4617874
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 121,
+    "address": "33 Rocklands Rd, Murdock Valley, Cape Town, 7975",
+    "phone": null,
+    "tags": [
+      "strawberry picking",
+      "farm",
+      "tourist attraction",
+      "fruit picking",
+      "flower picking"
+    ],
+    "blurb": "Simon's Town farm doing seasonal strawberry, veg and flower picking."
+  },
+  {
+    "id": "indigo-berries",
+    "name": "Indigo Berries",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.6613209,
+      "lng": 19.0228577
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 23,
+    "address": "Blouvlei Rd, Wellington, 7655",
+    "phone": null,
+    "tags": [
+      "strawberry picking",
+      "farm",
+      "service"
+    ],
+    "blurb": "Wellington blueberry farm with pick-your-own mornings."
+  },
+  {
+    "id": "garden-of-eden-berries",
+    "name": "Garden of Eden Berries",
+    "category": "family",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -33.9428567,
+      "lng": 22.3386668
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 20,
+    "address": "farm groeneweide, George, 6529",
+    "phone": null,
+    "tags": [
+      "strawberry picking",
+      "farm",
+      "service"
+    ],
+    "blurb": "George berry farm for quiet picking sessions."
+  },
+  {
+    "id": "appleberry-farm",
+    "name": "Appleberry Farm",
+    "category": "family",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.2070887,
+      "lng": 19.0892749
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 16,
+    "address": "Valley Rd",
+    "phone": null,
+    "tags": [
+      "strawberry picking",
+      "farm",
+      "service",
+      "fruit picking"
+    ],
+    "blurb": "Grabouw-side farm mixing apples and berries for pickers."
+  },
+  {
+    "id": "wild-oats-community-farmers-market",
+    "name": "Wild Oats Community Farmers' Market",
+    "category": "family",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.0098067,
+      "lng": 22.778305099999997
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 4419,
+    "address": "N2, Sedgefield, 6573",
+    "phone": null,
+    "tags": [
+      "farmers market",
+      "saturday",
+      "sedgefield"
+    ],
+    "blurb": "The Garden Route's beloved Saturday market at Sedgefield since 1999."
+  },
+  {
+    "id": "harkerville-saturday-market",
+    "name": "Harkerville Saturday Market",
+    "category": "family",
+    "area": "gardenroute",
+    "coords": {
+      "lat": -34.038291099999995,
+      "lng": 23.2420336
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 1274,
+    "address": "N2, midway between Knysna and Plettenberg Bay Harkerville, Plettenberg Bay, 6600",
+    "phone": null,
+    "tags": [
+      "farmers market",
+      "saturday",
+      "crafts"
+    ],
+    "blurb": "Forest-edge Saturday market halfway between Knysna and Plett."
+  },
+  {
+    "id": "klondyke-cherry-farm",
+    "name": "Klondyke Cherry Farm",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.315107999999995,
+      "lng": 19.581499
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.5,
+    "reviewCount": 861,
+    "address": "Klondyke Cherry Farm, Ceres, South Africa, 6835",
+    "phone": null,
+    "tags": [
+      "fruit picking",
+      "farm",
+      "lodging"
+    ],
+    "blurb": "Ceres mountain farm where December means cherry-picking pilgrimage."
+  },
+  {
+    "id": "langkloof-roses",
+    "name": "Langkloof Roses",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.602806,
+      "lng": 19.030732999999998
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 382,
+    "address": "36 Slangrivier Rd, Wellington, Cape Town, 7655",
+    "phone": null,
+    "tags": [
+      "flower picking",
+      "event venue",
+      "wedding venue"
+    ],
+    "blurb": "Wellington rose farm with fields, functions and open picking days."
+  },
+  {
+    "id": "engelke-flowers",
+    "name": "Engelke Flowers",
+    "category": "family",
+    "area": "south",
+    "coords": {
+      "lat": -34.0061866,
+      "lng": 18.5167459
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.4,
+    "reviewCount": 328,
+    "address": "Old Strandfontein Rd, Wetton, Cape Town, 7780",
+    "phone": null,
+    "tags": [
+      "flower picking",
+      "florist"
+    ],
+    "blurb": "Philippi flower farm famous for pick-your-own dahlia buckets."
+  },
+  {
+    "id": "canettevallei-lavender-and-wine-farm",
+    "name": "Canettevallei Lavender And Wine Farm",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.9422438,
+      "lng": 18.7533282
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.8,
+    "reviewCount": 119,
+    "address": "Canettevallei, Stellenbosch Kloof Rd, Vlottenburg, 7604",
+    "phone": null,
+    "tags": [
+      "flower picking",
+      "gift shop"
+    ],
+    "blurb": "Stellenbosch Kloof lavender rows for picking, photos and oils."
+  },
+  {
+    "id": "japhtas-flower-farm",
+    "name": "Japhta's Flower Farm",
+    "category": "family",
+    "area": "constantia",
+    "coords": {
+      "lat": -34.0288865,
+      "lng": 18.4379615
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.7,
+    "reviewCount": 22,
+    "address": "15 Brounger Rd, Southern Suburbs, Cape Town, 7806",
+    "phone": null,
+    "tags": [
+      "flower picking",
+      "florist"
+    ],
+    "blurb": "Constantia's humble, historic flower farm, buckets of dahlias in summer."
+  },
+  {
+    "id": "the-wild-bunch-flower-farm",
+    "name": "The Wild Bunch Flower Farm",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.6425076,
+      "lng": 19.0492684
+    },
+    "priceBand": 2,
+    "priceEstimate": "Prices vary · book ahead",
+    "rating": 4.6,
+    "reviewCount": 10,
+    "address": "R301",
+    "phone": null,
+    "tags": [
+      "flower picking",
+      "farm",
+      "service"
+    ],
+    "blurb": "Pick-your-own flower fields on the R301, bring your own vase energy."
+  },
+  {
+    "id": "chart-farm",
+    "name": "Chart Farm",
+    "category": "family",
+    "area": "south",
+    "coords": {
+      "lat": -34.0027765,
+      "lng": 18.4496028
+    },
+    "priceBand": 1,
+    "priceEstimate": "Pay per rose stem",
+    "rating": 4.3,
+    "reviewCount": 2201,
+    "address": "1A Klaasens Rd, Wynberg, Cape Town, 7800",
+    "phone": null,
+    "tags": [
+      "flower picking",
+      "roses",
+      "coffee shop"
+    ],
+    "blurb": "Cut your own roses from working fields above Wynberg, then coffee and cake with Constantia views."
+  },
+  {
+    "id": "cheverells-farm",
+    "name": "Cheverells Farm",
+    "category": "family",
+    "area": "overberg",
+    "coords": {
+      "lat": -34.2096367,
+      "lng": 19.0435386
+    },
+    "priceBand": 1,
+    "priceEstimate": "Entry + what you pick",
+    "rating": 4.9,
+    "reviewCount": 140,
+    "address": "55 Highlands Rd, Elgin Valley, Grabouw, 7180",
+    "phone": null,
+    "tags": [
+      "fruit picking",
+      "cherries",
+      "apples"
+    ],
+    "blurb": "Elgin valley farm with seasonal cherry and apple picking, farm lunches and orchard walks."
+  },
+  {
+    "id": "hoogwater-farm",
+    "name": "Hoogwater Farm",
+    "category": "family",
+    "area": "winelands",
+    "coords": {
+      "lat": -33.4715423,
+      "lng": 19.1909168
+    },
+    "priceBand": 1,
+    "priceEstimate": "Entry + what you pick",
+    "rating": 4.7,
+    "reviewCount": 143,
+    "address": "Romansrivier, Wolseley",
+    "phone": null,
+    "tags": [
+      "flower picking",
+      "dahlias",
+      "farm"
+    ],
+    "blurb": "Wolseley flower farm where you wade into dahlia fields with a bucket in picking season."
   }
 ]
